@@ -13,3 +13,8 @@ Archivo público que lee la app Brújula 29N (elecciones generales del 29 de nov
 - `facts`: `{ "<id de tema>": "texto" }` que sustituye a "Datos y hechos".
 
 Las posiciones son estimaciones a partir de propuestas y votaciones públicas. No es una recomendación de voto.
+
+## Para quien actualice los datos
+
+- `base-positions.json` contiene las posiciones base que trae la app para cada tema. Antes de escribir un cambio en `positions`, parte de esos valores (o de los que ya haya en `feed.json > positions`) y reescribe el array completo de 12 valores del tema.
+- Cambia una posición solo si hay un hecho documentado y con fuente: programa oficial publicado, voto en el Congreso o anuncio expreso del partido.

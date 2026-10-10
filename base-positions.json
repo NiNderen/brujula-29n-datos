@@ -1,0 +1,577 @@
+{
+ "orden_partidos": [
+  "PSOE",
+  "PP",
+  "VOX",
+  "SUMAR",
+  "PODEMOS",
+  "ERC",
+  "JUNTS",
+  "EH BILDU",
+  "PNV",
+  "BNG",
+  "CC",
+  "UPN"
+ ],
+ "nota": "Posiciones base de la app (estimaciones a 10 oct 2026): -2 muy en contra, +2 muy a favor, null desconocida. Los cambios publicados en feed.json > positions las sustituyen.",
+ "temas": {
+  "4": {
+   "tema": "Tope al alquiler",
+   "afirmacion": "Limitar por ley la subida del alquiler en las zonas más caras.",
+   "posiciones": [
+    2,
+    -2,
+    -2,
+    2,
+    2,
+    2,
+    -1,
+    2,
+    1,
+    2,
+    null,
+    -2
+   ]
+  },
+  "5": {
+   "tema": "Liberalizar suelo",
+   "afirmacion": "Para abaratar la vivienda hay que liberalizar suelo y quitar trámites.",
+   "posiciones": [
+    0,
+    2,
+    2,
+    -2,
+    -2,
+    -1,
+    1,
+    -2,
+    0,
+    -2,
+    null,
+    2
+   ]
+  },
+  "6": {
+   "tema": "Vivienda pública",
+   "afirmacion": "El Estado debe construir un gran parque de vivienda pública de alquiler.",
+   "posiciones": [
+    2,
+    -1,
+    -2,
+    2,
+    2,
+    2,
+    0,
+    2,
+    1,
+    2,
+    null,
+    -1
+   ]
+  },
+  "7": {
+   "tema": "Pisos turísticos e inversores",
+   "afirmacion": "Limitar los pisos turísticos y la compra de vivienda por fondos y no residentes.",
+   "posiciones": [
+    2,
+    -1,
+    -1,
+    2,
+    2,
+    2,
+    null,
+    2,
+    1,
+    2,
+    null,
+    null
+   ]
+  },
+  "8": {
+   "tema": "Impuestos a grandes rentas",
+   "afirmacion": "Subir los impuestos a las rentas altas y a las grandes fortunas.",
+   "posiciones": [
+    1,
+    -2,
+    -2,
+    2,
+    2,
+    2,
+    -1,
+    2,
+    null,
+    2,
+    null,
+    -2
+   ]
+  },
+  "9": {
+   "tema": "Bajar impuestos",
+   "afirmacion": "Bajar impuestos estimula la economía y acaba beneficiando a todos.",
+   "posiciones": [
+    -1,
+    2,
+    2,
+    -2,
+    -2,
+    -1,
+    2,
+    -2,
+    null,
+    -2,
+    null,
+    2
+   ]
+  },
+  "10": {
+   "tema": "Pensiones públicas",
+   "afirmacion": "Las pensiones públicas deben mantenerse aunque haya que subir cotizaciones o impuestos.",
+   "posiciones": [
+    2,
+    1,
+    -1,
+    2,
+    2,
+    1,
+    null,
+    2,
+    1,
+    2,
+    null,
+    null
+   ]
+  },
+  "11": {
+   "tema": "Sector privado en sanidad y educación",
+   "afirmacion": "La sanidad y la educación funcionan mejor con más gestión privada.",
+   "posiciones": [
+    -2,
+    2,
+    1,
+    -2,
+    -2,
+    -1,
+    1,
+    -2,
+    0,
+    -2,
+    null,
+    1
+   ]
+  },
+  "12": {
+   "tema": "Referéndum en Cataluña",
+   "afirmacion": "Cataluña debería poder votar un referéndum de independencia pactado con el Estado.",
+   "posiciones": [
+    -2,
+    -2,
+    -2,
+    0,
+    1,
+    2,
+    2,
+    2,
+    0,
+    1,
+    -1,
+    -2
+   ]
+  },
+  "13": {
+   "tema": "Indultos y amnistía",
+   "afirmacion": "Los indultos y la amnistía han sido buenos para la convivencia en Cataluña.",
+   "posiciones": [
+    2,
+    -2,
+    -2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    1,
+    -2
+   ]
+  },
+  "14": {
+   "tema": "Recentralizar competencias",
+   "afirmacion": "Hay que devolver competencias, como sanidad o educación, de las comunidades al Estado.",
+   "posiciones": [
+    -2,
+    -1,
+    2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -2,
+    -1
+   ]
+  },
+  "15": {
+   "tema": "Financiación autonómica",
+   "afirmacion": "Las comunidades que más aportan deberían quedarse con más de lo que recaudan.",
+   "posiciones": [
+    -1,
+    -1,
+    -2,
+    -1,
+    -1,
+    2,
+    2,
+    1,
+    2,
+    1,
+    -1,
+    null
+   ]
+  },
+  "16": {
+   "tema": "Lenguas cooficiales en la escuela",
+   "afirmacion": "La lengua propia debe ser la principal en la escuela de su territorio.",
+   "posiciones": [
+    0,
+    -2,
+    -2,
+    1,
+    1,
+    2,
+    2,
+    2,
+    2,
+    2,
+    null,
+    -1
+   ]
+  },
+  "17": {
+   "tema": "Inmigración y pensiones",
+   "afirmacion": "España necesita inmigración para sostener su economía y sus pensiones.",
+   "posiciones": [
+    2,
+    1,
+    -2,
+    2,
+    2,
+    2,
+    1,
+    2,
+    2,
+    2,
+    1,
+    null
+   ]
+  },
+  "18": {
+   "tema": "Fronteras y expulsiones",
+   "afirmacion": "Endurecer el control de fronteras y acelerar las expulsiones de quienes están en situación irregular.",
+   "posiciones": [
+    -1,
+    2,
+    2,
+    -2,
+    -2,
+    -2,
+    1,
+    -2,
+    -1,
+    -2,
+    null,
+    2
+   ]
+  },
+  "19": {
+   "tema": "Regularización",
+   "afirmacion": "Regularizar a los inmigrantes sin papeles que llevan años viviendo y trabajando aquí.",
+   "posiciones": [
+    1,
+    -1,
+    -2,
+    2,
+    2,
+    2,
+    null,
+    2,
+    1,
+    2,
+    null,
+    null
+   ]
+  },
+  "20": {
+   "tema": "Reparto de menores migrantes",
+   "afirmacion": "Repartir de forma obligatoria a los menores migrantes no acompañados entre las comunidades.",
+   "posiciones": [
+    2,
+    -1,
+    -2,
+    2,
+    2,
+    1,
+    null,
+    2,
+    2,
+    2,
+    2,
+    null
+   ]
+  },
+  "21": {
+   "tema": "Prioridad en ayudas",
+   "afirmacion": "Las ayudas y la vivienda pública deben priorizar a los españoles o a quienes llevan más años residiendo.",
+   "posiciones": [
+    -2,
+    0,
+    2,
+    -2,
+    -2,
+    -2,
+    null,
+    -2,
+    -1,
+    -2,
+    null,
+    null
+   ]
+  },
+  "22": {
+   "tema": "Diversidad cultural",
+   "afirmacion": "La diversidad cultural y religiosa de los inmigrantes enriquece a España.",
+   "posiciones": [
+    2,
+    0,
+    -2,
+    2,
+    2,
+    2,
+    0,
+    2,
+    1,
+    2,
+    null,
+    null
+   ]
+  },
+  "23": {
+   "tema": "Endurecer penas",
+   "afirmacion": "Endurecer las penas de cárcel, incluida la prisión permanente revisable.",
+   "posiciones": [
+    -1,
+    2,
+    2,
+    -2,
+    -2,
+    -2,
+    1,
+    -2,
+    -1,
+    -2,
+    null,
+    2
+   ]
+  },
+  "24": {
+   "tema": "Ocupación y desalojos",
+   "afirmacion": "Desalojar rápido a los okupas, aunque no tengan otra alternativa de vivienda.",
+   "posiciones": [
+    -1,
+    2,
+    2,
+    -2,
+    -2,
+    -1,
+    2,
+    -2,
+    null,
+    -2,
+    null,
+    2
+   ]
+  },
+  "25": {
+   "tema": "Regular las drogas",
+   "afirmacion": "Regular y despenalizar el cannabis en lugar de perseguirlo.",
+   "posiciones": [
+    null,
+    -2,
+    -2,
+    2,
+    2,
+    2,
+    null,
+    2,
+    null,
+    null,
+    null,
+    -2
+   ]
+  },
+  "26": {
+   "tema": "Libertad de expresión",
+   "afirmacion": "Reducir los delitos de opinión, como las injurias a la Corona o la ofensa a sentimientos religiosos.",
+   "posiciones": [
+    null,
+    -2,
+    -2,
+    2,
+    2,
+    2,
+    1,
+    2,
+    1,
+    2,
+    null,
+    -2
+   ]
+  },
+  "27": {
+   "tema": "Eutanasia",
+   "afirmacion": "La eutanasia debe estar permitida para enfermos graves e incurables que la soliciten.",
+   "posiciones": [
+    2,
+    -1,
+    -2,
+    2,
+    2,
+    2,
+    null,
+    2,
+    2,
+    2,
+    null,
+    -2
+   ]
+  },
+  "28": {
+   "tema": "Restringir el aborto",
+   "afirmacion": "El aborto debería estar más restringido de lo que está hoy.",
+   "posiciones": [
+    -2,
+    0,
+    2,
+    -2,
+    -2,
+    -2,
+    -1,
+    -2,
+    -2,
+    -2,
+    null,
+    null
+   ]
+  },
+  "29": {
+   "tema": "Ley trans",
+   "afirmacion": "Se debe poder cambiar el sexo en el registro por simple declaración, sin informes médicos.",
+   "posiciones": [
+    1,
+    -2,
+    -2,
+    2,
+    2,
+    2,
+    null,
+    2,
+    1,
+    2,
+    null,
+    -2
+   ]
+  },
+  "30": {
+   "tema": "República",
+   "afirmacion": "España debería ser una república, con un jefe del Estado elegido por la ciudadanía.",
+   "posiciones": [
+    -2,
+    -2,
+    -2,
+    1,
+    2,
+    2,
+    1,
+    2,
+    null,
+    2,
+    null,
+    -2
+   ]
+  },
+  "31": {
+   "tema": "Memoria histórica",
+   "afirmacion": "El Estado debe impulsar políticas activas de memoria histórica.",
+   "posiciones": [
+    2,
+    -2,
+    -2,
+    2,
+    2,
+    2,
+    1,
+    2,
+    2,
+    2,
+    null,
+    -2
+   ]
+  },
+  "32": {
+   "tema": "Tauromaquia y tradiciones",
+   "afirmacion": "Los toros y otras tradiciones populares deben protegerse como patrimonio cultural.",
+   "posiciones": [
+    null,
+    2,
+    2,
+    -2,
+    -2,
+    -2,
+    null,
+    -2,
+    null,
+    null,
+    null,
+    2
+   ]
+  },
+  "33": {
+   "tema": "Energía nuclear",
+   "afirmacion": "España debería mantener abiertas sus centrales nucleares más allá del calendario de cierre previsto.",
+   "posiciones": [
+    -1,
+    2,
+    2,
+    -2,
+    -2,
+    -1,
+    null,
+    -2,
+    null,
+    -2,
+    null,
+    null
+   ]
+  },
+  "34": {
+   "tema": "Gasto en defensa",
+   "afirmacion": "España debería aumentar de forma notable su gasto en defensa.",
+   "posiciones": [
+    0,
+    2,
+    1,
+    -2,
+    -2,
+    -2,
+    null,
+    -2,
+    null,
+    -2,
+    null,
+    2
+   ]
+  }
+ }
+}
