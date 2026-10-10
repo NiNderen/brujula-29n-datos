@@ -1,0 +1,138 @@
+{
+ "updated": "2026-10-11",
+ "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
+ "news": [
+  {
+   "id": "psoe-1",
+   "party": "psoe",
+   "date": "2026-10-10",
+   "topic": "Vivienda",
+   "title": "Sánchez promete una política de vivienda «sin fecha de caducidad»",
+   "summary": "En un acto en Dos Hermanas (Sevilla), con más de 5.000 asistentes según la organización, dijo que el PSOE «va a ganar» y acusó a PP y Vox de difundir bulos sobre el voto por correo.",
+   "source": "Diario de Pontevedra",
+   "url": "https://www.diariodepontevedra.es/articulo/espana/precampana-29-n-directo/202610101421181471632.html"
+  },
+  {
+   "id": "psoe-2",
+   "party": "psoe",
+   "date": "2026-10-10",
+   "topic": "Economía",
+   "title": "Montero defiende salario mínimo, reforma laboral y «solución ibérica»",
+   "summary": "La candidata del PSOE andaluz llamó a convertir la «energía social» en «energía electoral» y calificó la vivienda de «emergencia nacional».",
+   "source": "Diario de Pontevedra",
+   "url": "https://www.diariodepontevedra.es/articulo/espana/precampana-29-n-directo/202610101421181471632.html"
+  },
+  {
+   "id": "pp-1",
+   "party": "pp",
+   "date": "2026-10-10",
+   "topic": "Precampaña",
+   "title": "Feijóo abre la precampaña en IFEMA con la promesa de una «reconstrucción nacional»",
+   "summary": "Con Aznar y Rajoy presentes, cerró con el lema «orden, seguridad, prosperidad». Fue un discurso de compromisos generales, sin medidas detalladas.",
+   "source": "Infobae",
+   "url": "https://www.infobae.com/espana/2026/10/10/el-pp-arranca-en-madrid-la-precampana-para-las-elecciones-generales-del-29-de-noviembre-con-la-promesa-de-feijoo-de-ser-el-presidente-que-espana-esta-esperando/"
+  },
+  {
+   "id": "pp-2",
+   "party": "pp",
+   "date": "2026-10-10",
+   "topic": "Voto por correo",
+   "title": "Ayuso dice temer «trampas» con el voto por correo",
+   "summary": "Lo afirmó en el acto del PP. Sánchez, por su parte, acusó a PP y Vox de difundir bulos sobre ese voto. El Gobierno no ha confirmado irregularidades en el texto citado.",
+   "source": "Diario de Pontevedra",
+   "url": "https://www.diariodepontevedra.es/articulo/espana/precampana-29-n-directo/202610101421181471632.html"
+  },
+  {
+   "id": "vox-1",
+   "party": "vox",
+   "date": "2026-10-06",
+   "topic": "Programa",
+   "title": "Vox plantea como líneas rojas la prioridad nacional y la remigración",
+   "summary": "Abascal quiere llevar a un posible pacto estatal con el PP lo que ya incluyó en acuerdos autonómicos. Un sondeo de 40dB (25-28 sept.) le daba el 18,4 %, frente al 31,6 % del PP y el 27,4 % del PSOE.",
+   "source": "Mundiario",
+   "url": "https://www.mundiario.com/articulo/politica/programa-maximos-vox-29-n-abascal-impone-lineas-rojas-feijoo/20261006031035445119.html"
+  },
+  {
+   "id": "sumar-1",
+   "party": "sumar",
+   "date": "2026-10-10",
+   "topic": "Pacto de izquierdas",
+   "title": "El Frente Amplio negocia los puestos de salida; plazo para registrar coaliciones: 16 de octubre",
+   "summary": "Los cuatro actores principales discuten sobre todo las listas de Madrid y Barcelona. Según un cálculo basado en encuestas, juntos sumarían 20 escaños en vez de 10.",
+   "source": "Moncloa.com",
+   "url": "https://moncloa.com/2026/10/10/pacto-sumar-podemos-frente-amplio-escanos-3445782"
+  },
+  {
+   "id": "podemos-1",
+   "party": "podemos",
+   "date": "2026-10-10",
+   "topic": "Pacto de izquierdas",
+   "title": "Podemos aún no ha confirmado si entra en el Frente Amplio",
+   "summary": "Su incorporación sigue abierta. Irene Montero pidió en Getafe acabar con el «negocio de la vivienda».",
+   "source": "Moncloa.com / Diario de Pontevedra",
+   "url": "https://moncloa.com/2026/10/10/pacto-sumar-podemos-frente-amplio-escanos-3445782"
+  },
+  {
+   "id": "erc-1",
+   "party": "erc",
+   "date": "2026-10-06",
+   "topic": "Candidatura",
+   "title": "Rufián encabezará la lista de ERC al Congreso",
+   "summary": "Lo confirmó Oriol Junqueras. Los Comuns piden a Rufián que decida si va con ERC o se implica en el Frente Amplio.",
+   "source": "El Debate",
+   "url": "https://www.eldebate.com/espana/cataluna/20261006/rufian-erc-nogueras-junts-repetiran-como-candidatos-generales_466507.html"
+  },
+  {
+   "id": "junts-1",
+   "party": "junts",
+   "date": "2026-10-06",
+   "topic": "Candidatura",
+   "title": "Nogueras repite como candidata de Junts y descarta facilitar un Gobierno PP-Vox",
+   "summary": "Define a Junts como un bloque situado en el centro. Hay discrepancias internas sobre las medidas de vivienda.",
+   "source": "El Debate",
+   "url": "https://www.eldebate.com/espana/cataluna/20261006/rufian-erc-nogueras-junts-repetiran-como-candidatos-generales_466507.html"
+  },
+  {
+   "id": "pnv-1",
+   "party": "pnv",
+   "date": "2026-10-10",
+   "topic": "Transferencias",
+   "title": "El PNV seguirá exigiendo las transferencias pendientes",
+   "summary": "Maribel Vaquero aseguró que se ha cumplido más del 75 % del acuerdo de investidura y que queda pendiente lo relativo a la Seguridad Social.",
+   "source": "Diario de Pontevedra",
+   "url": "https://www.diariodepontevedra.es/articulo/espana/precampana-29-n-directo/202610101421181471632.html"
+  },
+  {
+   "id": "bng-1",
+   "party": "bng",
+   "date": "2026-10-10",
+   "topic": "Candidatura",
+   "title": "Pontón propone al BNG como alternativa para dejar a Feijóo en la oposición",
+   "summary": "El BNG quiere ganar peso en Madrid, donde ahora tiene un diputado y una senadora.",
+   "source": "Diario de Pontevedra",
+   "url": "https://www.diariodepontevedra.es/articulo/espana/precampana-29-n-directo/202610101421181471632.html"
+  },
+  {
+   "id": "all-1",
+   "party": "all",
+   "date": "2026-10-11",
+   "topic": "Calendario",
+   "title": "Fechas clave hasta el 29N",
+   "summary": "Coaliciones: hasta el 16 de octubre. Candidaturas: del 21 al 26 de octubre. Campaña: del 13 al 27 de noviembre. Reflexión: 28 de noviembre. Votación: 29 de noviembre.",
+   "source": "Wikipedia",
+   "url": "https://es.wikipedia.org/wiki/Elecciones_generales_de_Espa%C3%B1a_de_2026"
+  },
+  {
+   "id": "all-2",
+   "party": "all",
+   "date": "2026-10-10",
+   "topic": "Voto por correo",
+   "title": "Polémica cruzada por el voto por correo",
+   "summary": "Sánchez acusa a PP y Vox de difundir bulos; Ayuso dice temer trampas. Es uno de los primeros choques de la precampaña.",
+   "source": "Diario de Pontevedra",
+   "url": "https://www.diariodepontevedra.es/articulo/espana/precampana-29-n-directo/202610101421181471632.html"
+  }
+ ],
+ "positions": {},
+ "facts": {}
+}
