@@ -131,6 +131,146 @@
    "summary": "Sánchez acusa a PP y Vox de difundir bulos; Ayuso dice temer trampas. Es uno de los primeros choques de la precampaña.",
    "source": "Diario de Pontevedra",
    "url": "https://www.diariodepontevedra.es/articulo/espana/precampana-29-n-directo/202610101421181471632.html"
+  },
+  {
+   "id": "psoe-20261011-1",
+   "party": "psoe",
+   "date": "2026-10-11",
+   "topic": "Voto por correo",
+   "title": "Sánchez pide «urnas llenas» y critica a PP y Vox por el voto por correo",
+   "summary": "En un acto en Dos Hermanas (Sevilla), Sánchez dijo que PP y Vox prefieren que vote menos gente y defendió el voto por correo. El PP sostiene que su crítica se dirige a la fiabilidad del sistema, no a los votantes.",
+   "source": "Moncloa.com",
+   "url": "https://www.moncloa.com/2026/10/11/sanchez-urnas-llenas-voto-correo-29n-3446093"
+  },
+  {
+   "id": "pp-20261009-1",
+   "party": "pp",
+   "date": "2026-10-09",
+   "topic": "Debates",
+   "title": "El PP propone un cara a cara Feijóo-Sánchez el 16 de noviembre y un debate a cuatro el 26",
+   "summary": "El PP dice aceptar la invitación de Mediaset para el cara a cara del 16 de noviembre y la de Atresmedia para un debate a cuatro (PP, PSOE, Vox y Frente Amplio) el 26. Propone un debate de portavoces el 23 en RTVE. El artículo no recoge reacción del PSOE.",
+   "source": "elDiario.es",
+   "url": "https://www.eldiario.es/politica/pp-plantea-cara-cara-feijoo-sanchez-debate-cuatro-portavoces-29n_1_13574252.html"
+  },
+  {
+   "id": "pp-20261006-1",
+   "party": "pp",
+   "date": "2026-10-06",
+   "topic": "Caso Leire Díez",
+   "title": "El PP pide a la Audiencia Nacional que impute al PSOE como persona jurídica",
+   "summary": "Como acusación popular, el PP pide al juez Pedraz imputar al PSOE en el caso Leire Díez por varios delitos. El juez ha pedido a Anticorrupción que se pronuncie. El artículo no recoge respuesta del PSOE.",
+   "source": "elDiario.es",
+   "url": "https://www.eldiario.es/politica/pp-inaugura-precampana-29n-nueva-ofensiva-tribunales-psoe_1_13566904.html"
+  },
+  {
+   "id": "vox-20261010-1",
+   "party": "vox",
+   "date": "2026-10-10",
+   "topic": "Pactos y Ceuta",
+   "title": "Abascal afirma que Vox tiene «voluntad de entendimiento» con el PP y propone «remigración»",
+   "summary": "En una entrevista en ABC recogida por EFE, Abascal dijo que Vox quiere carteras ministeriales, pidió despliegue permanente del Ejército en Ceuta y Melilla y propuso la «remigración» de personas sin derecho a estar en España.",
+   "source": "Infobae (EFE)",
+   "url": "https://www.infobae.com/espana/agencias/2026/10/10/abascal-tenemos-una-voluntad-de-entendimiento-aun-mayor-con-el-partido-popular/"
+  },
+  {
+   "id": "sumar-20261009-1",
+   "party": "sumar",
+   "date": "2026-10-09",
+   "topic": "Frente Amplio",
+   "title": "Movimiento Sumar elige a Verónica Barbero como candidata para el Frente Amplio",
+   "summary": "Barbero, portavoz de Sumar en el Congreso, obtuvo el 98% de los votos de la base. El Frente Amplio (IU, Movimiento Sumar, Más Madrid y Comunes) sigue negociando; Más Madrid propone a Ada Colau, cuya candidatura no es oficial.",
+   "source": "Canal Sur",
+   "url": "https://www.canalsur.es/noticias/espana/movimiento-sumar-elige-veronica-barbero_1_1442523.html"
+  },
+  {
+   "id": "podemos-20261009-1",
+   "party": "podemos",
+   "date": "2026-10-09",
+   "topic": "Primarias",
+   "title": "Podemos pide primarias abiertas el 14 y 15 de octubre para cualquier acuerdo",
+   "summary": "Según Canal Sur, Podemos insiste en primarias abiertas y fuentes de Sumar dicen que no está en la mesa de negociación, aunque hay contactos individuales. Las coaliciones se registran hasta el 16 de octubre.",
+   "source": "Canal Sur",
+   "url": "https://www.canalsur.es/noticias/espana/movimiento-sumar-elige-veronica-barbero_1_1442523.html"
+  },
+  {
+   "id": "erc-20261010-1",
+   "party": "erc",
+   "date": "2026-10-10",
+   "topic": "Senado",
+   "title": "ERC y EH Bildu concurrirán juntas al Senado el 29N",
+   "summary": "Un comunicado conjunto difundido por EH Bildu anuncia que repiten la coalición de 2023 para el Senado. El acuerdo no se refiere al Congreso ni detalla las listas.",
+   "source": "Press Digital",
+   "url": "https://www.pressdigital.es/articulo/politica/2026-10-10/6047297-erc-eh-bildu-pactan-concurrir-juntos-29n-reforzar-representacion-senado"
+  },
+  {
+   "id": "bildu-20261010-1",
+   "party": "bildu",
+   "date": "2026-10-10",
+   "topic": "Senado",
+   "title": "EH Bildu y ERC repiten coalición para el Senado",
+   "summary": "EH Bildu difundió un comunicado conjunto con ERC. Ambas citan como prioridades los derechos nacionales de Catalunya y Euskal Herria, los derechos sociales y la emergencia habitacional.",
+   "source": "Press Digital",
+   "url": "https://www.pressdigital.es/articulo/politica/2026-10-10/6047297-erc-eh-bildu-pactan-concurrir-juntos-29n-reforzar-representacion-senado"
+  },
+  {
+   "id": "bildu-20261009-1",
+   "party": "bildu",
+   "date": "2026-10-09",
+   "topic": "Candidaturas",
+   "title": "Matute se muestra dispuesto a repetir; EH Bildu presentará candidaturas el 16 de octubre",
+   "summary": "El diputado Oskar Matute dijo en Radio Popular que tiene «ganas» de continuar. La propuesta de candidaturas se presenta el 16 de octubre y las bases la ratificarán después.",
+   "source": "Moncloa.com",
+   "url": "https://www.moncloa.com/2026/10/09/matute-eh-bildu-29n-candidato-3444892/"
+  },
+  {
+   "id": "junts-20261005-1",
+   "party": "junts",
+   "date": "2026-10-05",
+   "topic": "Listas",
+   "title": "Junts mantiene a Miriam Nogueras como opción para encabezar la candidatura",
+   "summary": "La dirección validará un reglamento para las listas: el cabeza por Barcelona lo votarán los militantes. Nogueras criticó el voto de su grupo contra los decretos de vivienda y habló de menos impuestos.",
+   "source": "Infobae (EFE)",
+   "url": "https://www.infobae.com/espana/agencias/2026/10/05/miriam-nogueras-se-mantiene-como-la-apuesta-de-junts-para-liderar-la-candidatura-del-29n/"
+  },
+  {
+   "id": "pnv-20261007-1",
+   "party": "pnv",
+   "date": "2026-10-07",
+   "topic": "Listas",
+   "title": "El PNV propone a Maribel Vaquero (Gipuzkoa) y Gorka Urtaran (Álava) como cabezas de lista",
+   "summary": "Es la primera vez en cinco convocatorias que Aitor Esteban no encabeza la lista. La militancia ratificará las listas en una asamblea extraordinaria el 17 de octubre.",
+   "source": "Moncloa.com",
+   "url": "https://www.moncloa.com/2026/10/07/listas-pnv-29n-vaquero-urtaran-goia-3444165/"
+  },
+  {
+   "id": "cc-20261005-1",
+   "party": "cc",
+   "date": "2026-10-05",
+   "topic": "Candidatura",
+   "title": "CC propone que Cristina Valido repita como candidata por Santa Cruz de Tenerife",
+   "summary": "El Comité Ejecutivo lo acordó por unanimidad y pedirá autorización al Consejo Político para explorar coaliciones en Las Palmas. David Toledo dijo que CC no se alinea con ningún bloque.",
+   "source": "Infobae (EFE)",
+   "url": "https://www.infobae.com/espana/agencias/2026/10/05/coalicion-canaria-cc-propone-a-cristina-valido-como-candidata-al-congreso/"
+  },
+  {
+   "id": "upn-20261006-1",
+   "party": "upn",
+   "date": "2026-10-06",
+   "topic": "Coalición con PP",
+   "title": "UPN y PP negocian una fórmula conjunta para el 29N, sin acuerdo cerrado",
+   "summary": "Según Naiz, valoran una coalición o retirar una lista. Sergio Sayas (PP) dijo estar dispuesto a concurrir con UPN; Cristina Ibarrola (UPN) dijo que hay que hacer «todo» para desbancar a Sánchez.",
+   "source": "Naiz",
+   "url": "https://www.naiz.eus/en/info/noticia/20261006/upn-y-pp-aceleran-una-unidad-para-el-29n-tras-su-mal-resultado-separados-en-2023"
+  },
+  {
+   "id": "all-20261008-1",
+   "party": "all",
+   "date": "2026-10-08",
+   "topic": "Encuesta CIS",
+   "title": "El CIS publica un barómetro de vivienda con estimación de voto directa",
+   "summary": "Estudio 3532, 6.019 entrevistas telefónicas. Voto más simpatía: PSOE 23,7%, PP 17,1%, Vox 10,5%, Sumar 5,5%, Podemos 2,2%, ERC 1,8%. El CIS advierte de que no es una proyección electoral y no da escaños.",
+   "source": "Infobae",
+   "url": "https://www.infobae.com/espana/2026/10/08/ha-salido-el-cis-el-psoe-ganaria-las-elecciones-pero-pp-y-vox-suman-mayoria-con-un-76-de-espanoles-a-favor-de-que-el-estado-intervenga-en-el-mercado-de-la-vivienda/"
   }
  ],
  "positions": {},
