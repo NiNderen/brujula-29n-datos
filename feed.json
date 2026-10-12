@@ -1,278 +1,368 @@
 {
- "updated": "2026-10-11",
- "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
- "news": [
-  {
-   "id": "psoe-1",
-   "party": "psoe",
-   "date": "2026-10-10",
-   "topic": "Vivienda",
-   "title": "Sánchez promete una política de vivienda «sin fecha de caducidad»",
-   "summary": "En un acto en Dos Hermanas (Sevilla), con más de 5.000 asistentes según la organización, dijo que el PSOE «va a ganar» y acusó a PP y Vox de difundir bulos sobre el voto por correo.",
-   "source": "Diario de Pontevedra",
-   "url": "https://www.diariodepontevedra.es/articulo/espana/precampana-29-n-directo/202610101421181471632.html"
-  },
-  {
-   "id": "psoe-2",
-   "party": "psoe",
-   "date": "2026-10-10",
-   "topic": "Economía",
-   "title": "Montero defiende salario mínimo, reforma laboral y «solución ibérica»",
-   "summary": "La candidata del PSOE andaluz llamó a convertir la «energía social» en «energía electoral» y calificó la vivienda de «emergencia nacional».",
-   "source": "Diario de Pontevedra",
-   "url": "https://www.diariodepontevedra.es/articulo/espana/precampana-29-n-directo/202610101421181471632.html"
-  },
-  {
-   "id": "pp-1",
-   "party": "pp",
-   "date": "2026-10-10",
-   "topic": "Precampaña",
-   "title": "Feijóo abre la precampaña en IFEMA con la promesa de una «reconstrucción nacional»",
-   "summary": "Con Aznar y Rajoy presentes, cerró con el lema «orden, seguridad, prosperidad». Fue un discurso de compromisos generales, sin medidas detalladas.",
-   "source": "Infobae",
-   "url": "https://www.infobae.com/espana/2026/10/10/el-pp-arranca-en-madrid-la-precampana-para-las-elecciones-generales-del-29-de-noviembre-con-la-promesa-de-feijoo-de-ser-el-presidente-que-espana-esta-esperando/"
-  },
-  {
-   "id": "pp-2",
-   "party": "pp",
-   "date": "2026-10-10",
-   "topic": "Voto por correo",
-   "title": "Ayuso dice temer «trampas» con el voto por correo",
-   "summary": "Lo afirmó en el acto del PP. Sánchez, por su parte, acusó a PP y Vox de difundir bulos sobre ese voto. El Gobierno no ha confirmado irregularidades en el texto citado.",
-   "source": "Diario de Pontevedra",
-   "url": "https://www.diariodepontevedra.es/articulo/espana/precampana-29-n-directo/202610101421181471632.html"
-  },
-  {
-   "id": "vox-1",
-   "party": "vox",
-   "date": "2026-10-06",
-   "topic": "Programa",
-   "title": "Vox plantea como líneas rojas la prioridad nacional y la remigración",
-   "summary": "Abascal quiere llevar a un posible pacto estatal con el PP lo que ya incluyó en acuerdos autonómicos. Un sondeo de 40dB (25-28 sept.) le daba el 18,4 %, frente al 31,6 % del PP y el 27,4 % del PSOE.",
-   "source": "Mundiario",
-   "url": "https://www.mundiario.com/articulo/politica/programa-maximos-vox-29-n-abascal-impone-lineas-rojas-feijoo/20261006031035445119.html"
-  },
-  {
-   "id": "sumar-1",
-   "party": "sumar",
-   "date": "2026-10-10",
-   "topic": "Pacto de izquierdas",
-   "title": "El Frente Amplio negocia los puestos de salida; plazo para registrar coaliciones: 16 de octubre",
-   "summary": "Los cuatro actores principales discuten sobre todo las listas de Madrid y Barcelona. Según un cálculo basado en encuestas, juntos sumarían 20 escaños en vez de 10.",
-   "source": "Moncloa.com",
-   "url": "https://moncloa.com/2026/10/10/pacto-sumar-podemos-frente-amplio-escanos-3445782"
-  },
-  {
-   "id": "podemos-1",
-   "party": "podemos",
-   "date": "2026-10-10",
-   "topic": "Pacto de izquierdas",
-   "title": "Podemos aún no ha confirmado si entra en el Frente Amplio",
-   "summary": "Su incorporación sigue abierta. Irene Montero pidió en Getafe acabar con el «negocio de la vivienda».",
-   "source": "Moncloa.com / Diario de Pontevedra",
-   "url": "https://moncloa.com/2026/10/10/pacto-sumar-podemos-frente-amplio-escanos-3445782"
-  },
-  {
-   "id": "erc-1",
-   "party": "erc",
-   "date": "2026-10-06",
-   "topic": "Candidatura",
-   "title": "Rufián encabezará la lista de ERC al Congreso",
-   "summary": "Lo confirmó Oriol Junqueras. Los Comuns piden a Rufián que decida si va con ERC o se implica en el Frente Amplio.",
-   "source": "El Debate",
-   "url": "https://www.eldebate.com/espana/cataluna/20261006/rufian-erc-nogueras-junts-repetiran-como-candidatos-generales_466507.html"
-  },
-  {
-   "id": "junts-1",
-   "party": "junts",
-   "date": "2026-10-06",
-   "topic": "Candidatura",
-   "title": "Nogueras repite como candidata de Junts y descarta facilitar un Gobierno PP-Vox",
-   "summary": "Define a Junts como un bloque situado en el centro. Hay discrepancias internas sobre las medidas de vivienda.",
-   "source": "El Debate",
-   "url": "https://www.eldebate.com/espana/cataluna/20261006/rufian-erc-nogueras-junts-repetiran-como-candidatos-generales_466507.html"
-  },
-  {
-   "id": "pnv-1",
-   "party": "pnv",
-   "date": "2026-10-10",
-   "topic": "Transferencias",
-   "title": "El PNV seguirá exigiendo las transferencias pendientes",
-   "summary": "Maribel Vaquero aseguró que se ha cumplido más del 75 % del acuerdo de investidura y que queda pendiente lo relativo a la Seguridad Social.",
-   "source": "Diario de Pontevedra",
-   "url": "https://www.diariodepontevedra.es/articulo/espana/precampana-29-n-directo/202610101421181471632.html"
-  },
-  {
-   "id": "bng-1",
-   "party": "bng",
-   "date": "2026-10-10",
-   "topic": "Candidatura",
-   "title": "Pontón propone al BNG como alternativa para dejar a Feijóo en la oposición",
-   "summary": "El BNG quiere ganar peso en Madrid, donde ahora tiene un diputado y una senadora.",
-   "source": "Diario de Pontevedra",
-   "url": "https://www.diariodepontevedra.es/articulo/espana/precampana-29-n-directo/202610101421181471632.html"
-  },
-  {
-   "id": "all-1",
-   "party": "all",
-   "date": "2026-10-11",
-   "topic": "Calendario",
-   "title": "Fechas clave hasta el 29N",
-   "summary": "Coaliciones: hasta el 16 de octubre. Candidaturas: del 21 al 26 de octubre. Campaña: del 13 al 27 de noviembre. Reflexión: 28 de noviembre. Votación: 29 de noviembre.",
-   "source": "Wikipedia",
-   "url": "https://es.wikipedia.org/wiki/Elecciones_generales_de_Espa%C3%B1a_de_2026"
-  },
-  {
-   "id": "all-2",
-   "party": "all",
-   "date": "2026-10-10",
-   "topic": "Voto por correo",
-   "title": "Polémica cruzada por el voto por correo",
-   "summary": "Sánchez acusa a PP y Vox de difundir bulos; Ayuso dice temer trampas. Es uno de los primeros choques de la precampaña.",
-   "source": "Diario de Pontevedra",
-   "url": "https://www.diariodepontevedra.es/articulo/espana/precampana-29-n-directo/202610101421181471632.html"
-  },
-  {
-   "id": "psoe-20261011-1",
-   "party": "psoe",
-   "date": "2026-10-11",
-   "topic": "Voto por correo",
-   "title": "Sánchez pide «urnas llenas» y critica a PP y Vox por el voto por correo",
-   "summary": "En un acto en Dos Hermanas (Sevilla), Sánchez dijo que PP y Vox prefieren que vote menos gente y defendió el voto por correo. El PP sostiene que su crítica se dirige a la fiabilidad del sistema, no a los votantes.",
-   "source": "Moncloa.com",
-   "url": "https://www.moncloa.com/2026/10/11/sanchez-urnas-llenas-voto-correo-29n-3446093"
-  },
-  {
-   "id": "pp-20261009-1",
-   "party": "pp",
-   "date": "2026-10-09",
-   "topic": "Debates",
-   "title": "El PP propone un cara a cara Feijóo-Sánchez el 16 de noviembre y un debate a cuatro el 26",
-   "summary": "El PP dice aceptar la invitación de Mediaset para el cara a cara del 16 de noviembre y la de Atresmedia para un debate a cuatro (PP, PSOE, Vox y Frente Amplio) el 26. Propone un debate de portavoces el 23 en RTVE. El artículo no recoge reacción del PSOE.",
-   "source": "elDiario.es",
-   "url": "https://www.eldiario.es/politica/pp-plantea-cara-cara-feijoo-sanchez-debate-cuatro-portavoces-29n_1_13574252.html"
-  },
-  {
-   "id": "pp-20261006-1",
-   "party": "pp",
-   "date": "2026-10-06",
-   "topic": "Caso Leire Díez",
-   "title": "El PP pide a la Audiencia Nacional que impute al PSOE como persona jurídica",
-   "summary": "Como acusación popular, el PP pide al juez Pedraz imputar al PSOE en el caso Leire Díez por varios delitos. El juez ha pedido a Anticorrupción que se pronuncie. El artículo no recoge respuesta del PSOE.",
-   "source": "elDiario.es",
-   "url": "https://www.eldiario.es/politica/pp-inaugura-precampana-29n-nueva-ofensiva-tribunales-psoe_1_13566904.html"
-  },
-  {
-   "id": "vox-20261010-1",
-   "party": "vox",
-   "date": "2026-10-10",
-   "topic": "Pactos y Ceuta",
-   "title": "Abascal afirma que Vox tiene «voluntad de entendimiento» con el PP y propone «remigración»",
-   "summary": "En una entrevista en ABC recogida por EFE, Abascal dijo que Vox quiere carteras ministeriales, pidió despliegue permanente del Ejército en Ceuta y Melilla y propuso la «remigración» de personas sin derecho a estar en España.",
-   "source": "Infobae (EFE)",
-   "url": "https://www.infobae.com/espana/agencias/2026/10/10/abascal-tenemos-una-voluntad-de-entendimiento-aun-mayor-con-el-partido-popular/"
-  },
-  {
-   "id": "sumar-20261009-1",
-   "party": "sumar",
-   "date": "2026-10-09",
-   "topic": "Frente Amplio",
-   "title": "Movimiento Sumar elige a Verónica Barbero como candidata para el Frente Amplio",
-   "summary": "Barbero, portavoz de Sumar en el Congreso, obtuvo el 98% de los votos de la base. El Frente Amplio (IU, Movimiento Sumar, Más Madrid y Comunes) sigue negociando; Más Madrid propone a Ada Colau, cuya candidatura no es oficial.",
-   "source": "Canal Sur",
-   "url": "https://www.canalsur.es/noticias/espana/movimiento-sumar-elige-veronica-barbero_1_1442523.html"
-  },
-  {
-   "id": "podemos-20261009-1",
-   "party": "podemos",
-   "date": "2026-10-09",
-   "topic": "Primarias",
-   "title": "Podemos pide primarias abiertas el 14 y 15 de octubre para cualquier acuerdo",
-   "summary": "Según Canal Sur, Podemos insiste en primarias abiertas y fuentes de Sumar dicen que no está en la mesa de negociación, aunque hay contactos individuales. Las coaliciones se registran hasta el 16 de octubre.",
-   "source": "Canal Sur",
-   "url": "https://www.canalsur.es/noticias/espana/movimiento-sumar-elige-veronica-barbero_1_1442523.html"
-  },
-  {
-   "id": "erc-20261010-1",
-   "party": "erc",
-   "date": "2026-10-10",
-   "topic": "Senado",
-   "title": "ERC y EH Bildu concurrirán juntas al Senado el 29N",
-   "summary": "Un comunicado conjunto difundido por EH Bildu anuncia que repiten la coalición de 2023 para el Senado. El acuerdo no se refiere al Congreso ni detalla las listas.",
-   "source": "Press Digital",
-   "url": "https://www.pressdigital.es/articulo/politica/2026-10-10/6047297-erc-eh-bildu-pactan-concurrir-juntos-29n-reforzar-representacion-senado"
-  },
-  {
-   "id": "bildu-20261010-1",
-   "party": "bildu",
-   "date": "2026-10-10",
-   "topic": "Senado",
-   "title": "EH Bildu y ERC repiten coalición para el Senado",
-   "summary": "EH Bildu difundió un comunicado conjunto con ERC. Ambas citan como prioridades los derechos nacionales de Catalunya y Euskal Herria, los derechos sociales y la emergencia habitacional.",
-   "source": "Press Digital",
-   "url": "https://www.pressdigital.es/articulo/politica/2026-10-10/6047297-erc-eh-bildu-pactan-concurrir-juntos-29n-reforzar-representacion-senado"
-  },
-  {
-   "id": "bildu-20261009-1",
-   "party": "bildu",
-   "date": "2026-10-09",
-   "topic": "Candidaturas",
-   "title": "Matute se muestra dispuesto a repetir; EH Bildu presentará candidaturas el 16 de octubre",
-   "summary": "El diputado Oskar Matute dijo en Radio Popular que tiene «ganas» de continuar. La propuesta de candidaturas se presenta el 16 de octubre y las bases la ratificarán después.",
-   "source": "Moncloa.com",
-   "url": "https://www.moncloa.com/2026/10/09/matute-eh-bildu-29n-candidato-3444892/"
-  },
-  {
-   "id": "junts-20261005-1",
-   "party": "junts",
-   "date": "2026-10-05",
-   "topic": "Listas",
-   "title": "Junts mantiene a Miriam Nogueras como opción para encabezar la candidatura",
-   "summary": "La dirección validará un reglamento para las listas: el cabeza por Barcelona lo votarán los militantes. Nogueras criticó el voto de su grupo contra los decretos de vivienda y habló de menos impuestos.",
-   "source": "Infobae (EFE)",
-   "url": "https://www.infobae.com/espana/agencias/2026/10/05/miriam-nogueras-se-mantiene-como-la-apuesta-de-junts-para-liderar-la-candidatura-del-29n/"
-  },
-  {
-   "id": "pnv-20261007-1",
-   "party": "pnv",
-   "date": "2026-10-07",
-   "topic": "Listas",
-   "title": "El PNV propone a Maribel Vaquero (Gipuzkoa) y Gorka Urtaran (Álava) como cabezas de lista",
-   "summary": "Es la primera vez en cinco convocatorias que Aitor Esteban no encabeza la lista. La militancia ratificará las listas en una asamblea extraordinaria el 17 de octubre.",
-   "source": "Moncloa.com",
-   "url": "https://www.moncloa.com/2026/10/07/listas-pnv-29n-vaquero-urtaran-goia-3444165/"
-  },
-  {
-   "id": "cc-20261005-1",
-   "party": "cc",
-   "date": "2026-10-05",
-   "topic": "Candidatura",
-   "title": "CC propone que Cristina Valido repita como candidata por Santa Cruz de Tenerife",
-   "summary": "El Comité Ejecutivo lo acordó por unanimidad y pedirá autorización al Consejo Político para explorar coaliciones en Las Palmas. David Toledo dijo que CC no se alinea con ningún bloque.",
-   "source": "Infobae (EFE)",
-   "url": "https://www.infobae.com/espana/agencias/2026/10/05/coalicion-canaria-cc-propone-a-cristina-valido-como-candidata-al-congreso/"
-  },
-  {
-   "id": "upn-20261006-1",
-   "party": "upn",
-   "date": "2026-10-06",
-   "topic": "Coalición con PP",
-   "title": "UPN y PP negocian una fórmula conjunta para el 29N, sin acuerdo cerrado",
-   "summary": "Según Naiz, valoran una coalición o retirar una lista. Sergio Sayas (PP) dijo estar dispuesto a concurrir con UPN; Cristina Ibarrola (UPN) dijo que hay que hacer «todo» para desbancar a Sánchez.",
-   "source": "Naiz",
-   "url": "https://www.naiz.eus/en/info/noticia/20261006/upn-y-pp-aceleran-una-unidad-para-el-29n-tras-su-mal-resultado-separados-en-2023"
-  },
-  {
-   "id": "all-20261008-1",
-   "party": "all",
-   "date": "2026-10-08",
-   "topic": "Encuesta CIS",
-   "title": "El CIS publica un barómetro de vivienda con estimación de voto directa",
-   "summary": "Estudio 3532, 6.019 entrevistas telefónicas. Voto más simpatía: PSOE 23,7%, PP 17,1%, Vox 10,5%, Sumar 5,5%, Podemos 2,2%, ERC 1,8%. El CIS advierte de que no es una proyección electoral y no da escaños.",
-   "source": "Infobae",
-   "url": "https://www.infobae.com/espana/2026/10/08/ha-salido-el-cis-el-psoe-ganaria-las-elecciones-pero-pp-y-vox-suman-mayoria-con-un-76-de-espanoles-a-favor-de-que-el-estado-intervenga-en-el-mercado-de-la-vivienda/"
-  }
- ],
- "positions": {},
- "facts": {}
+  "updated": "2026-10-12",
+  "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
+  "news": [
+    {
+      "id": "psoe-1",
+      "party": "psoe",
+      "date": "2026-10-10",
+      "topic": "Vivienda",
+      "title": "Sánchez promete una política de vivienda «sin fecha de caducidad»",
+      "summary": "En un acto en Dos Hermanas (Sevilla), con más de 5.000 asistentes según la organización, dijo que el PSOE «va a ganar» y acusó a PP y Vox de difundir bulos sobre el voto por correo.",
+      "source": "Diario de Pontevedra",
+      "url": "https://www.diariodepontevedra.es/articulo/espana/precampana-29-n-directo/202610101421181471632.html"
+    },
+    {
+      "id": "psoe-2",
+      "party": "psoe",
+      "date": "2026-10-10",
+      "topic": "Economía",
+      "title": "Montero defiende salario mínimo, reforma laboral y «solución ibérica»",
+      "summary": "La candidata del PSOE andaluz llamó a convertir la «energía social» en «energía electoral» y calificó la vivienda de «emergencia nacional».",
+      "source": "Diario de Pontevedra",
+      "url": "https://www.diariodepontevedra.es/articulo/espana/precampana-29-n-directo/202610101421181471632.html"
+    },
+    {
+      "id": "pp-1",
+      "party": "pp",
+      "date": "2026-10-10",
+      "topic": "Precampaña",
+      "title": "Feijóo abre la precampaña en IFEMA con la promesa de una «reconstrucción nacional»",
+      "summary": "Con Aznar y Rajoy presentes, cerró con el lema «orden, seguridad, prosperidad». Fue un discurso de compromisos generales, sin medidas detalladas.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/2026/10/10/el-pp-arranca-en-madrid-la-precampana-para-las-elecciones-generales-del-29-de-noviembre-con-la-promesa-de-feijoo-de-ser-el-presidente-que-espana-esta-esperando/"
+    },
+    {
+      "id": "pp-2",
+      "party": "pp",
+      "date": "2026-10-10",
+      "topic": "Voto por correo",
+      "title": "Ayuso dice temer «trampas» con el voto por correo",
+      "summary": "Lo afirmó en el acto del PP. Sánchez, por su parte, acusó a PP y Vox de difundir bulos sobre ese voto. El Gobierno no ha confirmado irregularidades en el texto citado.",
+      "source": "Diario de Pontevedra",
+      "url": "https://www.diariodepontevedra.es/articulo/espana/precampana-29-n-directo/202610101421181471632.html"
+    },
+    {
+      "id": "vox-1",
+      "party": "vox",
+      "date": "2026-10-06",
+      "topic": "Programa",
+      "title": "Vox plantea como líneas rojas la prioridad nacional y la remigración",
+      "summary": "Abascal quiere llevar a un posible pacto estatal con el PP lo que ya incluyó en acuerdos autonómicos. Un sondeo de 40dB (25-28 sept.) le daba el 18,4 %, frente al 31,6 % del PP y el 27,4 % del PSOE.",
+      "source": "Mundiario",
+      "url": "https://www.mundiario.com/articulo/politica/programa-maximos-vox-29-n-abascal-impone-lineas-rojas-feijoo/20261006031035445119.html"
+    },
+    {
+      "id": "sumar-1",
+      "party": "sumar",
+      "date": "2026-10-10",
+      "topic": "Pacto de izquierdas",
+      "title": "El Frente Amplio negocia los puestos de salida; plazo para registrar coaliciones: 16 de octubre",
+      "summary": "Los cuatro actores principales discuten sobre todo las listas de Madrid y Barcelona. Según un cálculo basado en encuestas, juntos sumarían 20 escaños en vez de 10.",
+      "source": "Moncloa.com",
+      "url": "https://moncloa.com/2026/10/10/pacto-sumar-podemos-frente-amplio-escanos-3445782"
+    },
+    {
+      "id": "podemos-1",
+      "party": "podemos",
+      "date": "2026-10-10",
+      "topic": "Pacto de izquierdas",
+      "title": "Podemos aún no ha confirmado si entra en el Frente Amplio",
+      "summary": "Su incorporación sigue abierta. Irene Montero pidió en Getafe acabar con el «negocio de la vivienda».",
+      "source": "Moncloa.com / Diario de Pontevedra",
+      "url": "https://moncloa.com/2026/10/10/pacto-sumar-podemos-frente-amplio-escanos-3445782"
+    },
+    {
+      "id": "erc-1",
+      "party": "erc",
+      "date": "2026-10-06",
+      "topic": "Candidatura",
+      "title": "Rufián encabezará la lista de ERC al Congreso",
+      "summary": "Lo confirmó Oriol Junqueras. Los Comuns piden a Rufián que decida si va con ERC o se implica en el Frente Amplio.",
+      "source": "El Debate",
+      "url": "https://www.eldebate.com/espana/cataluna/20261006/rufian-erc-nogueras-junts-repetiran-como-candidatos-generales_466507.html"
+    },
+    {
+      "id": "junts-1",
+      "party": "junts",
+      "date": "2026-10-06",
+      "topic": "Candidatura",
+      "title": "Nogueras repite como candidata de Junts y descarta facilitar un Gobierno PP-Vox",
+      "summary": "Define a Junts como un bloque situado en el centro. Hay discrepancias internas sobre las medidas de vivienda.",
+      "source": "El Debate",
+      "url": "https://www.eldebate.com/espana/cataluna/20261006/rufian-erc-nogueras-junts-repetiran-como-candidatos-generales_466507.html"
+    },
+    {
+      "id": "pnv-1",
+      "party": "pnv",
+      "date": "2026-10-10",
+      "topic": "Transferencias",
+      "title": "El PNV seguirá exigiendo las transferencias pendientes",
+      "summary": "Maribel Vaquero aseguró que se ha cumplido más del 75 % del acuerdo de investidura y que queda pendiente lo relativo a la Seguridad Social.",
+      "source": "Diario de Pontevedra",
+      "url": "https://www.diariodepontevedra.es/articulo/espana/precampana-29-n-directo/202610101421181471632.html"
+    },
+    {
+      "id": "bng-1",
+      "party": "bng",
+      "date": "2026-10-10",
+      "topic": "Candidatura",
+      "title": "Pontón propone al BNG como alternativa para dejar a Feijóo en la oposición",
+      "summary": "El BNG quiere ganar peso en Madrid, donde ahora tiene un diputado y una senadora.",
+      "source": "Diario de Pontevedra",
+      "url": "https://www.diariodepontevedra.es/articulo/espana/precampana-29-n-directo/202610101421181471632.html"
+    },
+    {
+      "id": "all-1",
+      "party": "all",
+      "date": "2026-10-11",
+      "topic": "Calendario",
+      "title": "Fechas clave hasta el 29N",
+      "summary": "Coaliciones: hasta el 16 de octubre. Candidaturas: del 21 al 26 de octubre. Campaña: del 13 al 27 de noviembre. Reflexión: 28 de noviembre. Votación: 29 de noviembre.",
+      "source": "Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Elecciones_generales_de_Espa%C3%B1a_de_2026"
+    },
+    {
+      "id": "all-2",
+      "party": "all",
+      "date": "2026-10-10",
+      "topic": "Voto por correo",
+      "title": "Polémica cruzada por el voto por correo",
+      "summary": "Sánchez acusa a PP y Vox de difundir bulos; Ayuso dice temer trampas. Es uno de los primeros choques de la precampaña.",
+      "source": "Diario de Pontevedra",
+      "url": "https://www.diariodepontevedra.es/articulo/espana/precampana-29-n-directo/202610101421181471632.html"
+    },
+    {
+      "id": "psoe-20261011-1",
+      "party": "psoe",
+      "date": "2026-10-11",
+      "topic": "Voto por correo",
+      "title": "Sánchez pide «urnas llenas» y critica a PP y Vox por el voto por correo",
+      "summary": "En un acto en Dos Hermanas (Sevilla), Sánchez dijo que PP y Vox prefieren que vote menos gente y defendió el voto por correo. El PP sostiene que su crítica se dirige a la fiabilidad del sistema, no a los votantes.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/10/11/sanchez-urnas-llenas-voto-correo-29n-3446093"
+    },
+    {
+      "id": "pp-20261009-1",
+      "party": "pp",
+      "date": "2026-10-09",
+      "topic": "Debates",
+      "title": "El PP propone un cara a cara Feijóo-Sánchez el 16 de noviembre y un debate a cuatro el 26",
+      "summary": "El PP dice aceptar la invitación de Mediaset para el cara a cara del 16 de noviembre y la de Atresmedia para un debate a cuatro (PP, PSOE, Vox y Frente Amplio) el 26. Propone un debate de portavoces el 23 en RTVE. El artículo no recoge reacción del PSOE.",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/pp-plantea-cara-cara-feijoo-sanchez-debate-cuatro-portavoces-29n_1_13574252.html"
+    },
+    {
+      "id": "pp-20261006-1",
+      "party": "pp",
+      "date": "2026-10-06",
+      "topic": "Caso Leire Díez",
+      "title": "El PP pide a la Audiencia Nacional que impute al PSOE como persona jurídica",
+      "summary": "Como acusación popular, el PP pide al juez Pedraz imputar al PSOE en el caso Leire Díez por varios delitos. El juez ha pedido a Anticorrupción que se pronuncie. El artículo no recoge respuesta del PSOE.",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/pp-inaugura-precampana-29n-nueva-ofensiva-tribunales-psoe_1_13566904.html"
+    },
+    {
+      "id": "vox-20261010-1",
+      "party": "vox",
+      "date": "2026-10-10",
+      "topic": "Pactos y Ceuta",
+      "title": "Abascal afirma que Vox tiene «voluntad de entendimiento» con el PP y propone «remigración»",
+      "summary": "En una entrevista en ABC recogida por EFE, Abascal dijo que Vox quiere carteras ministeriales, pidió despliegue permanente del Ejército en Ceuta y Melilla y propuso la «remigración» de personas sin derecho a estar en España.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/10/10/abascal-tenemos-una-voluntad-de-entendimiento-aun-mayor-con-el-partido-popular/"
+    },
+    {
+      "id": "sumar-20261009-1",
+      "party": "sumar",
+      "date": "2026-10-09",
+      "topic": "Frente Amplio",
+      "title": "Movimiento Sumar elige a Verónica Barbero como candidata para el Frente Amplio",
+      "summary": "Barbero, portavoz de Sumar en el Congreso, obtuvo el 98% de los votos de la base. El Frente Amplio (IU, Movimiento Sumar, Más Madrid y Comunes) sigue negociando; Más Madrid propone a Ada Colau, cuya candidatura no es oficial.",
+      "source": "Canal Sur",
+      "url": "https://www.canalsur.es/noticias/espana/movimiento-sumar-elige-veronica-barbero_1_1442523.html"
+    },
+    {
+      "id": "podemos-20261009-1",
+      "party": "podemos",
+      "date": "2026-10-09",
+      "topic": "Primarias",
+      "title": "Podemos pide primarias abiertas el 14 y 15 de octubre para cualquier acuerdo",
+      "summary": "Según Canal Sur, Podemos insiste en primarias abiertas y fuentes de Sumar dicen que no está en la mesa de negociación, aunque hay contactos individuales. Las coaliciones se registran hasta el 16 de octubre.",
+      "source": "Canal Sur",
+      "url": "https://www.canalsur.es/noticias/espana/movimiento-sumar-elige-veronica-barbero_1_1442523.html"
+    },
+    {
+      "id": "erc-20261010-1",
+      "party": "erc",
+      "date": "2026-10-10",
+      "topic": "Senado",
+      "title": "ERC y EH Bildu concurrirán juntas al Senado el 29N",
+      "summary": "Un comunicado conjunto difundido por EH Bildu anuncia que repiten la coalición de 2023 para el Senado. El acuerdo no se refiere al Congreso ni detalla las listas.",
+      "source": "Press Digital",
+      "url": "https://www.pressdigital.es/articulo/politica/2026-10-10/6047297-erc-eh-bildu-pactan-concurrir-juntos-29n-reforzar-representacion-senado"
+    },
+    {
+      "id": "bildu-20261010-1",
+      "party": "bildu",
+      "date": "2026-10-10",
+      "topic": "Senado",
+      "title": "EH Bildu y ERC repiten coalición para el Senado",
+      "summary": "EH Bildu difundió un comunicado conjunto con ERC. Ambas citan como prioridades los derechos nacionales de Catalunya y Euskal Herria, los derechos sociales y la emergencia habitacional.",
+      "source": "Press Digital",
+      "url": "https://www.pressdigital.es/articulo/politica/2026-10-10/6047297-erc-eh-bildu-pactan-concurrir-juntos-29n-reforzar-representacion-senado"
+    },
+    {
+      "id": "bildu-20261009-1",
+      "party": "bildu",
+      "date": "2026-10-09",
+      "topic": "Candidaturas",
+      "title": "Matute se muestra dispuesto a repetir; EH Bildu presentará candidaturas el 16 de octubre",
+      "summary": "El diputado Oskar Matute dijo en Radio Popular que tiene «ganas» de continuar. La propuesta de candidaturas se presenta el 16 de octubre y las bases la ratificarán después.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/10/09/matute-eh-bildu-29n-candidato-3444892/"
+    },
+    {
+      "id": "junts-20261005-1",
+      "party": "junts",
+      "date": "2026-10-05",
+      "topic": "Listas",
+      "title": "Junts mantiene a Miriam Nogueras como opción para encabezar la candidatura",
+      "summary": "La dirección validará un reglamento para las listas: el cabeza por Barcelona lo votarán los militantes. Nogueras criticó el voto de su grupo contra los decretos de vivienda y habló de menos impuestos.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/10/05/miriam-nogueras-se-mantiene-como-la-apuesta-de-junts-para-liderar-la-candidatura-del-29n/"
+    },
+    {
+      "id": "pnv-20261007-1",
+      "party": "pnv",
+      "date": "2026-10-07",
+      "topic": "Listas",
+      "title": "El PNV propone a Maribel Vaquero (Gipuzkoa) y Gorka Urtaran (Álava) como cabezas de lista",
+      "summary": "Es la primera vez en cinco convocatorias que Aitor Esteban no encabeza la lista. La militancia ratificará las listas en una asamblea extraordinaria el 17 de octubre.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/10/07/listas-pnv-29n-vaquero-urtaran-goia-3444165/"
+    },
+    {
+      "id": "cc-20261005-1",
+      "party": "cc",
+      "date": "2026-10-05",
+      "topic": "Candidatura",
+      "title": "CC propone que Cristina Valido repita como candidata por Santa Cruz de Tenerife",
+      "summary": "El Comité Ejecutivo lo acordó por unanimidad y pedirá autorización al Consejo Político para explorar coaliciones en Las Palmas. David Toledo dijo que CC no se alinea con ningún bloque.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/10/05/coalicion-canaria-cc-propone-a-cristina-valido-como-candidata-al-congreso/"
+    },
+    {
+      "id": "upn-20261006-1",
+      "party": "upn",
+      "date": "2026-10-06",
+      "topic": "Coalición con PP",
+      "title": "UPN y PP negocian una fórmula conjunta para el 29N, sin acuerdo cerrado",
+      "summary": "Según Naiz, valoran una coalición o retirar una lista. Sergio Sayas (PP) dijo estar dispuesto a concurrir con UPN; Cristina Ibarrola (UPN) dijo que hay que hacer «todo» para desbancar a Sánchez.",
+      "source": "Naiz",
+      "url": "https://www.naiz.eus/en/info/noticia/20261006/upn-y-pp-aceleran-una-unidad-para-el-29n-tras-su-mal-resultado-separados-en-2023"
+    },
+    {
+      "id": "all-20261008-1",
+      "party": "all",
+      "date": "2026-10-08",
+      "topic": "Encuesta CIS",
+      "title": "El CIS publica un barómetro de vivienda con estimación de voto directa",
+      "summary": "Estudio 3532, 6.019 entrevistas telefónicas. Voto más simpatía: PSOE 23,7%, PP 17,1%, Vox 10,5%, Sumar 5,5%, Podemos 2,2%, ERC 1,8%. El CIS advierte de que no es una proyección electoral y no da escaños.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/2026/10/08/ha-salido-el-cis-el-psoe-ganaria-las-elecciones-pero-pp-y-vox-suman-mayoria-con-un-76-de-espanoles-a-favor-de-que-el-estado-intervenga-en-el-mercado-de-la-vivienda/"
+    },
+    {
+      "id": "psoe-20261009-1",
+      "party": "psoe",
+      "date": "2026-10-09",
+      "topic": "Senado",
+      "title": "El PSOE estudia candidaturas conjuntas al Senado con otras fuerzas de izquierda",
+      "summary": "Fuentes de Ferraz citadas por EFE dicen que analiza «todas las alternativas y escenarios posibles». El Comité Federal se reúne el 17 de octubre para ratificar listas y la candidatura de Sánchez.",
+      "source": "elDiario.es (EFE)",
+      "url": "https://www.eldiario.es/politica/psoe-estudia-candidaturas-conjuntas-senado-fuerzas-izquierda-evitar-mayoria-pp_1_13576621.html"
+    },
+    {
+      "id": "psoe-20261009-2",
+      "party": "psoe",
+      "date": "2026-10-09",
+      "topic": "Listas",
+      "title": "Montero y Óscar López no encabezarán listas al Congreso; Lastra irá por Asturias",
+      "summary": "Según Estrella Digital, Montero lo confirmó el 6 de octubre y López el 7 en TVE. La ejecutiva asturiana designó a Adriana Lastra el 8 de octubre.",
+      "source": "Estrella Digital",
+      "url": "https://www.estrelladigital.es/articulo/espana/psoe-prepara-listas-29-n-maria-jesus-montero-ni-oscar-lopez-lastra-frente-asturias/20261009102504451972.html"
+    },
+    {
+      "id": "pp-20261010-1",
+      "party": "pp",
+      "date": "2026-10-10",
+      "topic": "Precampaña",
+      "title": "Feijóo promete «un Gobierno que pida sacrificio» en el acto de precampaña en Madrid",
+      "summary": "Según elDiario.es, también habló de «reconstrucción nacional» y de acabar con las «falsas promesas en vivienda». Ayuso acusó a Sánchez de preparar «trampas» y calificó de «terroristas» a los acampados en Sol, sin aportar pruebas según el medio.",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/feijoo-promete-gobierno-pedira-sacrificios-ayuso-tilda-terroristas-acampados-sol_1_13577261.html"
+    },
+    {
+      "id": "upn-20261010-1",
+      "party": "upn",
+      "date": "2026-10-10",
+      "topic": "Coalición PP",
+      "title": "PP y UPN aspiran a tres diputados en Navarra con una coalición aún no cerrada",
+      "summary": "Según The Objective y fuentes de ambos partidos, necesitarían unos 125.000 votos; por separado suman unos 105.000. UPN convocó su Consejo Político para ratificar el pacto si se cierra antes del 16 de octubre.",
+      "source": "The Objective",
+      "url": "https://theobjective.com/espana/politica/2026-10-10/pp-upn-navarr/"
+    },
+    {
+      "id": "podemos-20261006-1",
+      "party": "podemos",
+      "date": "2026-10-06",
+      "topic": "Primarias",
+      "title": "Belarra abre la puerta a una lista única con el Frente Amplio ratificada en primarias",
+      "summary": "La secretaria general de Podemos habló en el Congreso de «primarias abiertas». Según el medio, Podemos quiere un pacto solo electoral y Urtasun pide que se integre en el Frente Amplio.",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/abre-puerta-pactar-lista-unica-frente-amplio-despues-ratificarla-primarias_1_13566962.html"
+    },
+    {
+      "id": "sumar-20261011-1",
+      "party": "sumar",
+      "date": "2026-10-11",
+      "topic": "Frente Amplio",
+      "title": "Frente Amplio y Podemos buscan un acuerdo mínimo antes del 16 de octubre, según fuentes",
+      "summary": "The Objective recoge que fuentes de ambos hablan de contactos y de un «acelerón». El Frente Amplio prevé anunciar líder el 17 de octubre y Podemos propone primarias el 14 y 15.",
+      "source": "The Objective",
+      "url": "https://theobjective.com/espana/politica/2026-10-11/podemos-frente-amplio-salto-20-escanos-dos-bandos-juntos/"
+    },
+    {
+      "id": "pnv-20261007-2",
+      "party": "pnv",
+      "date": "2026-10-07",
+      "topic": "Listas",
+      "title": "Aitor Esteban no encabezará la lista del PNV por primera vez en cinco elecciones",
+      "summary": "Los nombres propuestos pasan por una doble ronda con la militancia. Las listas se proclamarán tras la asamblea nacional extraordinaria del 17 de octubre, según Moncloa.com.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/10/07/listas-pnv-29n-vaquero-urtaran-goia-3444165/"
+    },
+    {
+      "id": "bng-20261005-1",
+      "party": "bng",
+      "date": "2026-10-05",
+      "topic": "Campaña",
+      "title": "El BNG afronta el 29N con el lema «más derechos y menos derechas»",
+      "summary": "Néstor Rego dijo que el objetivo es repetir escaño en el Congreso y frenar «cualquier intento de involución» en políticas sociales.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/10/05/bng-elecciones-generales-29n-rego-3442795/"
+    },
+    {
+      "id": "all-20261005-1",
+      "party": "all",
+      "date": "2026-10-05",
+      "topic": "Candidaturas",
+      "title": "Aliança Catalana anuncia que no se presentará a las generales del 29N",
+      "summary": "Según El Plural, el partido de Sílvia Orriols mantiene su actividad en el ámbito catalán.",
+      "source": "El Plural",
+      "url": "https://www.elplural.com/politica/espana/junts-aprovecha-no-alianca-generales-frente-amplio-reduce-hasta-ridiculo_800905102"
+    }
+  ],
+  "positions": {},
+  "facts": {}
 }
