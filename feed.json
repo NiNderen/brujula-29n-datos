@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12",
+  "updated": "2026-10-13",
   "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
   "news": [
     {
@@ -361,6 +361,56 @@
       "summary": "Según El Plural, el partido de Sílvia Orriols mantiene su actividad en el ámbito catalán.",
       "source": "El Plural",
       "url": "https://www.elplural.com/politica/espana/junts-aprovecha-no-alianca-generales-frente-amplio-reduce-hasta-ridiculo_800905102"
+    },
+    {
+      "id": "sumar-20261012-1",
+      "party": "sumar",
+      "date": "2026-10-12",
+      "topic": "Candidatura",
+      "title": "IU, Más Madrid, Movimiento Sumar y Comuns designan a Ada Colau candidata del Frente Amplio",
+      "summary": "Según Público, los cuatro partidos invitaron a Podemos a sumarse y el plazo para registrar coaliciones termina el 16 de octubre. Aún no se ha concretado por qué circunscripción concurriría Colau.",
+      "source": "Público",
+      "url": "https://www.publico.es/politica/partidos/frente-amplio-cierra-acuerdo-colau-candidata-espera-negociacion-podemos.html"
+    },
+    {
+      "id": "podemos-20261012-1",
+      "party": "podemos",
+      "date": "2026-10-12",
+      "topic": "Pacto con ERC",
+      "title": "Podemos y ERC acuerdan colaborar en Cataluña; Montero y Rufián harán campaña juntos",
+      "summary": "Según Efe, Podemos contribuirá a la candidatura de ERC en Cataluña. Movimiento Sumar dijo en TVE que hablar de primarias y de acuerdos con Rufián «no encaja».",
+      "source": "El Imparcial (Efe)",
+      "url": "https://www.elimparcial.es/noticia/302760/nacional/podemos-y-erc-sellan-un-acuerdo-de-coalicion-para-las-elecciones-y-el-frente-amplio-designa-a-colau.html"
+    },
+    {
+      "id": "erc-20261012-1",
+      "party": "erc",
+      "date": "2026-10-12",
+      "topic": "Pacto con Podemos",
+      "title": "ERC y Podemos pactan colaboración electoral en Cataluña; Comuns acusa a Rufián de dividir",
+      "summary": "Rufián escribió en X que busca una colaboración «real» entre izquierdas soberanistas y españolas. Comuns expresó «decepción» y lo acusó de dividir a la izquierda.",
+      "source": "Público",
+      "url": "https://www.publico.es/politica/partidos/frente-amplio-cierra-acuerdo-colau-candidata-espera-negociacion-podemos.html"
+    },
+    {
+      "id": "all-20261012-1",
+      "party": "all",
+      "date": "2026-10-12",
+      "topic": "Voto exterior",
+      "title": "El Supremo mantiene la suspensión del voto de los nacionalizados por la ley de nietos",
+      "summary": "Rechazó el recurso de la Abogacía del Estado contra la cautelar del 10 de septiembre; afecta a casi 170.000 expedientes y no podrán votar el 29N, según Infobae.",
+      "source": "Infobae (agencias)",
+      "url": "https://www.infobae.com/espana/agencias/2026/10/12/el-ts-mantiene-la-suspension-del-voto-de-los-nacionalizados-por-la-ley-de-nietos/"
+    },
+    {
+      "id": "vox-20261012-1",
+      "party": "vox",
+      "date": "2026-10-12",
+      "topic": "Ceuta y fronteras",
+      "title": "Abascal visita Ceuta con Bardella el 12-O y repite sus tres ejes de campaña",
+      "summary": "Según Moncloa.com, visitaron el puesto fronterizo con Fabrice Leggeri. Abascal dijo que lo más urgente es «recuperar Ceuta» y citó «prioridad nacional, desregulación y remigración».",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/10/12/abascal-bardella-frontex-ceuta-3446974/"
     }
   ],
   "positions": {},
