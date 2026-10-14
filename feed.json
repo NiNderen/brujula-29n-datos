@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13",
+  "updated": "2026-10-14",
   "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
   "news": [
     {
@@ -411,6 +411,126 @@
       "summary": "Según Moncloa.com, visitaron el puesto fronterizo con Fabrice Leggeri. Abascal dijo que lo más urgente es «recuperar Ceuta» y citó «prioridad nacional, desregulación y remigración».",
       "source": "Moncloa.com",
       "url": "https://www.moncloa.com/2026/10/12/abascal-bardella-frontex-ceuta-3446974/"
+    },
+    {
+      "id": "upn-20261013-1",
+      "party": "upn",
+      "date": "2026-10-13",
+      "topic": "Coalición con el PP",
+      "title": "El Consejo Político de UPN aprueba con el 93,5 % concurrir en coalición con el PP el 29N",
+      "summary": "La coalición se llamará «Unión del Pueblo Navarro en coalición con el Partido Popular»; UPN encabezará las listas al Congreso y al Senado y Feijóo será el candidato a la Presidencia. El programa lo redactará una comisión de ambos partidos.",
+      "source": "The Objective",
+      "url": "https://theobjective.com/espana/politica/2026-10-13/pp-upn-pacto-listas-electorales-navarra/"
+    },
+    {
+      "id": "pp-20261013-1",
+      "party": "pp",
+      "date": "2026-10-13",
+      "topic": "Precampaña",
+      "title": "Ester Muñoz pide en Toledo afrontar la campaña «como si fuera para unas elecciones municipales»",
+      "summary": "La portavoz del PP en el Congreso dijo que «esto no se lo juega el PP, sino España» y acusó al Gobierno de «mentiras y corrupción». El PSOE no figura en el texto con respuesta.",
+      "source": "El Español",
+      "url": "https://www.elespanol.com/eldigitalcastillalamancha/region/20261013/pp-moviliza-militantes-toledo-llevar-feijoo-moncloa-no-juega-partido-espana/1003744419090_0.html"
+    },
+    {
+      "id": "pp-20261013-2",
+      "party": "pp",
+      "date": "2026-10-13",
+      "topic": "Congreso",
+      "title": "La diputada del PP Bea Fanjul renuncia a su escaño",
+      "summary": "El PP explicó que había comunicado meses antes su decisión de dedicarse a la empresa privada.",
+      "source": "El Español",
+      "url": "https://www.elespanol.com/espana/20261013/elecciones-generales-directo-ultima-hora-adelanto-electoral-encuestas-pedro-sanchez-actos-pp-psoe-vox-voto-correo/1003744417684_10.html"
+    },
+    {
+      "id": "sumar-20261013-1",
+      "party": "sumar",
+      "date": "2026-10-13",
+      "topic": "Frente Amplio",
+      "title": "Colau acepta liderar el Frente Amplio y Más Madrid abre una consulta el 14 y 15 de octubre",
+      "summary": "La consulta vinculante de Más Madrid sobre su entrada en el Frente Amplio y Emilio Delgado como cabeza de lista por Madrid se cierra el viernes 16 a las 12:00. Mónica García pasaría a ser número dos, según El Español.",
+      "source": "El Español",
+      "url": "https://www.elespanol.com/espana/20261013/elecciones-generales-directo-ultima-hora-adelanto-electoral-encuestas-pedro-sanchez-actos-pp-psoe-vox-voto-correo/1003744417684_10.html"
+    },
+    {
+      "id": "podemos-20261013-1",
+      "party": "podemos",
+      "date": "2026-10-13",
+      "topic": "Pacto de izquierdas",
+      "title": "El Frente Amplio invita a Podemos a sumarse y Podemos exigiría puestos de salida",
+      "summary": "En un comunicado conjunto, el Frente Amplio pidió que «todas las organizaciones expresen con claridad su voluntad de contribuir a la unidad». Según El Español, Podemos pide puestos de salida si se integra. El plazo de coaliciones vence el 16 de octubre.",
+      "source": "El Español",
+      "url": "https://www.elespanol.com/espana/politica/20261013/frente-amplio-colau-niega-sucumbir-pinza-rufian-podemos-dias-guerra-fratricida/1003744417641_0.amp.html"
+    },
+    {
+      "id": "erc-20261013-1",
+      "party": "erc",
+      "date": "2026-10-13",
+      "topic": "Pacto de izquierdas",
+      "title": "Comuns acusan a Rufián de dividir a las izquierdas tras el pacto con Podemos",
+      "summary": "Según Verónica Martínez Barbero (Movimiento Sumar), ERC ha rechazado el proceso del Frente Amplio. Podemos no se presentará en Cataluña, según el pacto con Rufián recogido por El Español.",
+      "source": "El Español",
+      "url": "https://www.elespanol.com/espana/politica/20261013/frente-amplio-colau-niega-sucumbir-pinza-rufian-podemos-dias-guerra-fratricida/1003744417641_0.amp.html"
+    },
+    {
+      "id": "vox-20261013-1",
+      "party": "vox",
+      "date": "2026-10-13",
+      "topic": "Congreso",
+      "title": "Vox pide revocar el reparto de escaños del hemiciclo pactado al inicio de la legislatura",
+      "summary": "Lo solicitó a la Mesa de la Diputación Permanente al considerar que no respeta la proporcionalidad exigida por la Constitución. Vox no participó en ese acuerdo.",
+      "source": "El Español",
+      "url": "https://www.elespanol.com/espana/20261013/elecciones-generales-directo-ultima-hora-adelanto-electoral-encuestas-pedro-sanchez-actos-pp-psoe-vox-voto-correo/1003744417684_10.html"
+    },
+    {
+      "id": "psoe-20261014-1",
+      "party": "psoe",
+      "date": "2026-10-14",
+      "topic": "Listas",
+      "title": "El Comité Federal del PSOE se reúne el 17 de octubre en Fuenlabrada para ratificar las listas",
+      "summary": "Según Mundiario, Sánchez encabezaría la lista de Madrid y Óscar López, Ángel Víctor Torres y Diana Morant no irán a las generales. La Comisión Federal de Listas debe aprobar las candidaturas el viernes 16.",
+      "source": "Mundiario",
+      "url": "https://www.mundiario.com/articulo/politica/sanchez-convierte-comite-psoe-pasarela-listas-29-n-hechas-ministros/20261014065054446631.html"
+    },
+    {
+      "id": "junts-20261013-1",
+      "party": "junts",
+      "date": "2026-10-13",
+      "topic": "Comín",
+      "title": "Toni Comín anuncia que volverá de Bruselas el 24 de octubre",
+      "summary": "El exeurodiputado de Junts dijo que cruzará la frontera a pie. Según El Español, confía en volver sin cargas judiciales tras el aval del Constitucional a la Ley de Amnistía.",
+      "source": "El Español",
+      "url": "https://www.elespanol.com/espana/20261013/elecciones-generales-directo-ultima-hora-adelanto-electoral-encuestas-pedro-sanchez-actos-pp-psoe-vox-voto-correo/1003744417684_10.html"
+    },
+    {
+      "id": "bildu-20261011-1",
+      "party": "bildu",
+      "date": "2026-10-11",
+      "topic": "Candidatura",
+      "title": "Mertxe Aizpurua no repetirá como candidata de EH Bildu al Congreso",
+      "summary": "Según fuentes de la coalición, es una decisión personal tras tres legislaturas. Las candidaturas se proclamarán el 19 de octubre tras la votación telemática de afiliados del 17 y 18.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/10/11/mertxe-aizpurua-eh-bildu-congreso-3446504/"
+    },
+    {
+      "id": "cc-20261010-1",
+      "party": "cc",
+      "date": "2026-10-10",
+      "topic": "Candidaturas",
+      "title": "CC designa a Alfonso Cabello y Patricia León para el Senado por Tenerife",
+      "summary": "El Consejo Político Insular aprobó la candidatura por unanimidad. La lista al Congreso por Santa Cruz de Tenerife la encabeza Cristina Valido, con Jonathan de Felipe en segundo lugar.",
+      "source": "Diario de Avisos",
+      "url": "https://diariodeavisos.elespanol.com/2026/10/alfonso-cabello-patricia-leon-cc-senado/"
+    },
+    {
+      "id": "all-20261013-1",
+      "party": "all",
+      "date": "2026-10-13",
+      "topic": "Encuestas",
+      "title": "Sigma Dos estima en Cataluña 16 escaños para el PSC, 9 para ERC y 7 para Vox y Junts",
+      "summary": "Estimación de Sigma Dos para El Mundo con trabajo de campo del 1 al 8 de octubre: PP 6 y Comuns 2. Son estimaciones, no resultados.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/10/13/encuesta-vox-cataluna-29n-sorpasso-pp-3447670/"
     }
   ],
   "positions": {},
