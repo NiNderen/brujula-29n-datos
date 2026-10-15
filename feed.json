@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14",
+  "updated": "2026-10-15",
   "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
   "news": [
     {
@@ -531,6 +531,146 @@
       "summary": "Estimación de Sigma Dos para El Mundo con trabajo de campo del 1 al 8 de octubre: PP 6 y Comuns 2. Son estimaciones, no resultados.",
       "source": "Moncloa.com",
       "url": "https://www.moncloa.com/2026/10/13/encuesta-vox-cataluna-29n-sorpasso-pp-3447670/"
+    },
+    {
+      "id": "sumar-20261014-1",
+      "party": "sumar",
+      "date": "2026-10-14",
+      "topic": "Frente Amplio",
+      "title": "Colau ofrece ceder el liderazgo y cambiar el nombre del Frente Amplio para incluir a Podemos",
+      "summary": "Ada Colau dijo en TVE que cedería si otra persona generara más consenso y que el nombre podría cambiar. Antonio Maíllo (IU) dijo que IU está dispuesta a ir sin coalición si hace falta. Plazo para registrar coaliciones: 16 de octubre.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/10/14/colau-ofrece-no-liderar-el-frente-amplio-para-incluir-a-podemos-pero-el-pacto-sigue-lejos/"
+    },
+    {
+      "id": "podemos-20261014-1",
+      "party": "podemos",
+      "date": "2026-10-14",
+      "topic": "Primarias",
+      "title": "Podemos abre primarias el 14 y 15 de octubre con Irene Montero como única candidata a la Presidencia",
+      "summary": "Según Diario Sabemos, Montero ha descartado integrar Podemos en el Frente Amplio, aunque deja abiertas otras fórmulas de colaboración. Podemos mantiene su pacto con ERC y no presentará candidatura propia en Cataluña.",
+      "source": "Diario Sabemos",
+      "url": "https://diariosabemos.com/politica/colau-frente-amplio-podemos-irene-montero-unidad-izquierda-29n_519345_102.html"
+    },
+    {
+      "id": "psoe-20261014-2",
+      "party": "psoe",
+      "date": "2026-10-14",
+      "topic": "Listas electorales",
+      "title": "El PSOE perfila las listas del 29N: varios ministros repetirían como candidatos al Congreso",
+      "summary": "Según fuentes del partido recogidas por EFE, Óscar Puente y Ana Redondo irían por Castilla y León y Jordi Hereu por Barcelona. Óscar López, Ángel Víctor Torres, Diana Morant y Luis Planas no concurrirán al Congreso. La Comisión de Listas se reúne el viernes y el Comité Federal el sábado.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/10/14/el-psoe-comienza-a-colocar-en-sus-listas-para-el-29n-a-los-ministros-de-sanchez/"
+    },
+    {
+      "id": "psoe-20261014-3",
+      "party": "psoe",
+      "date": "2026-10-14",
+      "topic": "Pensiones",
+      "title": "Sánchez promete en Zaragoza «cuatro años más de revalorización de las pensiones conforme al IPC»",
+      "summary": "En un acto del PSOE aragonés, Sánchez dijo que habrá «cero recortes» y que la vivienda será la causa de la próxima legislatura. Las cifras sobre la hucha de las pensiones y la regularización son declaraciones suyas recogidas por el medio.",
+      "source": "Press Digital",
+      "url": "https://www.pressdigital.es/articulo/politica/2026-10-14/6052110-pedro-sanchez-promete-zaragoza-cuatro-anos-revalorizacion-pensiones-conforme-ipc"
+    },
+    {
+      "id": "pp-20261013-3",
+      "party": "pp",
+      "date": "2026-10-13",
+      "topic": "Coalición con UPN",
+      "title": "PP y UPN pactan concurrir juntos en Navarra el 29N con Feijóo como candidato a la Presidencia",
+      "summary": "El acuerdo, según Moncloa.com, incluye un programa común, el compromiso de respetar el régimen foral y el Convenio Económico y de votar a favor de eliminar la disposición transitoria cuarta de la Constitución. Lo firmarían Miguel Tellado y Cristina Ibarrola.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/10/13/pp-upn-coalicion-elecciones-29n-3447654/"
+    },
+    {
+      "id": "pp-20261005-1",
+      "party": "pp",
+      "date": "2026-10-05",
+      "topic": "Vivienda",
+      "title": "Feijóo propone construir 250.000 viviendas al año y rebajar el IVA de la vivienda al 4 %",
+      "summary": "En el Congreso de la Empresa Familiar, en Madrid, Feijóo planteó vender con un 30 % de descuento las viviendas sobre suelo público y conceder licencias por silencio administrativo a los 90 días. Las estimaciones de empleo son del PP.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/2026/10/05/feijoo-anuncia-sus-propuestas-en-vivienda-de-construir-250000-casas-al-ano-a-rebajar-el-iva-al-4-para-jovenes/"
+    },
+    {
+      "id": "vox-20261011-1",
+      "party": "vox",
+      "date": "2026-10-11",
+      "topic": "Precampaña",
+      "title": "Abascal inicia la precampaña en Estepona con Bardella y pide votar presencialmente",
+      "summary": "Abascal dijo que «nos lo jugamos todo» y acusó a las «milicias» de Sánchez de preparar una campaña de «mentiras, trampas y violencia». Según El Debate, calificó las diferencias con Feijóo de «peccata minuta».",
+      "source": "El Debate",
+      "url": "https://www.eldebate.com/espana/20261014/claves-mensaje-abascal-campana-29n-jugamos-todo_469249.html"
+    },
+    {
+      "id": "bildu-20261013-1",
+      "party": "bildu",
+      "date": "2026-10-13",
+      "topic": "Candidaturas",
+      "title": "Bel Pozueta no será candidata de EH Bildu por Navarra y dejará el Congreso",
+      "summary": "Pozueta, diputada desde 2019, lo comunicó en una carta y citó motivos de salud. Según elDiario.es, EH Bildu publicará sus listas en los próximos días y se prevé que concurra con ERC en el Senado.",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/navarra/bel-pozueta-no-sera-candidata-eh-bildu-navarra-generales-29n-dejara-congreso_1_13581211.html"
+    },
+    {
+      "id": "bildu-20261014-1",
+      "party": "bildu",
+      "date": "2026-10-14",
+      "topic": "Posición de campaña",
+      "title": "Otegi dice que EH Bildu propuso un «programa de mínimos» al PNV y a la izquierda confederal y fue rechazado",
+      "summary": "En una entrevista en ETB2, Otegi dijo que EH Bildu ofrece «un espacio de serenidad» y que tiene garantizados diputados y senadores. Criticó el ritmo de las negociaciones de otras fuerzas de izquierda.",
+      "source": "BilbaoHiria",
+      "url": "https://bilbaohiria.com/actualidad/otegi-eh-bildu-frente-amplio-serenidad-29n"
+    },
+    {
+      "id": "cc-20261015-1",
+      "party": "cc",
+      "date": "2026-10-15",
+      "topic": "Coalición electoral",
+      "title": "Coalición Canaria y Primero Canarias acuerdan candidaturas conjuntas para el 29N",
+      "summary": "Cristina Valido encabezará la lista por Santa Cruz de Tenerife y Teodoro Sosa la de Las Palmas. El acuerdo se presentará el sábado en Las Palmas de Gran Canaria con una declaración que se espera firmen unas veinte formaciones.",
+      "source": "Canarias Diario",
+      "url": "https://www.canariasdiario.com/noticia/152208/politica/primero-canarias-y-cc-acuerdan-una-candidatura-conjunta-para-el-29-n.html"
+    },
+    {
+      "id": "pnv-20261014-1",
+      "party": "pnv",
+      "date": "2026-10-14",
+      "topic": "Debate interno",
+      "title": "El PNV de Bizkaia propone a Ibone Bengoetxea para las forales de 2027 y Esteban defendía otra opción",
+      "summary": "Aitor Esteban dijo que la propuesta se le comunicó «momentos antes de que fuese aprobada»; defendía la continuidad de Elixabete Etxanobe. Los batzokis de Bizkaia deben pronunciarse en las próximas semanas.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/10/14/crisis-pnv-bizkaia-candidatura-diputada-general-3448416"
+    },
+    {
+      "id": "junts-20261008-1",
+      "party": "junts",
+      "date": "2026-10-08",
+      "topic": "Candidaturas",
+      "title": "Junts se inclina por Nogueras, Madrenas, Cruset y Gavín como cabezas de lista en Cataluña",
+      "summary": "Según Europa Press, serían por Barcelona, Girona, Tarragona y Lleida, respectivamente. Es una propuesta pendiente de primarias, aprobación de la ejecutiva y ratificación del Consell Nacional.",
+      "source": "Última Hora (Europa Press)",
+      "url": "https://www.ultimahora.es/noticias/comunidades/2026/10/08/2725153/junts-quiere-nogueras-madrenas-cruset-gavin-repitan-por-barcelona-girona-tarragona-lleida.html"
+    },
+    {
+      "id": "bng-20261006-1",
+      "party": "bng",
+      "date": "2026-10-06",
+      "topic": "Balance y objetivos",
+      "title": "Rego afirma que el BNG espera aumentar su representación en el Congreso el 29N",
+      "summary": "Néstor Rego dijo que el BNG es «un muro de contención» frente a la derecha y la ultraderecha y citó la quita de deuda y el traspaso de la AP-9 como logros. Son declaraciones suyas.",
+      "source": "Diario de Santiago",
+      "url": "https://www.diariodesantiago.es/galicia/rego-afronta-las-generales-con-confianza-en-que-el-bng-aumente-su-representacion/"
+    },
+    {
+      "id": "all-20261009-1",
+      "party": "all",
+      "date": "2026-10-09",
+      "topic": "Debates",
+      "title": "El PP da por pactados los debates de Mediaset (16 nov) y Atresmedia (26 nov) y cita el de RTVE el 23 nov",
+      "summary": "Según El Debate, la fecha de RTVE está confirmada por el PP, que pone condiciones a TVE. La publicación de encuestas queda prohibida desde el 24 de noviembre.",
+      "source": "El Debate",
+      "url": "https://www.eldebate.com/espana/20261009/posibles-fechas-distintos-debates-electorales-29n_468040.html"
     }
   ],
   "positions": {},
