@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15",
+  "updated": "2026-10-16",
   "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
   "news": [
     {
@@ -671,6 +671,126 @@
       "summary": "Según El Debate, la fecha de RTVE está confirmada por el PP, que pone condiciones a TVE. La publicación de encuestas queda prohibida desde el 24 de noviembre.",
       "source": "El Debate",
       "url": "https://www.eldebate.com/espana/20261009/posibles-fechas-distintos-debates-electorales-29n_468040.html"
+    },
+    {
+      "id": "all-20261014-1",
+      "party": "all",
+      "date": "2026-10-14",
+      "topic": "Encuestas",
+      "title": "El CIS de octubre estima 34 % para el PSOE, 22,2 % para el PP y 17,1 % para Vox",
+      "summary": "Barómetro del CIS publicado el 14 de octubre, con 5.025 entrevistas realizadas del 1 al 6 de octubre (margen de error ±1,4 %). Recoge también Sumar 6,1 % y Podemos 3,1 %, un 17,3 % de indecisos y un 5,1 % que dice que se abstendría. Son estimaciones, no resultados.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/10/14/cis-octubre-hunde-pp-psoe-34-3448290/"
+    },
+    {
+      "id": "all-20261012-2",
+      "party": "all",
+      "date": "2026-10-12",
+      "topic": "Encuestas",
+      "title": "Sigma Dos para El Mundo estima 135 escaños para el PP, 103 para el PSOE y 68 para Vox",
+      "summary": "Sondeo de Sigma Dos (2.017 entrevistas) publicado el 12 de octubre: PP 31,9 %, PSOE 25,3 %, Vox 19,1 %, Sumar 7,6 %. La fuente consultada no indica las fechas de campo. Son estimaciones.",
+      "source": "Sigma Dos / El Mundo",
+      "url": "https://www.sigmados.com/sondeo-de-arranque-de-campana-estimacion-de-voto-para-las-elecciones-generales-29-n/"
+    },
+    {
+      "id": "psoe-20261015-1",
+      "party": "psoe",
+      "date": "2026-10-15",
+      "topic": "Listas electorales",
+      "title": "Al menos 23 miembros de la Ejecutiva del PSOE figuran en las listas del 29N",
+      "summary": "Según EFE, las listas de las agrupaciones provinciales incluyen a la mitad de los 45 miembros de la Ejecutiva. La Comisión Federal de Listas debe aprobarlas el 16 de octubre y el Comité Federal las ratificará el 17.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/10/15/el-psoe-situa-a-la-mitad-de-la-ejecutiva-federal-en-las-listas-para-congreso-y-senado/"
+    },
+    {
+      "id": "pp-20261015-1",
+      "party": "pp",
+      "date": "2026-10-15",
+      "topic": "Pensiones",
+      "title": "El PP aclara su posición sobre pensiones tras unas declaraciones de Ester Muñoz",
+      "summary": "Muñoz había hablado en una entrevista de un modelo de «doble velocidad». El 15 de octubre dijo que el PP «nunca» sostuvo que no puedan revalorizarse y que cree en el sistema público. Feijóo prometió el 13 en Huesca asegurar las pensiones y subidas ligadas al IPC (según elDiario.es).",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/pp-patina-pensiones-precampana-29n_1_13586089.html"
+    },
+    {
+      "id": "vox-20261014-1",
+      "party": "vox",
+      "date": "2026-10-14",
+      "topic": "Estrategia de campaña",
+      "title": "Abascal reúne a la dirección de Vox para diseñar la campaña y pide buscar la mayoría",
+      "summary": "Según EFE, el 14 de octubre reunió en Madrid al Comité Ejecutivo Nacional, al Comité de Acción Política y a los portavoces. Dijo que «nada está escrito», calificó las elecciones de «existenciales» y pidió una campaña «sin odio».",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/10/14/abascal-llama-a-vox-a-ser-ambicioso-y-buscar-la-mayoria-el-29n-nada-esta-escrito/"
+    },
+    {
+      "id": "podemos-20261015-1",
+      "party": "podemos",
+      "date": "2026-10-15",
+      "topic": "Coaliciones",
+      "title": "Belarra ve «muy difícil» un acuerdo con el Frente Amplio en Madrid y Barcelona",
+      "summary": "Según EFE, Podemos ofrece coalición solo con IU en 10 comunidades y prioriza el pacto con ERC en Cataluña. Las primarias abiertas para elegir cabeza de lista terminan el 15; solo se ha presentado Irene Montero, por Madrid. El plazo de coaliciones cierra el 16.",
+      "source": "Última Hora (EFE)",
+      "url": "https://ultimahora.es/noticias/elecciones-29n/2026/10/15/2729529/podemos-aleja-pacto-frente-amplio-madrid-barcelona-dia-del-fin-del-plazo.html"
+    },
+    {
+      "id": "sumar-20261015-1",
+      "party": "sumar",
+      "date": "2026-10-15",
+      "topic": "Coaliciones",
+      "title": "Maíllo (IU) rechaza negociar con Podemos al margen del Frente Amplio",
+      "summary": "Según EFE, el coordinador de IU quiere una candidatura estatal unificada, «no troceada». Ada Colau dijo que «esto va de parar al fascismo» y Emilio Delgado (Más Madrid) ve viable, aunque no deseable, tener dos papeletas en Madrid.",
+      "source": "Última Hora (EFE)",
+      "url": "https://ultimahora.es/noticias/elecciones-29n/2026/10/15/2729529/podemos-aleja-pacto-frente-amplio-madrid-barcelona-dia-del-fin-del-plazo.html"
+    },
+    {
+      "id": "junts-20261014-1",
+      "party": "junts",
+      "date": "2026-10-14",
+      "topic": "Justicia y amnistía",
+      "title": "El Tribunal de Cuentas absuelve a Puigdemont y otros 34 por los gastos del procés",
+      "summary": "El 14 de octubre aplicó la amnistía a 35 demandados y ordenó levantar las medidas cautelares. La sentencia no es firme y puede recurrirse. La Fiscalía reclamaba cerca de 3,1 millones de euros (Infobae).",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/2026/10/14/el-tribunal-de-cuentas-amnistia-a-carles-puigdemont-oriol-junqueras-y-otros-33-excargos-del-govern-por-los-gastos-del-proces/"
+    },
+    {
+      "id": "junts-20261006-1",
+      "party": "junts",
+      "date": "2026-10-06",
+      "topic": "Justicia y amnistía",
+      "title": "Llarena deja sin efecto, de forma provisional, la orden nacional de detención de Puigdemont",
+      "summary": "El juez del Supremo lo decidió el 6 de octubre tras el amparo del Constitucional a Dolors Bassa. El auto no declara aplicable la amnistía ni resuelve las demás cuestiones pendientes. Afecta también a Comín y Puig.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/2026/10/06/el-juez-llarena-deja-sin-efecto-la-orden-nacional-de-detencion-contra-puigdemont-tras-el-aval-del-constitucional-a-la-amnistia/"
+    },
+    {
+      "id": "erc-20261014-1",
+      "party": "erc",
+      "date": "2026-10-14",
+      "topic": "Justicia y amnistía",
+      "title": "El Tribunal de Cuentas aplica la amnistía a Junqueras y otros 34 excargos del procés",
+      "summary": "La sentencia del 14 de octubre absuelve a los 35 demandados de responsabilidad contable por el 1-O y la acción exterior. Los encausados habían depositado más de 4 millones en fianzas. Cabe recurso (Infobae).",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/2026/10/14/el-tribunal-de-cuentas-amnistia-a-carles-puigdemont-oriol-junqueras-y-otros-33-excargos-del-govern-por-los-gastos-del-proces/"
+    },
+    {
+      "id": "bildu-20261015-1",
+      "party": "bildu",
+      "date": "2026-10-15",
+      "topic": "Listas electorales",
+      "title": "Jon Iñarritu no será candidato de EH Bildu el 29N, según The Objective",
+      "summary": "El medio cita fuentes no identificadas. Iñarritu escribió en X «Muchas gracias de corazón». Las candidaturas se someterán a refrendo telemático de las bases el fin de semana siguiente.",
+      "source": "The Objective",
+      "url": "https://theobjective.com/espana/politica/2026-10-15/bildu-prescinde-jon-inarritu/"
+    },
+    {
+      "id": "bng-20261013-1",
+      "party": "bng",
+      "date": "2026-10-13",
+      "topic": "Candidaturas",
+      "title": "El BNG aprobará sus candidaturas el 24 de octubre y Pontón dice que irá «como BNG»",
+      "summary": "Según EFE, el Consello Nacional las fijará ese día. Ana Pontón afirmó que no pactará con otras fuerzas. El BNG aspira a más peso en Madrid; hoy tiene al diputado Néstor Rego y a la exsenadora Carme da Silva.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/10/13/el-bng-aprobara-el-dia-24-sus-candidaturas-centradas-en-conseguir-mas-peso-en-madrid/"
     }
   ],
   "positions": {},
