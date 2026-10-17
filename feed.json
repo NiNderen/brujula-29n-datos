@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16",
+  "updated": "2026-10-17",
   "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
   "news": [
     {
@@ -791,6 +791,136 @@
       "summary": "Según EFE, el Consello Nacional las fijará ese día. Ana Pontón afirmó que no pactará con otras fuerzas. El BNG aspira a más peso en Madrid; hoy tiene al diputado Néstor Rego y a la exsenadora Carme da Silva.",
       "source": "Infobae (EFE)",
       "url": "https://www.infobae.com/espana/agencias/2026/10/13/el-bng-aprobara-el-dia-24-sus-candidaturas-centradas-en-conseguir-mas-peso-en-madrid/"
+    },
+    {
+      "id": "sumar-20261016-1",
+      "party": "sumar",
+      "date": "2026-10-16",
+      "topic": "Coaliciones",
+      "title": "Frente Amplio registra su coalición sin Podemos, salvo en Canarias y la Comunitat Valenciana",
+      "summary": "Según Público, la coalición se registró en la Junta Electoral Central minutos antes del cierre del plazo. Concurre junta con Podemos solo en Canarias (Unidad del Pueblo Canario) y en Compromís-Front Valencià. Las bases de Más Madrid respaldaron con un 88,6 % a Emilio Delgado como cabeza de lista en Madrid.",
+      "source": "Público",
+      "url": "https://www.publico.es/politica/acuerdo-frente-amplio-elecciones-29n-directo-ultima-hora-negociaciones-reacciones.html"
+    },
+    {
+      "id": "podemos-20261016-1",
+      "party": "podemos",
+      "date": "2026-10-16",
+      "topic": "Coaliciones",
+      "title": "Podemos rechaza la última oferta del Frente Amplio y concurre por separado en casi todo el país",
+      "summary": "Según Público, Podemos rechazó un puesto de salida prioritario en Madrid y Cataluña y propuso pactos territoriales. Sus inscritos respaldaron con un 87,7 % concurrir en «las candidaturas más fuertes y amplias posibles». Pablo Fernández negó que se hubiera ofrecido a Podemos el segundo puesto, como afirmó Delgado.",
+      "source": "Público",
+      "url": "https://www.publico.es/politica/acuerdo-frente-amplio-elecciones-29n-directo-ultima-hora-negociaciones-reacciones.html"
+    },
+    {
+      "id": "erc-20261016-1",
+      "party": "erc",
+      "date": "2026-10-16",
+      "topic": "Unidad de izquierdas",
+      "title": "Rufián sobre la unidad de la izquierda: «He fracasado, hemos fracasado»",
+      "summary": "Según Público, Gabriel Rufián (ERC) hizo esta declaración tras cerrarse el plazo de coaliciones sin acuerdo global entre Frente Amplio y Podemos. ERC concurre en Cataluña en colaboración con Podemos, según informó Infobae.",
+      "source": "Público",
+      "url": "https://www.publico.es/politica/acuerdo-frente-amplio-elecciones-29n-directo-ultima-hora-negociaciones-reacciones.html"
+    },
+    {
+      "id": "psoe-20261016-1",
+      "party": "psoe",
+      "date": "2026-10-16",
+      "topic": "Candidaturas",
+      "title": "Montse Mínguez renuncia a su candidatura y a su puesto en la Ejecutiva del PSOE",
+      "summary": "Según El Español, la portavoz dijo «He tomado la decisión de dar un paso atrás» tras la polémica por los pisos de su pareja. Sánchez dijo que le había pedido que no renunciara. Cristina Morón encabezará la lista del PSC por Lleida. Miguel Tellado (PP) afirmó que dimitió porque «la han pillado».",
+      "source": "El Español",
+      "url": "https://www.elespanol.com/espana/20261016/elecciones-generales-directo-ultima-hora-pedro-sanchez-actos-pp-psoe-vox-encuestas-cierre-plazo-electoral-espana-sondeos-voto-por-correo-partidos-2026-29n/1003744422218_10.html"
+    },
+    {
+      "id": "psoe-20261016-2",
+      "party": "psoe",
+      "date": "2026-10-16",
+      "topic": "Listas",
+      "title": "La Comisión de Listas del PSOE aprueba las candidaturas del 29N antes del Comité Federal",
+      "summary": "Según Moncloa.com, la comisión aprobó las listas el 16 de octubre con cambios en Burgos (Aitana Hernando sustituye a Tudanca en el Senado) y Palencia, donde la dirección sustituyó a la persona elegida por la militancia. Según Infobae, Jordi Hereu encabezará la lista del PSC por Barcelona. El Comité Federal las ratifica el 17.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/10/16/listas-psoe-29n-tudanca-burgos-3449893"
+    },
+    {
+      "id": "junts-20261016-1",
+      "party": "junts",
+      "date": "2026-10-16",
+      "topic": "Coaliciones",
+      "title": "Junts y Convergents no alcanzan un acuerdo electoral para el 29N",
+      "summary": "Según EFE recogida por Infobae, Convergents atribuye el fracaso a la «actitud cerrada» de Junts. Convergents prevé aprobar el sábado 17 el inicio de la recogida de firmas (avales), con un plazo de diez días.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/2026/10/16/elecciones-generales-espana-29-n-en-directo-ultima-hora-del-frente-amplio-y-del-viernes-clave-para-la-izquierda/"
+    },
+    {
+      "id": "bildu-20261016-1",
+      "party": "bildu",
+      "date": "2026-10-16",
+      "topic": "Candidaturas",
+      "title": "EH Bildu propone a Oskar Matute en Bizkaia y a Oihana Etxebarrieta en Gipuzkoa para el Congreso",
+      "summary": "Según Moncloa.com, la propuesta incluye a Mikel Otero (Álava) y Eneka Maiz (Navarra) y no repiten Jon Iñarritu, Mertxe Aizpurua ni Bel Pozueta. Las bases deben ratificarla por votación telemática ese fin de semana.",
+      "source": "Moncloa.com",
+      "url": "https://moncloa.com/2026/10/16/eh-bildu-candidatos-generales-29n-3449751"
+    },
+    {
+      "id": "pp-20261016-1",
+      "party": "pp",
+      "date": "2026-10-16",
+      "topic": "Programa",
+      "title": "Feijóo presentará un plan de «reconstrucción nacional» con tres pilares, según Público",
+      "summary": "Según Público, que cita a ABC, uno de los pilares es «rearmar la democracia». Feijóo habló en Toledo en un acto de AFAMMER: «Quiero ser la puerta de entrada a una España mejor».",
+      "source": "Público",
+      "url": "https://www.publico.es/politica/feijoo-suya-reconstruccion-espana-plantea-vox-abascal-eleva-apuesta-hay-cambiarlo.html"
+    },
+    {
+      "id": "pp-20261016-2",
+      "party": "pp",
+      "date": "2026-10-16",
+      "topic": "Economía",
+      "title": "El PP defiende elevar el límite de horas extraordinarias; Feijóo propuso que las mutuas den altas",
+      "summary": "Según un análisis de El Salto recogido por Moncloa.com, el vicesecretario de Economía del PP defiende ampliar el margen de horas extra. El artículo indica que Feijóo ha propuesto en varias ocasiones que las mutuas puedan dar altas médicas, sin precisar fechas.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/10/16/propuestas-economicas-vox-pp-29n-3449552/"
+    },
+    {
+      "id": "vox-20261016-1",
+      "party": "vox",
+      "date": "2026-10-16",
+      "topic": "Pensiones e IRPF",
+      "title": "Vox plantea un modelo mixto de pensiones y un IRPF de dos tramos, según un análisis de El Salto",
+      "summary": "Según Moncloa.com, el diputado José María Figaredo propone combinar reparto y capitalización. El análisis de El Salto estima que el IRPF de dos tramos supondría unos 85.000 millones menos de recaudación; es una estimación no oficial.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/10/16/propuestas-economicas-vox-pp-29n-3449552/"
+    },
+    {
+      "id": "vox-20261016-2",
+      "party": "vox",
+      "date": "2026-10-16",
+      "topic": "Campaña",
+      "title": "Abascal: «Esta elección es existencial para el conjunto de los españoles»",
+      "summary": "Según Público, lo dijo en el último Comité Ejecutivo Nacional de Vox. También afirmó que el 29N es «ahora o quizá nunca» y que, si Vox gana, habrá que «cambiarlo todo».",
+      "source": "Público",
+      "url": "https://www.publico.es/politica/feijoo-suya-reconstruccion-espana-plantea-vox-abascal-eleva-apuesta-hay-cambiarlo.html"
+    },
+    {
+      "id": "all-20261016-1",
+      "party": "all",
+      "date": "2026-10-16",
+      "topic": "Voto exterior",
+      "title": "El Defensor del Pueblo recurre en amparo la suspensión del voto de los nacionalizados por la ley de nietos",
+      "summary": "Según Infobae, el Supremo suspendió preventivamente el voto de 163.020 inscritos en el CERA. Ángel Gabilondo presentó un recurso de amparo ante el Tribunal Constitucional.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/2026/10/16/elecciones-generales-espana-29-n-en-directo-ultima-hora-del-frente-amplio-y-del-viernes-clave-para-la-izquierda/"
+    },
+    {
+      "id": "all-20261016-2",
+      "party": "all",
+      "date": "2026-10-16",
+      "topic": "Coaliciones",
+      "title": "Cierra el plazo de coaliciones: PSOE y Frente Amplio pactan listas conjuntas al Senado en casi todas las provincias",
+      "summary": "Según Público, Frente Amplio registró candidaturas distintas en Aragón, Baleares, Andalucía, Asturias y Navarra; Teruel Existe y Aragón Existe concurren como Coalición Existe. El PRC de Cantabria decidió no concurrir (39 votos a favor, 14 en contra).",
+      "source": "Público",
+      "url": "https://www.publico.es/politica/acuerdo-frente-amplio-elecciones-29n-directo-ultima-hora-negociaciones-reacciones.html"
     }
   ],
   "positions": {},
