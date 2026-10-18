@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17",
+  "updated": "2026-10-18",
   "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
   "news": [
     {
@@ -921,6 +921,86 @@
       "summary": "Según Público, Frente Amplio registró candidaturas distintas en Aragón, Baleares, Andalucía, Asturias y Navarra; Teruel Existe y Aragón Existe concurren como Coalición Existe. El PRC de Cantabria decidió no concurrir (39 votos a favor, 14 en contra).",
       "source": "Público",
       "url": "https://www.publico.es/politica/acuerdo-frente-amplio-elecciones-29n-directo-ultima-hora-negociaciones-reacciones.html"
+    },
+    {
+      "id": "psoe-20261017-1",
+      "party": "psoe",
+      "date": "2026-10-17",
+      "topic": "Candidatura",
+      "title": "El Comité Federal del PSOE proclama por unanimidad a Sánchez candidato al 29N",
+      "summary": "Reunido en Fuenlabrada el 17 de octubre, el Comité ratificó las listas al Congreso y al Senado; según el partido, el 52 % de las cabezas de lista al Congreso son mujeres.",
+      "source": "Diario Jaén",
+      "url": "https://www.diariojaen.es/espana/el-comite-federal-del-psoe-proclama-por-unanimidad-a-pedro-sanchez-como-candidato-al-29n-PA11662805"
+    },
+    {
+      "id": "podemos-20261017-1",
+      "party": "podemos",
+      "date": "2026-10-17",
+      "topic": "Candidatura",
+      "title": "Montero presenta su candidatura y acusa al Frente Amplio de preferir pactar con el PSOE en el Senado",
+      "summary": "En el Consejo Ciudadano Estatal del 17 de octubre, Montero anunció el lema «Paz, casa, trabajo»; dijo que la candidatura se eligió en primarias con más de 25.000 participantes.",
+      "source": "Libertad Digital",
+      "url": "https://www.libertaddigital.com/espana/politica/2026-10-17/irene-montero-presenta-su-candidatura-al-29n-cargando-contra-el-frente-amplio-por-su-cercania-al-psoe-7477673/"
+    },
+    {
+      "id": "vox-20261017-1",
+      "party": "vox",
+      "date": "2026-10-17",
+      "topic": "Senado",
+      "title": "Abascal promete «hacer lo necesario» tras el pacto PSOE-Frente Amplio para el Senado",
+      "summary": "En un mensaje en X el 17 de octubre dijo que Vox actuará «con altura de miras»; no precisó si pactará con el PP ni si presentará lista propia al Senado.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/10/17/abascal-pacto-senado-altura-miras-3450372"
+    },
+    {
+      "id": "vox-20261018-1",
+      "party": "vox",
+      "date": "2026-10-18",
+      "topic": "Senado",
+      "title": "Vox decidirá el lunes si negocia con el PP una fórmula para el Senado, según El Español",
+      "summary": "Según el diario, la dirección valora no presentarse en provincias donde dividir el voto favorezca a la lista de izquierdas, a cambio de plazas en las listas del PP.",
+      "source": "El Español",
+      "url": "https://www.elespanol.com/espana/politica/20261018/vox-dispuesto-demostrar-altura-miras-frente-popular-senado-lunes-decidira-pacta-pp/1003744424775_0.html"
+    },
+    {
+      "id": "vox-20261017-2",
+      "party": "vox",
+      "date": "2026-10-17",
+      "topic": "Acto público",
+      "title": "Vox anuncia un acto con Abascal en Palma el 24 de octubre",
+      "summary": "Vox Baleares convocó el acto público de campaña para el sábado 24 de octubre a las 12.00 horas en la calle del Mirador.",
+      "source": "Última Hora",
+      "url": "https://www.ultimahora.es/noticias/elecciones-29n/2026/10/17/2730849/vox-celebrara-acto-publico-santiago-abascal-proximo-sabado-octubre.html"
+    },
+    {
+      "id": "pnv-20261017-1",
+      "party": "pnv",
+      "date": "2026-10-17",
+      "topic": "Listas",
+      "title": "El PNV ratifica a Vaquero, Sagastizabal y Urtaran como cabezas de lista al Congreso",
+      "summary": "La asamblea nacional del partido, reunida en Bilbao el 17 de octubre, aprobó por unanimidad las listas; al Senado encabezan Nerea Ahedo (Bizkaia), Luke Uribe-Etxebarria (Gipuzkoa) y Saray Zarate (Álava).",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/10/17/listas-pnv-congreso-29n-3450355"
+    },
+    {
+      "id": "pp-20261018-1",
+      "party": "pp",
+      "date": "2026-10-18",
+      "topic": "Senado",
+      "title": "Feijóo llama «coalición de desesperados» al pacto PSOE-Frente Amplio para el Senado",
+      "summary": "Según El Español, Tellado dijo que el PSOE «ha renunciado al centro»; Feijóo participa el 18 de octubre en un acto en Barcelona con Alejandro Fernández y Xavier García Albiol.",
+      "source": "El Español",
+      "url": "https://www.elespanol.com/espana/politica/20261018/vox-dispuesto-demostrar-altura-miras-frente-popular-senado-lunes-decidira-pacta-pp/1003744424775_0.html"
+    },
+    {
+      "id": "all-20261018-1",
+      "party": "all",
+      "date": "2026-10-18",
+      "topic": "Senado",
+      "title": "PSOE y Frente Amplio cederán a su socio un nombre de los tres de cada lista al Senado",
+      "summary": "Según El Español, el PSOE da a su socio uno de sus tres nombres por provincia; PP y Vox estudian una fórmula similar. Cada elector marca hasta tres nombres y la lista más votada logra tres escaños.",
+      "source": "El Español",
+      "url": "https://www.elespanol.com/espana/politica/20261018/vox-dispuesto-demostrar-altura-miras-frente-popular-senado-lunes-decidira-pacta-pp/1003744424775_0.html"
     }
   ],
   "positions": {},
