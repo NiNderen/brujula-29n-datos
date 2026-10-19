@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18",
+  "updated": "2026-10-19",
   "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
   "news": [
     {
@@ -21,16 +21,6 @@
       "summary": "La candidata del PSOE andaluz llamó a convertir la «energía social» en «energía electoral» y calificó la vivienda de «emergencia nacional».",
       "source": "Diario de Pontevedra",
       "url": "https://www.diariodepontevedra.es/articulo/espana/precampana-29-n-directo/202610101421181471632.html"
-    },
-    {
-      "id": "pp-1",
-      "party": "pp",
-      "date": "2026-10-10",
-      "topic": "Precampaña",
-      "title": "Feijóo abre la precampaña en IFEMA con la promesa de una «reconstrucción nacional»",
-      "summary": "Con Aznar y Rajoy presentes, cerró con el lema «orden, seguridad, prosperidad». Fue un discurso de compromisos generales, sin medidas detalladas.",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/espana/2026/10/10/el-pp-arranca-en-madrid-la-precampana-para-las-elecciones-generales-del-29-de-noviembre-con-la-promesa-de-feijoo-de-ser-el-presidente-que-espana-esta-esperando/"
     },
     {
       "id": "pp-2",
@@ -143,26 +133,6 @@
       "url": "https://www.moncloa.com/2026/10/11/sanchez-urnas-llenas-voto-correo-29n-3446093"
     },
     {
-      "id": "pp-20261009-1",
-      "party": "pp",
-      "date": "2026-10-09",
-      "topic": "Debates",
-      "title": "El PP propone un cara a cara Feijóo-Sánchez el 16 de noviembre y un debate a cuatro el 26",
-      "summary": "El PP dice aceptar la invitación de Mediaset para el cara a cara del 16 de noviembre y la de Atresmedia para un debate a cuatro (PP, PSOE, Vox y Frente Amplio) el 26. Propone un debate de portavoces el 23 en RTVE. El artículo no recoge reacción del PSOE.",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/pp-plantea-cara-cara-feijoo-sanchez-debate-cuatro-portavoces-29n_1_13574252.html"
-    },
-    {
-      "id": "pp-20261006-1",
-      "party": "pp",
-      "date": "2026-10-06",
-      "topic": "Caso Leire Díez",
-      "title": "El PP pide a la Audiencia Nacional que impute al PSOE como persona jurídica",
-      "summary": "Como acusación popular, el PP pide al juez Pedraz imputar al PSOE en el caso Leire Díez por varios delitos. El juez ha pedido a Anticorrupción que se pronuncie. El artículo no recoge respuesta del PSOE.",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/pp-inaugura-precampana-29n-nueva-ofensiva-tribunales-psoe_1_13566904.html"
-    },
-    {
       "id": "vox-20261010-1",
       "party": "vox",
       "date": "2026-10-10",
@@ -271,16 +241,6 @@
       "summary": "Estudio 3532, 6.019 entrevistas telefónicas. Voto más simpatía: PSOE 23,7%, PP 17,1%, Vox 10,5%, Sumar 5,5%, Podemos 2,2%, ERC 1,8%. El CIS advierte de que no es una proyección electoral y no da escaños.",
       "source": "Infobae",
       "url": "https://www.infobae.com/espana/2026/10/08/ha-salido-el-cis-el-psoe-ganaria-las-elecciones-pero-pp-y-vox-suman-mayoria-con-un-76-de-espanoles-a-favor-de-que-el-estado-intervenga-en-el-mercado-de-la-vivienda/"
-    },
-    {
-      "id": "psoe-20261009-1",
-      "party": "psoe",
-      "date": "2026-10-09",
-      "topic": "Senado",
-      "title": "El PSOE estudia candidaturas conjuntas al Senado con otras fuerzas de izquierda",
-      "summary": "Fuentes de Ferraz citadas por EFE dicen que analiza «todas las alternativas y escenarios posibles». El Comité Federal se reúne el 17 de octubre para ratificar listas y la candidatura de Sánchez.",
-      "source": "elDiario.es (EFE)",
-      "url": "https://www.eldiario.es/politica/psoe-estudia-candidaturas-conjuntas-senado-fuerzas-izquierda-evitar-mayoria-pp_1_13576621.html"
     },
     {
       "id": "psoe-20261009-2",
@@ -581,16 +541,6 @@
       "summary": "El acuerdo, según Moncloa.com, incluye un programa común, el compromiso de respetar el régimen foral y el Convenio Económico y de votar a favor de eliminar la disposición transitoria cuarta de la Constitución. Lo firmarían Miguel Tellado y Cristina Ibarrola.",
       "source": "Moncloa.com",
       "url": "https://www.moncloa.com/2026/10/13/pp-upn-coalicion-elecciones-29n-3447654/"
-    },
-    {
-      "id": "pp-20261005-1",
-      "party": "pp",
-      "date": "2026-10-05",
-      "topic": "Vivienda",
-      "title": "Feijóo propone construir 250.000 viviendas al año y rebajar el IVA de la vivienda al 4 %",
-      "summary": "En el Congreso de la Empresa Familiar, en Madrid, Feijóo planteó vender con un 30 % de descuento las viviendas sobre suelo público y conceder licencias por silencio administrativo a los 90 días. Las estimaciones de empleo son del PP.",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/espana/2026/10/05/feijoo-anuncia-sus-propuestas-en-vivienda-de-construir-250000-casas-al-ano-a-rebajar-el-iva-al-4-para-jovenes/"
     },
     {
       "id": "vox-20261011-1",
@@ -1001,6 +951,146 @@
       "summary": "Según El Español, el PSOE da a su socio uno de sus tres nombres por provincia; PP y Vox estudian una fórmula similar. Cada elector marca hasta tres nombres y la lista más votada logra tres escaños.",
       "source": "El Español",
       "url": "https://www.elespanol.com/espana/politica/20261018/vox-dispuesto-demostrar-altura-miras-frente-popular-senado-lunes-decidira-pacta-pp/1003744424775_0.html"
+    },
+    {
+      "id": "podemos-20261017-2",
+      "party": "podemos",
+      "date": "2026-10-17",
+      "topic": "Huelga general",
+      "title": "Belarra llama a la huelga general del 11 de noviembre",
+      "summary": "Ione Belarra pidió secundar la huelga general del 11 de noviembre y afirmó que «más PSOE solo traerá más Partido Popular y Vox», según el seguimiento de Vozpópuli del 17 de octubre.",
+      "source": "Vozpópuli",
+      "url": "https://www.vozpopuli.com/espana/politica/elecciones-generales-del-29-n-en-directo-ultima-hora-de-las-listas-electorales-sanchez-y-feijoo.html"
+    },
+    {
+      "id": "pnv-20261017-2",
+      "party": "pnv",
+      "date": "2026-10-17",
+      "topic": "Pacto con el PSOE",
+      "title": "Aitor Esteban cifra en «más de un 75 %» el cumplimiento del pacto de 2023 con el PSOE",
+      "summary": "Esteban dijo el 17 de octubre que el PNV fue «el único partido» que evitó que Vox gobernara. Son valoraciones del propio dirigente.",
+      "source": "Vozpópuli",
+      "url": "https://www.vozpopuli.com/espana/politica/elecciones-generales-del-29-n-en-directo-ultima-hora-de-las-listas-electorales-sanchez-y-feijoo.html"
+    },
+    {
+      "id": "pp-20261018-2",
+      "party": "pp",
+      "date": "2026-10-18",
+      "topic": "Albiol y Cataluña",
+      "title": "Albiol encabezará la lista del PP por Barcelona y liderará la ley antiokupas",
+      "summary": "Feijóo proclamó a Xavier García Albiol cabeza de lista por Barcelona y le encargó liderar en el Congreso la ley antiokupas, según el directo de Infobae del 19 de octubre. Cataluña reparte 42 de los 350 escaños.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/2026/10/19/elecciones-generales-29-n-en-directo-ultima-hora-de-los-sondeos-la-ley-de-nietos-o-los-anuncios-sobre-pensiones/"
+    },
+    {
+      "id": "pp-20261018-3",
+      "party": "pp",
+      "date": "2026-10-18",
+      "topic": "Gobernabilidad",
+      "title": "Feijóo: «Un Gobierno con Vox puede funcionar»",
+      "summary": "En una entrevista con El Periódico recogida por ESdiario, Feijóo dijo que el documento marco enviado a los barones para negociar con Vox sigue «plenamente vigente» y que el 29 de noviembre se decidirá quién preside el Gobierno.",
+      "source": "ESdiario",
+      "url": "https://www.esdiario.com/nacional/261018/200557/feijoo-gobernar-vox-gobierno-solitario-puede-funcionar-29n.html"
+    },
+    {
+      "id": "pp-20261019-1",
+      "party": "pp",
+      "date": "2026-10-19",
+      "topic": "Contrato con España",
+      "title": "Feijóo presenta en Madrid el «Contrato con España»",
+      "summary": "Según la agenda de EFE, Feijóo interviene el 19 de octubre en la presentación de un manifiesto sin siglas dirigido a votantes indecisos, según El Español, sobre servicio público y gobernabilidad.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/10/18/hoy-sera-noticia-lunes-19-de-octubre/"
+    },
+    {
+      "id": "upn-20261017-1",
+      "party": "upn",
+      "date": "2026-10-17",
+      "topic": "Candidatura Navarra",
+      "title": "Sergio Sayas será el número 2 de la candidatura conjunta PP-UPN por Navarra",
+      "summary": "Vozpópuli recogió el 17 de octubre que Sayas irá de número 2 en la lista conjunta, cuyo cabeza de lista es Feijóo según el pacto ya anunciado.",
+      "source": "Vozpópuli",
+      "url": "https://www.vozpopuli.com/espana/politica/elecciones-generales-del-29-n-en-directo-ultima-hora-de-las-listas-electorales-sanchez-y-feijoo.html"
+    },
+    {
+      "id": "sumar-20261017-1",
+      "party": "sumar",
+      "date": "2026-10-17",
+      "topic": "Listas Frente Amplio",
+      "title": "Colau presenta su candidatura y Urtasun será el número 2 por Barcelona",
+      "summary": "Ada Colau presentó su candidatura como cabeza de lista el 17 de octubre. Ernest Urtasun irá de número 2 por Barcelona con el 94,1 % de apoyo de Los Comuns, según Vozpópuli.",
+      "source": "Vozpópuli",
+      "url": "https://www.vozpopuli.com/espana/politica/elecciones-generales-del-29-n-en-directo-ultima-hora-de-las-listas-electorales-sanchez-y-feijoo.html"
+    },
+    {
+      "id": "psoe-20261019-1",
+      "party": "psoe",
+      "date": "2026-10-19",
+      "topic": "Precampaña",
+      "title": "Sánchez participa en un acto en Valladolid; Robles figura como número 2 en las listas",
+      "summary": "Sánchez asiste el 19 de octubre a un acto con Óscar Puente y Ana Redondo en la Cúpula del Milenio. El Español señala a Margarita Robles como número dos de la lista de Sánchez.",
+      "source": "El Español",
+      "url": "https://www.elespanol.com/espana/20261019/elecciones-generales-directo-ultima-hora-pedro-sanchez-gobierno-actos-psoe-pp-vox-voto-correo-sondeos-encuestas-espana-2026-partidos/1003744425383_10.html"
+    },
+    {
+      "id": "junts-20261017-1",
+      "party": "junts",
+      "date": "2026-10-17",
+      "topic": "Candidatura",
+      "title": "Nogueras, proclamada cabeza de lista de Junts por Barcelona en La Garriga",
+      "summary": "En el Consell Nacional del 17 de octubre dijo que las elecciones decidirán la capacidad de Cataluña de «frenar a los extremos» y criticó a Illa y al Govern como «florero» del PSOE.",
+      "source": "Catalunya Press",
+      "url": "https://www.catalunyapress.es/articulo/politica-catalunya/2026-10-17/6055500-nogueras-reivindica-junts-como-freno-extremos-acusa-illa-servir-psoe"
+    },
+    {
+      "id": "bng-20261018-1",
+      "party": "bng",
+      "date": "2026-10-18",
+      "topic": "Campaña en Galicia",
+      "title": "Pontón dice que solo el BNG puede ganar «capacidad de negociación» en Madrid",
+      "summary": "En la Cadena SER, Pontón descartó integrarse en plataformas estatales, defendió a Néstor Rego y Carme da Silva y dijo que las candidaturas se decidirán el día 24. Pidió a Rueda adelantar las autonómicas.",
+      "source": "Infobae (Europa Press)",
+      "url": "https://www.infobae.com/espana/agencias/2026/10/18/ponton-bng-confia-en-ganar-capacidad-de-negociacion-en-madrid-y-llama-a-rueda-a-convocar-autonomicas/"
+    },
+    {
+      "id": "cc-20261015-2",
+      "party": "cc",
+      "date": "2026-10-15",
+      "topic": "Candidaturas",
+      "title": "Valido (Tenerife) y Teodoro Sosa (Las Palmas) encabezan las listas de CC y Primero Canarias",
+      "summary": "La alianza, oficializada el 15 de octubre, concurrirá con nombre distinto según la provincia. Las candidaturas al Senado aún no están definidas.",
+      "source": "La Gaceta de Canarias",
+      "url": "https://lagacetadecanarias.com/coalicion-canaria-y-primero-canarias-hacen-oficial-su-alianza-cristina-valido-y-teodoro-sosa-encabezaran-las-listas-al-congreso/"
+    },
+    {
+      "id": "all-20261019-1",
+      "party": "all",
+      "date": "2026-10-19",
+      "topic": "Ley de nietos",
+      "title": "163.020 nacionalizados siguen sin voto cautelar; el Supremo recibe alegaciones hasta el jueves 22",
+      "summary": "Según el directo de Infobae, los afectados deben personarse con abogado y procurador ante el Supremo, lo que no garantiza que puedan votar el 29 de noviembre.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/2026/10/19/elecciones-generales-29-n-en-directo-ultima-hora-de-los-sondeos-la-ley-de-nietos-o-los-anuncios-sobre-pensiones/"
+    },
+    {
+      "id": "all-20261019-2",
+      "party": "all",
+      "date": "2026-10-19",
+      "topic": "Senado",
+      "title": "Un análisis de El Español estima los escenarios de mayoría de tres quintos de PP y Vox en el Senado",
+      "summary": "Con la encuesta SocioMétrica del 11 de octubre, estima 162 de 267 escaños en dos escenarios. Son proyecciones; PP y Vox no han cerrado ningún acuerdo y Vox decidía el lunes si negociar.",
+      "source": "El Español",
+      "url": "https://www.elespanol.com/espana/politica/20261019/derecha-conservaria-quintos-senado-vox-no-presenta-provincias-va-listas-pp/1003744425410_0.html"
+    },
+    {
+      "id": "all-20261019-3",
+      "party": "all",
+      "date": "2026-10-19",
+      "topic": "Voto exterior",
+      "title": "Sindicatos del Consulado en Caracas advierten de que votar el 29-N en la sede provisional es «imposible»",
+      "summary": "Según El Español, afecta a un censo de más de 130.000 españoles. La advertencia procede de los sindicatos del consulado.",
+      "source": "El Español",
+      "url": "https://www.elespanol.com/espana/20261019/elecciones-generales-directo-ultima-hora-pedro-sanchez-gobierno-actos-psoe-pp-vox-voto-correo-sondeos-encuestas-espana-2026-partidos/1003744425383_10.html"
     }
   ],
   "positions": {},
