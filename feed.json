@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
   "news": [
     {
@@ -1091,6 +1091,66 @@
       "summary": "Según El Español, afecta a un censo de más de 130.000 españoles. La advertencia procede de los sindicatos del consulado.",
       "source": "El Español",
       "url": "https://www.elespanol.com/espana/20261019/elecciones-generales-directo-ultima-hora-pedro-sanchez-gobierno-actos-psoe-pp-vox-voto-correo-sondeos-encuestas-espana-2026-partidos/1003744425383_10.html"
+    },
+    {
+      "id": "vox-20261019-1",
+      "party": "vox",
+      "date": "2026-10-19",
+      "topic": "Senado",
+      "title": "Abascal ofrece al PP «algún entendimiento» para el Senado tras el Comité Ejecutivo",
+      "summary": "Tras reunirse el Comité Ejecutivo Nacional de Vox, Abascal dijo que mantienen «la voluntad de algún entendimiento que proteja el Senado» y pidió a la oposición «sacrificarse». No detalló la fórmula.",
+      "source": "Última Hora (Europa Press)",
+      "url": "https://www.ultimahora.es/noticias/elecciones-29n/2026/10/19/2732271/abascal-tiende-mano-para-negociar-algun-entendimiento-para-senado.html"
+    },
+    {
+      "id": "pp-20261019-2",
+      "party": "pp",
+      "date": "2026-10-19",
+      "topic": "Senado",
+      "title": "El PP guarda discreción ante la oferta de Vox para el Senado; las listas cierran el 26-O",
+      "summary": "Según Moncloa.com, la dirección del PP no confirma negociación y recuerda que el plazo para registrar candidaturas termina el 26 de octubre. Fuentes del partido hablan de «buena voluntad» y otras advierten de que un pacto «nunca es gratis».",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/10/19/pacto-pp-vox-senado-listas-26o-3451726/"
+    },
+    {
+      "id": "bildu-20261019-1",
+      "party": "bildu",
+      "date": "2026-10-19",
+      "topic": "Candidatura",
+      "title": "EH Bildu presenta su candidatura al 29N con Matute al Congreso e Idurre Bideguren al Senado",
+      "summary": "Según Moncloa.com, las bases ratificaron las listas con un respaldo medio del 97 %. Otegi dijo que EH Bildu es la izquierda a la izquierda del PSOE en Euskal Herria y que sus escaños podrían frenar a un gobierno autoritario.",
+      "source": "Moncloa.com",
+      "url": "https://moncloa.com/2026/10/19/eh-bildu-elecciones-generales-29n-2-3451602"
+    },
+    {
+      "id": "erc-20261019-1",
+      "party": "erc",
+      "date": "2026-10-19",
+      "topic": "Estrategia electoral",
+      "title": "Alamany defiende la estrategia de ERC y a Rufián como «el mejor candidato posible»",
+      "summary": "La secretaria general de ERC dijo que el partido concurre con siglas propias y con un acuerdo con Podemos, que incluye a miembros de Podemos en sus listas. El colectivo crítico Primer d'Octubre cuestionó el pacto en un comunicado.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/10/19/erc-reivindica-su-estrategia-para-el-29n-y-a-rufian-tenemos-el-mejor-candidato/"
+    },
+    {
+      "id": "all-20261018-2",
+      "party": "all",
+      "date": "2026-10-18",
+      "topic": "Coaliciones",
+      "title": "Nueve coaliciones registradas para el 29N, dos de ellas en Canarias",
+      "summary": "Según Diario de Avisos, tres concurren solo al Senado (Senado de Progreso, ERC-EH Bildu y Comuns-Front Ampli) y dos solo al Congreso (Frente Amplio y Compromís). Las candidaturas se presentan del 21 al 26 de octubre.",
+      "source": "Diario de Avisos",
+      "url": "https://diariodeavisos.elespanol.com/2026/10/nueve-coaliciones-se-registran-para-el-29n-dos-de-ellas-en-canarias/"
+    },
+    {
+      "id": "all-20261019-4",
+      "party": "all",
+      "date": "2026-10-19",
+      "topic": "Encuesta",
+      "title": "Sigma Dos para El Mundo estima 132-137 escaños para el PP y 101-106 para el PSOE",
+      "summary": "Estimación con trabajo de campo del 1 al 14 de octubre (3.007 entrevistas, margen ±2,1 %): PP 31,5 %, PSOE 25,3 %, Vox 19,5 % (65-68 escaños), Frente Amplio 7,2 %. Son estimaciones, no resultados.",
+      "source": "Sigma Dos",
+      "url": "https://www.sigmados.com/noticia?id=EIJOKGN2GFZmhHt"
     }
   ],
   "positions": {},
