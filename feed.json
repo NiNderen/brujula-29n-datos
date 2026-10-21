@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20",
+  "updated": "2026-10-21",
   "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
   "news": [
     {
@@ -21,26 +21,6 @@
       "summary": "La candidata del PSOE andaluz llamó a convertir la «energía social» en «energía electoral» y calificó la vivienda de «emergencia nacional».",
       "source": "Diario de Pontevedra",
       "url": "https://www.diariodepontevedra.es/articulo/espana/precampana-29-n-directo/202610101421181471632.html"
-    },
-    {
-      "id": "pp-2",
-      "party": "pp",
-      "date": "2026-10-10",
-      "topic": "Voto por correo",
-      "title": "Ayuso dice temer «trampas» con el voto por correo",
-      "summary": "Lo afirmó en el acto del PP. Sánchez, por su parte, acusó a PP y Vox de difundir bulos sobre ese voto. El Gobierno no ha confirmado irregularidades en el texto citado.",
-      "source": "Diario de Pontevedra",
-      "url": "https://www.diariodepontevedra.es/articulo/espana/precampana-29-n-directo/202610101421181471632.html"
-    },
-    {
-      "id": "vox-1",
-      "party": "vox",
-      "date": "2026-10-06",
-      "topic": "Programa",
-      "title": "Vox plantea como líneas rojas la prioridad nacional y la remigración",
-      "summary": "Abascal quiere llevar a un posible pacto estatal con el PP lo que ya incluyó en acuerdos autonómicos. Un sondeo de 40dB (25-28 sept.) le daba el 18,4 %, frente al 31,6 % del PP y el 27,4 % del PSOE.",
-      "source": "Mundiario",
-      "url": "https://www.mundiario.com/articulo/politica/programa-maximos-vox-29-n-abascal-impone-lineas-rojas-feijoo/20261006031035445119.html"
     },
     {
       "id": "sumar-1",
@@ -131,16 +111,6 @@
       "summary": "En un acto en Dos Hermanas (Sevilla), Sánchez dijo que PP y Vox prefieren que vote menos gente y defendió el voto por correo. El PP sostiene que su crítica se dirige a la fiabilidad del sistema, no a los votantes.",
       "source": "Moncloa.com",
       "url": "https://www.moncloa.com/2026/10/11/sanchez-urnas-llenas-voto-correo-29n-3446093"
-    },
-    {
-      "id": "vox-20261010-1",
-      "party": "vox",
-      "date": "2026-10-10",
-      "topic": "Pactos y Ceuta",
-      "title": "Abascal afirma que Vox tiene «voluntad de entendimiento» con el PP y propone «remigración»",
-      "summary": "En una entrevista en ABC recogida por EFE, Abascal dijo que Vox quiere carteras ministeriales, pidió despliegue permanente del Ejército en Ceuta y Melilla y propuso la «remigración» de personas sin derecho a estar en España.",
-      "source": "Infobae (EFE)",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/10/abascal-tenemos-una-voluntad-de-entendimiento-aun-mayor-con-el-partido-popular/"
     },
     {
       "id": "sumar-20261009-1",
@@ -241,26 +211,6 @@
       "summary": "Estudio 3532, 6.019 entrevistas telefónicas. Voto más simpatía: PSOE 23,7%, PP 17,1%, Vox 10,5%, Sumar 5,5%, Podemos 2,2%, ERC 1,8%. El CIS advierte de que no es una proyección electoral y no da escaños.",
       "source": "Infobae",
       "url": "https://www.infobae.com/espana/2026/10/08/ha-salido-el-cis-el-psoe-ganaria-las-elecciones-pero-pp-y-vox-suman-mayoria-con-un-76-de-espanoles-a-favor-de-que-el-estado-intervenga-en-el-mercado-de-la-vivienda/"
-    },
-    {
-      "id": "psoe-20261009-2",
-      "party": "psoe",
-      "date": "2026-10-09",
-      "topic": "Listas",
-      "title": "Montero y Óscar López no encabezarán listas al Congreso; Lastra irá por Asturias",
-      "summary": "Según Estrella Digital, Montero lo confirmó el 6 de octubre y López el 7 en TVE. La ejecutiva asturiana designó a Adriana Lastra el 8 de octubre.",
-      "source": "Estrella Digital",
-      "url": "https://www.estrelladigital.es/articulo/espana/psoe-prepara-listas-29-n-maria-jesus-montero-ni-oscar-lopez-lastra-frente-asturias/20261009102504451972.html"
-    },
-    {
-      "id": "pp-20261010-1",
-      "party": "pp",
-      "date": "2026-10-10",
-      "topic": "Precampaña",
-      "title": "Feijóo promete «un Gobierno que pida sacrificio» en el acto de precampaña en Madrid",
-      "summary": "Según elDiario.es, también habló de «reconstrucción nacional» y de acabar con las «falsas promesas en vivienda». Ayuso acusó a Sánchez de preparar «trampas» y calificó de «terroristas» a los acampados en Sol, sin aportar pruebas según el medio.",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/feijoo-promete-gobierno-pedira-sacrificios-ayuso-tilda-terroristas-acampados-sol_1_13577261.html"
     },
     {
       "id": "upn-20261010-1",
@@ -381,16 +331,6 @@
       "summary": "La coalición se llamará «Unión del Pueblo Navarro en coalición con el Partido Popular»; UPN encabezará las listas al Congreso y al Senado y Feijóo será el candidato a la Presidencia. El programa lo redactará una comisión de ambos partidos.",
       "source": "The Objective",
       "url": "https://theobjective.com/espana/politica/2026-10-13/pp-upn-pacto-listas-electorales-navarra/"
-    },
-    {
-      "id": "pp-20261013-1",
-      "party": "pp",
-      "date": "2026-10-13",
-      "topic": "Precampaña",
-      "title": "Ester Muñoz pide en Toledo afrontar la campaña «como si fuera para unas elecciones municipales»",
-      "summary": "La portavoz del PP en el Congreso dijo que «esto no se lo juega el PP, sino España» y acusó al Gobierno de «mentiras y corrupción». El PSOE no figura en el texto con respuesta.",
-      "source": "El Español",
-      "url": "https://www.elespanol.com/eldigitalcastillalamancha/region/20261013/pp-moviliza-militantes-toledo-llevar-feijoo-moncloa-no-juega-partido-espana/1003744419090_0.html"
     },
     {
       "id": "pp-20261013-2",
@@ -1151,6 +1091,96 @@
       "summary": "Estimación con trabajo de campo del 1 al 14 de octubre (3.007 entrevistas, margen ±2,1 %): PP 31,5 %, PSOE 25,3 %, Vox 19,5 % (65-68 escaños), Frente Amplio 7,2 %. Son estimaciones, no resultados.",
       "source": "Sigma Dos",
       "url": "https://www.sigmados.com/noticia?id=EIJOKGN2GFZmhHt"
+    },
+    {
+      "id": "pp-20261020-1",
+      "party": "pp",
+      "date": "2026-10-20",
+      "topic": "Pacto Senado",
+      "title": "Feijóo confirma conversaciones con Vox sobre el Senado y busca tres quintos de la cámara",
+      "summary": "En una entrevista en COPE, Feijóo dijo «estamos hablando y vamos a seguir hablando» con Vox. Planteó dos fórmulas posibles (integrar a Vox en listas del PP o que Vox retire candidaturas) y fijó como objetivo los 160 senadores de tres quintos.",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/feijoo-confirma-negociaciones-vox-buscar-mayoria-senado-les-permita-controlar-constitucional_1_13598996.html"
+    },
+    {
+      "id": "pp-20261020-2",
+      "party": "pp",
+      "date": "2026-10-20",
+      "topic": "Senado autonómico",
+      "title": "Feijóo: «Un error facilitar al sanchismo el control» del Senado; el Gobierno responde que el PP es «ultraderecha»",
+      "summary": "Según Europa Press, Feijóo reconoció que la vía pasa por senadores de designación autonómica y dijo: «Si Vox está a la altura, yo le garantizo que el PP también». El Gobierno respondió que el PP es «ultraderecha».",
+      "source": "Moncloa.com (Europa Press)",
+      "url": "https://www.moncloa.com/2026/10/21/feijoo-pacto-pp-vox-senado-3452344"
+    },
+    {
+      "id": "vox-20261020-1",
+      "party": "vox",
+      "date": "2026-10-20",
+      "topic": "Precampaña",
+      "title": "Abascal abre la precampaña en Ponferrada con críticas a Sánchez y pide no fiarse de las encuestas",
+      "summary": "Abascal dijo que Sánchez es «un candidato marroquí» y advirtió de una campaña «sucia». Afirmó que 180.000 personas fueron incluidas en el censo por la «ley de nietos». Son afirmaciones suyas que el medio no verifica.",
+      "source": "El Español",
+      "url": "https://www.elespanol.com/castilla-y-leon/region/leon/20261020/abascal-acusa-sanchez-candidato-marroqui-advierte-podria-robar-elecciones/1003744428362_0.html"
+    },
+    {
+      "id": "vox-20261020-2",
+      "party": "vox",
+      "date": "2026-10-20",
+      "topic": "Gobierno con el PP",
+      "title": "Abascal: «Si el próximo Gobierno depende de Vox los sacrificios no van a ser para nuestra gente»",
+      "summary": "En Ponferrada respondió a Feijóo sobre los «sacrificios» y negó que las pensiones estén en riesgo por Vox, atribuyendo ese peligro a Sánchez, según El Español.",
+      "source": "El Español",
+      "url": "https://www.elespanol.com/castilla-y-leon/region/leon/20261020/abascal-acusa-sanchez-candidato-marroqui-advierte-podria-robar-elecciones/1003744428362_0.html"
+    },
+    {
+      "id": "psoe-20261020-1",
+      "party": "psoe",
+      "date": "2026-10-20",
+      "topic": "Empleo público",
+      "title": "El Gobierno confirma a los sindicatos una subida del 4,5 % para 2027 a los empleados públicos, sin fijar fecha",
+      "summary": "Función Pública (Óscar López) reiteró a CCOO, UGT y CSIF el 4,5 % fijo desde el 1 de enero de 2027 más un 0,5 % variable ligado a la inflación de 2026. Los sindicatos piden aprobar el decreto antes del 29N; no hay fecha.",
+      "source": "Mundiario",
+      "url": "https://www.mundiario.com/articulo/politica/gobierno-garantiza-subida-5-funcionarios-2027-evita-fijar-fecha-antes-29-n/20261020235411448042.html"
+    },
+    {
+      "id": "pnv-20261018-2",
+      "party": "pnv",
+      "date": "2026-10-18",
+      "topic": "Campaña",
+      "title": "Esteban presenta al PNV como freno a Vox y sitúa en el 75 % el cumplimiento del pacto de 2023",
+      "summary": "En el acto de Bilbao, Aitor Esteban dijo que el PNV es el único partido que con sus votos ha impedido que gobierne Vox. El 75 % es un cálculo del propio partido. Senado: Uribe-Etxebarria, Ahedo y Zarate.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/10/18/pnv-vox-esteban-dique-29n-3450554/"
+    },
+    {
+      "id": "all-20261020-1",
+      "party": "all",
+      "date": "2026-10-20",
+      "topic": "Huelga general",
+      "title": "CCOO, UGT y el Sindicat de Llogateres registran el preaviso de huelga general del 11N en Cataluña",
+      "summary": "Reclaman una subida salarial del 7 % y medidas sobre el precio de la vivienda. Foment del Treball calificó el 7 % de «ocurrencia», según UGT. El artículo no recoge posiciones de partidos.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/10/20/huelga-general-11n-cataluna-preaviso-3452132/"
+    },
+    {
+      "id": "all-20261021-1",
+      "party": "all",
+      "date": "2026-10-21",
+      "topic": "Calendario",
+      "title": "Abre el plazo para presentar candidaturas ante las juntas electorales provinciales; cierra el 26 de octubre",
+      "summary": "Según El Español, desde el 21 de octubre los partidos pueden registrar sus listas del 29N en las Juntas Electorales Provinciales. El plazo termina el 26 de octubre.",
+      "source": "El Español",
+      "url": "https://elespanol.com/espana/20261020/elecciones-generales-ultima-hora-directo-consejo-ministros-pedro-sanchez-actos-listas-pp-psoe-vox-pactos-electorales-voto-correo/1003744426993_10.html"
+    },
+    {
+      "id": "all-20261020-2",
+      "party": "all",
+      "date": "2026-10-20",
+      "topic": "Encuestas",
+      "title": "Sondeos del 29N: la mayoría de institutos privados sitúa al PP primero; el CIS, al PSOE",
+      "summary": "Infobae recoge a Sigma Dos (trabajo de campo 1-14 oct): PP 31,5 %, PSOE 25,3 %, Vox 19,5 %. El CIS de octubre estima PSOE 34 %, PP 22,2 %, Vox 17,1 %. Son estimaciones, no resultados.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/2026/10/20/asi-estan-los-sondeos-de-las-elecciones-generales-de-espana-2026/"
     }
   ],
   "positions": {},
