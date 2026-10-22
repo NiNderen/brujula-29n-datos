@@ -1,27 +1,7 @@
 {
-  "updated": "2026-10-21",
+  "updated": "2026-10-22",
   "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
   "news": [
-    {
-      "id": "psoe-1",
-      "party": "psoe",
-      "date": "2026-10-10",
-      "topic": "Vivienda",
-      "title": "Sánchez promete una política de vivienda «sin fecha de caducidad»",
-      "summary": "En un acto en Dos Hermanas (Sevilla), con más de 5.000 asistentes según la organización, dijo que el PSOE «va a ganar» y acusó a PP y Vox de difundir bulos sobre el voto por correo.",
-      "source": "Diario de Pontevedra",
-      "url": "https://www.diariodepontevedra.es/articulo/espana/precampana-29-n-directo/202610101421181471632.html"
-    },
-    {
-      "id": "psoe-2",
-      "party": "psoe",
-      "date": "2026-10-10",
-      "topic": "Economía",
-      "title": "Montero defiende salario mínimo, reforma laboral y «solución ibérica»",
-      "summary": "La candidata del PSOE andaluz llamó a convertir la «energía social» en «energía electoral» y calificó la vivienda de «emergencia nacional».",
-      "source": "Diario de Pontevedra",
-      "url": "https://www.diariodepontevedra.es/articulo/espana/precampana-29-n-directo/202610101421181471632.html"
-    },
     {
       "id": "sumar-1",
       "party": "sumar",
@@ -101,16 +81,6 @@
       "summary": "Sánchez acusa a PP y Vox de difundir bulos; Ayuso dice temer trampas. Es uno de los primeros choques de la precampaña.",
       "source": "Diario de Pontevedra",
       "url": "https://www.diariodepontevedra.es/articulo/espana/precampana-29-n-directo/202610101421181471632.html"
-    },
-    {
-      "id": "psoe-20261011-1",
-      "party": "psoe",
-      "date": "2026-10-11",
-      "topic": "Voto por correo",
-      "title": "Sánchez pide «urnas llenas» y critica a PP y Vox por el voto por correo",
-      "summary": "En un acto en Dos Hermanas (Sevilla), Sánchez dijo que PP y Vox prefieren que vote menos gente y defendió el voto por correo. El PP sostiene que su crítica se dirige a la fiabilidad del sistema, no a los votantes.",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/10/11/sanchez-urnas-llenas-voto-correo-29n-3446093"
     },
     {
       "id": "sumar-20261009-1",
@@ -333,16 +303,6 @@
       "url": "https://theobjective.com/espana/politica/2026-10-13/pp-upn-pacto-listas-electorales-navarra/"
     },
     {
-      "id": "pp-20261013-2",
-      "party": "pp",
-      "date": "2026-10-13",
-      "topic": "Congreso",
-      "title": "La diputada del PP Bea Fanjul renuncia a su escaño",
-      "summary": "El PP explicó que había comunicado meses antes su decisión de dedicarse a la empresa privada.",
-      "source": "El Español",
-      "url": "https://www.elespanol.com/espana/20261013/elecciones-generales-directo-ultima-hora-adelanto-electoral-encuestas-pedro-sanchez-actos-pp-psoe-vox-voto-correo/1003744417684_10.html"
-    },
-    {
       "id": "sumar-20261013-1",
       "party": "sumar",
       "date": "2026-10-13",
@@ -473,26 +433,6 @@
       "url": "https://www.pressdigital.es/articulo/politica/2026-10-14/6052110-pedro-sanchez-promete-zaragoza-cuatro-anos-revalorizacion-pensiones-conforme-ipc"
     },
     {
-      "id": "pp-20261013-3",
-      "party": "pp",
-      "date": "2026-10-13",
-      "topic": "Coalición con UPN",
-      "title": "PP y UPN pactan concurrir juntos en Navarra el 29N con Feijóo como candidato a la Presidencia",
-      "summary": "El acuerdo, según Moncloa.com, incluye un programa común, el compromiso de respetar el régimen foral y el Convenio Económico y de votar a favor de eliminar la disposición transitoria cuarta de la Constitución. Lo firmarían Miguel Tellado y Cristina Ibarrola.",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/10/13/pp-upn-coalicion-elecciones-29n-3447654/"
-    },
-    {
-      "id": "vox-20261011-1",
-      "party": "vox",
-      "date": "2026-10-11",
-      "topic": "Precampaña",
-      "title": "Abascal inicia la precampaña en Estepona con Bardella y pide votar presencialmente",
-      "summary": "Abascal dijo que «nos lo jugamos todo» y acusó a las «milicias» de Sánchez de preparar una campaña de «mentiras, trampas y violencia». Según El Debate, calificó las diferencias con Feijóo de «peccata minuta».",
-      "source": "El Debate",
-      "url": "https://www.eldebate.com/espana/20261014/claves-mensaje-abascal-campana-29n-jugamos-todo_469249.html"
-    },
-    {
       "id": "bildu-20261013-1",
       "party": "bildu",
       "date": "2026-10-13",
@@ -591,16 +531,6 @@
       "summary": "Según EFE, las listas de las agrupaciones provinciales incluyen a la mitad de los 45 miembros de la Ejecutiva. La Comisión Federal de Listas debe aprobarlas el 16 de octubre y el Comité Federal las ratificará el 17.",
       "source": "Infobae (EFE)",
       "url": "https://www.infobae.com/espana/agencias/2026/10/15/el-psoe-situa-a-la-mitad-de-la-ejecutiva-federal-en-las-listas-para-congreso-y-senado/"
-    },
-    {
-      "id": "pp-20261015-1",
-      "party": "pp",
-      "date": "2026-10-15",
-      "topic": "Pensiones",
-      "title": "El PP aclara su posición sobre pensiones tras unas declaraciones de Ester Muñoz",
-      "summary": "Muñoz había hablado en una entrevista de un modelo de «doble velocidad». El 15 de octubre dijo que el PP «nunca» sostuvo que no puedan revalorizarse y que cree en el sistema público. Feijóo prometió el 13 en Huesca asegurar las pensiones y subidas ligadas al IPC (según elDiario.es).",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/pp-patina-pensiones-precampana-29n_1_13586089.html"
     },
     {
       "id": "vox-20261014-1",
@@ -1181,6 +1111,186 @@
       "summary": "Infobae recoge a Sigma Dos (trabajo de campo 1-14 oct): PP 31,5 %, PSOE 25,3 %, Vox 19,5 %. El CIS de octubre estima PSOE 34 %, PP 22,2 %, Vox 17,1 %. Son estimaciones, no resultados.",
       "source": "Infobae",
       "url": "https://www.infobae.com/espana/2026/10/20/asi-estan-los-sondeos-de-las-elecciones-generales-de-espana-2026/"
+    },
+    {
+      "id": "all-20261021-2",
+      "party": "all",
+      "date": "2026-10-21",
+      "topic": "Voto nacionalizados",
+      "title": "El Constitucional inadmite por 10 votos a 2 el amparo del Defensor del Pueblo sobre la «ley de nietos»",
+      "summary": "Según Euronews, el pleno considera que el recurso llega «demasiado pronto» porque el procedimiento del Supremo sigue abierto. Los 163.020 afectados pueden pedir al Supremo que rectifique la medida.",
+      "source": "Euronews",
+      "url": "https://es.euronews.com/2026/10/21/el-tribunal-constitucional-rechaza-por-10-votos-a-2-el-recurso-sobre-la-ley-de-nietos"
+    },
+    {
+      "id": "psoe-20261021-1",
+      "party": "psoe",
+      "date": "2026-10-21",
+      "topic": "Entrevista",
+      "title": "Sánchez será entrevistado por Broncano en «La Revuelta» el jueves 22 de octubre",
+      "summary": "Según elDiario.es, Broncano anunció la visita en directo; sería la primera entrevista de la campaña en el programa. Dijo que PP y Vox aún no habían respondido a su invitación y que el Frente Amplio sí aceptó.",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/vertele/noticias/pedro-sanchez-acepta-invitacion-revuelta-sera-entrevistado-jueves-broncano-rtve_1_13604934.html"
+    },
+    {
+      "id": "psoe-20261021-2",
+      "party": "psoe",
+      "date": "2026-10-21",
+      "topic": "Pensiones",
+      "title": "Illa sitúa las pensiones como eje en un acto del PSC y reivindica el papel del partido en la amnistía",
+      "summary": "Según Moncloa.com, en un acto con más de 200 militantes Illa describió lo planteado por PP y Vox como «un ataque directo a un elemento de solidaridad intergeneracional». El medio cita el barómetro del CEO de octubre, que sitúa al PSC primero con 19 escaños.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/10/21/illa-precampana-sanchez-psc-3453032"
+    },
+    {
+      "id": "psoe-20261015-3",
+      "party": "psoe",
+      "date": "2026-10-15",
+      "topic": "Junta Electoral",
+      "title": "La Junta Electoral abre expediente a Sánchez por declaraciones en una rueda de prensa en Moncloa",
+      "summary": "Según elDiario.es, la JEC comunicó el 15 de octubre que podrían vulnerar el art. 50.2 de la LOREG las palabras del 6 de octubre sobre logros del Gobierno y críticas a PP y Vox. Atiende en parte denuncias del PP y de SALF y pide retirarlas de todos los soportes.",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/junta-electoral-expedienta-sanchez-manifestaciones-valorativas-rueda-prensa-moncloa_1_13588771.html"
+    },
+    {
+      "id": "pp-20261021-1",
+      "party": "pp",
+      "date": "2026-10-21",
+      "topic": "Vivienda",
+      "title": "Feijóo promete en Sevilla tres leyes de vivienda en 100 días y un millón de viviendas en la legislatura",
+      "summary": "Según Moncloa.com, propone leyes del suelo, antiokupas (desalojo en 48 horas) y de propiedad horizontal; avales del 100 % y rebaja del 60 % en IVA e ITP para menores de 40 años, y deducciones por prorrogar alquileres con subida inferior al IPC.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/10/21/feijoo-vivienda-ley-antiokupas-100-dias-3452789/"
+    },
+    {
+      "id": "pp-20261021-2",
+      "party": "pp",
+      "date": "2026-10-21",
+      "topic": "Senado",
+      "title": "El PP confía en un acuerdo con Vox para el Senado y pide discreción, según EFE",
+      "summary": "Alicia García dijo esperar «generosidad por ambas partes». Elías Bendodo afirmó que para que el acuerdo prospere hacen falta discreción y prudencia. Feijóo se negó en Sevilla a responder sobre el pacto.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/10/21/el-pp-confia-en-el-acuerdo-con-vox-en-el-senado-para-el-29n-con-la-generosidad-de-ambos/"
+    },
+    {
+      "id": "pp-20261021-3",
+      "party": "pp",
+      "date": "2026-10-21",
+      "topic": "Candidaturas",
+      "title": "El PP gallego cierra sus listas: Tellado por A Coruña y García Comesaña por Pontevedra",
+      "summary": "Francisco Conde repite en Lugo y Ana Vázquez en Ourense, según Moncloa.com. Julio García Comesaña sustituye a Ana Pastor en Pontevedra. Galicia tiene 23 escaños en el Congreso.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/10/21/candidaturas-pp-galicia-29n-tellado-comesana-3452570/"
+    },
+    {
+      "id": "vox-20261021-1",
+      "party": "vox",
+      "date": "2026-10-21",
+      "topic": "Milei",
+      "title": "Milei habla por videollamada con Abascal, que mantuvo su agenda de precampaña en A Coruña y Avilés",
+      "summary": "Según Infobae, Milei fue recibido en la Fundación Disenso por Ignacio Garriga. En la llamada dijo «dicen que no me querés más» y Abascal respondió que se verían «en otra ocasión». Antes, Milei había llamado «impresentable dictador» a Sánchez.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/2026/10/21/che-dicen-que-no-me-queres-mas-asi-ha-sido-la-videollamada-de-javier-milei-con-santiago-abascal-durante-su-visita-a-madrid/"
+    },
+    {
+      "id": "sumar-20261021-1",
+      "party": "sumar",
+      "date": "2026-10-21",
+      "topic": "Vivienda",
+      "title": "Colau dice que el PSOE «siempre llega tarde» en vivienda y que Sánchez llegó tarde al caso de Maricarmen",
+      "summary": "Según Europa Press, en La Sexta afirmó que el PSOE solo hace políticas valientes en vivienda si una izquierda fuerte le presiona. Criticó a PP y Vox por tumbar en el Congreso decretos de vivienda con medidas antidesahucios.",
+      "source": "Infobae (Europa Press)",
+      "url": "https://www.infobae.com/espana/agencias/2026/10/21/colau-recrimina-a-sanchez-llegar-tarde-al-caso-de-maricarmen-y-dice-que-el-psoe-carece-de-valentia-en-vivienda/"
+    },
+    {
+      "id": "sumar-20261021-2",
+      "party": "sumar",
+      "date": "2026-10-21",
+      "topic": "Campaña",
+      "title": "Colau acusa a PP y Vox de «esconder sus propuestas» con la visita de Milei",
+      "summary": "Según EFE, dijo en La Sexta que ocultan «el recorte de pensiones». También relató que EE. UU. le denegó el ESTA y el visado para viajar a Puerto Rico tras una entrevista en la embajada sobre su activismo propalestino.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/10/21/colau-acusa-a-pp-y-vox-de-intentar-esconder-a-referentes-de-ambos-partidos-como-milei/"
+    },
+    {
+      "id": "erc-20261021-1",
+      "party": "erc",
+      "date": "2026-10-21",
+      "topic": "Pacto con Podemos",
+      "title": "Junqueras dice que nunca temió que Rufián dejara ERC y detalla el acuerdo con Podemos",
+      "summary": "En Catalunya Ràdio dijo: «Dice muchas cosas, pero yo estaba seguro de que no lo dejaría». Según EFE, Podemos no se presenta en Cataluña y cuatro de sus miembros irán en listas de ERC, uno en sexta posición por Barcelona.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/10/21/junqueras-dice-que-no-temio-que-rufian-dejara-erc-dice-muchas-cosas-pero-estaba-seguro/"
+    },
+    {
+      "id": "erc-20261021-2",
+      "party": "erc",
+      "date": "2026-10-21",
+      "topic": "Candidaturas",
+      "title": "ERC da puestos simbólicos a Junqueras (31 por Barcelona) y Romeva (primer suplente)",
+      "summary": "Según El Debate, las listas se aprobaron en un Consejo Nacional extraordinario. Ambos, amnistiados por el Supremo, harán campaña para apoyar a Rufián, cabeza de lista por Barcelona.",
+      "source": "El Debate",
+      "url": "https://www.eldebate.com/espana/cataluna/20261021/junqueras-romeva-figuraran-simbolicamente-listas-erc-29n_471999.html"
+    },
+    {
+      "id": "podemos-20261021-1",
+      "party": "podemos",
+      "date": "2026-10-21",
+      "topic": "Pacto con ERC",
+      "title": "Rufián e Irene Montero harán dos actos conjuntos en Cataluña; el primero, el sábado en Nou Barris",
+      "summary": "Según Junqueras, recogido por EFE, el acuerdo establece que Podemos no concurre en Cataluña. Montero es la candidata de Podemos a la presidencia.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/10/21/junqueras-dice-que-no-temio-que-rufian-dejara-erc-dice-muchas-cosas-pero-estaba-seguro/"
+    },
+    {
+      "id": "junts-20261021-1",
+      "party": "junts",
+      "date": "2026-10-21",
+      "topic": "Lluís Puig",
+      "title": "Lluís Puig regresa a Cataluña y se incorporará como diputado de Junts en el Parlament",
+      "summary": "Anunció en X «Ha llegado el momento». Según EFE, el lunes el juez Llarena confirmó el levantamiento de las órdenes de detención contra Puig, Puigdemont y Comín, aunque todavía no se les aplica la amnistía.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/10/21/lluis-puig-ya-esta-en-cataluna-y-se-incorporara-el-jueves-como-diputado-en-el-parlament/"
+    },
+    {
+      "id": "junts-20261021-2",
+      "party": "junts",
+      "date": "2026-10-21",
+      "topic": "Campaña",
+      "title": "Junts se presenta como «único partido catalán» al 29N en el Parlament; el PSC replica",
+      "summary": "Salvador Vergés dijo «Vayan fiándose de Rufián. Así les irá». El conseller Albert Dalmau (PSC) criticó que Junts votara con PP y Vox iniciativas como la revalorización de pensiones; Vergés citó siete diputados y cuatro senadores de Junts.",
+      "source": "ElNacional.cat",
+      "url": "https://www.elnacional.cat/es/politica/junts-sentencia-es-unico-partido-va-29n-como-catalan-vayan-fiandose-rufian-ira_1713091_102.html"
+    },
+    {
+      "id": "pnv-20261021-1",
+      "party": "pnv",
+      "date": "2026-10-21",
+      "topic": "Entrevista RNE",
+      "title": "Esteban dice que Vox será «línea roja» y que el Gobierno «hace campaña» desde el Consejo de Ministros",
+      "summary": "Según Europa Press, el presidente del PNV dijo que apoyará el decreto de vivienda que protege a pequeños propietarios e inquilinos, pero rechazará la prórroga indefinida de alquileres. Defendió la sostenibilidad de las pensiones.",
+      "source": "Press Digital (Europa Press)",
+      "url": "https://www.pressdigital.es/articulo/politica/2026-10-21/6059956-esteban-pnv-cree-gobierno-sanchez-esta-haciendo-campana-desde-consejo-ministros"
+    },
+    {
+      "id": "bng-20261021-1",
+      "party": "bng",
+      "date": "2026-10-21",
+      "topic": "Candidaturas",
+      "title": "Fernández Lores da por hecho que Rego y Da Silva volverán a encabezar las listas del BNG",
+      "summary": "El alcalde de Pontevedra lo dijo el 21 de octubre, antes de la presentación oficial: Néstor Rego por A Coruña y Carme da Silva por Pontevedra. Rego pidió «más fuerza» del BNG para que se cumplan los acuerdos con el Gobierno.",
+      "source": "Galicia Press / GC Diario",
+      "url": "https://gcdiario.com/politica/610053-29n-fernandez-lores-da-por-hecho-que-rego-y-da-silva-volveran-a-ser-cabezas-de-lista-del-bng/"
+    },
+    {
+      "id": "bng-20261021-2",
+      "party": "bng",
+      "date": "2026-10-21",
+      "topic": "Vox en Galicia",
+      "title": "El BNG respalda una protesta contra Vox en A Coruña; Rego pide explicaciones por la carga policial",
+      "summary": "Según Adiante Galicia, Galiza Nova convocó la protesta; la CIG denunció cargas con gas y detenciones y pidió el cese del delegado del Gobierno. Rego calificó las cargas de «inxustificables» y pidió explicaciones al Ejecutivo.",
+      "source": "Adiante Galicia",
+      "url": "https://adiantegalicia.es/costa-artabra/2026/10/21/o-bng-aplaude-a-protesta-contra-vox-e-a-cig-pide-o-cese-do-delegado-do-goberno.html"
     }
   ],
   "positions": {},
