@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22",
+  "updated": "2026-10-23",
   "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
   "news": [
     {
@@ -283,16 +283,6 @@
       "url": "https://www.infobae.com/espana/agencias/2026/10/12/el-ts-mantiene-la-suspension-del-voto-de-los-nacionalizados-por-la-ley-de-nietos/"
     },
     {
-      "id": "vox-20261012-1",
-      "party": "vox",
-      "date": "2026-10-12",
-      "topic": "Ceuta y fronteras",
-      "title": "Abascal visita Ceuta con Bardella el 12-O y repite sus tres ejes de campaña",
-      "summary": "Según Moncloa.com, visitaron el puesto fronterizo con Fabrice Leggeri. Abascal dijo que lo más urgente es «recuperar Ceuta» y citó «prioridad nacional, desregulación y remigración».",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/10/12/abascal-bardella-frontex-ceuta-3446974/"
-    },
-    {
       "id": "upn-20261013-1",
       "party": "upn",
       "date": "2026-10-13",
@@ -331,26 +321,6 @@
       "summary": "Según Verónica Martínez Barbero (Movimiento Sumar), ERC ha rechazado el proceso del Frente Amplio. Podemos no se presentará en Cataluña, según el pacto con Rufián recogido por El Español.",
       "source": "El Español",
       "url": "https://www.elespanol.com/espana/politica/20261013/frente-amplio-colau-niega-sucumbir-pinza-rufian-podemos-dias-guerra-fratricida/1003744417641_0.amp.html"
-    },
-    {
-      "id": "vox-20261013-1",
-      "party": "vox",
-      "date": "2026-10-13",
-      "topic": "Congreso",
-      "title": "Vox pide revocar el reparto de escaños del hemiciclo pactado al inicio de la legislatura",
-      "summary": "Lo solicitó a la Mesa de la Diputación Permanente al considerar que no respeta la proporcionalidad exigida por la Constitución. Vox no participó en ese acuerdo.",
-      "source": "El Español",
-      "url": "https://www.elespanol.com/espana/20261013/elecciones-generales-directo-ultima-hora-adelanto-electoral-encuestas-pedro-sanchez-actos-pp-psoe-vox-voto-correo/1003744417684_10.html"
-    },
-    {
-      "id": "psoe-20261014-1",
-      "party": "psoe",
-      "date": "2026-10-14",
-      "topic": "Listas",
-      "title": "El Comité Federal del PSOE se reúne el 17 de octubre en Fuenlabrada para ratificar las listas",
-      "summary": "Según Mundiario, Sánchez encabezaría la lista de Madrid y Óscar López, Ángel Víctor Torres y Diana Morant no irán a las generales. La Comisión Federal de Listas debe aprobar las candidaturas el viernes 16.",
-      "source": "Mundiario",
-      "url": "https://www.mundiario.com/articulo/politica/sanchez-convierte-comite-psoe-pasarela-listas-29-n-hechas-ministros/20261014065054446631.html"
     },
     {
       "id": "junts-20261013-1",
@@ -411,16 +381,6 @@
       "summary": "Según Diario Sabemos, Montero ha descartado integrar Podemos en el Frente Amplio, aunque deja abiertas otras fórmulas de colaboración. Podemos mantiene su pacto con ERC y no presentará candidatura propia en Cataluña.",
       "source": "Diario Sabemos",
       "url": "https://diariosabemos.com/politica/colau-frente-amplio-podemos-irene-montero-unidad-izquierda-29n_519345_102.html"
-    },
-    {
-      "id": "psoe-20261014-2",
-      "party": "psoe",
-      "date": "2026-10-14",
-      "topic": "Listas electorales",
-      "title": "El PSOE perfila las listas del 29N: varios ministros repetirían como candidatos al Congreso",
-      "summary": "Según fuentes del partido recogidas por EFE, Óscar Puente y Ana Redondo irían por Castilla y León y Jordi Hereu por Barcelona. Óscar López, Ángel Víctor Torres, Diana Morant y Luis Planas no concurrirán al Congreso. La Comisión de Listas se reúne el viernes y el Comité Federal el sábado.",
-      "source": "Infobae (EFE)",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/14/el-psoe-comienza-a-colocar-en-sus-listas-para-el-29n-a-los-ministros-de-sanchez/"
     },
     {
       "id": "psoe-20261014-3",
@@ -681,26 +641,6 @@
       "summary": "Según Moncloa.com, la propuesta incluye a Mikel Otero (Álava) y Eneka Maiz (Navarra) y no repiten Jon Iñarritu, Mertxe Aizpurua ni Bel Pozueta. Las bases deben ratificarla por votación telemática ese fin de semana.",
       "source": "Moncloa.com",
       "url": "https://moncloa.com/2026/10/16/eh-bildu-candidatos-generales-29n-3449751"
-    },
-    {
-      "id": "pp-20261016-1",
-      "party": "pp",
-      "date": "2026-10-16",
-      "topic": "Programa",
-      "title": "Feijóo presentará un plan de «reconstrucción nacional» con tres pilares, según Público",
-      "summary": "Según Público, que cita a ABC, uno de los pilares es «rearmar la democracia». Feijóo habló en Toledo en un acto de AFAMMER: «Quiero ser la puerta de entrada a una España mejor».",
-      "source": "Público",
-      "url": "https://www.publico.es/politica/feijoo-suya-reconstruccion-espana-plantea-vox-abascal-eleva-apuesta-hay-cambiarlo.html"
-    },
-    {
-      "id": "pp-20261016-2",
-      "party": "pp",
-      "date": "2026-10-16",
-      "topic": "Economía",
-      "title": "El PP defiende elevar el límite de horas extraordinarias; Feijóo propuso que las mutuas den altas",
-      "summary": "Según un análisis de El Salto recogido por Moncloa.com, el vicesecretario de Economía del PP defiende ampliar el margen de horas extra. El artículo indica que Feijóo ha propuesto en varias ocasiones que las mutuas puedan dar altas médicas, sin precisar fechas.",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/10/16/propuestas-economicas-vox-pp-29n-3449552/"
     },
     {
       "id": "vox-20261016-1",
@@ -1291,6 +1231,116 @@
       "summary": "Según Adiante Galicia, Galiza Nova convocó la protesta; la CIG denunció cargas con gas y detenciones y pidió el cese del delegado del Gobierno. Rego calificó las cargas de «inxustificables» y pidió explicaciones al Ejecutivo.",
       "source": "Adiante Galicia",
       "url": "https://adiantegalicia.es/costa-artabra/2026/10/21/o-bng-aplaude-a-protesta-contra-vox-e-a-cig-pide-o-cese-do-delegado-do-goberno.html"
+    },
+    {
+      "id": "psoe-20261022-1",
+      "party": "psoe",
+      "date": "2026-10-22",
+      "topic": "Entrevista",
+      "title": "Sánchez, entrevistado por Broncano en «La Revuelta» de RTVE",
+      "summary": "Según elDiario.es, Sánchez habló de vivienda, Ceuta, Zapatero y su relación con EE UU, citó los «casos de corrupción» entre los errores de la legislatura y Broncano le dijo que en vivienda se había llegado tarde.",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/vertele/noticias/broncano-aborda-pedro-sanchez-futuro-revuelta-rtve-le-aprieta-debes-gobierno-habeis-llegado-tarde_1_13606625.html"
+    },
+    {
+      "id": "psoe-20261022-2",
+      "party": "psoe",
+      "date": "2026-10-22",
+      "topic": "Debates",
+      "title": "El PSOE acepta el cara a cara con Feijóo del 16 de noviembre y propone un debate a cuatro en RTVE el 26",
+      "summary": "Según elDiario.es, el PSOE dice que no vetará a ningún grupo audiovisual y pide al menos dos debates. El cara a cara sería en Mediaset; RTVE ha invitado a un debate de cuatro candidatos el 26 de noviembre.",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/sanchez-acepta-cara-cara-electoral-feijoo-16-noviembre_1_13607508.html"
+    },
+    {
+      "id": "pp-20261022-1",
+      "party": "pp",
+      "date": "2026-10-22",
+      "topic": "Debates",
+      "title": "El PP acepta el cara a cara del 16-N en Mediaset y rechaza un debate a cuatro en RTVE",
+      "summary": "Según elDiario.es, el PP afirma que «no habrá debate a cuatro en RTVE», respalda a Atresmedia para ese formato y acusa al PSOE de querer boicotear a esa cadena. Propone tres debates, incluido uno con Vox y el Frente Amplio.",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/sanchez-acepta-cara-cara-electoral-feijoo-16-noviembre_1_13607508.html"
+    },
+    {
+      "id": "pp-20261022-2",
+      "party": "pp",
+      "date": "2026-10-22",
+      "topic": "Candidaturas",
+      "title": "Pilar Miranda, alcaldesa de Huelva, encabezará la lista del PP al Congreso por Huelva",
+      "summary": "Según Infobae, sustituye a Bella Verano y la ley permite compatibilizar el escaño con la alcaldía. Feijóo acusó a Sánchez de «agitar el miedo» para desviar la atención de los casos que afectan al Gobierno.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/2026/10/22/elecciones-generales-29-n-en-directo-ultima-hora-de-los-sondeos-propuestas-de-los-partidos-y-actos-de-los-candidatos/"
+    },
+    {
+      "id": "vox-20261022-1",
+      "party": "vox",
+      "date": "2026-10-22",
+      "topic": "Orden público",
+      "title": "Abascal denuncia «violencia organizada desde La Moncloa» tras los incidentes de A Coruña",
+      "summary": "Según El Español, el líder de Vox lo dijo en Burgos tras el acto de A Coruña. Moncloa.com cifra en dos los detenidos y doce los heridos; el artículo no recoge respuesta del Gobierno.",
+      "source": "El Español",
+      "url": "https://www.elespanol.com/castilla-y-leon/region/burgos/20261022/abascal-denuncia-violencia-organizada-moncloa-acosar-actos-vox-altercados-coruna/1003744430907_0.html"
+    },
+    {
+      "id": "vox-20261022-2",
+      "party": "vox",
+      "date": "2026-10-22",
+      "topic": "Senado",
+      "title": "Abascal condiciona una reforma constitucional a una mayoría de PP y Vox en el Senado",
+      "summary": "Según Moncloa.com, dijo que esa mayoría permitiría que el Constitucional deje de estar «secuestrado» y no detalló la negociación con el PP. La reforma exige tres quintos de cada cámara (art. 167).",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/10/22/mitin-vox-coruna-detenidos-abascal-3453190/"
+    },
+    {
+      "id": "podemos-20261022-1",
+      "party": "podemos",
+      "date": "2026-10-22",
+      "topic": "Organización",
+      "title": "Dimite el coordinador de Podemos Aragón, Ricard Mitjana, por discrepancias con la dirección",
+      "summary": "Según EFE (Infobae), Mitjana y Pilar Gimeno dejan sus cargos; él cita desacuerdos con las direcciones provincial y estatal. El artículo no recoge respuesta de la dirección de Podemos.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/10/22/dimite-el-coordinador-de-podemos-aragon-por-discrepancias-con-la-direccion-estatal/"
+    },
+    {
+      "id": "sumar-20261022-1",
+      "party": "sumar",
+      "date": "2026-10-22",
+      "topic": "Candidaturas",
+      "title": "IU designa a Juan Ponte cabeza de lista del Frente Amplio por Asturias",
+      "summary": "Según Infobae, Antona Luengo irá en la candidatura conjunta con el PSOE al Senado. En Teruel, IU insiste en presentarse pese al rechazo de CHA, que defiende evitar la dispersión del voto progresista.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/2026/10/22/elecciones-generales-29-n-en-directo-ultima-hora-de-los-sondeos-propuestas-de-los-partidos-y-actos-de-los-candidatos/"
+    },
+    {
+      "id": "all-20261022-1",
+      "party": "all",
+      "date": "2026-10-22",
+      "topic": "Debates",
+      "title": "Choque entre PSOE y PP por los debates: cara a cara el 16-N y propuesta de debate a cuatro el 26-N",
+      "summary": "Según elDiario.es, ambos aceptan el cara a cara del 16 de noviembre en Mediaset. Discrepan sobre el debate a cuatro del 26: el PSOE acepta la invitación de RTVE y el PP prefiere Atresmedia.",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/sanchez-acepta-cara-cara-electoral-feijoo-16-noviembre_1_13607508.html"
+    },
+    {
+      "id": "all-20261022-2",
+      "party": "all",
+      "date": "2026-10-22",
+      "topic": "Junta Electoral",
+      "title": "La JEC declara que el CIS incumplió el plazo de información al PP, pero no abre expediente a Tezanos",
+      "summary": "Según Europa Press (Infobae), estimó parcialmente la denuncia del PP sobre el barómetro de octubre, alegó «escasa entidad» de la infracción y pidió a Tezanos abstenerse de actuaciones contrarias a la ley electoral.",
+      "source": "Infobae (Europa Press)",
+      "url": "https://www.infobae.com/espana/agencias/2026/10/22/la-jec-rechaza-la-pretension-del-pp-de-expedientar-a-tezanos-por-no-informar-en-plazo-del-ultimo-barometro-del-cis/"
+    },
+    {
+      "id": "junts-20261020-1",
+      "party": "junts",
+      "date": "2026-10-20",
+      "topic": "Encuestas",
+      "title": "El CEO (14 oct) estima 10,3 % para Junts en Cataluña y entre 4 y 5 diputados",
+      "summary": "Según Infobae, la estimación del Centre d'Estudis d'Opinió compara con los siete diputados de 2023. Es una estimación, no un resultado. Nogueras, Cruset, Madrenas y Gavín encabezan las listas.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/2026/10/20/puigdemont-entra-en-la-campana-para-el-29-n-el-lider-independentista-regresa-a-cataluna-para-salvar-a-junts-del-batacazo-que-preven-los-sondeos/"
     }
   ],
   "positions": {},
