@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23",
+  "updated": "2026-10-24",
   "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
   "news": [
     {
@@ -81,16 +81,6 @@
       "summary": "Sánchez acusa a PP y Vox de difundir bulos; Ayuso dice temer trampas. Es uno de los primeros choques de la precampaña.",
       "source": "Diario de Pontevedra",
       "url": "https://www.diariodepontevedra.es/articulo/espana/precampana-29-n-directo/202610101421181471632.html"
-    },
-    {
-      "id": "sumar-20261009-1",
-      "party": "sumar",
-      "date": "2026-10-09",
-      "topic": "Frente Amplio",
-      "title": "Movimiento Sumar elige a Verónica Barbero como candidata para el Frente Amplio",
-      "summary": "Barbero, portavoz de Sumar en el Congreso, obtuvo el 98% de los votos de la base. El Frente Amplio (IU, Movimiento Sumar, Más Madrid y Comunes) sigue negociando; Más Madrid propone a Ada Colau, cuya candidatura no es oficial.",
-      "source": "Canal Sur",
-      "url": "https://www.canalsur.es/noticias/espana/movimiento-sumar-elige-veronica-barbero_1_1442523.html"
     },
     {
       "id": "podemos-20261009-1",
@@ -191,16 +181,6 @@
       "summary": "Según The Objective y fuentes de ambos partidos, necesitarían unos 125.000 votos; por separado suman unos 105.000. UPN convocó su Consejo Político para ratificar el pacto si se cierra antes del 16 de octubre.",
       "source": "The Objective",
       "url": "https://theobjective.com/espana/politica/2026-10-10/pp-upn-navarr/"
-    },
-    {
-      "id": "podemos-20261006-1",
-      "party": "podemos",
-      "date": "2026-10-06",
-      "topic": "Primarias",
-      "title": "Belarra abre la puerta a una lista única con el Frente Amplio ratificada en primarias",
-      "summary": "La secretaria general de Podemos habló en el Congreso de «primarias abiertas». Según el medio, Podemos quiere un pacto solo electoral y Urtasun pide que se integre en el Frente Amplio.",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/abre-puerta-pactar-lista-unica-frente-amplio-despues-ratificarla-primarias_1_13566962.html"
     },
     {
       "id": "sumar-20261011-1",
@@ -383,16 +363,6 @@
       "url": "https://diariosabemos.com/politica/colau-frente-amplio-podemos-irene-montero-unidad-izquierda-29n_519345_102.html"
     },
     {
-      "id": "psoe-20261014-3",
-      "party": "psoe",
-      "date": "2026-10-14",
-      "topic": "Pensiones",
-      "title": "Sánchez promete en Zaragoza «cuatro años más de revalorización de las pensiones conforme al IPC»",
-      "summary": "En un acto del PSOE aragonés, Sánchez dijo que habrá «cero recortes» y que la vivienda será la causa de la próxima legislatura. Las cifras sobre la hucha de las pensiones y la regularización son declaraciones suyas recogidas por el medio.",
-      "source": "Press Digital",
-      "url": "https://www.pressdigital.es/articulo/politica/2026-10-14/6052110-pedro-sanchez-promete-zaragoza-cuatro-anos-revalorizacion-pensiones-conforme-ipc"
-    },
-    {
       "id": "bildu-20261013-1",
       "party": "bildu",
       "date": "2026-10-13",
@@ -491,16 +461,6 @@
       "summary": "Según EFE, las listas de las agrupaciones provinciales incluyen a la mitad de los 45 miembros de la Ejecutiva. La Comisión Federal de Listas debe aprobarlas el 16 de octubre y el Comité Federal las ratificará el 17.",
       "source": "Infobae (EFE)",
       "url": "https://www.infobae.com/espana/agencias/2026/10/15/el-psoe-situa-a-la-mitad-de-la-ejecutiva-federal-en-las-listas-para-congreso-y-senado/"
-    },
-    {
-      "id": "vox-20261014-1",
-      "party": "vox",
-      "date": "2026-10-14",
-      "topic": "Estrategia de campaña",
-      "title": "Abascal reúne a la dirección de Vox para diseñar la campaña y pide buscar la mayoría",
-      "summary": "Según EFE, el 14 de octubre reunió en Madrid al Comité Ejecutivo Nacional, al Comité de Acción Política y a los portavoces. Dijo que «nada está escrito», calificó las elecciones de «existenciales» y pidió una campaña «sin odio».",
-      "source": "Infobae (EFE)",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/14/abascal-llama-a-vox-a-ser-ambicioso-y-buscar-la-mayoria-el-29n-nada-esta-escrito/"
     },
     {
       "id": "podemos-20261015-1",
@@ -743,16 +703,6 @@
       "url": "https://www.moncloa.com/2026/10/17/listas-pnv-congreso-29n-3450355"
     },
     {
-      "id": "pp-20261018-1",
-      "party": "pp",
-      "date": "2026-10-18",
-      "topic": "Senado",
-      "title": "Feijóo llama «coalición de desesperados» al pacto PSOE-Frente Amplio para el Senado",
-      "summary": "Según El Español, Tellado dijo que el PSOE «ha renunciado al centro»; Feijóo participa el 18 de octubre en un acto en Barcelona con Alejandro Fernández y Xavier García Albiol.",
-      "source": "El Español",
-      "url": "https://www.elespanol.com/espana/politica/20261018/vox-dispuesto-demostrar-altura-miras-frente-popular-senado-lunes-decidira-pacta-pp/1003744424775_0.html"
-    },
-    {
       "id": "all-20261018-1",
       "party": "all",
       "date": "2026-10-18",
@@ -781,16 +731,6 @@
       "summary": "Esteban dijo el 17 de octubre que el PNV fue «el único partido» que evitó que Vox gobernara. Son valoraciones del propio dirigente.",
       "source": "Vozpópuli",
       "url": "https://www.vozpopuli.com/espana/politica/elecciones-generales-del-29-n-en-directo-ultima-hora-de-las-listas-electorales-sanchez-y-feijoo.html"
-    },
-    {
-      "id": "pp-20261018-2",
-      "party": "pp",
-      "date": "2026-10-18",
-      "topic": "Albiol y Cataluña",
-      "title": "Albiol encabezará la lista del PP por Barcelona y liderará la ley antiokupas",
-      "summary": "Feijóo proclamó a Xavier García Albiol cabeza de lista por Barcelona y le encargó liderar en el Congreso la ley antiokupas, según el directo de Infobae del 19 de octubre. Cataluña reparte 42 de los 350 escaños.",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/espana/2026/10/19/elecciones-generales-29-n-en-directo-ultima-hora-de-los-sondeos-la-ley-de-nietos-o-los-anuncios-sobre-pensiones/"
     },
     {
       "id": "pp-20261018-3",
@@ -1341,6 +1281,126 @@
       "summary": "Según Infobae, la estimación del Centre d'Estudis d'Opinió compara con los siete diputados de 2023. Es una estimación, no un resultado. Nogueras, Cruset, Madrenas y Gavín encabezan las listas.",
       "source": "Infobae",
       "url": "https://www.infobae.com/espana/2026/10/20/puigdemont-entra-en-la-campana-para-el-29-n-el-lider-independentista-regresa-a-cataluna-para-salvar-a-junts-del-batacazo-que-preven-los-sondeos/"
+    },
+    {
+      "id": "pp-20261023-1",
+      "party": "pp",
+      "date": "2026-10-23",
+      "topic": "Senado",
+      "title": "Feijóo dice que el PP corresponderá si Vox no se presenta al Senado en varias provincias",
+      "summary": "En la Cadena SER, Feijóo dijo que habló con Abascal el miércoles 21 y que el acuerdo «no está cerrado»; añadió que, si Vox no concurre en determinadas provincias, «lo lógico» es que el PP corresponda a ese gesto.",
+      "source": "Infobae (Europa Press)",
+      "url": "https://www.infobae.com/america/agencias/2026/10/23/feijoo-defiende-que-vox-no-se-presente-al-senado-en-las-provincias-donde-no-logra-escano-y-que-pp-corresponda-el-gesto/"
+    },
+    {
+      "id": "pp-20261023-2",
+      "party": "pp",
+      "date": "2026-10-23",
+      "topic": "Igualdad y aborto",
+      "title": "Feijóo anuncia suprimir el Ministerio de Igualdad y reformar la ley del aborto",
+      "summary": "Según Moncloa.com, Feijóo dijo en la SER que repartiría las competencias de Igualdad entre otros ministerios y que, para 16 y 17 años, los padres tendrían «conocimiento» de la decisión. Dijo que se podría revisar la ley de eutanasia; aún no hay proyectos redactados.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/10/23/feijoo-ministerio-igualdad-aborto-3454062/"
+    },
+    {
+      "id": "psoe-20261023-1",
+      "party": "psoe",
+      "date": "2026-10-23",
+      "topic": "Entrevistas",
+      "title": "Sánchez acepta la invitación de Jordi Wild a su pódcast",
+      "summary": "Sánchez lo anunció en X el 23 de octubre. Según Qué!, Feijóo, Abascal y Colau ya habían aceptado; no hay fecha fijada para la entrevista.",
+      "source": "Qué!",
+      "url": "https://www.que.es/2026/10/24/sanchez-jordi-wild-campana-29-n/"
+    },
+    {
+      "id": "sumar-20261023-1",
+      "party": "sumar",
+      "date": "2026-10-23",
+      "topic": "Unidad de la izquierda",
+      "title": "Colau pide a Montero que elija entre «Juego de tronos» o «Friends»",
+      "summary": "En una entrevista, la candidata del Frente Amplio dijo que su espacio «no ha fallado» en la búsqueda de unidad y que «algunos han querido ir solos». Tras no cerrarse el acuerdo con Podemos, el Frente Amplio concurre con otras 15 formaciones.",
+      "source": "Público",
+      "url": "https://www.publico.es/politica/partidos/colau-pide-montero-elija-dos-formas-entender-poder-juego-tronos-friends.html"
+    },
+    {
+      "id": "podemos-20261023-1",
+      "party": "podemos",
+      "date": "2026-10-23",
+      "topic": "Cargas policiales",
+      "title": "Podemos, con la firma de ERC, pide la comparecencia de Sánchez, Marlaska y Robles",
+      "summary": "Piden ante la Diputación Permanente explicaciones por cargas policiales contra jóvenes en A Coruña, Avilés, Zaragoza y Ceuta. Belarra habló de una «emergencia de violencia policial sin precedentes».",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/10/23/comparecencia-sanchez-congreso-podemos-erc-3454072"
+    },
+    {
+      "id": "erc-20261023-1",
+      "party": "erc",
+      "date": "2026-10-23",
+      "topic": "Cargas policiales",
+      "title": "ERC firma con Podemos la petición de comparecencia por las cargas policiales",
+      "summary": "La petición, registrada por Podemos con la firma de ERC, pide que Sánchez, Marlaska y Robles expliquen ante la Diputación Permanente si las actuaciones respondieron a órdenes políticas o a decisiones de los mandos.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/10/23/comparecencia-sanchez-congreso-podemos-erc-3454072"
+    },
+    {
+      "id": "bng-20261023-1",
+      "party": "bng",
+      "date": "2026-10-23",
+      "topic": "Cargas policiales",
+      "title": "El BNG pide que Sánchez y Marlaska expliquen las cargas de A Coruña en el Congreso",
+      "summary": "Néstor Rego calificó de «injustificable» la actuación policial contra jóvenes que protestaban durante un acto de Vox el miércoles y reclamó «responsabilidades políticas»; el BNG pide comparecencias en la Diputación Permanente.",
+      "source": "Press Digital",
+      "url": "https://www.pressdigital.es/articulo/politica/2026-10-23/6064071-bng-tambien-exige-sanchez-explique-congreso-cargas-policiales-contra-manifestantes-coruna"
+    },
+    {
+      "id": "vox-20261023-1",
+      "party": "vox",
+      "date": "2026-10-23",
+      "topic": "Incidentes en actos",
+      "title": "Vox denuncia «un nuevo intento de boicot» tras el mitin de Abascal en Mahón",
+      "summary": "Según Vox, unos 300 «radicales» cargaron contra la furgoneta de Abascal al acabar el acto en Menorca. The Objective no recoge versiones de la Policía ni de la Delegación del Gobierno.",
+      "source": "The Objective",
+      "url": "https://theobjective.com/espana/politica/2026-10-23/vox-boicot-mitin-abascal-menorca/"
+    },
+    {
+      "id": "pnv-20261022-1",
+      "party": "pnv",
+      "date": "2026-10-22",
+      "topic": "Investidura",
+      "title": "Esteban descarta apoyar la investidura de un Gobierno del PP con Vox",
+      "summary": "En RNE, el presidente del PNV dijo que «hay algunas rayas que no se traspasan» y acusó a Vox de no creer en el sistema democrático. Dijo que el PNV votará en contra del decreto de prórroga de alquileres.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/10/22/pnv-investidura-pp-vox-29n-3453092/"
+    },
+    {
+      "id": "upn-20261023-1",
+      "party": "upn",
+      "date": "2026-10-23",
+      "topic": "Candidaturas",
+      "title": "La coalición UPN-PP aprueba a Leticia San Martín (Congreso) y Javier Esparza (Senado) como cabezas de lista",
+      "summary": "El Consejo Político aprobó las listas en Pamplona: Sayas y Carmen Alba (PP) ocupan los puestos 2 y 3 al Congreso. La lista del Congreso obtuvo el 87 % de apoyo y la del Senado, el 83,5 %.",
+      "source": "naiz",
+      "url": "https://www.naiz.eus/en/info/noticia/20261023/upn-elige-a-leticia-san-martin-y-javier-esparza-como-cabezas-de-lista-al-congreso-y-al-senado"
+    },
+    {
+      "id": "all-20261023-1",
+      "party": "all",
+      "date": "2026-10-23",
+      "topic": "Voto exterior",
+      "title": "El Supremo da cinco días para entregar la lista de 163.020 nacionalizados sin voto cautelar",
+      "summary": "Según El Español, el tribunal requiere la lista a Exteriores, Presidencia/Justicia, la JEC y la Oficina del Censo Electoral; Exteriores ordenó a los consulados trabajar el fin de semana.",
+      "source": "El Español",
+      "url": "https://www.elespanol.com/espana/20261023/elecciones-generales-directo-ultima-hora-adelanto-electoral-espana-pedro-sanchez-actos-psoe-pp-vox-encuestas-voto-correo-sondeos-2026-partidos-por/1003744431749_10.html"
+    },
+    {
+      "id": "all-20261022-3",
+      "party": "all",
+      "date": "2026-10-22",
+      "topic": "Encuestas",
+      "title": "Un promedio de sondeos sitúa a PP y Vox en 198 escaños; el PSOE, en torno a 105",
+      "summary": "Según Moncloa.com, el promedio estima 133 escaños para el PP (32,1 %) y 65 para Vox (18,6 %). Es una estimación estadística con simulaciones, no un resultado; el medio no detalla institutos ni fechas de campo.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/10/22/encuestas-pp-vox-198-escanos-29n-3453350/"
     }
   ],
   "positions": {},
