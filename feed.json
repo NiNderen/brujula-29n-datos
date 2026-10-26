@@ -1,7 +1,97 @@
 {
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
   "news": [
+    {
+      "id": "psoe-20261026-1",
+      "party": "psoe",
+      "date": "2026-10-26",
+      "topic": "Mitin en Gijón",
+      "title": "Sánchez participa en Gijón en un mitin con Adriana Lastra, cabeza de lista por Asturias",
+      "summary": "Según la agenda de Infobae, el acto es por la tarde y cuenta con el presidente asturiano, Adrián Barbón; antes visita unos astilleros y un centro educativo, según El Español.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/agencias/2026/10/25/hoy-sera-noticia-lunes-26-de-octubre"
+    },
+    {
+      "id": "vox-20261026-1",
+      "party": "vox",
+      "date": "2026-10-26",
+      "topic": "Acto en Talavera",
+      "title": "Abascal presenta a los candidatos de Vox en Talavera de la Reina a las 19:00",
+      "summary": "Según la agenda de Infobae, el acto se celebra en el Auditorio de Talavera (Toledo).",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/agencias/2026/10/25/hoy-sera-noticia-lunes-26-de-octubre"
+    },
+    {
+      "id": "all-20261026-1",
+      "party": "all",
+      "date": "2026-10-26",
+      "topic": "Plazo de candidaturas",
+      "title": "Vence a medianoche el plazo para registrar candidaturas al 29N y pactos del Senado",
+      "summary": "Según Infobae, se conocerán esta semana los pactos para el Senado entre PSOE y Frente Amplio y entre PP y Vox; la proclamación definitiva es el 28 de octubre, según elDiario.es.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/agencias/2026/10/25/hoy-sera-noticia-lunes-26-de-octubre"
+    },
+    {
+      "id": "junts-20261025-1",
+      "party": "junts",
+      "date": "2026-10-25",
+      "topic": "Regreso de Comín",
+      "title": "Toni Comín cruza a pie la frontera en Cerbère y regresa a Cataluña tras nueve años en Bélgica",
+      "summary": "Comín dijo: «Esta batalla la hemos ganado». Lo acompañaron su hija y un centenar de personas; según elDiario.es, el Supremo levantó las órdenes de detención en aplicación de la amnistía y el regreso de Puigdemont se perfila para después del 29N.",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/toni-comin-exconseller-junts-cruza-frontera-pie-regreso-bruselas_1_13613715.amp.html"
+    },
+    {
+      "id": "sumar-20261025-1",
+      "party": "sumar",
+      "date": "2026-10-25",
+      "topic": "Acto en Móstoles",
+      "title": "Colau pide «llenar las calles» en un acto del Frente Amplio en Móstoles",
+      "summary": "Colau dijo que la derecha usará la «violencia» y la «inseguridad» para dividir a la clase trabajadora y acusó al PSOE de «gestionar la desigualdad». Emilio Delgado, cabeza de lista por Madrid, citó una subida del 17 % en intención de voto del Frente Amplio.",
+      "source": "elDiario.es (Europa Press)",
+      "url": "https://www.eldiario.es/politica/frene-amplio-carga-politicos-izquierda-piquito-oro-no-ponen-cuerpo-defender-derechos_1_13613685.html"
+    },
+    {
+      "id": "psoe-20261025-1",
+      "party": "psoe",
+      "date": "2026-10-25",
+      "topic": "Entrevista Sánchez",
+      "title": "Sánchez dice en El País que un Gobierno PP-Vox «no representa una alternancia»",
+      "summary": "Según el resumen de Infobae, Sánchez reconoció que su mayor error fue no ver la corrupción de José Luis Ábalos y criticó al PP y a Vox por no aplicar la ley de vivienda donde gobiernan.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/2026/10/25/elecciones-generales-29-n-en-directo-feijoo-reune-a-sus-cabezas-de-lista-en-salamanca-y-ada-colau-interviene-en-mostoles/"
+    },
+    {
+      "id": "pp-20261025-1",
+      "party": "pp",
+      "date": "2026-10-25",
+      "topic": "Acto en Salamanca",
+      "title": "Feijóo reúne en Salamanca a sus cabezas de lista junto a Mañueco",
+      "summary": "Según Infobae, Feijóo acusó a la izquierda de resistirse a abandonar el poder «con violencia», vinculó los disturbios de Barcelona con Sánchez y anunció que volverá a Cataluña.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/2026/10/25/elecciones-generales-29-n-en-directo-feijoo-reune-a-sus-cabezas-de-lista-en-salamanca-y-ada-colau-interviene-en-mostoles/"
+    },
+    {
+      "id": "erc-20261025-1",
+      "party": "erc",
+      "date": "2026-10-25",
+      "topic": "Rufián y la Generalitat",
+      "title": "Rufián dice que le gustaría presidir la Generalitat después de Junqueras",
+      "summary": "Según Infobae, Rufián, cabeza de lista de ERC al Congreso, lo manifestó el 25 de octubre en plena campaña del 29N.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/2026/10/25/elecciones-generales-29-n-en-directo-feijoo-reune-a-sus-cabezas-de-lista-en-salamanca-y-ada-colau-interviene-en-mostoles/"
+    },
+    {
+      "id": "podemos-20261025-1",
+      "party": "podemos",
+      "date": "2026-10-25",
+      "topic": "Frente de izquierdas",
+      "title": "Montero reconoce el «fracaso» de su propuesta de frente unitario, que dice que «es el futuro»",
+      "summary": "Según Infobae, Irene Montero admitió que no cuajó su propuesta de frente unitario de izquierdas, aunque sostuvo que es el futuro.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/2026/10/25/elecciones-generales-29-n-en-directo-feijoo-reune-a-sus-cabezas-de-lista-en-salamanca-y-ada-colau-interviene-en-mostoles/"
+    },
     {
       "id": "psoe-20261024-1",
       "party": "psoe",
@@ -111,6 +201,16 @@
       "summary": "El cara a cara Sánchez-Feijóo está fijado para el 16 de noviembre, probablemente en Mediaset; el debate a cuatro sigue sin sede.",
       "source": "Infobae",
       "url": "https://www.infobae.com/espana/2026/10/24/elecciones-generales-en-espana-29-n-en-directo-ultima-hora-de-las-candidaturas-los-sondeos-y-actos-de-sanchez-y-feijoo/"
+    },
+    {
+      "id": "vox-20261024-2",
+      "party": "vox",
+      "date": "2026-10-24",
+      "topic": "Senado con el PP",
+      "title": "Malestar en Vox por las declaraciones de Feijóo sobre la negociación del Senado",
+      "summary": "Según The Objective, fuentes internas de Vox temen que Feijóo quiera «dinamitar» la negociación. El plazo para retirar o modificar listas del Senado vence el 26 de octubre a las 24:00; el PP tiene 141 senadores (mayoría absoluta: 134).",
+      "source": "The Objective",
+      "url": "https://theobjective.com/espana/politica/2026-10-24/malestar-vox-filtraciones-feijoo-negociacion-listas-senado/"
     },
     {
       "id": "pp-20261023-1",
@@ -543,16 +643,6 @@
       "url": "https://www.eldiario.es/politica/feijoo-confirma-negociaciones-vox-buscar-mayoria-senado-les-permita-controlar-constitucional_1_13598996.html"
     },
     {
-      "id": "pp-20261020-2",
-      "party": "pp",
-      "date": "2026-10-20",
-      "topic": "Senado autonómico",
-      "title": "Feijóo: «Un error facilitar al sanchismo el control» del Senado; el Gobierno responde que el PP es «ultraderecha»",
-      "summary": "Según Europa Press, Feijóo reconoció que la vía pasa por senadores de designación autonómica y dijo: «Si Vox está a la altura, yo le garantizo que el PP también». El Gobierno respondió que el PP es «ultraderecha».",
-      "source": "Moncloa.com (Europa Press)",
-      "url": "https://www.moncloa.com/2026/10/21/feijoo-pacto-pp-vox-senado-3452344"
-    },
-    {
       "id": "vox-20261020-1",
       "party": "vox",
       "date": "2026-10-20",
@@ -773,16 +863,6 @@
       "url": "https://www.moncloa.com/2026/10/17/abascal-pacto-senado-altura-miras-3450372"
     },
     {
-      "id": "vox-20261017-2",
-      "party": "vox",
-      "date": "2026-10-17",
-      "topic": "Acto público",
-      "title": "Vox anuncia un acto con Abascal en Palma el 24 de octubre",
-      "summary": "Vox Baleares convocó el acto público de campaña para el sábado 24 de octubre a las 12.00 horas en la calle del Mirador.",
-      "source": "Última Hora",
-      "url": "https://www.ultimahora.es/noticias/elecciones-29n/2026/10/17/2730849/vox-celebrara-acto-publico-santiago-abascal-proximo-sabado-octubre.html"
-    },
-    {
       "id": "pnv-20261017-1",
       "party": "pnv",
       "date": "2026-10-17",
@@ -873,26 +953,6 @@
       "url": "https://www.publico.es/politica/acuerdo-frente-amplio-elecciones-29n-directo-ultima-hora-negociaciones-reacciones.html"
     },
     {
-      "id": "psoe-20261016-1",
-      "party": "psoe",
-      "date": "2026-10-16",
-      "topic": "Candidaturas",
-      "title": "Montse Mínguez renuncia a su candidatura y a su puesto en la Ejecutiva del PSOE",
-      "summary": "Según El Español, la portavoz dijo «He tomado la decisión de dar un paso atrás» tras la polémica por los pisos de su pareja. Sánchez dijo que le había pedido que no renunciara. Cristina Morón encabezará la lista del PSC por Lleida. Miguel Tellado (PP) afirmó que dimitió porque «la han pillado».",
-      "source": "El Español",
-      "url": "https://www.elespanol.com/espana/20261016/elecciones-generales-directo-ultima-hora-pedro-sanchez-actos-pp-psoe-vox-encuestas-cierre-plazo-electoral-espana-sondeos-voto-por-correo-partidos-2026-29n/1003744422218_10.html"
-    },
-    {
-      "id": "psoe-20261016-2",
-      "party": "psoe",
-      "date": "2026-10-16",
-      "topic": "Listas",
-      "title": "La Comisión de Listas del PSOE aprueba las candidaturas del 29N antes del Comité Federal",
-      "summary": "Según Moncloa.com, la comisión aprobó las listas el 16 de octubre con cambios en Burgos (Aitana Hernando sustituye a Tudanca en el Senado) y Palencia, donde la dirección sustituyó a la persona elegida por la militancia. Según Infobae, Jordi Hereu encabezará la lista del PSC por Barcelona. El Comité Federal las ratifica el 17.",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/10/16/listas-psoe-29n-tudanca-burgos-3449893"
-    },
-    {
       "id": "junts-20261016-1",
       "party": "junts",
       "date": "2026-10-16",
@@ -911,16 +971,6 @@
       "summary": "Según Moncloa.com, la propuesta incluye a Mikel Otero (Álava) y Eneka Maiz (Navarra) y no repiten Jon Iñarritu, Mertxe Aizpurua ni Bel Pozueta. Las bases deben ratificarla por votación telemática ese fin de semana.",
       "source": "Moncloa.com",
       "url": "https://moncloa.com/2026/10/16/eh-bildu-candidatos-generales-29n-3449751"
-    },
-    {
-      "id": "vox-20261016-1",
-      "party": "vox",
-      "date": "2026-10-16",
-      "topic": "Pensiones e IRPF",
-      "title": "Vox plantea un modelo mixto de pensiones y un IRPF de dos tramos, según un análisis de El Salto",
-      "summary": "Según Moncloa.com, el diputado José María Figaredo propone combinar reparto y capitalización. El análisis de El Salto estima que el IRPF de dos tramos supondría unos 85.000 millones menos de recaudación; es una estimación no oficial.",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/10/16/propuestas-economicas-vox-pp-29n-3449552/"
     },
     {
       "id": "all-20261016-1",
@@ -1203,16 +1253,6 @@
       "url": "https://es.wikipedia.org/wiki/Elecciones_generales_de_Espa%C3%B1a_de_2026"
     },
     {
-      "id": "sumar-20261011-1",
-      "party": "sumar",
-      "date": "2026-10-11",
-      "topic": "Frente Amplio",
-      "title": "Frente Amplio y Podemos buscan un acuerdo mínimo antes del 16 de octubre, según fuentes",
-      "summary": "The Objective recoge que fuentes de ambos hablan de contactos y de un «acelerón». El Frente Amplio prevé anunciar líder el 17 de octubre y Podemos propone primarias el 14 y 15.",
-      "source": "The Objective",
-      "url": "https://theobjective.com/espana/politica/2026-10-11/podemos-frente-amplio-salto-20-escanos-dos-bandos-juntos/"
-    },
-    {
       "id": "bildu-20261011-1",
       "party": "bildu",
       "date": "2026-10-11",
@@ -1221,16 +1261,6 @@
       "summary": "Según fuentes de la coalición, es una decisión personal tras tres legislaturas. Las candidaturas se proclamarán el 19 de octubre tras la votación telemática de afiliados del 17 y 18.",
       "source": "Moncloa.com",
       "url": "https://www.moncloa.com/2026/10/11/mertxe-aizpurua-eh-bildu-congreso-3446504/"
-    },
-    {
-      "id": "podemos-1",
-      "party": "podemos",
-      "date": "2026-10-10",
-      "topic": "Pacto de izquierdas",
-      "title": "Podemos aún no ha confirmado si entra en el Frente Amplio",
-      "summary": "Su incorporación sigue abierta. Irene Montero pidió en Getafe acabar con el «negocio de la vivienda».",
-      "source": "Moncloa.com / Diario de Pontevedra",
-      "url": "https://moncloa.com/2026/10/10/pacto-sumar-podemos-frente-amplio-escanos-3445782"
     },
     {
       "id": "pnv-1",
@@ -1313,16 +1343,6 @@
       "url": "https://www.moncloa.com/2026/10/09/matute-eh-bildu-29n-candidato-3444892/"
     },
     {
-      "id": "all-20261009-1",
-      "party": "all",
-      "date": "2026-10-09",
-      "topic": "Debates",
-      "title": "El PP da por pactados los debates de Mediaset (16 nov) y Atresmedia (26 nov) y cita el de RTVE el 23 nov",
-      "summary": "Según El Debate, la fecha de RTVE está confirmada por el PP, que pone condiciones a TVE. La publicación de encuestas queda prohibida desde el 24 de noviembre.",
-      "source": "El Debate",
-      "url": "https://www.eldebate.com/espana/20261009/posibles-fechas-distintos-debates-electorales-29n_468040.html"
-    },
-    {
       "id": "junts-20261008-1",
       "party": "junts",
       "date": "2026-10-08",
@@ -1401,16 +1421,6 @@
       "summary": "El juez del Supremo lo decidió el 6 de octubre tras el amparo del Constitucional a Dolors Bassa. El auto no declara aplicable la amnistía ni resuelve las demás cuestiones pendientes. Afecta también a Comín y Puig.",
       "source": "Infobae",
       "url": "https://www.infobae.com/espana/2026/10/06/el-juez-llarena-deja-sin-efecto-la-orden-nacional-de-detencion-contra-puigdemont-tras-el-aval-del-constitucional-a-la-amnistia/"
-    },
-    {
-      "id": "junts-20261005-1",
-      "party": "junts",
-      "date": "2026-10-05",
-      "topic": "Listas",
-      "title": "Junts mantiene a Miriam Nogueras como opción para encabezar la candidatura",
-      "summary": "La dirección validará un reglamento para las listas: el cabeza por Barcelona lo votarán los militantes. Nogueras criticó el voto de su grupo contra los decretos de vivienda y habló de menos impuestos.",
-      "source": "Infobae (EFE)",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/05/miriam-nogueras-se-mantiene-como-la-apuesta-de-junts-para-liderar-la-candidatura-del-29n/"
     },
     {
       "id": "cc-20261005-1",
