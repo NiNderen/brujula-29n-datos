@@ -1,37 +1,7 @@
 {
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
   "news": [
-    {
-      "id": "bng-20261006-1",
-      "party": "bng",
-      "date": "2026-10-06",
-      "topic": "Balance y objetivos",
-      "title": "Rego afirma que el BNG espera aumentar su representación en el Congreso el 29N",
-      "summary": "Néstor Rego dijo que el BNG es «un muro de contención» frente a la derecha y la ultraderecha y citó la quita de deuda y el traspaso de la AP-9 como logros. Son declaraciones suyas.",
-      "source": "Diario de Santiago",
-      "url": "https://www.diariodesantiago.es/galicia/rego-afronta-las-generales-con-confianza-en-que-el-bng-aumente-su-representacion/"
-    },
-    {
-      "id": "junts-20261006-1",
-      "party": "junts",
-      "date": "2026-10-06",
-      "topic": "Justicia y amnistía",
-      "title": "Llarena deja sin efecto, de forma provisional, la orden nacional de detención de Puigdemont",
-      "summary": "El juez del Supremo lo decidió el 6 de octubre tras el amparo del Constitucional a Dolors Bassa. El auto no declara aplicable la amnistía ni resuelve las demás cuestiones pendientes. Afecta también a Comín y Puig.",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/espana/2026/10/06/el-juez-llarena-deja-sin-efecto-la-orden-nacional-de-detencion-contra-puigdemont-tras-el-aval-del-constitucional-a-la-amnistia/"
-    },
-    {
-      "id": "upn-20261006-1",
-      "party": "upn",
-      "date": "2026-10-06",
-      "topic": "Coalición con PP",
-      "title": "UPN y PP negocian una fórmula conjunta para el 29N, sin acuerdo cerrado",
-      "summary": "Según Naiz, valoran una coalición o retirar una lista. Sergio Sayas (PP) dijo estar dispuesto a concurrir con UPN; Cristina Ibarrola (UPN) dijo que hay que hacer «todo» para desbancar a Sánchez.",
-      "source": "Naiz",
-      "url": "https://www.naiz.eus/en/info/noticia/20261006/upn-y-pp-aceleran-una-unidad-para-el-29n-tras-su-mal-resultado-separados-en-2023"
-    },
     {
       "id": "pnv-20261007-1",
       "party": "pnv",
@@ -179,16 +149,6 @@
       "topic": "Pacto con Podemos",
       "title": "ERC y Podemos pactan colaboración electoral en Cataluña; Comuns acusa a Rufián de dividir",
       "summary": "Rufián escribió en X que busca una colaboración «real» entre izquierdas soberanistas y españolas. Comuns expresó «decepción» y lo acusó de dividir a la izquierda.",
-      "source": "Público",
-      "url": "https://www.publico.es/politica/partidos/frente-amplio-cierra-acuerdo-colau-candidata-espera-negociacion-podemos.html"
-    },
-    {
-      "id": "sumar-20261012-1",
-      "party": "sumar",
-      "date": "2026-10-12",
-      "topic": "Candidatura",
-      "title": "IU, Más Madrid, Movimiento Sumar y Comuns designan a Ada Colau candidata del Frente Amplio",
-      "summary": "Según Público, los cuatro partidos invitaron a Podemos a sumarse y el plazo para registrar coaliciones termina el 16 de octubre. Aún no se ha concretado por qué circunscripción concurriría Colau.",
       "source": "Público",
       "url": "https://www.publico.es/politica/partidos/frente-amplio-cierra-acuerdo-colau-candidata-espera-negociacion-podemos.html"
     },
@@ -573,16 +533,6 @@
       "url": "https://www.moncloa.com/2026/10/18/pnv-vox-esteban-dique-29n-3450554/"
     },
     {
-      "id": "vox-20261018-1",
-      "party": "vox",
-      "date": "2026-10-18",
-      "topic": "Senado",
-      "title": "Vox decidirá el lunes si negocia con el PP una fórmula para el Senado, según El Español",
-      "summary": "Según el diario, la dirección valora no presentarse en provincias donde dividir el voto favorezca a la lista de izquierdas, a cambio de plazas en las listas del PP.",
-      "source": "El Español",
-      "url": "https://www.elespanol.com/espana/politica/20261018/vox-dispuesto-demostrar-altura-miras-frente-popular-senado-lunes-decidira-pacta-pp/1003744424775_0.html"
-    },
-    {
       "id": "all-20261019-1",
       "party": "all",
       "date": "2026-10-19",
@@ -651,16 +601,6 @@
       "summary": "Sánchez asiste el 19 de octubre a un acto con Óscar Puente y Ana Redondo en la Cúpula del Milenio. El Español señala a Margarita Robles como número dos de la lista de Sánchez.",
       "source": "El Español",
       "url": "https://www.elespanol.com/espana/20261019/elecciones-generales-directo-ultima-hora-pedro-sanchez-gobierno-actos-psoe-pp-vox-voto-correo-sondeos-encuestas-espana-2026-partidos/1003744425383_10.html"
-    },
-    {
-      "id": "vox-20261019-1",
-      "party": "vox",
-      "date": "2026-10-19",
-      "topic": "Senado",
-      "title": "Abascal ofrece al PP «algún entendimiento» para el Senado tras el Comité Ejecutivo",
-      "summary": "Tras reunirse el Comité Ejecutivo Nacional de Vox, Abascal dijo que mantienen «la voluntad de algún entendimiento que proteja el Senado» y pidió a la oposición «sacrificarse». No detalló la fórmula.",
-      "source": "Última Hora (Europa Press)",
-      "url": "https://www.ultimahora.es/noticias/elecciones-29n/2026/10/19/2732271/abascal-tiende-mano-para-negociar-algun-entendimiento-para-senado.html"
     },
     {
       "id": "all-20261020-1",
@@ -821,26 +761,6 @@
       "summary": "Según Junqueras, recogido por EFE, el acuerdo establece que Podemos no concurre en Cataluña. Montero es la candidata de Podemos a la presidencia.",
       "source": "Infobae (EFE)",
       "url": "https://www.infobae.com/espana/agencias/2026/10/21/junqueras-dice-que-no-temio-que-rufian-dejara-erc-dice-muchas-cosas-pero-estaba-seguro/"
-    },
-    {
-      "id": "pp-20261021-2",
-      "party": "pp",
-      "date": "2026-10-21",
-      "topic": "Senado",
-      "title": "El PP confía en un acuerdo con Vox para el Senado y pide discreción, según EFE",
-      "summary": "Alicia García dijo esperar «generosidad por ambas partes». Elías Bendodo afirmó que para que el acuerdo prospere hacen falta discreción y prudencia. Feijóo se negó en Sevilla a responder sobre el pacto.",
-      "source": "Infobae (EFE)",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/21/el-pp-confia-en-el-acuerdo-con-vox-en-el-senado-para-el-29n-con-la-generosidad-de-ambos/"
-    },
-    {
-      "id": "pp-20261021-3",
-      "party": "pp",
-      "date": "2026-10-21",
-      "topic": "Candidaturas",
-      "title": "El PP gallego cierra sus listas: Tellado por A Coruña y García Comesaña por Pontevedra",
-      "summary": "Francisco Conde repite en Lugo y Ana Vázquez en Ourense, según Moncloa.com. Julio García Comesaña sustituye a Ana Pastor en Pontevedra. Galicia tiene 23 escaños en el Congreso.",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/10/21/candidaturas-pp-galicia-29n-tellado-comesana-3452570/"
     },
     {
       "id": "psoe-20261021-1",
@@ -1403,6 +1323,26 @@
       "url": "https://www.elplural.com/politica/espana/29n-cierra-listas-gran-incognita-negociacion-entre-pp-vox-senado_802352102"
     },
     {
+      "id": "bildu-20261027-1",
+      "party": "bildu",
+      "date": "2026-10-27",
+      "topic": "Disturbios Bilbao",
+      "title": "EH Bildu rechaza «de forma absoluta» los incidentes de Bilbao",
+      "summary": "Según El Español, EH Bildu atribuyó los hechos a actuaciones violentas que favorecen al «bloque reaccionario». El Gobierno vasco habló de 19 detenidos, según el mismo medio.",
+      "source": "El Español",
+      "url": "https://elespanol.com/espana/20261027/elecciones-generales-directo-ultima-hora-pedro-sanchez-sondeos-voto-correo-actos-precampana-pp-psoe-vox-encuestas-partidos-espana-2026-pactos-listas/1003744435718_10.html"
+    },
+    {
+      "id": "junts-20261027-1",
+      "party": "junts",
+      "date": "2026-10-27",
+      "topic": "Concierto económico",
+      "title": "Nogueras condiciona la investidura de Junts a un concierto económico para Cataluña",
+      "summary": "La líder de Junts en el Congreso dijo en Barcelona el 27 de octubre que Junts no tiene preferencia entre bloques y que propone la «vía Starmer» para retomar relaciones con el PSOE si Sánchez da un paso al lado.",
+      "source": "Crónica Global",
+      "url": "https://cronicaglobal.elespanol.com/politica/20261027/junts-reivindica-concierto-economico-condicion-apoyar-investidura/1003742806616_0.html"
+    },
+    {
       "id": "pp-20261027-1",
       "party": "pp",
       "date": "2026-10-27",
@@ -1413,6 +1353,26 @@
       "url": "https://www.infobae.com/espana/agencias/2026/10/26/hoy-sera-noticia-martes-27-de-octubre/"
     },
     {
+      "id": "pp-20261027-2",
+      "party": "pp",
+      "date": "2026-10-27",
+      "topic": "Senado y orden público",
+      "title": "Feijóo dice que no habría pactado con Vox en el Senado sin la alianza PSOE-Frente Amplio",
+      "summary": "Según El Español, Feijóo llamó «coalición de desesperados» a esa alianza, anunció que recuperará el agravante penal por disturbios con la cara tapada y dijo que habrá «orden» a partir del 30 de noviembre.",
+      "source": "El Español",
+      "url": "https://elespanol.com/espana/20261027/elecciones-generales-directo-ultima-hora-pedro-sanchez-sondeos-voto-correo-actos-precampana-pp-psoe-vox-encuestas-partidos-espana-2026-pactos-listas/1003744435718_10.html"
+    },
+    {
+      "id": "pp-20261027-3",
+      "party": "pp",
+      "date": "2026-10-27",
+      "topic": "Entrevista",
+      "title": "Feijóo, en Onda Cero, califica a Sánchez de «persona conflictiva»",
+      "summary": "Según elDiario.es, el 27 de octubre Feijóo dijo en un acto de precampaña que «no pueden ganar quienes quieren hacerlo cambiando las reglas o incendiando la calle», en alusión a los disturbios recientes.",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/feijoo-convierte-disturbios-material-campana-auge-vox-encuestas_1_13619429.html"
+    },
+    {
       "id": "psoe-20261027-1",
       "party": "psoe",
       "date": "2026-10-27",
@@ -1421,6 +1381,36 @@
       "summary": "Dejó el cargo el domingo 25; el PSOE de Madrid lo atribuye a una «decisión personal». El Consejo de Ministros prevé nombrar a su sustituto.",
       "source": "Infobae (EFE)",
       "url": "https://www.infobae.com/espana/agencias/2026/10/26/hoy-sera-noticia-martes-27-de-octubre/"
+    },
+    {
+      "id": "sumar-20261027-1",
+      "party": "sumar",
+      "date": "2026-10-27",
+      "topic": "Listas al Congreso",
+      "title": "El Frente Amplio renuncia a Lleida, Girona y Tarragona tras un acuerdo con el PSC",
+      "summary": "Según Infobae, los Comuns retiran candidatos en todas las circunscripciones salvo Barcelona, donde Colau encabeza la lista y Urtasun es el número 2.",
+      "source": "Infobae",
+      "url": "https://infobae.com/espana/2026/10/27/elecciones-generales-espana-29-n-en-directo-ultima-hora-de-las-listas-al-congreso-y-al-senado-los-sondeos-y-los-candidatos"
+    },
+    {
+      "id": "vox-20261027-1",
+      "party": "vox",
+      "date": "2026-10-27",
+      "topic": "Negociación con el PP",
+      "title": "Buxadé: «prioridad nacional» y menos ministerios estarán en la negociación con el PP",
+      "summary": "Según El Español, el eurodiputado Jorge Buxadé afirmó el 27 de octubre que, tras el pacto del Senado, no hay otras negociaciones en curso con el PP.",
+      "source": "El Español",
+      "url": "https://elespanol.com/espana/20261027/elecciones-generales-directo-ultima-hora-pedro-sanchez-sondeos-voto-correo-actos-precampana-pp-psoe-vox-encuestas-partidos-espana-2026-pactos-listas/1003744435718_10.html"
+    },
+    {
+      "id": "vox-20261027-2",
+      "party": "vox",
+      "date": "2026-10-27",
+      "topic": "Querella",
+      "title": "Vox presenta una querella en Avilés por la «falta de protección» en el mitin de Abascal del 21-O",
+      "summary": "Según Infobae, la querella se dirige, entre otros, contra Adriana Lastra, la delegada del Gobierno Cecilia Pérez y promotores de la contramanifestación. Lastra rechazó la acusación y pidió a Vox que rectifique.",
+      "source": "Infobae",
+      "url": "https://infobae.com/espana/2026/10/27/elecciones-generales-espana-29-n-en-directo-ultima-hora-de-las-listas-al-congreso-y-al-senado-los-sondeos-y-los-candidatos"
     }
   ],
   "positions": {},
