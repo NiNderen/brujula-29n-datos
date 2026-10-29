@@ -1,37 +1,7 @@
 {
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
   "news": [
-    {
-      "id": "pnv-20261007-1",
-      "party": "pnv",
-      "date": "2026-10-07",
-      "topic": "Listas",
-      "title": "El PNV propone a Maribel Vaquero (Gipuzkoa) y Gorka Urtaran (Álava) como cabezas de lista",
-      "summary": "Es la primera vez en cinco convocatorias que Aitor Esteban no encabeza la lista. La militancia ratificará las listas en una asamblea extraordinaria el 17 de octubre.",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/10/07/listas-pnv-29n-vaquero-urtaran-goia-3444165/"
-    },
-    {
-      "id": "pnv-20261007-2",
-      "party": "pnv",
-      "date": "2026-10-07",
-      "topic": "Listas",
-      "title": "Aitor Esteban no encabezará la lista del PNV por primera vez en cinco elecciones",
-      "summary": "Los nombres propuestos pasan por una doble ronda con la militancia. Las listas se proclamarán tras la asamblea nacional extraordinaria del 17 de octubre, según Moncloa.com.",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/10/07/listas-pnv-29n-vaquero-urtaran-goia-3444165/"
-    },
-    {
-      "id": "junts-20261008-1",
-      "party": "junts",
-      "date": "2026-10-08",
-      "topic": "Candidaturas",
-      "title": "Junts se inclina por Nogueras, Madrenas, Cruset y Gavín como cabezas de lista en Cataluña",
-      "summary": "Según Europa Press, serían por Barcelona, Girona, Tarragona y Lleida, respectivamente. Es una propuesta pendiente de primarias, aprobación de la ejecutiva y ratificación del Consell Nacional.",
-      "source": "Última Hora (Europa Press)",
-      "url": "https://www.ultimahora.es/noticias/comunidades/2026/10/08/2725153/junts-quiere-nogueras-madrenas-cruset-gavin-repitan-por-barcelona-girona-tarragona-lleida.html"
-    },
     {
       "id": "bildu-20261009-1",
       "party": "bildu",
@@ -73,16 +43,6 @@
       "url": "https://diariodeavisos.elespanol.com/2026/10/alfonso-cabello-patricia-leon-cc-senado/"
     },
     {
-      "id": "erc-20261010-1",
-      "party": "erc",
-      "date": "2026-10-10",
-      "topic": "Senado",
-      "title": "ERC y EH Bildu concurrirán juntas al Senado el 29N",
-      "summary": "Un comunicado conjunto difundido por EH Bildu anuncia que repiten la coalición de 2023 para el Senado. El acuerdo no se refiere al Congreso ni detalla las listas.",
-      "source": "Press Digital",
-      "url": "https://www.pressdigital.es/articulo/politica/2026-10-10/6047297-erc-eh-bildu-pactan-concurrir-juntos-29n-reforzar-representacion-senado"
-    },
-    {
       "id": "pnv-1",
       "party": "pnv",
       "date": "2026-10-10",
@@ -103,16 +63,6 @@
       "url": "https://theobjective.com/espana/politica/2026-10-10/pp-upn-navarr/"
     },
     {
-      "id": "all-1",
-      "party": "all",
-      "date": "2026-10-11",
-      "topic": "Calendario",
-      "title": "Fechas clave hasta el 29N",
-      "summary": "Coaliciones: hasta el 16 de octubre. Candidaturas: del 21 al 26 de octubre. Campaña: del 13 al 27 de noviembre. Reflexión: 28 de noviembre. Votación: 29 de noviembre.",
-      "source": "Wikipedia",
-      "url": "https://es.wikipedia.org/wiki/Elecciones_generales_de_Espa%C3%B1a_de_2026"
-    },
-    {
       "id": "bildu-20261011-1",
       "party": "bildu",
       "date": "2026-10-11",
@@ -123,26 +73,6 @@
       "url": "https://www.moncloa.com/2026/10/11/mertxe-aizpurua-eh-bildu-congreso-3446504/"
     },
     {
-      "id": "all-20261012-1",
-      "party": "all",
-      "date": "2026-10-12",
-      "topic": "Voto exterior",
-      "title": "El Supremo mantiene la suspensión del voto de los nacionalizados por la ley de nietos",
-      "summary": "Rechazó el recurso de la Abogacía del Estado contra la cautelar del 10 de septiembre; afecta a casi 170.000 expedientes y no podrán votar el 29N, según Infobae.",
-      "source": "Infobae (agencias)",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/12/el-ts-mantiene-la-suspension-del-voto-de-los-nacionalizados-por-la-ley-de-nietos/"
-    },
-    {
-      "id": "all-20261012-2",
-      "party": "all",
-      "date": "2026-10-12",
-      "topic": "Encuestas",
-      "title": "Sigma Dos para El Mundo estima 135 escaños para el PP, 103 para el PSOE y 68 para Vox",
-      "summary": "Sondeo de Sigma Dos (2.017 entrevistas) publicado el 12 de octubre: PP 31,9 %, PSOE 25,3 %, Vox 19,1 %, Sumar 7,6 %. La fuente consultada no indica las fechas de campo. Son estimaciones.",
-      "source": "Sigma Dos / El Mundo",
-      "url": "https://www.sigmados.com/sondeo-de-arranque-de-campana-estimacion-de-voto-para-las-elecciones-generales-29-n/"
-    },
-    {
       "id": "erc-20261012-1",
       "party": "erc",
       "date": "2026-10-12",
@@ -151,16 +81,6 @@
       "summary": "Rufián escribió en X que busca una colaboración «real» entre izquierdas soberanistas y españolas. Comuns expresó «decepción» y lo acusó de dividir a la izquierda.",
       "source": "Público",
       "url": "https://www.publico.es/politica/partidos/frente-amplio-cierra-acuerdo-colau-candidata-espera-negociacion-podemos.html"
-    },
-    {
-      "id": "all-20261013-1",
-      "party": "all",
-      "date": "2026-10-13",
-      "topic": "Encuestas",
-      "title": "Sigma Dos estima en Cataluña 16 escaños para el PSC, 9 para ERC y 7 para Vox y Junts",
-      "summary": "Estimación de Sigma Dos para El Mundo con trabajo de campo del 1 al 8 de octubre: PP 6 y Comuns 2. Son estimaciones, no resultados.",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/10/13/encuesta-vox-cataluna-29n-sorpasso-pp-3447670/"
     },
     {
       "id": "bildu-20261013-1",
@@ -191,36 +111,6 @@
       "summary": "Según Verónica Martínez Barbero (Movimiento Sumar), ERC ha rechazado el proceso del Frente Amplio. Podemos no se presentará en Cataluña, según el pacto con Rufián recogido por El Español.",
       "source": "El Español",
       "url": "https://www.elespanol.com/espana/politica/20261013/frente-amplio-colau-niega-sucumbir-pinza-rufian-podemos-dias-guerra-fratricida/1003744417641_0.amp.html"
-    },
-    {
-      "id": "junts-20261013-1",
-      "party": "junts",
-      "date": "2026-10-13",
-      "topic": "Comín",
-      "title": "Toni Comín anuncia que volverá de Bruselas el 24 de octubre",
-      "summary": "El exeurodiputado de Junts dijo que cruzará la frontera a pie. Según El Español, confía en volver sin cargas judiciales tras el aval del Constitucional a la Ley de Amnistía.",
-      "source": "El Español",
-      "url": "https://www.elespanol.com/espana/20261013/elecciones-generales-directo-ultima-hora-adelanto-electoral-encuestas-pedro-sanchez-actos-pp-psoe-vox-voto-correo/1003744417684_10.html"
-    },
-    {
-      "id": "podemos-20261013-1",
-      "party": "podemos",
-      "date": "2026-10-13",
-      "topic": "Pacto de izquierdas",
-      "title": "El Frente Amplio invita a Podemos a sumarse y Podemos exigiría puestos de salida",
-      "summary": "En un comunicado conjunto, el Frente Amplio pidió que «todas las organizaciones expresen con claridad su voluntad de contribuir a la unidad». Según El Español, Podemos pide puestos de salida si se integra. El plazo de coaliciones vence el 16 de octubre.",
-      "source": "El Español",
-      "url": "https://www.elespanol.com/espana/politica/20261013/frente-amplio-colau-niega-sucumbir-pinza-rufian-podemos-dias-guerra-fratricida/1003744417641_0.amp.html"
-    },
-    {
-      "id": "sumar-20261013-1",
-      "party": "sumar",
-      "date": "2026-10-13",
-      "topic": "Frente Amplio",
-      "title": "Colau acepta liderar el Frente Amplio y Más Madrid abre una consulta el 14 y 15 de octubre",
-      "summary": "La consulta vinculante de Más Madrid sobre su entrada en el Frente Amplio y Emilio Delgado como cabeza de lista por Madrid se cierra el viernes 16 a las 12:00. Mónica García pasaría a ser número dos, según El Español.",
-      "source": "El Español",
-      "url": "https://www.elespanol.com/espana/20261013/elecciones-generales-directo-ultima-hora-adelanto-electoral-encuestas-pedro-sanchez-actos-pp-psoe-vox-voto-correo/1003744417684_10.html"
     },
     {
       "id": "upn-20261013-1",
@@ -281,16 +171,6 @@
       "summary": "Aitor Esteban dijo que la propuesta se le comunicó «momentos antes de que fuese aprobada»; defendía la continuidad de Elixabete Etxanobe. Los batzokis de Bizkaia deben pronunciarse en las próximas semanas.",
       "source": "Moncloa.com",
       "url": "https://www.moncloa.com/2026/10/14/crisis-pnv-bizkaia-candidatura-diputada-general-3448416"
-    },
-    {
-      "id": "podemos-20261014-1",
-      "party": "podemos",
-      "date": "2026-10-14",
-      "topic": "Primarias",
-      "title": "Podemos abre primarias el 14 y 15 de octubre con Irene Montero como única candidata a la Presidencia",
-      "summary": "Según Diario Sabemos, Montero ha descartado integrar Podemos en el Frente Amplio, aunque deja abiertas otras fórmulas de colaboración. Podemos mantiene su pacto con ERC y no presentará candidatura propia en Cataluña.",
-      "source": "Diario Sabemos",
-      "url": "https://diariosabemos.com/politica/colau-frente-amplio-podemos-irene-montero-unidad-izquierda-29n_519345_102.html"
     },
     {
       "id": "sumar-20261014-1",
@@ -593,16 +473,6 @@
       "url": "https://www.infobae.com/espana/agencias/2026/10/19/erc-reivindica-su-estrategia-para-el-29n-y-a-rufian-tenemos-el-mejor-candidato/"
     },
     {
-      "id": "psoe-20261019-1",
-      "party": "psoe",
-      "date": "2026-10-19",
-      "topic": "Precampaña",
-      "title": "Sánchez participa en un acto en Valladolid; Robles figura como número 2 en las listas",
-      "summary": "Sánchez asiste el 19 de octubre a un acto con Óscar Puente y Ana Redondo en la Cúpula del Milenio. El Español señala a Margarita Robles como número dos de la lista de Sánchez.",
-      "source": "El Español",
-      "url": "https://www.elespanol.com/espana/20261019/elecciones-generales-directo-ultima-hora-pedro-sanchez-gobierno-actos-psoe-pp-vox-voto-correo-sondeos-encuestas-espana-2026-partidos/1003744425383_10.html"
-    },
-    {
       "id": "all-20261020-1",
       "party": "all",
       "date": "2026-10-20",
@@ -631,36 +501,6 @@
       "summary": "Según Infobae, la estimación del Centre d'Estudis d'Opinió compara con los siete diputados de 2023. Es una estimación, no un resultado. Nogueras, Cruset, Madrenas y Gavín encabezan las listas.",
       "source": "Infobae",
       "url": "https://www.infobae.com/espana/2026/10/20/puigdemont-entra-en-la-campana-para-el-29-n-el-lider-independentista-regresa-a-cataluna-para-salvar-a-junts-del-batacazo-que-preven-los-sondeos/"
-    },
-    {
-      "id": "psoe-20261020-1",
-      "party": "psoe",
-      "date": "2026-10-20",
-      "topic": "Empleo público",
-      "title": "El Gobierno confirma a los sindicatos una subida del 4,5 % para 2027 a los empleados públicos, sin fijar fecha",
-      "summary": "Función Pública (Óscar López) reiteró a CCOO, UGT y CSIF el 4,5 % fijo desde el 1 de enero de 2027 más un 0,5 % variable ligado a la inflación de 2026. Los sindicatos piden aprobar el decreto antes del 29N; no hay fecha.",
-      "source": "Mundiario",
-      "url": "https://www.mundiario.com/articulo/politica/gobierno-garantiza-subida-5-funcionarios-2027-evita-fijar-fecha-antes-29-n/20261020235411448042.html"
-    },
-    {
-      "id": "vox-20261020-1",
-      "party": "vox",
-      "date": "2026-10-20",
-      "topic": "Precampaña",
-      "title": "Abascal abre la precampaña en Ponferrada con críticas a Sánchez y pide no fiarse de las encuestas",
-      "summary": "Abascal dijo que Sánchez es «un candidato marroquí» y advirtió de una campaña «sucia». Afirmó que 180.000 personas fueron incluidas en el censo por la «ley de nietos». Son afirmaciones suyas que el medio no verifica.",
-      "source": "El Español",
-      "url": "https://www.elespanol.com/castilla-y-leon/region/leon/20261020/abascal-acusa-sanchez-candidato-marroqui-advierte-podria-robar-elecciones/1003744428362_0.html"
-    },
-    {
-      "id": "vox-20261020-2",
-      "party": "vox",
-      "date": "2026-10-20",
-      "topic": "Gobierno con el PP",
-      "title": "Abascal: «Si el próximo Gobierno depende de Vox los sacrificios no van a ser para nuestra gente»",
-      "summary": "En Ponferrada respondió a Feijóo sobre los «sacrificios» y negó que las pensiones estén en riesgo por Vox, atribuyendo ese peligro a Sánchez, según El Español.",
-      "source": "El Español",
-      "url": "https://www.elespanol.com/castilla-y-leon/region/leon/20261020/abascal-acusa-sanchez-candidato-marroqui-advierte-podria-robar-elecciones/1003744428362_0.html"
     },
     {
       "id": "all-20261021-1",
@@ -871,26 +711,6 @@
       "summary": "Según EFE (Infobae), Mitjana y Pilar Gimeno dejan sus cargos; él cita desacuerdos con las direcciones provincial y estatal. El artículo no recoge respuesta de la dirección de Podemos.",
       "source": "Infobae (EFE)",
       "url": "https://www.infobae.com/espana/agencias/2026/10/22/dimite-el-coordinador-de-podemos-aragon-por-discrepancias-con-la-direccion-estatal/"
-    },
-    {
-      "id": "pp-20261022-1",
-      "party": "pp",
-      "date": "2026-10-22",
-      "topic": "Debates",
-      "title": "El PP acepta el cara a cara del 16-N en Mediaset y rechaza un debate a cuatro en RTVE",
-      "summary": "Según elDiario.es, el PP afirma que «no habrá debate a cuatro en RTVE», respalda a Atresmedia para ese formato y acusa al PSOE de querer boicotear a esa cadena. Propone tres debates, incluido uno con Vox y el Frente Amplio.",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/sanchez-acepta-cara-cara-electoral-feijoo-16-noviembre_1_13607508.html"
-    },
-    {
-      "id": "pp-20261022-2",
-      "party": "pp",
-      "date": "2026-10-22",
-      "topic": "Candidaturas",
-      "title": "Pilar Miranda, alcaldesa de Huelva, encabezará la lista del PP al Congreso por Huelva",
-      "summary": "Según Infobae, sustituye a Bella Verano y la ley permite compatibilizar el escaño con la alcaldía. Feijóo acusó a Sánchez de «agitar el miedo» para desviar la atención de los casos que afectan al Gobierno.",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/espana/2026/10/22/elecciones-generales-29-n-en-directo-ultima-hora-de-los-sondeos-propuestas-de-los-partidos-y-actos-de-los-candidatos/"
     },
     {
       "id": "psoe-20261022-1",
@@ -1323,6 +1143,16 @@
       "url": "https://www.elplural.com/politica/espana/29n-cierra-listas-gran-incognita-negociacion-entre-pp-vox-senado_802352102"
     },
     {
+      "id": "all-20261027-2",
+      "party": "all",
+      "date": "2026-10-27",
+      "topic": "Encuestas",
+      "title": "NC Report, SocioMétrica y Sigma Dos: PP primero y PP+Vox por encima de 176 escaños (estimaciones)",
+      "summary": "Según Infobae: NC Report (La Razón, campo 22-24 oct) estima PP 141-143, PSOE 100-102, Vox 64-66; SocioMétrica (El Español) PP 135, PSOE 108, Vox 63; Sigma Dos (El Mundo) PP 125-131, PSOE 103-109. Son estimaciones.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/2026/10/27/asi-estan-las-encuestas-para-el-29-de-noviembre-pp-y-vox-mantienen-la-mayoria-absoluta-el-psoe-gana-terreno-y-la-izquierda-fragmentada-no-logra-remontar/"
+    },
+    {
       "id": "bildu-20261027-1",
       "party": "bildu",
       "date": "2026-10-27",
@@ -1333,6 +1163,16 @@
       "url": "https://elespanol.com/espana/20261027/elecciones-generales-directo-ultima-hora-pedro-sanchez-sondeos-voto-correo-actos-precampana-pp-psoe-vox-encuestas-partidos-espana-2026-pactos-listas/1003744435718_10.html"
     },
     {
+      "id": "erc-20261027-1",
+      "party": "erc",
+      "date": "2026-10-27",
+      "topic": "Vivienda",
+      "title": "Rufián propone más presión fiscal a quien acumule viviendas o especule",
+      "summary": "Lo dijo en La Revuelta junto a Irene Montero. Pidió que ERC, Podemos y el Frente Amplio obtengan buenos resultados para condicionar a un Gobierno del PSOE, según El Diario de Madrid.",
+      "source": "El Diario de Madrid",
+      "url": "https://www.eldiariodemadrid.es/articulo/politica/irene-montero-gabriel-rufian-la-revuelta-feminismo-vivienda/20261028101527145504.html"
+    },
+    {
       "id": "junts-20261027-1",
       "party": "junts",
       "date": "2026-10-27",
@@ -1341,6 +1181,26 @@
       "summary": "La líder de Junts en el Congreso dijo en Barcelona el 27 de octubre que Junts no tiene preferencia entre bloques y que propone la «vía Starmer» para retomar relaciones con el PSOE si Sánchez da un paso al lado.",
       "source": "Crónica Global",
       "url": "https://cronicaglobal.elespanol.com/politica/20261027/junts-reivindica-concierto-economico-condicion-apoyar-investidura/1003742806616_0.html"
+    },
+    {
+      "id": "junts-20261027-2",
+      "party": "junts",
+      "date": "2026-10-27",
+      "topic": "Investidura",
+      "title": "Nogueras se abre a investir un Gobierno del PSOE no encabezado por Sánchez",
+      "summary": "Dijo en rueda de prensa que Junts lo valoraría si el PSOE presenta propuestas que beneficien a Cataluña, entre ellas el concierto económico. El artículo no recoge respuesta del PSOE.",
+      "source": "Onda Vasca",
+      "url": "https://www.ondavasca.com/junts-se-abre-a-investir-un-gobierno-del-psoe-sin-pedro-sanchez/"
+    },
+    {
+      "id": "podemos-20261027-1",
+      "party": "podemos",
+      "date": "2026-10-27",
+      "topic": "Vivienda",
+      "title": "Montero propone bajar los alquileres un 40 % por ley y prohibir comprar inmuebles para negocio",
+      "summary": "Lo dijo en La Revuelta junto a Rufián (ERC). Montero también defendió nacionalizar compañías energéticas, según El Diario de Madrid.",
+      "source": "El Diario de Madrid",
+      "url": "https://www.eldiariodemadrid.es/articulo/politica/irene-montero-gabriel-rufian-la-revuelta-feminismo-vivienda/20261028101527145504.html"
     },
     {
       "id": "pp-20261027-1",
@@ -1371,6 +1231,16 @@
       "summary": "Según elDiario.es, el 27 de octubre Feijóo dijo en un acto de precampaña que «no pueden ganar quienes quieren hacerlo cambiando las reglas o incendiando la calle», en alusión a los disturbios recientes.",
       "source": "elDiario.es",
       "url": "https://www.eldiario.es/politica/feijoo-convierte-disturbios-material-campana-auge-vox-encuestas_1_13619429.html"
+    },
+    {
+      "id": "pp-20261027-4",
+      "party": "pp",
+      "date": "2026-10-27",
+      "topic": "Seguridad",
+      "title": "Feijóo propone recuperar la agravante por disturbios con la cara tapada y subir penas si se convocan por redes",
+      "summary": "Lo dijo en Onda Cero tras los disturbios de Barcelona y Bilbao, según el seguimiento de El Progreso. Criticó a Marlaska por estar «desaparecido».",
+      "source": "El Progreso",
+      "url": "https://www.elprogreso.es/articulo/espana/carrera-29-directo-feijoo-presenta-lista-madrid-mano-alvarez-toledo-aval-ayuso/202610271040382009600.html"
     },
     {
       "id": "psoe-20261027-1",
@@ -1411,6 +1281,116 @@
       "summary": "Según Infobae, la querella se dirige, entre otros, contra Adriana Lastra, la delegada del Gobierno Cecilia Pérez y promotores de la contramanifestación. Lastra rechazó la acusación y pidió a Vox que rectifique.",
       "source": "Infobae",
       "url": "https://infobae.com/espana/2026/10/27/elecciones-generales-espana-29-n-en-directo-ultima-hora-de-las-listas-al-congreso-y-al-senado-los-sondeos-y-los-candidatos"
+    },
+    {
+      "id": "all-20261028-1",
+      "party": "all",
+      "date": "2026-10-28",
+      "topic": "Accidente ferroviario",
+      "title": "Accidente de trenes en Urda (Toledo): PSOE, PP, Frente Amplio y Podemos suspenden actos; Vox mantiene los suyos",
+      "summary": "Un AVE de Renfe chocó con un Iryo detenido en Urda hacia las 8:48 del 28 de octubre. elDiario.es cifra al menos 68 muertos y más de 100 heridos; otras fuentes citaron antes cifras menores y las cifras pueden cambiar.",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-la-mancha/accidente-tren-toledo-suspendida-alta-velocidad-madrid-andalucia_133_13620647.html"
+    },
+    {
+      "id": "all-20261028-2",
+      "party": "all",
+      "date": "2026-10-28",
+      "topic": "Calendario electoral",
+      "title": "El BOE publica las listas presentadas al Congreso y al Senado; las definitivas saldrán el 3 de noviembre",
+      "summary": "Según EFE, la Junta revisará los requisitos y los partidos tendrán 48 horas para subsanar defectos. La publicación de candidaturas definitivas está prevista para el 3 de noviembre.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/10/28/el-boe-publica-las-listas-presentadas-al-congreso-y-senado-para-las-elecciones-del-29n/"
+    },
+    {
+      "id": "junts-20261028-1",
+      "party": "junts",
+      "date": "2026-10-28",
+      "topic": "Accidente ferroviario",
+      "title": "Junts reclama asumir responsabilidades por el estado de las infraestructuras tras Urda",
+      "summary": "Según EFE, Nogueras dijo que la prioridad es atender a las víctimas. Puigdemont propuso suspender los actos de precampaña, según Público.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/10/28/el-accidente-de-urda-cancela-la-precampana-y-las-agendas-oficiales-pero-no-la-de-vox/"
+    },
+    {
+      "id": "podemos-20261028-1",
+      "party": "podemos",
+      "date": "2026-10-28",
+      "topic": "Accidente ferroviario",
+      "title": "Podemos suspende sus actos de campaña por el accidente de Urda",
+      "summary": "Según elDiario.es, Podemos paralizó sus actos tras el choque de trenes del 28 de octubre.",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-la-mancha/accidente-tren-toledo-suspendida-alta-velocidad-madrid-andalucia_133_13620647.html"
+    },
+    {
+      "id": "pp-20261028-1",
+      "party": "pp",
+      "date": "2026-10-28",
+      "topic": "Accidente ferroviario",
+      "title": "El PP suspende su precampaña y Feijóo pide una auditoría independiente de la red ferroviaria",
+      "summary": "Según Público, Feijóo reclamó una investigación gubernamental y otra judicial, y dijo que pedir responsabilidades políticas «no es el día». El PP no ha fijado fecha para reanudar actos.",
+      "source": "Público",
+      "url": "https://www.publico.es/politica/gobierno/accidente-trenes-toledo-sacude-paraliza-precampana-electoral.html"
+    },
+    {
+      "id": "psoe-20261028-1",
+      "party": "psoe",
+      "date": "2026-10-28",
+      "topic": "Accidente ferroviario",
+      "title": "El PSOE cancela el mitin de Sánchez en Vitoria previsto para el 29 de octubre",
+      "summary": "Ferraz confirmó la cancelación por el accidente de Urda. Rebeca Torró dijo que el partido suspende su agenda porque la prioridad es «atender la emergencia».",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/10/28/el-psoe-cancela-el-acto-de-precampana-que-iba-a-celebrar-este-jueves-en-vitoria-con-pedro-sanchez/"
+    },
+    {
+      "id": "psoe-20261028-2",
+      "party": "psoe",
+      "date": "2026-10-28",
+      "topic": "Accidente ferroviario",
+      "title": "Sánchez: «No es asumible sufrir estos dos accidentes» y promete actuar si hubo negligencias",
+      "summary": "Según Público, Sánchez se refirió a Adamuz y Urda, prometió investigar las causas y declaró tres días de luto oficial. El PSOE atribuye la responsabilidad a un operario de Adif, según elDiario.es.",
+      "source": "Público",
+      "url": "https://www.publico.es/politica/gobierno/accidente-trenes-toledo-sacude-paraliza-precampana-electoral.html"
+    },
+    {
+      "id": "sumar-20261028-1",
+      "party": "sumar",
+      "date": "2026-10-28",
+      "topic": "Accidente ferroviario",
+      "title": "Colau (Frente Amplio) pide asumir responsabilidades políticas y una auditoría independiente de la red",
+      "summary": "Según Público, el Frente Amplio canceló su agenda y exigió claridad, auditoría y responsabilidades técnicas tras el accidente de Urda.",
+      "source": "Público",
+      "url": "https://www.publico.es/politica/gobierno/accidente-trenes-toledo-sacude-paraliza-precampana-electoral.html"
+    },
+    {
+      "id": "vox-20261028-1",
+      "party": "vox",
+      "date": "2026-10-28",
+      "topic": "Accidente ferroviario",
+      "title": "Vox mantiene sus actos tras Urda; Abascal dice que lo que hay que suspender son los «bailecitos»",
+      "summary": "Según EFE, Abascal tuvo agenda en Santander y Valladolid, expresó condolencias y criticó al Gobierno por el estado de las infraestructuras. Son acusaciones de campaña, no conclusiones oficiales.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/10/28/el-accidente-de-urda-cancela-la-precampana-y-las-agendas-oficiales-pero-no-la-de-vox/"
+    },
+    {
+      "id": "vox-20261028-2",
+      "party": "vox",
+      "date": "2026-10-28",
+      "topic": "Accidente ferroviario",
+      "title": "Vox anuncia una querella contra Adif y responsables del centro de control por homicidio imprudente",
+      "summary": "Según Público, Abascal y Buxadé acusaron al Gobierno de ser una «organización criminal». El Ejecutivo atribuye el choque a un posible error humano, según elDiario.es.",
+      "source": "Público",
+      "url": "https://www.publico.es/politica/gobierno/accidente-trenes-toledo-sacude-paraliza-precampana-electoral.html"
+    },
+    {
+      "id": "all-20261029-1",
+      "party": "all",
+      "date": "2026-10-29",
+      "topic": "Huelga general",
+      "title": "La huelga general del 11 de noviembre sigue convocada tras el accidente de Urda",
+      "summary": "Según Demócrata, CCOO y UGT no han anunciado cambios en la convocatoria, registrada el 19 de octubre, mientras otros colectivos han suspendido movilizaciones.",
+      "source": "Demócrata",
+      "url": "https://www.democrata.es/en/current-events/urda-spain-suspends-protests-and-keeps-the-11n-strike-pending/"
     }
   ],
   "positions": {},
