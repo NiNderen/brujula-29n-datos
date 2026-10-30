@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29",
+  "updated": "2026-10-30",
   "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
   "news": [
     {
@@ -73,16 +73,6 @@
       "url": "https://www.moncloa.com/2026/10/11/mertxe-aizpurua-eh-bildu-congreso-3446504/"
     },
     {
-      "id": "erc-20261012-1",
-      "party": "erc",
-      "date": "2026-10-12",
-      "topic": "Pacto con Podemos",
-      "title": "ERC y Podemos pactan colaboración electoral en Cataluña; Comuns acusa a Rufián de dividir",
-      "summary": "Rufián escribió en X que busca una colaboración «real» entre izquierdas soberanistas y españolas. Comuns expresó «decepción» y lo acusó de dividir a la izquierda.",
-      "source": "Público",
-      "url": "https://www.publico.es/politica/partidos/frente-amplio-cierra-acuerdo-colau-candidata-espera-negociacion-podemos.html"
-    },
-    {
       "id": "bildu-20261013-1",
       "party": "bildu",
       "date": "2026-10-13",
@@ -121,16 +111,6 @@
       "summary": "La coalición se llamará «Unión del Pueblo Navarro en coalición con el Partido Popular»; UPN encabezará las listas al Congreso y al Senado y Feijóo será el candidato a la Presidencia. El programa lo redactará una comisión de ambos partidos.",
       "source": "The Objective",
       "url": "https://theobjective.com/espana/politica/2026-10-13/pp-upn-pacto-listas-electorales-navarra/"
-    },
-    {
-      "id": "all-20261014-1",
-      "party": "all",
-      "date": "2026-10-14",
-      "topic": "Encuestas",
-      "title": "El CIS de octubre estima 34 % para el PSOE, 22,2 % para el PP y 17,1 % para Vox",
-      "summary": "Barómetro del CIS publicado el 14 de octubre, con 5.025 entrevistas realizadas del 1 al 6 de octubre (margen de error ±1,4 %). Recoge también Sumar 6,1 % y Podemos 3,1 %, un 17,3 % de indecisos y un 5,1 % que dice que se abstendría. Son estimaciones, no resultados.",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/10/14/cis-octubre-hunde-pp-psoe-34-3448290/"
     },
     {
       "id": "bildu-20261014-1",
@@ -173,16 +153,6 @@
       "url": "https://www.moncloa.com/2026/10/14/crisis-pnv-bizkaia-candidatura-diputada-general-3448416"
     },
     {
-      "id": "sumar-20261014-1",
-      "party": "sumar",
-      "date": "2026-10-14",
-      "topic": "Frente Amplio",
-      "title": "Colau ofrece ceder el liderazgo y cambiar el nombre del Frente Amplio para incluir a Podemos",
-      "summary": "Ada Colau dijo en TVE que cedería si otra persona generara más consenso y que el nombre podría cambiar. Antonio Maíllo (IU) dijo que IU está dispuesta a ir sin coalición si hace falta. Plazo para registrar coaliciones: 16 de octubre.",
-      "source": "Infobae (EFE)",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/14/colau-ofrece-no-liderar-el-frente-amplio-para-incluir-a-podemos-pero-el-pacto-sigue-lejos/"
-    },
-    {
       "id": "bildu-20261015-1",
       "party": "bildu",
       "date": "2026-10-15",
@@ -211,16 +181,6 @@
       "summary": "La alianza, oficializada el 15 de octubre, concurrirá con nombre distinto según la provincia. Las candidaturas al Senado aún no están definidas.",
       "source": "La Gaceta de Canarias",
       "url": "https://lagacetadecanarias.com/coalicion-canaria-y-primero-canarias-hacen-oficial-su-alianza-cristina-valido-y-teodoro-sosa-encabezaran-las-listas-al-congreso/"
-    },
-    {
-      "id": "podemos-20261015-1",
-      "party": "podemos",
-      "date": "2026-10-15",
-      "topic": "Coaliciones",
-      "title": "Belarra ve «muy difícil» un acuerdo con el Frente Amplio en Madrid y Barcelona",
-      "summary": "Según EFE, Podemos ofrece coalición solo con IU en 10 comunidades y prioriza el pacto con ERC en Cataluña. Las primarias abiertas para elegir cabeza de lista terminan el 15; solo se ha presentado Irene Montero, por Madrid. El plazo de coaliciones cierra el 16.",
-      "source": "Última Hora (EFE)",
-      "url": "https://ultimahora.es/noticias/elecciones-29n/2026/10/15/2729529/podemos-aleja-pacto-frente-amplio-madrid-barcelona-dia-del-fin-del-plazo.html"
     },
     {
       "id": "sumar-20261015-1",
@@ -603,26 +563,6 @@
       "url": "https://www.infobae.com/espana/agencias/2026/10/21/junqueras-dice-que-no-temio-que-rufian-dejara-erc-dice-muchas-cosas-pero-estaba-seguro/"
     },
     {
-      "id": "psoe-20261021-1",
-      "party": "psoe",
-      "date": "2026-10-21",
-      "topic": "Entrevista",
-      "title": "Sánchez será entrevistado por Broncano en «La Revuelta» el jueves 22 de octubre",
-      "summary": "Según elDiario.es, Broncano anunció la visita en directo; sería la primera entrevista de la campaña en el programa. Dijo que PP y Vox aún no habían respondido a su invitación y que el Frente Amplio sí aceptó.",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/vertele/noticias/pedro-sanchez-acepta-invitacion-revuelta-sera-entrevistado-jueves-broncano-rtve_1_13604934.html"
-    },
-    {
-      "id": "psoe-20261021-2",
-      "party": "psoe",
-      "date": "2026-10-21",
-      "topic": "Pensiones",
-      "title": "Illa sitúa las pensiones como eje en un acto del PSC y reivindica el papel del partido en la amnistía",
-      "summary": "Según Moncloa.com, en un acto con más de 200 militantes Illa describió lo planteado por PP y Vox como «un ataque directo a un elemento de solidaridad intergeneracional». El medio cita el barómetro del CEO de octubre, que sitúa al PSC primero con 19 escaños.",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/10/21/illa-precampana-sanchez-psc-3453032"
-    },
-    {
       "id": "sumar-20261021-1",
       "party": "sumar",
       "date": "2026-10-21",
@@ -641,16 +581,6 @@
       "summary": "Según EFE, dijo en La Sexta que ocultan «el recorte de pensiones». También relató que EE. UU. le denegó el ESTA y el visado para viajar a Puerto Rico tras una entrevista en la embajada sobre su activismo propalestino.",
       "source": "Infobae (EFE)",
       "url": "https://www.infobae.com/espana/agencias/2026/10/21/colau-acusa-a-pp-y-vox-de-intentar-esconder-a-referentes-de-ambos-partidos-como-milei/"
-    },
-    {
-      "id": "vox-20261021-1",
-      "party": "vox",
-      "date": "2026-10-21",
-      "topic": "Milei",
-      "title": "Milei habla por videollamada con Abascal, que mantuvo su agenda de precampaña en A Coruña y Avilés",
-      "summary": "Según Infobae, Milei fue recibido en la Fundación Disenso por Ignacio Garriga. En la llamada dijo «dicen que no me querés más» y Abascal respondió que se verían «en otra ocasión». Antes, Milei había llamado «impresentable dictador» a Sánchez.",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/espana/2026/10/21/che-dicen-que-no-me-queres-mas-asi-ha-sido-la-videollamada-de-javier-milei-con-santiago-abascal-durante-su-visita-a-madrid/"
     },
     {
       "id": "all-20261022-1",
@@ -753,16 +683,6 @@
       "url": "https://www.elespanol.com/castilla-y-leon/region/burgos/20261022/abascal-denuncia-violencia-organizada-moncloa-acosar-actos-vox-altercados-coruna/1003744430907_0.html"
     },
     {
-      "id": "vox-20261022-2",
-      "party": "vox",
-      "date": "2026-10-22",
-      "topic": "Senado",
-      "title": "Abascal condiciona una reforma constitucional a una mayoría de PP y Vox en el Senado",
-      "summary": "Según Moncloa.com, dijo que esa mayoría permitiría que el Constitucional deje de estar «secuestrado» y no detalló la negociación con el PP. La reforma exige tres quintos de cada cámara (art. 167).",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/10/22/mitin-vox-coruna-detenidos-abascal-3453190/"
-    },
-    {
       "id": "all-20261023-1",
       "party": "all",
       "date": "2026-10-23",
@@ -821,16 +741,6 @@
       "summary": "En la Cadena SER, Feijóo dijo que habló con Abascal el miércoles 21 y que el acuerdo «no está cerrado»; añadió que, si Vox no concurre en determinadas provincias, «lo lógico» es que el PP corresponda a ese gesto.",
       "source": "Infobae (Europa Press)",
       "url": "https://www.infobae.com/america/agencias/2026/10/23/feijoo-defiende-que-vox-no-se-presente-al-senado-en-las-provincias-donde-no-logra-escano-y-que-pp-corresponda-el-gesto/"
-    },
-    {
-      "id": "pp-20261023-2",
-      "party": "pp",
-      "date": "2026-10-23",
-      "topic": "Igualdad y aborto",
-      "title": "Feijóo anuncia suprimir el Ministerio de Igualdad y reformar la ley del aborto",
-      "summary": "Según Moncloa.com, Feijóo dijo en la SER que repartiría las competencias de Igualdad entre otros ministerios y que, para 16 y 17 años, los padres tendrían «conocimiento» de la decisión. Dijo que se podría revisar la ley de eutanasia; aún no hay proyectos redactados.",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/10/23/feijoo-ministerio-igualdad-aborto-3454062/"
     },
     {
       "id": "psoe-20261023-1",
@@ -1363,6 +1273,16 @@
       "url": "https://www.publico.es/politica/gobierno/accidente-trenes-toledo-sacude-paraliza-precampana-electoral.html"
     },
     {
+      "id": "sumar-20261028-2",
+      "party": "sumar",
+      "date": "2026-10-28",
+      "topic": "Izquierda",
+      "title": "Colau dice que Rufián «ha decepcionado a mucha gente» que quería la unidad",
+      "summary": "En la Cadena SER, la candidata del Frente Amplio afirmó que son «el Frente Amplio, no el PSOE» y que en vivienda defienden medidas más ambiciosas. Urtasun dijo que Rufián quiere ser socio del futuro Gobierno.",
+      "source": "Infobae (Europa Press)",
+      "url": "https://www.infobae.com/espana/agencias/2026/10/28/colau-opina-que-rufian-ha-decepcionado-a-mucha-gente-que-queria-la-unidad-de-la-izquierda/"
+    },
+    {
       "id": "vox-20261028-1",
       "party": "vox",
       "date": "2026-10-28",
@@ -1391,6 +1311,96 @@
       "summary": "Según Demócrata, CCOO y UGT no han anunciado cambios en la convocatoria, registrada el 19 de octubre, mientras otros colectivos han suspendido movilizaciones.",
       "source": "Demócrata",
       "url": "https://www.democrata.es/en/current-events/urda-spain-suspends-protests-and-keeps-the-11n-strike-pending/"
+    },
+    {
+      "id": "all-20261029-2",
+      "party": "all",
+      "date": "2026-10-29",
+      "topic": "Urda",
+      "title": "Puente comparecerá el 3 de noviembre a las 17:00 ante la Diputación Permanente",
+      "summary": "Según Moncloa.com, lo pidió él mismo; Vox le preguntará por el sistema LZB. Sumar, ERC y Podemos también reclamaron su presencia. Feijóo no pidió expresamente su dimisión, según el medio.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/10/29/puente-diputacion-permanente-vox-lzb-3458001/"
+    },
+    {
+      "id": "erc-20261029-1",
+      "party": "erc",
+      "date": "2026-10-29",
+      "topic": "Urda",
+      "title": "Rufián atribuye el accidente de Urda a recortes del PP y a la liberalización del PSOE",
+      "summary": "Según la cronología de elDiario.es, el cabeza de lista de ERC pidió asumir responsabilidades. ERC, Frente Amplio y Podemos pidieron la comparecencia de Puente.",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13623441.html"
+    },
+    {
+      "id": "pnv-20261029-1",
+      "party": "pnv",
+      "date": "2026-10-29",
+      "topic": "Urda",
+      "title": "El PNV pide a Sánchez «responsabilidades políticas máximas» por Urda",
+      "summary": "Maribel Vaquero dijo en Bilbao que, una vez aclarados los hechos, Sánchez debe exigirlas y que podrían implicar la dimisión o el cese de Puente, aunque no lo nombró; añadió que decidirlo corresponde a Sánchez.",
+      "source": "Press Digital (Agencias)",
+      "url": "https://www.pressdigital.es/articulo/politica/2026-10-29/6070948-pnv-exige-sanchez-responsabilidades-politicas-maximas-como-cese-dimision-ministro-puente"
+    },
+    {
+      "id": "podemos-20261029-1",
+      "party": "podemos",
+      "date": "2026-10-29",
+      "topic": "Urda",
+      "title": "Montero señala la liberalización ferroviaria y critica que se culpe a un trabajador",
+      "summary": "Según la cronología de elDiario.es, Irene Montero dijo que culpar a un trabajador es «ir a lo fácil» y situó el origen del accidente en la liberalización.",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13623441.html"
+    },
+    {
+      "id": "pp-20261029-1",
+      "party": "pp",
+      "date": "2026-10-29",
+      "topic": "Urda",
+      "title": "Feijóo exige desde Urda responsabilidades políticas sin esperar a la investigación",
+      "summary": "Feijóo dijo que no son «opcionables» y criticó que Sánchez mantenga a Puente, al que acusó de «echar la culpa a un operador de Atocha», algo que calificó de «frivolidad». También pidió «cabeza fría» y «respeto».",
+      "source": "Press Digital (Agencias)",
+      "url": "https://www.pressdigital.es/articulo/politica/2026-10-29/6071035-feijoo-cree-responsabilidades-politicas-no-pueden-esperar-critica-sanchez-mantenga-puente"
+    },
+    {
+      "id": "psoe-20261029-1",
+      "party": "psoe",
+      "date": "2026-10-29",
+      "topic": "Campaña",
+      "title": "El PSOE cancela los actos de Sánchez en Cádiz y A Coruña por el luto oficial",
+      "summary": "Según Europa Press, el PSOE suspendió el acto de Sánchez previsto el sábado 31 de octubre en Cádiz y la agenda en A Coruña, y reanudará la precampaña más adelante. Ya había cancelado el mitin de Vitoria del 29 de octubre.",
+      "source": "Infobae (Europa Press)",
+      "url": "https://www.infobae.com/espana/agencias/2026/10/29/el-psoe-cancela-actos-de-precampana-de-sanchez-en-cadiz-y-a-coruna-para-respetar-el-luto-oficial/"
+    },
+    {
+      "id": "vox-20261029-1",
+      "party": "vox",
+      "date": "2026-10-29",
+      "topic": "Urda",
+      "title": "Abascal pide en Ávila la dimisión de Sánchez y Puente por el accidente de Urda",
+      "summary": "En un mitin ante unas 500 personas, Abascal pidió que el accidente «se investigue hasta el final», lo calificó de «injusto y evitable» y rechazó la tesis del «error humano». Vox no suspendió su agenda pese al luto oficial.",
+      "source": "The Objective",
+      "url": "https://theobjective.com/espana/politica/2026-10-29/abascal-pide-dimision-sanchez-puente-se-investigue-hasta-final/"
+    },
+    {
+      "id": "vox-20261029-2",
+      "party": "vox",
+      "date": "2026-10-29",
+      "topic": "Urda",
+      "title": "Vox presenta en el Supremo una querella contra Puente por homicidio imprudente",
+      "summary": "Según El Nacional, la querella le atribuye homicidio por imprudencia grave y lesiones, por presunta omisión de sus deberes de supervisión de la seguridad ferroviaria.",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.cat/es/politica/cerco-puente-ccoo-reclama-su-dimision-vox-lleva-supremo-pp-exige-responsabilidades_1717819_102.html"
+    },
+    {
+      "id": "psoe-20261030-1",
+      "party": "psoe",
+      "date": "2026-10-30",
+      "topic": "Urda",
+      "title": "Moncloa mantiene a Puente; el ministro comparecerá el 3 de noviembre",
+      "summary": "Según El Español, Puente descarta dimitir y Moncloa dice que Sánchez lo respalda; dará una rueda de prensa el 30 de octubre y comparecerá el 3 de noviembre ante la Diputación Permanente. El Gobierno atribuye el accidente a un fallo humano.",
+      "source": "El Español",
+      "url": "https://www.elespanol.com/espana/politica/20261030/sanchez-decidido-llegar-elecciones-puente-ministro-pese-tragedia-urda-criticas-socios/1003744439442_0.html"
     }
   ],
   "positions": {},
