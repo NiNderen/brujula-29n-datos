@@ -1,17 +1,7 @@
 {
-  "updated": "2026-10-30",
+  "updated": "2026-10-31",
   "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
   "news": [
-    {
-      "id": "bildu-20261009-1",
-      "party": "bildu",
-      "date": "2026-10-09",
-      "topic": "Candidaturas",
-      "title": "Matute se muestra dispuesto a repetir; EH Bildu presentará candidaturas el 16 de octubre",
-      "summary": "El diputado Oskar Matute dijo en Radio Popular que tiene «ganas» de continuar. La propuesta de candidaturas se presenta el 16 de octubre y las bases la ratificarán después.",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/10/09/matute-eh-bildu-29n-candidato-3444892/"
-    },
     {
       "id": "bildu-20261010-1",
       "party": "bildu",
@@ -93,16 +83,6 @@
       "url": "https://www.infobae.com/espana/agencias/2026/10/13/el-bng-aprobara-el-dia-24-sus-candidaturas-centradas-en-conseguir-mas-peso-en-madrid/"
     },
     {
-      "id": "erc-20261013-1",
-      "party": "erc",
-      "date": "2026-10-13",
-      "topic": "Pacto de izquierdas",
-      "title": "Comuns acusan a Rufián de dividir a las izquierdas tras el pacto con Podemos",
-      "summary": "Según Verónica Martínez Barbero (Movimiento Sumar), ERC ha rechazado el proceso del Frente Amplio. Podemos no se presentará en Cataluña, según el pacto con Rufián recogido por El Español.",
-      "source": "El Español",
-      "url": "https://www.elespanol.com/espana/politica/20261013/frente-amplio-colau-niega-sucumbir-pinza-rufian-podemos-dias-guerra-fratricida/1003744417641_0.amp.html"
-    },
-    {
       "id": "upn-20261013-1",
       "party": "upn",
       "date": "2026-10-13",
@@ -129,16 +109,6 @@
       "topic": "Justicia y amnistía",
       "title": "El Tribunal de Cuentas aplica la amnistía a Junqueras y otros 34 excargos del procés",
       "summary": "La sentencia del 14 de octubre absuelve a los 35 demandados de responsabilidad contable por el 1-O y la acción exterior. Los encausados habían depositado más de 4 millones en fianzas. Cabe recurso (Infobae).",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/espana/2026/10/14/el-tribunal-de-cuentas-amnistia-a-carles-puigdemont-oriol-junqueras-y-otros-33-excargos-del-govern-por-los-gastos-del-proces/"
-    },
-    {
-      "id": "junts-20261014-1",
-      "party": "junts",
-      "date": "2026-10-14",
-      "topic": "Justicia y amnistía",
-      "title": "El Tribunal de Cuentas absuelve a Puigdemont y otros 34 por los gastos del procés",
-      "summary": "El 14 de octubre aplicó la amnistía a 35 demandados y ordenó levantar las medidas cautelares. La sentencia no es firme y puede recurrirse. La Fiscalía reclamaba cerca de 3,1 millones de euros (Infobae).",
       "source": "Infobae",
       "url": "https://www.infobae.com/espana/2026/10/14/el-tribunal-de-cuentas-amnistia-a-carles-puigdemont-oriol-junqueras-y-otros-33-excargos-del-govern-por-los-gastos-del-proces/"
     },
@@ -181,16 +151,6 @@
       "summary": "La alianza, oficializada el 15 de octubre, concurrirá con nombre distinto según la provincia. Las candidaturas al Senado aún no están definidas.",
       "source": "La Gaceta de Canarias",
       "url": "https://lagacetadecanarias.com/coalicion-canaria-y-primero-canarias-hacen-oficial-su-alianza-cristina-valido-y-teodoro-sosa-encabezaran-las-listas-al-congreso/"
-    },
-    {
-      "id": "sumar-20261015-1",
-      "party": "sumar",
-      "date": "2026-10-15",
-      "topic": "Coaliciones",
-      "title": "Maíllo (IU) rechaza negociar con Podemos al margen del Frente Amplio",
-      "summary": "Según EFE, el coordinador de IU quiere una candidatura estatal unificada, «no troceada». Ada Colau dijo que «esto va de parar al fascismo» y Emilio Delgado (Más Madrid) ve viable, aunque no deseable, tener dos papeletas en Madrid.",
-      "source": "Última Hora (EFE)",
-      "url": "https://ultimahora.es/noticias/elecciones-29n/2026/10/15/2729529/podemos-aleja-pacto-frente-amplio-madrid-barcelona-dia-del-fin-del-plazo.html"
     },
     {
       "id": "all-20261016-1",
@@ -643,16 +603,6 @@
       "url": "https://www.infobae.com/espana/agencias/2026/10/22/dimite-el-coordinador-de-podemos-aragon-por-discrepancias-con-la-direccion-estatal/"
     },
     {
-      "id": "psoe-20261022-1",
-      "party": "psoe",
-      "date": "2026-10-22",
-      "topic": "Entrevista",
-      "title": "Sánchez, entrevistado por Broncano en «La Revuelta» de RTVE",
-      "summary": "Según elDiario.es, Sánchez habló de vivienda, Ceuta, Zapatero y su relación con EE UU, citó los «casos de corrupción» entre los errores de la legislatura y Broncano le dijo que en vivienda se había llegado tarde.",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/vertele/noticias/broncano-aborda-pedro-sanchez-futuro-revuelta-rtve-le-aprieta-debes-gobierno-habeis-llegado-tarde_1_13606625.html"
-    },
-    {
       "id": "psoe-20261022-2",
       "party": "psoe",
       "date": "2026-10-22",
@@ -671,16 +621,6 @@
       "summary": "Según Infobae, Antona Luengo irá en la candidatura conjunta con el PSOE al Senado. En Teruel, IU insiste en presentarse pese al rechazo de CHA, que defiende evitar la dispersión del voto progresista.",
       "source": "Infobae",
       "url": "https://www.infobae.com/espana/2026/10/22/elecciones-generales-29-n-en-directo-ultima-hora-de-los-sondeos-propuestas-de-los-partidos-y-actos-de-los-candidatos/"
-    },
-    {
-      "id": "vox-20261022-1",
-      "party": "vox",
-      "date": "2026-10-22",
-      "topic": "Orden público",
-      "title": "Abascal denuncia «violencia organizada desde La Moncloa» tras los incidentes de A Coruña",
-      "summary": "Según El Español, el líder de Vox lo dijo en Burgos tras el acto de A Coruña. Moncloa.com cifra en dos los detenidos y doce los heridos; el artículo no recoge respuesta del Gobierno.",
-      "source": "El Español",
-      "url": "https://www.elespanol.com/castilla-y-leon/region/burgos/20261022/abascal-denuncia-violencia-organizada-moncloa-acosar-actos-vox-altercados-coruna/1003744430907_0.html"
     },
     {
       "id": "all-20261023-1",
@@ -731,16 +671,6 @@
       "summary": "Piden ante la Diputación Permanente explicaciones por cargas policiales contra jóvenes en A Coruña, Avilés, Zaragoza y Ceuta. Belarra habló de una «emergencia de violencia policial sin precedentes».",
       "source": "Moncloa.com",
       "url": "https://www.moncloa.com/2026/10/23/comparecencia-sanchez-congreso-podemos-erc-3454072"
-    },
-    {
-      "id": "pp-20261023-1",
-      "party": "pp",
-      "date": "2026-10-23",
-      "topic": "Senado",
-      "title": "Feijóo dice que el PP corresponderá si Vox no se presenta al Senado en varias provincias",
-      "summary": "En la Cadena SER, Feijóo dijo que habló con Abascal el miércoles 21 y que el acuerdo «no está cerrado»; añadió que, si Vox no concurre en determinadas provincias, «lo lógico» es que el PP corresponda a ese gesto.",
-      "source": "Infobae (Europa Press)",
-      "url": "https://www.infobae.com/america/agencias/2026/10/23/feijoo-defiende-que-vox-no-se-presente-al-senado-en-las-provincias-donde-no-logra-escano-y-que-pp-corresponda-el-gesto/"
     },
     {
       "id": "psoe-20261023-1",
@@ -821,16 +751,6 @@
       "summary": "Al acto asistieron también Ione Belarra, Oriol Junqueras y María Pozuelo, según EFE. Rufián presentará su libro el domingo 25 en Barcelona.",
       "source": "Infobae (EFE)",
       "url": "https://www.infobae.com/espana/agencias/2026/10/24/rufian-afea-a-junts-llamarles-vendidos-y-avisa-estas-elecciones-van-de-erc-o-psc/"
-    },
-    {
-      "id": "pp-20261024-1",
-      "party": "pp",
-      "date": "2026-10-24",
-      "topic": "Orden público",
-      "title": "Feijóo, en Vigo, condena los disturbios de A Coruña y acusa a Sánchez de alimentar a los extremistas",
-      "summary": "Ante unas 2.000 personas según el PP, dijo que quiere un país donde se discrepe «con palabras, pero no con piedras». Los incidentes siguieron a un acto de Vox el miércoles en A Coruña.",
-      "source": "Infobae (EFE)",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/24/feijoo-se-pregunta-tras-los-disturbios-en-a-coruna-si-se-quiere-lo-que-ocurre-en-francia/"
     },
     {
       "id": "pp-20261024-2",
@@ -1393,6 +1313,66 @@
       "url": "https://www.elnacional.cat/es/politica/cerco-puente-ccoo-reclama-su-dimision-vox-lleva-supremo-pp-exige-responsabilidades_1717819_102.html"
     },
     {
+      "id": "bildu-20261030-1",
+      "party": "bildu",
+      "date": "2026-10-30",
+      "topic": "Urda",
+      "title": "Matute pide no «caer en la histeria» de las dimisiones y depurar responsabilidades después",
+      "summary": "Según el directo de The Objective, el cabeza de lista de EH Bildu por Bizkaia defendió esclarecer primero lo ocurrido en el accidente de Urda.",
+      "source": "The Objective",
+      "url": "https://theobjective.com/economia/transporte/2026-10-30/ultima-hora-accidente-urda-toledo/directo/"
+    },
+    {
+      "id": "erc-20261030-1",
+      "party": "erc",
+      "date": "2026-10-30",
+      "topic": "Urda",
+      "title": "Junqueras exige a Puente y Adif «dar la cara» y pide inversiones urgentes",
+      "summary": "En un mensaje en X, el presidente de ERC dijo que España destina a mantenimiento la mitad de la media europea por kilómetro y que «con la vida de las personas no se juega».",
+      "source": "El Nacional.cat",
+      "url": "https://www.elnacional.cat/es/politica/junqueras-reclama-adif-puente-dar-cara-avisa-se-necesitan-inversiones-con-urgencia_1718008_102.html"
+    },
+    {
+      "id": "junts-20261030-1",
+      "party": "junts",
+      "date": "2026-10-30",
+      "topic": "Urda",
+      "title": "Nogueras ve «inaplazable» la dimisión de Puente y pide que Sánchez comparezca",
+      "summary": "Desde Girona, la portavoz de Junts en el Congreso dijo que «no se pueden seguir dando excusas» y recordó que Sánchez prometió el 11 de febrero en el Congreso que no se repetiría un accidente así.",
+      "source": "El Debate",
+      "url": "https://www.eldebate.com/espana/cataluna/20261030/nogueras-junts-pide-dimision-oscar-puente-inaplazable_475748.html"
+    },
+    {
+      "id": "pnv-20261030-1",
+      "party": "pnv",
+      "date": "2026-10-30",
+      "topic": "Concierto Económico",
+      "title": "Esteban pide a empresarios vascos un PNV «fuerte en Madrid» para mantener el Concierto",
+      "summary": "Ante el Círculo de Empresarios Vascos, el presidente del PNV dijo que las generales «abren cuatro años de decisiones» y que, según las encuestas, el escenario más probable es un Gobierno PP-Vox.",
+      "source": "Crónica Vasca (El Español)",
+      "url": "https://cronicavasca.elespanol.com/politica/20261030/esteban-empresarios-pnv-madrid-mantener-concierto-industria/1003742807837_0.html"
+    },
+    {
+      "id": "pp-20261030-1",
+      "party": "pp",
+      "date": "2026-10-30",
+      "topic": "Urda",
+      "title": "Ester Muñoz pide el cese o la dimisión de Puente antes de su comparecencia",
+      "summary": "En RNE, la portavoz del PP en el Congreso dijo que «Puente no debería llegar al martes». Según Demócrata, el PP registró además una petición para que Sánchez comparezca ante la Diputación Permanente.",
+      "source": "Demócrata",
+      "url": "https://www.democrata.es/politica/pp-exige-dimision-oscar-puente-accidente-tren-urda/"
+    },
+    {
+      "id": "pp-20261030-2",
+      "party": "pp",
+      "date": "2026-10-30",
+      "topic": "Urda",
+      "title": "Feijóo: «Si no dimiten ellos, les dimitiremos en las urnas»",
+      "summary": "Desde la sede del PP, tras reunirse con expertos ferroviarios, acusó al Gobierno de haber «abandonado la cultura de la seguridad» y propuso un plan de emergencia, una revisión completa de vías y un presupuesto de conservación.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/10/30/feijoo-urnas-29n-siniestro-urda-puente-3458623/"
+    },
+    {
       "id": "psoe-20261030-1",
       "party": "psoe",
       "date": "2026-10-30",
@@ -1401,6 +1381,36 @@
       "summary": "Según El Español, Puente descarta dimitir y Moncloa dice que Sánchez lo respalda; dará una rueda de prensa el 30 de octubre y comparecerá el 3 de noviembre ante la Diputación Permanente. El Gobierno atribuye el accidente a un fallo humano.",
       "source": "El Español",
       "url": "https://www.elespanol.com/espana/politica/20261030/sanchez-decidido-llegar-elecciones-puente-ministro-pese-tragedia-urda-criticas-socios/1003744439442_0.html"
+    },
+    {
+      "id": "psoe-20261030-2",
+      "party": "psoe",
+      "date": "2026-10-30",
+      "topic": "Urda",
+      "title": "Puente dice que «lo fácil es salir» y que Sánchez le pidió no dimitir",
+      "summary": "Según elDiario.es, en rueda de prensa dijo que su deber es explicar lo ocurrido; Sánchez habló de «confianza quebrada» en la alta velocidad. Moncloa, según el medio, ve que dimitir a un mes del 29N reforzaría la tesis de responsabilidad directa del Gobierno.",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/puente-puso-cargo-disposicion-presidente-accidente-urda-sanchez-le-pidio-no-dimitiera_1_13627494.html"
+    },
+    {
+      "id": "sumar-20261030-1",
+      "party": "sumar",
+      "date": "2026-10-30",
+      "topic": "Urda",
+      "title": "Colau pide la dimisión de Puente «lo antes posible»",
+      "summary": "Según el directo de The Objective, la candidata del Frente Amplio reclamó el cese del ministro de Transportes tras el accidente de Urda, que según el Centro Integrado de Datos dejó 69 fallecidos.",
+      "source": "The Objective",
+      "url": "https://theobjective.com/economia/transporte/2026-10-30/ultima-hora-accidente-urda-toledo/directo/"
+    },
+    {
+      "id": "vox-20261030-1",
+      "party": "vox",
+      "date": "2026-10-30",
+      "topic": "Urda",
+      "title": "Figaredo culpa al Gobierno del accidente de Urda y llama «criminal» a Puente",
+      "summary": "Según Infobae/Europa Press, el portavoz de Vox dijo en Barcelona que pedir la dimisión de Puente es correcto pero «accidental», y consideró insuficiente su comparecencia del martes.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/agencias/2026/10/30/figaredo-vox-culpa-al-gobierno-y-cree-que-una-dimision-de-puente-es-lo-de-menos/"
     }
   ],
   "positions": {},
