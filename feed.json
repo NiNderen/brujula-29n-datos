@@ -1,57 +1,7 @@
 {
-  "updated": "2026-10-31",
+  "updated": "2026-11-01",
   "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
   "news": [
-    {
-      "id": "bildu-20261010-1",
-      "party": "bildu",
-      "date": "2026-10-10",
-      "topic": "Senado",
-      "title": "EH Bildu y ERC repiten coalición para el Senado",
-      "summary": "EH Bildu difundió un comunicado conjunto con ERC. Ambas citan como prioridades los derechos nacionales de Catalunya y Euskal Herria, los derechos sociales y la emergencia habitacional.",
-      "source": "Press Digital",
-      "url": "https://www.pressdigital.es/articulo/politica/2026-10-10/6047297-erc-eh-bildu-pactan-concurrir-juntos-29n-reforzar-representacion-senado"
-    },
-    {
-      "id": "bng-1",
-      "party": "bng",
-      "date": "2026-10-10",
-      "topic": "Candidatura",
-      "title": "Pontón propone al BNG como alternativa para dejar a Feijóo en la oposición",
-      "summary": "El BNG quiere ganar peso en Madrid, donde ahora tiene un diputado y una senadora.",
-      "source": "Diario de Pontevedra",
-      "url": "https://www.diariodepontevedra.es/articulo/espana/precampana-29-n-directo/202610101421181471632.html"
-    },
-    {
-      "id": "cc-20261010-1",
-      "party": "cc",
-      "date": "2026-10-10",
-      "topic": "Candidaturas",
-      "title": "CC designa a Alfonso Cabello y Patricia León para el Senado por Tenerife",
-      "summary": "El Consejo Político Insular aprobó la candidatura por unanimidad. La lista al Congreso por Santa Cruz de Tenerife la encabeza Cristina Valido, con Jonathan de Felipe en segundo lugar.",
-      "source": "Diario de Avisos",
-      "url": "https://diariodeavisos.elespanol.com/2026/10/alfonso-cabello-patricia-leon-cc-senado/"
-    },
-    {
-      "id": "pnv-1",
-      "party": "pnv",
-      "date": "2026-10-10",
-      "topic": "Transferencias",
-      "title": "El PNV seguirá exigiendo las transferencias pendientes",
-      "summary": "Maribel Vaquero aseguró que se ha cumplido más del 75 % del acuerdo de investidura y que queda pendiente lo relativo a la Seguridad Social.",
-      "source": "Diario de Pontevedra",
-      "url": "https://www.diariodepontevedra.es/articulo/espana/precampana-29-n-directo/202610101421181471632.html"
-    },
-    {
-      "id": "upn-20261010-1",
-      "party": "upn",
-      "date": "2026-10-10",
-      "topic": "Coalición PP",
-      "title": "PP y UPN aspiran a tres diputados en Navarra con una coalición aún no cerrada",
-      "summary": "Según The Objective y fuentes de ambos partidos, necesitarían unos 125.000 votos; por separado suman unos 105.000. UPN convocó su Consejo Político para ratificar el pacto si se cierra antes del 16 de octubre.",
-      "source": "The Objective",
-      "url": "https://theobjective.com/espana/politica/2026-10-10/pp-upn-navarr/"
-    },
     {
       "id": "bildu-20261011-1",
       "party": "bildu",
@@ -153,26 +103,6 @@
       "url": "https://lagacetadecanarias.com/coalicion-canaria-y-primero-canarias-hacen-oficial-su-alianza-cristina-valido-y-teodoro-sosa-encabezaran-las-listas-al-congreso/"
     },
     {
-      "id": "all-20261016-1",
-      "party": "all",
-      "date": "2026-10-16",
-      "topic": "Voto exterior",
-      "title": "El Defensor del Pueblo recurre en amparo la suspensión del voto de los nacionalizados por la ley de nietos",
-      "summary": "Según Infobae, el Supremo suspendió preventivamente el voto de 163.020 inscritos en el CERA. Ángel Gabilondo presentó un recurso de amparo ante el Tribunal Constitucional.",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/espana/2026/10/16/elecciones-generales-espana-29-n-en-directo-ultima-hora-del-frente-amplio-y-del-viernes-clave-para-la-izquierda/"
-    },
-    {
-      "id": "all-20261016-2",
-      "party": "all",
-      "date": "2026-10-16",
-      "topic": "Coaliciones",
-      "title": "Cierra el plazo de coaliciones: PSOE y Frente Amplio pactan listas conjuntas al Senado en casi todas las provincias",
-      "summary": "Según Público, Frente Amplio registró candidaturas distintas en Aragón, Baleares, Andalucía, Asturias y Navarra; Teruel Existe y Aragón Existe concurren como Coalición Existe. El PRC de Cantabria decidió no concurrir (39 votos a favor, 14 en contra).",
-      "source": "Público",
-      "url": "https://www.publico.es/politica/acuerdo-frente-amplio-elecciones-29n-directo-ultima-hora-negociaciones-reacciones.html"
-    },
-    {
       "id": "bildu-20261016-1",
       "party": "bildu",
       "date": "2026-10-16",
@@ -209,16 +139,6 @@
       "topic": "Coaliciones",
       "title": "Podemos rechaza la última oferta del Frente Amplio y concurre por separado en casi todo el país",
       "summary": "Según Público, Podemos rechazó un puesto de salida prioritario en Madrid y Cataluña y propuso pactos territoriales. Sus inscritos respaldaron con un 87,7 % concurrir en «las candidaturas más fuertes y amplias posibles». Pablo Fernández negó que se hubiera ofrecido a Podemos el segundo puesto, como afirmó Delgado.",
-      "source": "Público",
-      "url": "https://www.publico.es/politica/acuerdo-frente-amplio-elecciones-29n-directo-ultima-hora-negociaciones-reacciones.html"
-    },
-    {
-      "id": "sumar-20261016-1",
-      "party": "sumar",
-      "date": "2026-10-16",
-      "topic": "Coaliciones",
-      "title": "Frente Amplio registra su coalición sin Podemos, salvo en Canarias y la Comunitat Valenciana",
-      "summary": "Según Público, la coalición se registró en la Junta Electoral Central minutos antes del cierre del plazo. Concurre junta con Podemos solo en Canarias (Unidad del Pueblo Canario) y en Compromís-Front Valencià. Las bases de Más Madrid respaldaron con un 88,6 % a Emilio Delgado como cabeza de lista en Madrid.",
       "source": "Público",
       "url": "https://www.publico.es/politica/acuerdo-frente-amplio-elecciones-29n-directo-ultima-hora-negociaciones-reacciones.html"
     },
@@ -603,16 +523,6 @@
       "url": "https://www.infobae.com/espana/agencias/2026/10/22/dimite-el-coordinador-de-podemos-aragon-por-discrepancias-con-la-direccion-estatal/"
     },
     {
-      "id": "psoe-20261022-2",
-      "party": "psoe",
-      "date": "2026-10-22",
-      "topic": "Debates",
-      "title": "El PSOE acepta el cara a cara con Feijóo del 16 de noviembre y propone un debate a cuatro en RTVE el 26",
-      "summary": "Según elDiario.es, el PSOE dice que no vetará a ningún grupo audiovisual y pide al menos dos debates. El cara a cara sería en Mediaset; RTVE ha invitado a un debate de cuatro candidatos el 26 de noviembre.",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/sanchez-acepta-cara-cara-electoral-feijoo-16-noviembre_1_13607508.html"
-    },
-    {
       "id": "sumar-20261022-1",
       "party": "sumar",
       "date": "2026-10-22",
@@ -703,16 +613,6 @@
       "url": "https://www.naiz.eus/en/info/noticia/20261023/upn-elige-a-leticia-san-martin-y-javier-esparza-como-cabezas-de-lista-al-congreso-y-al-senado"
     },
     {
-      "id": "vox-20261023-1",
-      "party": "vox",
-      "date": "2026-10-23",
-      "topic": "Incidentes en actos",
-      "title": "Vox denuncia «un nuevo intento de boicot» tras el mitin de Abascal en Mahón",
-      "summary": "Según Vox, unos 300 «radicales» cargaron contra la furgoneta de Abascal al acabar el acto en Menorca. The Objective no recoge versiones de la Policía ni de la Delegación del Gobierno.",
-      "source": "The Objective",
-      "url": "https://theobjective.com/espana/politica/2026-10-23/vox-boicot-mitin-abascal-menorca/"
-    },
-    {
       "id": "all-20261024-2",
       "party": "all",
       "date": "2026-10-24",
@@ -753,16 +653,6 @@
       "url": "https://www.infobae.com/espana/agencias/2026/10/24/rufian-afea-a-junts-llamarles-vendidos-y-avisa-estas-elecciones-van-de-erc-o-psc/"
     },
     {
-      "id": "pp-20261024-2",
-      "party": "pp",
-      "date": "2026-10-24",
-      "topic": "Listas Madrid",
-      "title": "Feijóo cierra su lista por Madrid: Álvarez de Toledo, Sémper y Ezcurra, y Rollán e Inmaculada Sanz al Senado",
-      "summary": "Según Europa Press, Alma Ezcurra será la número 4 y coordinará el programa; Pedro Rollán encabeza la lista al Senado. Parte de los nombres se dan como previsión.",
-      "source": "Infobae (Europa Press)",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/24/feijoo-elige-a-alma-ezcurra-como-cuatro-por-madrid-al-congreso-y-la-vicealcadesa-madrilena-sera-la-dos-al-senado/"
-    },
-    {
       "id": "pp-20261024-3",
       "party": "pp",
       "date": "2026-10-24",
@@ -801,16 +691,6 @@
       "summary": "En una manifestación por las pensiones en Madrid, Colau afirmó que el voto ronda el 9 % y rechazó la propuesta de Feijóo de suprimir el Ministerio de Igualdad. Evitó criticar a Podemos y ERC.",
       "source": "Infobae (EFE)",
       "url": "https://www.infobae.com/espana/agencias/2026/10/24/frente-amplio-afirma-que-su-unico-rival-es-la-extrema-derecha-bajo-las-siglas-pp-y-vox/"
-    },
-    {
-      "id": "vox-20261024-1",
-      "party": "vox",
-      "date": "2026-10-24",
-      "topic": "Mitin en Palma",
-      "title": "Abascal, en Palma: «No es fácil, pero no es imposible ganar unas elecciones»",
-      "summary": "El presidente de Vox pidió una «gran mayoría» el 29N ante cientos de simpatizantes frente a la catedral de Mallorca. En Ibiza propuso que los delincuentes extranjeros cumplan condena en sus países.",
-      "source": "Mallorcadiario",
-      "url": "https://www.mallorcadiario.com/abascal-en-palma"
     },
     {
       "id": "vox-20261024-2",
@@ -1243,6 +1123,16 @@
       "url": "https://www.moncloa.com/2026/10/29/puente-diputacion-permanente-vox-lzb-3458001/"
     },
     {
+      "id": "bng-20261029-1",
+      "party": "bng",
+      "date": "2026-10-29",
+      "topic": "Trenes",
+      "title": "Pontón pide una investigación de Urda «hasta las últimas consecuencias» y «caiga quien caiga»",
+      "summary": "La portavoz del BNG dijo que el asunto «no va de un ministro ni de un gobierno» y recordó el accidente de Angrois de 2013, cuando Feijóo presidía la Xunta.",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/galicia/bng-pide-depurar-responsabilidades-accidente-urda-caiga-caiga_1_13624541.html"
+    },
+    {
       "id": "erc-20261029-1",
       "party": "erc",
       "date": "2026-10-29",
@@ -1411,6 +1301,76 @@
       "summary": "Según Infobae/Europa Press, el portavoz de Vox dijo en Barcelona que pedir la dimisión de Puente es correcto pero «accidental», y consideró insuficiente su comparecencia del martes.",
       "source": "Infobae",
       "url": "https://www.infobae.com/espana/agencias/2026/10/30/figaredo-vox-culpa-al-gobierno-y-cree-que-una-dimision-de-puente-es-lo-de-menos/"
+    },
+    {
+      "id": "all-20261031-1",
+      "party": "all",
+      "date": "2026-10-31",
+      "topic": "Voto nacionalizados",
+      "title": "El Supremo admite a 69 personas y tres asociaciones en el caso del voto de nacionalizados por la ley de nietos",
+      "summary": "Mantiene la suspensión cautelar para los inscritos en el CERA y el 30 de octubre rechazó extenderla a los residentes en España; las partes tienen tres días para alegar. El Gobierno entregó una relación de 163.355 personas.",
+      "source": "El Constitucional",
+      "url": "https://elconstitucional.es/es/nacional/supremo-admite-69-personas-tres-asociaciones-como-afectados-por-recursos-vox-iustitia-europa-contra-voto-nacionalizados-por-ley-nietos_9661_102.html"
+    },
+    {
+      "id": "pp-20261031-1",
+      "party": "pp",
+      "date": "2026-10-31",
+      "topic": "Campaña y trenes",
+      "title": "Feijóo reorienta la campaña hacia la gestión y convoca el Comité Ejecutivo del PP el 2 de noviembre",
+      "summary": "Propone una revisión técnica independiente de la red ferroviaria, una auditoría del gasto y un plan de emergencia de seguridad y mantenimiento. Dijo: «Si no dimiten ellos, les dimitiremos en las urnas».",
+      "source": "Mundiario",
+      "url": "https://www.mundiario.com/politica/feijoo-cambia-guion-campana-urda-pone-guardia-pp-gestion-gestion-gestion/20261031111659450113.html"
+    },
+    {
+      "id": "sumar-20261031-1",
+      "party": "sumar",
+      "date": "2026-10-31",
+      "topic": "Trenes",
+      "title": "Delgado (Frente Amplio) pide la dimisión de Puente como «primer paso imprescindible»",
+      "summary": "Emilio Delgado dijo que después debe abrirse un debate sobre el sistema ferroviario y atribuyó los problemas a recortes del PP y a una liberalización mal ejecutada. Ada Colau había pedido lo mismo el día 30.",
+      "source": "El Debate",
+      "url": "https://www.eldebate.com/espana/20261031/frente-amplio-exige-dimision-puente-primer-paso-imprescindible_475959.html"
+    },
+    {
+      "id": "vox-20261031-1",
+      "party": "vox",
+      "date": "2026-10-31",
+      "topic": "Trenes",
+      "title": "Abascal llama «organización criminal» al Gobierno; Puente niega haber hablado de «error humano»",
+      "summary": "Abascal lo escribió en X tras las declaraciones de Puente sobre un posible cierre temporal de la línea Madrid-Barcelona. Puente dijo que ese cierre se estudia para acelerar obras y que no usó la expresión «error humano».",
+      "source": "El Constitucional",
+      "url": "https://www.elconstitucional.es/en/national/abascal-uses-the-toledo-tragedy-as-an-electoral-weapon-for-29n-and-calls-the-government-criminal-organization_9664_102.html"
+    },
+    {
+      "id": "vox-20261031-2",
+      "party": "vox",
+      "date": "2026-10-31",
+      "topic": "Actos de campaña",
+      "title": "Centenares de jóvenes protestan en A Coruña contra una visita de Buxadé, sin incidentes",
+      "summary": "La protesta, convocada por la Coordinadora da Mocidade Socialista, Erguer y el Sindicato de Inquilinas, terminó hacia las 19:00 con un amplio cordón de la Policía Nacional.",
+      "source": "Infobae (Europa Press)",
+      "url": "https://www.infobae.com/espana/agencias/2026/10/31/centenares-de-jovenes-participan-en-una-nueva-protesta-contra-un-acto-de-vox-en-a-coruna-que-finaliza-sin-incidentes/"
+    },
+    {
+      "id": "all-20261101-1",
+      "party": "all",
+      "date": "2026-11-01",
+      "topic": "Calendario",
+      "title": "Las juntas electorales proclaman candidaturas el 2 de noviembre; los ayuntamientos sortean las mesas",
+      "summary": "Según El Español, los sorteos de miembros de mesa se celebran este domingo y las juntas proclaman las candidaturas el lunes 2; la campaña oficial comienza el 13 de noviembre.",
+      "source": "El Español",
+      "url": "https://www.elespanol.com/espana/20261101/elecciones-generales-directo-ultima-hora-adelanto-electoral-pedro-sanchez-sondeos-encuestas-voto-correo-espana-2026-partidos/1003744442496_10.html"
+    },
+    {
+      "id": "psoe-20261101-1",
+      "party": "psoe",
+      "date": "2026-11-01",
+      "topic": "Campaña",
+      "title": "El PSOE no tiene actos de Sánchez previstos la próxima semana por la Cumbre Iberoamericana",
+      "summary": "Según El Español, el partido canceló un mitin en Vitoria, aplazó la grabación de un programa de Salvados y reorienta la campaña hacia la gestión. La Cumbre se celebra el 4 y 5 de noviembre.",
+      "source": "El Español",
+      "url": "https://www.elespanol.com/espana/politica/20261101/tragedia-cambia-campana-sanchez-busca-zafarse-ave-feijoo-adopta-tono-presidencial-abascal-radicaliza-discurso/1003744442048_0.html"
     }
   ],
   "positions": {},
