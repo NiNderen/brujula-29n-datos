@@ -1,37 +1,7 @@
 {
-  "updated": "2026-11-03",
+  "updated": "2026-11-04",
   "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
   "news": [
-    {
-      "id": "bildu-20261013-1",
-      "party": "bildu",
-      "date": "2026-10-13",
-      "topic": "Candidaturas",
-      "title": "Bel Pozueta no será candidata de EH Bildu por Navarra y dejará el Congreso",
-      "summary": "Pozueta, diputada desde 2019, lo comunicó en una carta y citó motivos de salud. Según elDiario.es, EH Bildu publicará sus listas en los próximos días y se prevé que concurra con ERC en el Senado.",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/navarra/bel-pozueta-no-sera-candidata-eh-bildu-navarra-generales-29n-dejara-congreso_1_13581211.html"
-    },
-    {
-      "id": "bng-20261013-1",
-      "party": "bng",
-      "date": "2026-10-13",
-      "topic": "Candidaturas",
-      "title": "El BNG aprobará sus candidaturas el 24 de octubre y Pontón dice que irá «como BNG»",
-      "summary": "Según EFE, el Consello Nacional las fijará ese día. Ana Pontón afirmó que no pactará con otras fuerzas. El BNG aspira a más peso en Madrid; hoy tiene al diputado Néstor Rego y a la exsenadora Carme da Silva.",
-      "source": "Infobae (EFE)",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/13/el-bng-aprobara-el-dia-24-sus-candidaturas-centradas-en-conseguir-mas-peso-en-madrid/"
-    },
-    {
-      "id": "upn-20261013-1",
-      "party": "upn",
-      "date": "2026-10-13",
-      "topic": "Coalición con el PP",
-      "title": "El Consejo Político de UPN aprueba con el 93,5 % concurrir en coalición con el PP el 29N",
-      "summary": "La coalición se llamará «Unión del Pueblo Navarro en coalición con el Partido Popular»; UPN encabezará las listas al Congreso y al Senado y Feijóo será el candidato a la Presidencia. El programa lo redactará una comisión de ambos partidos.",
-      "source": "The Objective",
-      "url": "https://theobjective.com/espana/politica/2026-10-13/pp-upn-pacto-listas-electorales-navarra/"
-    },
     {
       "id": "bildu-20261014-1",
       "party": "bildu",
@@ -93,36 +63,6 @@
       "url": "https://moncloa.com/2026/10/16/eh-bildu-candidatos-generales-29n-3449751"
     },
     {
-      "id": "erc-20261016-1",
-      "party": "erc",
-      "date": "2026-10-16",
-      "topic": "Unidad de izquierdas",
-      "title": "Rufián sobre la unidad de la izquierda: «He fracasado, hemos fracasado»",
-      "summary": "Según Público, Gabriel Rufián (ERC) hizo esta declaración tras cerrarse el plazo de coaliciones sin acuerdo global entre Frente Amplio y Podemos. ERC concurre en Cataluña en colaboración con Podemos, según informó Infobae.",
-      "source": "Público",
-      "url": "https://www.publico.es/politica/acuerdo-frente-amplio-elecciones-29n-directo-ultima-hora-negociaciones-reacciones.html"
-    },
-    {
-      "id": "podemos-20261016-1",
-      "party": "podemos",
-      "date": "2026-10-16",
-      "topic": "Coaliciones",
-      "title": "Podemos rechaza la última oferta del Frente Amplio y concurre por separado en casi todo el país",
-      "summary": "Según Público, Podemos rechazó un puesto de salida prioritario en Madrid y Cataluña y propuso pactos territoriales. Sus inscritos respaldaron con un 87,7 % concurrir en «las candidaturas más fuertes y amplias posibles». Pablo Fernández negó que se hubiera ofrecido a Podemos el segundo puesto, como afirmó Delgado.",
-      "source": "Público",
-      "url": "https://www.publico.es/politica/acuerdo-frente-amplio-elecciones-29n-directo-ultima-hora-negociaciones-reacciones.html"
-    },
-    {
-      "id": "junts-20261017-1",
-      "party": "junts",
-      "date": "2026-10-17",
-      "topic": "Candidatura",
-      "title": "Nogueras, proclamada cabeza de lista de Junts por Barcelona en La Garriga",
-      "summary": "En el Consell Nacional del 17 de octubre dijo que las elecciones decidirán la capacidad de Cataluña de «frenar a los extremos» y criticó a Illa y al Govern como «florero» del PSOE.",
-      "source": "Catalunya Press",
-      "url": "https://www.catalunyapress.es/articulo/politica-catalunya/2026-10-17/6055500-nogueras-reivindica-junts-como-freno-extremos-acusa-illa-servir-psoe"
-    },
-    {
       "id": "pnv-20261017-1",
       "party": "pnv",
       "date": "2026-10-17",
@@ -159,16 +99,6 @@
       "topic": "Huelga general",
       "title": "Belarra llama a la huelga general del 11 de noviembre",
       "summary": "Ione Belarra pidió secundar la huelga general del 11 de noviembre y afirmó que «más PSOE solo traerá más Partido Popular y Vox», según el seguimiento de Vozpópuli del 17 de octubre.",
-      "source": "Vozpópuli",
-      "url": "https://www.vozpopuli.com/espana/politica/elecciones-generales-del-29-n-en-directo-ultima-hora-de-las-listas-electorales-sanchez-y-feijoo.html"
-    },
-    {
-      "id": "sumar-20261017-1",
-      "party": "sumar",
-      "date": "2026-10-17",
-      "topic": "Listas Frente Amplio",
-      "title": "Colau presenta su candidatura y Urtasun será el número 2 por Barcelona",
-      "summary": "Ada Colau presentó su candidatura como cabeza de lista el 17 de octubre. Ernest Urtasun irá de número 2 por Barcelona con el 94,1 % de apoyo de Los Comuns, según Vozpópuli.",
       "source": "Vozpópuli",
       "url": "https://www.vozpopuli.com/espana/politica/elecciones-generales-del-29-n-en-directo-ultima-hora-de-las-listas-electorales-sanchez-y-feijoo.html"
     },
@@ -221,26 +151,6 @@
       "summary": "Con la encuesta SocioMétrica del 11 de octubre, estima 162 de 267 escaños en dos escenarios. Son proyecciones; PP y Vox no han cerrado ningún acuerdo y Vox decidía el lunes si negociar.",
       "source": "El Español",
       "url": "https://www.elespanol.com/espana/politica/20261019/derecha-conservaria-quintos-senado-vox-no-presenta-provincias-va-listas-pp/1003744425410_0.html"
-    },
-    {
-      "id": "all-20261019-3",
-      "party": "all",
-      "date": "2026-10-19",
-      "topic": "Voto exterior",
-      "title": "Sindicatos del Consulado en Caracas advierten de que votar el 29-N en la sede provisional es «imposible»",
-      "summary": "Según El Español, afecta a un censo de más de 130.000 españoles. La advertencia procede de los sindicatos del consulado.",
-      "source": "El Español",
-      "url": "https://www.elespanol.com/espana/20261019/elecciones-generales-directo-ultima-hora-pedro-sanchez-gobierno-actos-psoe-pp-vox-voto-correo-sondeos-encuestas-espana-2026-partidos/1003744425383_10.html"
-    },
-    {
-      "id": "all-20261019-4",
-      "party": "all",
-      "date": "2026-10-19",
-      "topic": "Encuesta",
-      "title": "Sigma Dos para El Mundo estima 132-137 escaños para el PP y 101-106 para el PSOE",
-      "summary": "Estimación con trabajo de campo del 1 al 14 de octubre (3.007 entrevistas, margen ±2,1 %): PP 31,5 %, PSOE 25,3 %, Vox 19,5 % (65-68 escaños), Frente Amplio 7,2 %. Son estimaciones, no resultados.",
-      "source": "Sigma Dos",
-      "url": "https://www.sigmados.com/noticia?id=EIJOKGN2GFZmhHt"
     },
     {
       "id": "bildu-20261019-1",
@@ -593,16 +503,6 @@
       "url": "https://www.infobae.com/espana/agencias/2026/10/24/rufian-afea-a-junts-llamarles-vendidos-y-avisa-estas-elecciones-van-de-erc-o-psc/"
     },
     {
-      "id": "psoe-20261024-2",
-      "party": "psoe",
-      "date": "2026-10-24",
-      "topic": "Senado",
-      "title": "PSOE y Frente Amplio pactan listas conjuntas «Senado de Progreso» en Castilla y León",
-      "summary": "La coalición ocupará el segundo puesto en las nueve provincias, con el PSOE en primer y tercer lugar. Carlos Serrano (IU) encabezará la lista por Burgos.",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/espana/2026/10/24/elecciones-generales-en-espana-29-n-en-directo-ultima-hora-de-las-candidaturas-los-sondeos-y-actos-de-sanchez-y-feijoo/"
-    },
-    {
       "id": "sumar-20261024-1",
       "party": "sumar",
       "date": "2026-10-24",
@@ -639,16 +539,6 @@
       "topic": "Frente de izquierdas",
       "title": "Montero reconoce el «fracaso» de su propuesta de frente unitario, que dice que «es el futuro»",
       "summary": "Según Infobae, Irene Montero admitió que no cuajó su propuesta de frente unitario de izquierdas, aunque sostuvo que es el futuro.",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/espana/2026/10/25/elecciones-generales-29-n-en-directo-feijoo-reune-a-sus-cabezas-de-lista-en-salamanca-y-ada-colau-interviene-en-mostoles/"
-    },
-    {
-      "id": "psoe-20261025-1",
-      "party": "psoe",
-      "date": "2026-10-25",
-      "topic": "Entrevista Sánchez",
-      "title": "Sánchez dice en El País que un Gobierno PP-Vox «no representa una alternancia»",
-      "summary": "Según el resumen de Infobae, Sánchez reconoció que su mayor error fue no ver la corrupción de José Luis Ábalos y criticó al PP y a Vox por no aplicar la ley de vivienda donde gobiernan.",
       "source": "Infobae",
       "url": "https://www.infobae.com/espana/2026/10/25/elecciones-generales-29-n-en-directo-feijoo-reune-a-sus-cabezas-de-lista-en-salamanca-y-ada-colau-interviene-en-mostoles/"
     },
@@ -701,16 +591,6 @@
       "summary": "Según Madrid Actual, Irene Montero encabeza una de las listas de Podemos, con Tito Morano como número dos, y Ione Belarra será candidata por Madrid. En Baleares, Lucía Muñoz irá de número tres en Ara Més.",
       "source": "Madrid Actual",
       "url": "https://www.madridactual.es/nacional/politica-nacional/29n-partidos-coaliciones-apuran-plazo-registrar-candidaturas-20261026-8125470.html"
-    },
-    {
-      "id": "pp-20261026-1",
-      "party": "pp",
-      "date": "2026-10-26",
-      "topic": "Senado",
-      "title": "PP y Vox pactan el Senado: el PP no se presenta en Gipuzkoa, Girona y Tarragona",
-      "summary": "Miguel Tellado explicó el acuerdo en rueda de prensa: el PP renuncia a listas en tres provincias para dejar espacio a Vox. Tellado dijo que el plan del PSOE y el Frente Amplio para el Senado «no le ha salido bien».",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/vox-retira-seis-provincias-senado-presenta-candidato-14-favorecer-pp_1_13615577.html"
     },
     {
       "id": "psoe-20261026-1",
@@ -941,26 +821,6 @@
       "summary": "En la Cadena SER, la candidata del Frente Amplio afirmó que son «el Frente Amplio, no el PSOE» y que en vivienda defienden medidas más ambiciosas. Urtasun dijo que Rufián quiere ser socio del futuro Gobierno.",
       "source": "Infobae (Europa Press)",
       "url": "https://www.infobae.com/espana/agencias/2026/10/28/colau-opina-que-rufian-ha-decepcionado-a-mucha-gente-que-queria-la-unidad-de-la-izquierda/"
-    },
-    {
-      "id": "vox-20261028-1",
-      "party": "vox",
-      "date": "2026-10-28",
-      "topic": "Accidente ferroviario",
-      "title": "Vox mantiene sus actos tras Urda; Abascal dice que lo que hay que suspender son los «bailecitos»",
-      "summary": "Según EFE, Abascal tuvo agenda en Santander y Valladolid, expresó condolencias y criticó al Gobierno por el estado de las infraestructuras. Son acusaciones de campaña, no conclusiones oficiales.",
-      "source": "Infobae (EFE)",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/28/el-accidente-de-urda-cancela-la-precampana-y-las-agendas-oficiales-pero-no-la-de-vox/"
-    },
-    {
-      "id": "vox-20261028-2",
-      "party": "vox",
-      "date": "2026-10-28",
-      "topic": "Accidente ferroviario",
-      "title": "Vox anuncia una querella contra Adif y responsables del centro de control por homicidio imprudente",
-      "summary": "Según Público, Abascal y Buxadé acusaron al Gobierno de ser una «organización criminal». El Ejecutivo atribuye el choque a un posible error humano, según elDiario.es.",
-      "source": "Público",
-      "url": "https://www.publico.es/politica/gobierno/accidente-trenes-toledo-sacude-paraliza-precampana-electoral.html"
     },
     {
       "id": "all-20261029-1",
@@ -1391,6 +1251,146 @@
       "summary": "El medio cita fuentes propias y señala el lunes 9 como fecha probable. RTVE no lo ha anunciado oficialmente y Vox no ha comentado. Sánchez estuvo en el programa el 22 de octubre.",
       "source": "The Objective",
       "url": "https://theobjective.com/espana/politica/2026-11-03/santiago-abascal-revuelta-broncano-campana-electoral"
+    },
+    {
+      "id": "psoe-20261103-1",
+      "party": "psoe",
+      "date": "2026-11-03",
+      "topic": "Dimisión de Puente",
+      "title": "Óscar Puente dimite como ministro de Transportes y renuncia a encabezar la lista por Valladolid",
+      "summary": "Lo anunció al cierre de su comparecencia en la Diputación Permanente por el accidente de Urda y alegó «dignidad política» y «empatía con las víctimas». Según El Independiente, informó a Sánchez minutos antes. Los medios consultados no indican quién le sustituye.",
+      "source": "El Independiente",
+      "url": "https://www.elindependiente.com/espana/2026/11/03/oscar-puente-comparecencia-diputacion-permanente-congreso-accidente-urda/"
+    },
+    {
+      "id": "psoe-20261103-2",
+      "party": "psoe",
+      "date": "2026-11-03",
+      "topic": "Dimisión de Puente",
+      "title": "Sánchez agradece en X a Puente que «haya dado un paso al lado»",
+      "summary": "Escribió: «Óscar Puente ha dado la cara, ha dado soluciones y, después, ha dado un paso al lado». Según Diario de Valladolid, fuentes del Ejecutivo dicen que se enteró minutos antes del anuncio.",
+      "source": "Diario de Valladolid",
+      "url": "https://www.diariodevalladolid.es/valladolid/261103/287832/sanchez-dimision-puente-politicos-puente-dignifican-pais-demuestran-todos-iguales.html"
+    },
+    {
+      "id": "all-20261103-2",
+      "party": "all",
+      "date": "2026-11-03",
+      "topic": "Listas electorales",
+      "title": "Puente seguirá como número uno del PSOE en la papeleta de Valladolid pese a su renuncia",
+      "summary": "Según EFE (El Debate), el BOE publicó el martes las candidaturas y el artículo 48 de la LOREG impide modificarlas tras su presentación. La vacante la cubriría el siguiente de la lista, la ministra Ana Redondo.",
+      "source": "El Debate (EFE)",
+      "url": "https://www.eldebate.com/espana/20261103/puente-figurara-como-numero-papeleta-psoe-valladolid-pese-renuncia_476934.html"
+    },
+    {
+      "id": "all-20261103-3",
+      "party": "all",
+      "date": "2026-11-03",
+      "topic": "Huelga ferroviaria",
+      "title": "El comité de Adif convoca huelga el 17 de noviembre; el Gobierno anuncia ayudas a familias de víctimas",
+      "summary": "Según Voz Pópuli, las ayudas llegarían a 216.000 euros. Infobae informa de que el decreto duplicaría el seguro obligatorio de viajeros. El siniestro de Urda causó al menos 69 muertos.",
+      "source": "Voz Pópuli",
+      "url": "https://www.vozpopuli.com/espana/oscar-puente-comparece-en-la-diputacion-permanente-en-directo-explicaciones-sobre-el-accidente-de-tren-en-toledo-posible-dimision-y-ultima-hora-hora-desde-el-congreso-hoy.html"
+    },
+    {
+      "id": "pnv-20261103-1",
+      "party": "pnv",
+      "date": "2026-11-03",
+      "topic": "Accidente de Urda",
+      "title": "El PNV dice a Puente «le toca dimitir» durante su comparecencia en la Diputación Permanente",
+      "summary": "Según Voz Pópuli, Junts, Sumar, Podemos y PNV pidieron su dimisión durante el debate. Horas después Puente anunció que se iba.",
+      "source": "Voz Pópuli",
+      "url": "https://www.vozpopuli.com/espana/oscar-puente-comparece-en-la-diputacion-permanente-en-directo-explicaciones-sobre-el-accidente-de-tren-en-toledo-posible-dimision-y-ultima-hora-hora-desde-el-congreso-hoy.html"
+    },
+    {
+      "id": "junts-20261103-1",
+      "party": "junts",
+      "date": "2026-11-03",
+      "topic": "Accidente de Urda",
+      "title": "Nogueras reclama la dimisión de Puente en la Diputación Permanente",
+      "summary": "Según Voz Pópuli, la portavoz de Junts pidió su salida durante la comparecencia. Antes, había pedido que Sánchez asumiera la «responsabilidad política de su Gobierno».",
+      "source": "Voz Pópuli",
+      "url": "https://www.vozpopuli.com/espana/oscar-puente-comparece-en-la-diputacion-permanente-en-directo-explicaciones-sobre-el-accidente-de-tren-en-toledo-posible-dimision-y-ultima-hora-hora-desde-el-congreso-hoy.html"
+    },
+    {
+      "id": "podemos-20261103-1",
+      "party": "podemos",
+      "date": "2026-11-03",
+      "topic": "Accidente de Urda",
+      "title": "Belarra pide la dimisión de Puente durante su comparecencia sobre Urda",
+      "summary": "Según Voz Pópuli, la secretaria general de Podemos se sumó a las peticiones de dimisión del ministro antes de que este anunciara su salida.",
+      "source": "Voz Pópuli",
+      "url": "https://www.vozpopuli.com/espana/oscar-puente-comparece-en-la-diputacion-permanente-en-directo-explicaciones-sobre-el-accidente-de-tren-en-toledo-posible-dimision-y-ultima-hora-hora-desde-el-congreso-hoy.html"
+    },
+    {
+      "id": "sumar-20261103-1",
+      "party": "sumar",
+      "date": "2026-11-03",
+      "topic": "Dimisión de Puente",
+      "title": "Colau agradece a Puente su «dignidad» por dimitir",
+      "summary": "Según elDiario.es, la líder del Frente Amplio calificó la decisión de gesto difícil. Verónica Martínez Barbero había pedido su dimisión como «último servicio» en el debate de la Diputación Permanente.",
+      "source": "elDiario.es",
+      "url": "https://eldiario.es/politica/pp-carga-puente-dimision-frente-amplio-le-agradece-dignidad_1_13635770.html"
+    },
+    {
+      "id": "erc-20261103-1",
+      "party": "erc",
+      "date": "2026-11-03",
+      "topic": "Accidente de Urda",
+      "title": "ERC dice que «alguien se tiene que hacer cargo»; Rufián prioriza revisar el modelo ferroviario",
+      "summary": "Según Infobae, Rufián consideró la continuidad de Puente secundaria frente a la revisión del modelo ferroviario durante el debate en la Diputación Permanente.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/2026/11/04/el-adios-de-oscar-puente-el-ministro-de-transportes-se-aparta-para-evitar-que-sanchez-caiga-con-el-en-las-elecciones-generales-del-29-n/"
+    },
+    {
+      "id": "bildu-20261103-1",
+      "party": "bildu",
+      "date": "2026-11-03",
+      "topic": "Accidente de Urda",
+      "title": "EH Bildu no pidió la salida de Puente y reclamó prudencia y una auditoría del mantenimiento",
+      "summary": "Según Infobae, fue el único grupo de la Diputación Permanente que no pidió su dimisión. Pidió esperar a las investigaciones.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/2026/11/04/el-adios-de-oscar-puente-el-ministro-de-transportes-se-aparta-para-evitar-que-sanchez-caiga-con-el-en-las-elecciones-generales-del-29-n/"
+    },
+    {
+      "id": "bng-20261103-1",
+      "party": "bng",
+      "date": "2026-11-03",
+      "topic": "Accidente de Urda",
+      "title": "El BNG se suma a las peticiones de dimisión de Puente en la Diputación Permanente",
+      "summary": "Según Infobae, el BNG pidió expresamente su salida. Ana Pontón había reclamado una investigación independiente y una auditoría de seguridad de la red.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/2026/11/04/el-adios-de-oscar-puente-el-ministro-de-transportes-se-aparta-para-evitar-que-sanchez-caiga-con-el-en-las-elecciones-generales-del-29-n/"
+    },
+    {
+      "id": "vox-20261103-2",
+      "party": "vox",
+      "date": "2026-11-03",
+      "topic": "Huelga general",
+      "title": "Abascal pide a UGT y CCOO desconvocar la huelga del 11-N y dice que Vox «tomará nota»",
+      "summary": "En Telecinco dijo que la huelga «no tiene ningún sentido» y que, si hay cambio de ciclo tras el 29N, Vox tomará nota. Pidió suprimir sus subvenciones. Los sindicatos no habían respondido y la huelga seguía convocada.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/11/03/abascal-ugt-ccoo-huelga-11n-3461034/"
+    },
+    {
+      "id": "pp-20261104-1",
+      "party": "pp",
+      "date": "2026-11-04",
+      "topic": "Dimisión de Puente",
+      "title": "Feijóo responde a la dimisión de Puente en X con «Aplícatelo» dirigido a Sánchez",
+      "summary": "Según Libertad Digital, Feijóo pidió a Sánchez que también dimita. Tellado la calificó de «imprescindible, pero no suficiente» y Ester Muñoz dijo que llegó tarde, según elDiario.es.",
+      "source": "Libertad Digital",
+      "url": "https://www.libertaddigital.com/espana/politica/2026-11-04/feijoo-pide-a-sanchez-seguir-el-camino-de-puente-y-dimitir-7486264/"
+    },
+    {
+      "id": "vox-20261104-1",
+      "party": "vox",
+      "date": "2026-11-04",
+      "topic": "Dimisión de Puente",
+      "title": "Abascal sostiene que Sánchez se esconde tras sus subordinados y exige su dimisión",
+      "summary": "Según elDiario.es, tras la salida de Puente dijo que la responsabilidad es de Sánchez, al que llamó «capo» de una organización criminal. Pepa Millán recordó «dos siniestros mortales y 116 vidas después».",
+      "source": "elDiario.es",
+      "url": "https://eldiario.es/politica/pp-carga-puente-dimision-frente-amplio-le-agradece-dignidad_1_13635770.html"
     }
   ],
   "positions": {},
