@@ -1,27 +1,7 @@
 {
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
   "news": [
-    {
-      "id": "bildu-20261014-1",
-      "party": "bildu",
-      "date": "2026-10-14",
-      "topic": "Posición de campaña",
-      "title": "Otegi dice que EH Bildu propuso un «programa de mínimos» al PNV y a la izquierda confederal y fue rechazado",
-      "summary": "En una entrevista en ETB2, Otegi dijo que EH Bildu ofrece «un espacio de serenidad» y que tiene garantizados diputados y senadores. Criticó el ritmo de las negociaciones de otras fuerzas de izquierda.",
-      "source": "BilbaoHiria",
-      "url": "https://bilbaohiria.com/actualidad/otegi-eh-bildu-frente-amplio-serenidad-29n"
-    },
-    {
-      "id": "pnv-20261014-1",
-      "party": "pnv",
-      "date": "2026-10-14",
-      "topic": "Debate interno",
-      "title": "El PNV de Bizkaia propone a Ibone Bengoetxea para las forales de 2027 y Esteban defendía otra opción",
-      "summary": "Aitor Esteban dijo que la propuesta se le comunicó «momentos antes de que fuese aprobada»; defendía la continuidad de Elixabete Etxanobe. Los batzokis de Bizkaia deben pronunciarse en las próximas semanas.",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/10/14/crisis-pnv-bizkaia-candidatura-diputada-general-3448416"
-    },
     {
       "id": "bildu-20261015-1",
       "party": "bildu",
@@ -163,16 +143,6 @@
       "url": "https://moncloa.com/2026/10/19/eh-bildu-elecciones-generales-29n-2-3451602"
     },
     {
-      "id": "erc-20261019-1",
-      "party": "erc",
-      "date": "2026-10-19",
-      "topic": "Estrategia electoral",
-      "title": "Alamany defiende la estrategia de ERC y a Rufián como «el mejor candidato posible»",
-      "summary": "La secretaria general de ERC dijo que el partido concurre con siglas propias y con un acuerdo con Podemos, que incluye a miembros de Podemos en sus listas. El colectivo crítico Primer d'Octubre cuestionó el pacto en un comunicado.",
-      "source": "Infobae (EFE)",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/19/erc-reivindica-su-estrategia-para-el-29n-y-a-rufian-tenemos-el-mejor-candidato/"
-    },
-    {
       "id": "all-20261020-1",
       "party": "all",
       "date": "2026-10-20",
@@ -191,16 +161,6 @@
       "summary": "Infobae recoge a Sigma Dos (trabajo de campo 1-14 oct): PP 31,5 %, PSOE 25,3 %, Vox 19,5 %. El CIS de octubre estima PSOE 34 %, PP 22,2 %, Vox 17,1 %. Son estimaciones, no resultados.",
       "source": "Infobae",
       "url": "https://www.infobae.com/espana/2026/10/20/asi-estan-los-sondeos-de-las-elecciones-generales-de-espana-2026/"
-    },
-    {
-      "id": "junts-20261020-1",
-      "party": "junts",
-      "date": "2026-10-20",
-      "topic": "Encuestas",
-      "title": "El CEO (14 oct) estima 10,3 % para Junts en Cataluña y entre 4 y 5 diputados",
-      "summary": "Según Infobae, la estimación del Centre d'Estudis d'Opinió compara con los siete diputados de 2023. Es una estimación, no un resultado. Nogueras, Cruset, Madrenas y Gavín encabezan las listas.",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/espana/2026/10/20/puigdemont-entra-en-la-campana-para-el-29-n-el-lider-independentista-regresa-a-cataluna-para-salvar-a-junts-del-batacazo-que-preven-los-sondeos/"
     },
     {
       "id": "all-20261021-1",
@@ -593,16 +553,6 @@
       "url": "https://www.madridactual.es/nacional/politica-nacional/29n-partidos-coaliciones-apuran-plazo-registrar-candidaturas-20261026-8125470.html"
     },
     {
-      "id": "psoe-20261026-1",
-      "party": "psoe",
-      "date": "2026-10-26",
-      "topic": "Mitin en Gijón",
-      "title": "Sánchez participa en Gijón en un mitin con Adriana Lastra, cabeza de lista por Asturias",
-      "summary": "Según la agenda de Infobae, el acto es por la tarde y cuenta con el presidente asturiano, Adrián Barbón; antes visita unos astilleros y un centro educativo, según El Español.",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/25/hoy-sera-noticia-lunes-26-de-octubre"
-    },
-    {
       "id": "all-20261027-1",
       "party": "all",
       "date": "2026-10-27",
@@ -681,36 +631,6 @@
       "summary": "Según EFE, Fabiola García deja la Consellería de Política Social de Galicia y la sustituye Ángeles Vázquez. Madrid y La Rioja también anunciaron cambios en sus gobiernos por la composición de las listas.",
       "source": "Infobae (EFE)",
       "url": "https://www.infobae.com/espana/agencias/2026/10/26/hoy-sera-noticia-martes-27-de-octubre/"
-    },
-    {
-      "id": "pp-20261027-2",
-      "party": "pp",
-      "date": "2026-10-27",
-      "topic": "Senado y orden público",
-      "title": "Feijóo dice que no habría pactado con Vox en el Senado sin la alianza PSOE-Frente Amplio",
-      "summary": "Según El Español, Feijóo llamó «coalición de desesperados» a esa alianza, anunció que recuperará el agravante penal por disturbios con la cara tapada y dijo que habrá «orden» a partir del 30 de noviembre.",
-      "source": "El Español",
-      "url": "https://elespanol.com/espana/20261027/elecciones-generales-directo-ultima-hora-pedro-sanchez-sondeos-voto-correo-actos-precampana-pp-psoe-vox-encuestas-partidos-espana-2026-pactos-listas/1003744435718_10.html"
-    },
-    {
-      "id": "pp-20261027-3",
-      "party": "pp",
-      "date": "2026-10-27",
-      "topic": "Entrevista",
-      "title": "Feijóo, en Onda Cero, califica a Sánchez de «persona conflictiva»",
-      "summary": "Según elDiario.es, el 27 de octubre Feijóo dijo en un acto de precampaña que «no pueden ganar quienes quieren hacerlo cambiando las reglas o incendiando la calle», en alusión a los disturbios recientes.",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/feijoo-convierte-disturbios-material-campana-auge-vox-encuestas_1_13619429.html"
-    },
-    {
-      "id": "pp-20261027-4",
-      "party": "pp",
-      "date": "2026-10-27",
-      "topic": "Seguridad",
-      "title": "Feijóo propone recuperar la agravante por disturbios con la cara tapada y subir penas si se convocan por redes",
-      "summary": "Lo dijo en Onda Cero tras los disturbios de Barcelona y Bilbao, según el seguimiento de El Progreso. Criticó a Marlaska por estar «desaparecido».",
-      "source": "El Progreso",
-      "url": "https://www.elprogreso.es/articulo/espana/carrera-29-directo-feijoo-presenta-lista-madrid-mano-alvarez-toledo-aval-ayuso/202610271040382009600.html"
     },
     {
       "id": "psoe-20261027-1",
@@ -911,16 +831,6 @@
       "summary": "En un mitin ante unas 500 personas, Abascal pidió que el accidente «se investigue hasta el final», lo calificó de «injusto y evitable» y rechazó la tesis del «error humano». Vox no suspendió su agenda pese al luto oficial.",
       "source": "The Objective",
       "url": "https://theobjective.com/espana/politica/2026-10-29/abascal-pide-dimision-sanchez-puente-se-investigue-hasta-final/"
-    },
-    {
-      "id": "vox-20261029-2",
-      "party": "vox",
-      "date": "2026-10-29",
-      "topic": "Urda",
-      "title": "Vox presenta en el Supremo una querella contra Puente por homicidio imprudente",
-      "summary": "Según El Nacional, la querella le atribuye homicidio por imprudencia grave y lesiones, por presunta omisión de sus deberes de supervisión de la seguridad ferroviaria.",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.cat/es/politica/cerco-puente-ccoo-reclama-su-dimision-vox-lleva-supremo-pp-exige-responsabilidades_1717819_102.html"
     },
     {
       "id": "bildu-20261030-1",
@@ -1243,36 +1153,6 @@
       "url": "https://www.eldebate.com/espana/20261102/partidos-politicos-desconocidos-presentan-elecciones-generales-29n-cns_475206.html"
     },
     {
-      "id": "vox-20261103-1",
-      "party": "vox",
-      "date": "2026-11-03",
-      "topic": "Medios",
-      "title": "Abascal iría a «La revuelta» el 9 de noviembre, según The Objective",
-      "summary": "El medio cita fuentes propias y señala el lunes 9 como fecha probable. RTVE no lo ha anunciado oficialmente y Vox no ha comentado. Sánchez estuvo en el programa el 22 de octubre.",
-      "source": "The Objective",
-      "url": "https://theobjective.com/espana/politica/2026-11-03/santiago-abascal-revuelta-broncano-campana-electoral"
-    },
-    {
-      "id": "psoe-20261103-1",
-      "party": "psoe",
-      "date": "2026-11-03",
-      "topic": "Dimisión de Puente",
-      "title": "Óscar Puente dimite como ministro de Transportes y renuncia a encabezar la lista por Valladolid",
-      "summary": "Lo anunció al cierre de su comparecencia en la Diputación Permanente por el accidente de Urda y alegó «dignidad política» y «empatía con las víctimas». Según El Independiente, informó a Sánchez minutos antes. Los medios consultados no indican quién le sustituye.",
-      "source": "El Independiente",
-      "url": "https://www.elindependiente.com/espana/2026/11/03/oscar-puente-comparecencia-diputacion-permanente-congreso-accidente-urda/"
-    },
-    {
-      "id": "psoe-20261103-2",
-      "party": "psoe",
-      "date": "2026-11-03",
-      "topic": "Dimisión de Puente",
-      "title": "Sánchez agradece en X a Puente que «haya dado un paso al lado»",
-      "summary": "Escribió: «Óscar Puente ha dado la cara, ha dado soluciones y, después, ha dado un paso al lado». Según Diario de Valladolid, fuentes del Ejecutivo dicen que se enteró minutos antes del anuncio.",
-      "source": "Diario de Valladolid",
-      "url": "https://www.diariodevalladolid.es/valladolid/261103/287832/sanchez-dimision-puente-politicos-puente-dignifican-pais-demuestran-todos-iguales.html"
-    },
-    {
       "id": "all-20261103-2",
       "party": "all",
       "date": "2026-11-03",
@@ -1291,56 +1171,6 @@
       "summary": "Según Voz Pópuli, las ayudas llegarían a 216.000 euros. Infobae informa de que el decreto duplicaría el seguro obligatorio de viajeros. El siniestro de Urda causó al menos 69 muertos.",
       "source": "Voz Pópuli",
       "url": "https://www.vozpopuli.com/espana/oscar-puente-comparece-en-la-diputacion-permanente-en-directo-explicaciones-sobre-el-accidente-de-tren-en-toledo-posible-dimision-y-ultima-hora-hora-desde-el-congreso-hoy.html"
-    },
-    {
-      "id": "pnv-20261103-1",
-      "party": "pnv",
-      "date": "2026-11-03",
-      "topic": "Accidente de Urda",
-      "title": "El PNV dice a Puente «le toca dimitir» durante su comparecencia en la Diputación Permanente",
-      "summary": "Según Voz Pópuli, Junts, Sumar, Podemos y PNV pidieron su dimisión durante el debate. Horas después Puente anunció que se iba.",
-      "source": "Voz Pópuli",
-      "url": "https://www.vozpopuli.com/espana/oscar-puente-comparece-en-la-diputacion-permanente-en-directo-explicaciones-sobre-el-accidente-de-tren-en-toledo-posible-dimision-y-ultima-hora-hora-desde-el-congreso-hoy.html"
-    },
-    {
-      "id": "junts-20261103-1",
-      "party": "junts",
-      "date": "2026-11-03",
-      "topic": "Accidente de Urda",
-      "title": "Nogueras reclama la dimisión de Puente en la Diputación Permanente",
-      "summary": "Según Voz Pópuli, la portavoz de Junts pidió su salida durante la comparecencia. Antes, había pedido que Sánchez asumiera la «responsabilidad política de su Gobierno».",
-      "source": "Voz Pópuli",
-      "url": "https://www.vozpopuli.com/espana/oscar-puente-comparece-en-la-diputacion-permanente-en-directo-explicaciones-sobre-el-accidente-de-tren-en-toledo-posible-dimision-y-ultima-hora-hora-desde-el-congreso-hoy.html"
-    },
-    {
-      "id": "podemos-20261103-1",
-      "party": "podemos",
-      "date": "2026-11-03",
-      "topic": "Accidente de Urda",
-      "title": "Belarra pide la dimisión de Puente durante su comparecencia sobre Urda",
-      "summary": "Según Voz Pópuli, la secretaria general de Podemos se sumó a las peticiones de dimisión del ministro antes de que este anunciara su salida.",
-      "source": "Voz Pópuli",
-      "url": "https://www.vozpopuli.com/espana/oscar-puente-comparece-en-la-diputacion-permanente-en-directo-explicaciones-sobre-el-accidente-de-tren-en-toledo-posible-dimision-y-ultima-hora-hora-desde-el-congreso-hoy.html"
-    },
-    {
-      "id": "sumar-20261103-1",
-      "party": "sumar",
-      "date": "2026-11-03",
-      "topic": "Dimisión de Puente",
-      "title": "Colau agradece a Puente su «dignidad» por dimitir",
-      "summary": "Según elDiario.es, la líder del Frente Amplio calificó la decisión de gesto difícil. Verónica Martínez Barbero había pedido su dimisión como «último servicio» en el debate de la Diputación Permanente.",
-      "source": "elDiario.es",
-      "url": "https://eldiario.es/politica/pp-carga-puente-dimision-frente-amplio-le-agradece-dignidad_1_13635770.html"
-    },
-    {
-      "id": "erc-20261103-1",
-      "party": "erc",
-      "date": "2026-11-03",
-      "topic": "Accidente de Urda",
-      "title": "ERC dice que «alguien se tiene que hacer cargo»; Rufián prioriza revisar el modelo ferroviario",
-      "summary": "Según Infobae, Rufián consideró la continuidad de Puente secundaria frente a la revisión del modelo ferroviario durante el debate en la Diputación Permanente.",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/espana/2026/11/04/el-adios-de-oscar-puente-el-ministro-de-transportes-se-aparta-para-evitar-que-sanchez-caiga-con-el-en-las-elecciones-generales-del-29-n/"
     },
     {
       "id": "bildu-20261103-1",
@@ -1363,6 +1193,106 @@
       "url": "https://www.infobae.com/espana/2026/11/04/el-adios-de-oscar-puente-el-ministro-de-transportes-se-aparta-para-evitar-que-sanchez-caiga-con-el-en-las-elecciones-generales-del-29-n/"
     },
     {
+      "id": "erc-20261103-1",
+      "party": "erc",
+      "date": "2026-11-03",
+      "topic": "Accidente de Urda",
+      "title": "ERC dice que «alguien se tiene que hacer cargo»; Rufián prioriza revisar el modelo ferroviario",
+      "summary": "Según Infobae, Rufián consideró la continuidad de Puente secundaria frente a la revisión del modelo ferroviario durante el debate en la Diputación Permanente.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/2026/11/04/el-adios-de-oscar-puente-el-ministro-de-transportes-se-aparta-para-evitar-que-sanchez-caiga-con-el-en-las-elecciones-generales-del-29-n/"
+    },
+    {
+      "id": "erc-20261103-2",
+      "party": "erc",
+      "date": "2026-11-03",
+      "topic": "Puente",
+      "title": "Rufián dijo a Puente «Has sido un gran ministro» tras su dimisión, captado por el micrófono",
+      "summary": "La frase se oyó en la Diputación Permanente el 3 de noviembre. Junts criticó después a Rufián por ello.",
+      "source": "ElNacional.cat",
+      "url": "https://elnacional.cat/es/politica/junts-tilda-rufian-estafa-catalanes-despues-decir-puente-ha-sido-gran-ministro_1720530_102.html"
+    },
+    {
+      "id": "junts-20261103-1",
+      "party": "junts",
+      "date": "2026-11-03",
+      "topic": "Accidente de Urda",
+      "title": "Nogueras reclama la dimisión de Puente en la Diputación Permanente",
+      "summary": "Según Voz Pópuli, la portavoz de Junts pidió su salida durante la comparecencia. Antes, había pedido que Sánchez asumiera la «responsabilidad política de su Gobierno».",
+      "source": "Voz Pópuli",
+      "url": "https://www.vozpopuli.com/espana/oscar-puente-comparece-en-la-diputacion-permanente-en-directo-explicaciones-sobre-el-accidente-de-tren-en-toledo-posible-dimision-y-ultima-hora-hora-desde-el-congreso-hoy.html"
+    },
+    {
+      "id": "pnv-20261103-1",
+      "party": "pnv",
+      "date": "2026-11-03",
+      "topic": "Accidente de Urda",
+      "title": "El PNV dice a Puente «le toca dimitir» durante su comparecencia en la Diputación Permanente",
+      "summary": "Según Voz Pópuli, Junts, Sumar, Podemos y PNV pidieron su dimisión durante el debate. Horas después Puente anunció que se iba.",
+      "source": "Voz Pópuli",
+      "url": "https://www.vozpopuli.com/espana/oscar-puente-comparece-en-la-diputacion-permanente-en-directo-explicaciones-sobre-el-accidente-de-tren-en-toledo-posible-dimision-y-ultima-hora-hora-desde-el-congreso-hoy.html"
+    },
+    {
+      "id": "podemos-20261103-1",
+      "party": "podemos",
+      "date": "2026-11-03",
+      "topic": "Accidente de Urda",
+      "title": "Belarra pide la dimisión de Puente durante su comparecencia sobre Urda",
+      "summary": "Según Voz Pópuli, la secretaria general de Podemos se sumó a las peticiones de dimisión del ministro antes de que este anunciara su salida.",
+      "source": "Voz Pópuli",
+      "url": "https://www.vozpopuli.com/espana/oscar-puente-comparece-en-la-diputacion-permanente-en-directo-explicaciones-sobre-el-accidente-de-tren-en-toledo-posible-dimision-y-ultima-hora-hora-desde-el-congreso-hoy.html"
+    },
+    {
+      "id": "pp-20261103-2",
+      "party": "pp",
+      "date": "2026-11-03",
+      "topic": "Voto por correo",
+      "title": "El PP pide a la JEC acceso a los datos diarios de Correos sobre voto por correo",
+      "summary": "El PP solicita que todos los partidos reciban la misma información que Correos facilita al Ministerio del Interior sobre solicitudes y envíos de voto por correo. No consta respuesta de Correos ni del Gobierno en la fuente.",
+      "source": "Infobae (EFE)",
+      "url": "https://infobae.com/espana/agencias/2026/11/03/el-pp-pide-a-la-junta-electoral-acceder-a-la-informacion-de-correos-del-voto-por-correo"
+    },
+    {
+      "id": "psoe-20261103-1",
+      "party": "psoe",
+      "date": "2026-11-03",
+      "topic": "Dimisión de Puente",
+      "title": "Óscar Puente dimite como ministro de Transportes y renuncia a encabezar la lista por Valladolid",
+      "summary": "Lo anunció al cierre de su comparecencia en la Diputación Permanente por el accidente de Urda y alegó «dignidad política» y «empatía con las víctimas». Según El Independiente, informó a Sánchez minutos antes. Los medios consultados no indican quién le sustituye.",
+      "source": "El Independiente",
+      "url": "https://www.elindependiente.com/espana/2026/11/03/oscar-puente-comparecencia-diputacion-permanente-congreso-accidente-urda/"
+    },
+    {
+      "id": "psoe-20261103-2",
+      "party": "psoe",
+      "date": "2026-11-03",
+      "topic": "Dimisión de Puente",
+      "title": "Sánchez agradece en X a Puente que «haya dado un paso al lado»",
+      "summary": "Escribió: «Óscar Puente ha dado la cara, ha dado soluciones y, después, ha dado un paso al lado». Según Diario de Valladolid, fuentes del Ejecutivo dicen que se enteró minutos antes del anuncio.",
+      "source": "Diario de Valladolid",
+      "url": "https://www.diariodevalladolid.es/valladolid/261103/287832/sanchez-dimision-puente-politicos-puente-dignifican-pais-demuestran-todos-iguales.html"
+    },
+    {
+      "id": "sumar-20261103-1",
+      "party": "sumar",
+      "date": "2026-11-03",
+      "topic": "Dimisión de Puente",
+      "title": "Colau agradece a Puente su «dignidad» por dimitir",
+      "summary": "Según elDiario.es, la líder del Frente Amplio calificó la decisión de gesto difícil. Verónica Martínez Barbero había pedido su dimisión como «último servicio» en el debate de la Diputación Permanente.",
+      "source": "elDiario.es",
+      "url": "https://eldiario.es/politica/pp-carga-puente-dimision-frente-amplio-le-agradece-dignidad_1_13635770.html"
+    },
+    {
+      "id": "vox-20261103-1",
+      "party": "vox",
+      "date": "2026-11-03",
+      "topic": "Medios",
+      "title": "Abascal iría a «La revuelta» el 9 de noviembre, según The Objective",
+      "summary": "El medio cita fuentes propias y señala el lunes 9 como fecha probable. RTVE no lo ha anunciado oficialmente y Vox no ha comentado. Sánchez estuvo en el programa el 22 de octubre.",
+      "source": "The Objective",
+      "url": "https://theobjective.com/espana/politica/2026-11-03/santiago-abascal-revuelta-broncano-campana-electoral"
+    },
+    {
       "id": "vox-20261103-2",
       "party": "vox",
       "date": "2026-11-03",
@@ -1371,6 +1301,16 @@
       "summary": "En Telecinco dijo que la huelga «no tiene ningún sentido» y que, si hay cambio de ciclo tras el 29N, Vox tomará nota. Pidió suprimir sus subvenciones. Los sindicatos no habían respondido y la huelga seguía convocada.",
       "source": "Moncloa.com",
       "url": "https://www.moncloa.com/2026/11/03/abascal-ugt-ccoo-huelga-11n-3461034/"
+    },
+    {
+      "id": "junts-20261104-1",
+      "party": "junts",
+      "date": "2026-11-04",
+      "topic": "Polémica Rufián",
+      "title": "Cruset (Junts) critica a Rufián por decirle «Has sido un gran ministro» a Puente",
+      "summary": "El micrófono abierto captó la frase del portavoz de ERC el 3 de noviembre. El cabeza de lista de Junts en Tarragona, Josep Maria Cruset, lo tildó en X de «estafa para los catalanes».",
+      "source": "ElNacional.cat",
+      "url": "https://elnacional.cat/es/politica/junts-tilda-rufian-estafa-catalanes-despues-decir-puente-ha-sido-gran-ministro_1720530_102.html"
     },
     {
       "id": "pp-20261104-1",
@@ -1383,6 +1323,26 @@
       "url": "https://www.libertaddigital.com/espana/politica/2026-11-04/feijoo-pide-a-sanchez-seguir-el-camino-de-puente-y-dimitir-7486264/"
     },
     {
+      "id": "pp-20261104-2",
+      "party": "pp",
+      "date": "2026-11-04",
+      "topic": "Presupuestos",
+      "title": "Feijóo promete presentar dos Presupuestos en su primer año si gobierna",
+      "summary": "En Espejo Público (Antena 3), Feijóo dijo que presentaría Presupuestos en primavera de 2027 y los de 2028 antes del 30 de septiembre, y que priorizaría el mantenimiento ferroviario y de autovías. No dio cifras.",
+      "source": "ALERTA El Diario de Cantabria",
+      "url": "https://www.eldiarioalerta.com/articulo/politica/feijoo-promete-dos-presupuestos-primer-ano-gobierno-prioriza-mantenimiento-ferroviario-dimision-puente/20261104200135585834.html"
+    },
+    {
+      "id": "psoe-20261104-1",
+      "party": "psoe",
+      "date": "2026-11-04",
+      "topic": "Adif",
+      "title": "Dimite el presidente de Adif, Luis Pedro Marco de la Peña, un día después de Puente",
+      "summary": "Carlos Cuerpo, que asume Transportes, dijo en TVE que no fue un cese y que dimitió por «motivos similares» a los de Puente. Citó una subida de inversión de Adif de hasta el 50 % en cinco años.",
+      "source": "The Objective",
+      "url": "https://theobjective.com/espana/politica/2026-11-04/cuerpo-presidente-adif-dimision-puente/"
+    },
+    {
       "id": "vox-20261104-1",
       "party": "vox",
       "date": "2026-11-04",
@@ -1391,6 +1351,26 @@
       "summary": "Según elDiario.es, tras la salida de Puente dijo que la responsabilidad es de Sánchez, al que llamó «capo» de una organización criminal. Pepa Millán recordó «dos siniestros mortales y 116 vidas después».",
       "source": "elDiario.es",
       "url": "https://eldiario.es/politica/pp-carga-puente-dimision-frente-amplio-le-agradece-dignidad_1_13635770.html"
+    },
+    {
+      "id": "vox-20261104-2",
+      "party": "vox",
+      "date": "2026-11-04",
+      "topic": "Encuestas CIS",
+      "title": "Vox pide a la JEC que el CIS entregue cuestionarios y metadatos de su macroencuesta",
+      "summary": "Jorge Buxadé anunció la petición y reclama que microdatos y resultados estén a disposición de todos los partidos. El CIS comunicó a la JEC que no prevé publicar avances durante el trabajo de campo.",
+      "source": "El Debate",
+      "url": "https://www.eldebate.com/espana/20261104/vox-exige-jec-acceso-completo-cuestionarios-metadatos-macroencuesta-electoral-planea-cis_477397.html"
+    },
+    {
+      "id": "pp-20261105-1",
+      "party": "pp",
+      "date": "2026-11-05",
+      "topic": "Programa electoral",
+      "title": "Según OKDIARIO, el programa del PP prevé una auditoría del gasto público en cien días",
+      "summary": "El medio, que dice haber obtenido el programa, informa de que incluiría revisar ayudas, contratos y subvenciones, y auditar el gasto estatal, incluidas empresas como Adif. No se ha contrastado con el texto oficial.",
+      "source": "OKDIARIO",
+      "url": "https://okdiario.com/espana/feijoo-promete-eliminar-o-corregir-subvenciones-contratos-publicos-que-no-cumplan-fin-20700868"
     }
   ],
   "positions": {},
