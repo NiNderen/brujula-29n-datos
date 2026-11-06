@@ -1,37 +1,7 @@
 {
-  "updated": "2026-11-05",
+  "updated": "2026-11-06",
   "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
   "news": [
-    {
-      "id": "bildu-20261015-1",
-      "party": "bildu",
-      "date": "2026-10-15",
-      "topic": "Listas electorales",
-      "title": "Jon Iñarritu no será candidato de EH Bildu el 29N, según The Objective",
-      "summary": "El medio cita fuentes no identificadas. Iñarritu escribió en X «Muchas gracias de corazón». Las candidaturas se someterán a refrendo telemático de las bases el fin de semana siguiente.",
-      "source": "The Objective",
-      "url": "https://theobjective.com/espana/politica/2026-10-15/bildu-prescinde-jon-inarritu/"
-    },
-    {
-      "id": "cc-20261015-1",
-      "party": "cc",
-      "date": "2026-10-15",
-      "topic": "Coalición electoral",
-      "title": "Coalición Canaria y Primero Canarias acuerdan candidaturas conjuntas para el 29N",
-      "summary": "Cristina Valido encabezará la lista por Santa Cruz de Tenerife y Teodoro Sosa la de Las Palmas. El acuerdo se presentará el sábado en Las Palmas de Gran Canaria con una declaración que se espera firmen unas veinte formaciones.",
-      "source": "Canarias Diario",
-      "url": "https://www.canariasdiario.com/noticia/152208/politica/primero-canarias-y-cc-acuerdan-una-candidatura-conjunta-para-el-29-n.html"
-    },
-    {
-      "id": "cc-20261015-2",
-      "party": "cc",
-      "date": "2026-10-15",
-      "topic": "Candidaturas",
-      "title": "Valido (Tenerife) y Teodoro Sosa (Las Palmas) encabezan las listas de CC y Primero Canarias",
-      "summary": "La alianza, oficializada el 15 de octubre, concurrirá con nombre distinto según la provincia. Las candidaturas al Senado aún no están definidas.",
-      "source": "La Gaceta de Canarias",
-      "url": "https://lagacetadecanarias.com/coalicion-canaria-y-primero-canarias-hacen-oficial-su-alianza-cristina-valido-y-teodoro-sosa-encabezaran-las-listas-al-congreso/"
-    },
     {
       "id": "bildu-20261016-1",
       "party": "bildu",
@@ -73,16 +43,6 @@
       "url": "https://www.libertaddigital.com/espana/politica/2026-10-17/irene-montero-presenta-su-candidatura-al-29n-cargando-contra-el-frente-amplio-por-su-cercania-al-psoe-7477673/"
     },
     {
-      "id": "podemos-20261017-2",
-      "party": "podemos",
-      "date": "2026-10-17",
-      "topic": "Huelga general",
-      "title": "Belarra llama a la huelga general del 11 de noviembre",
-      "summary": "Ione Belarra pidió secundar la huelga general del 11 de noviembre y afirmó que «más PSOE solo traerá más Partido Popular y Vox», según el seguimiento de Vozpópuli del 17 de octubre.",
-      "source": "Vozpópuli",
-      "url": "https://www.vozpopuli.com/espana/politica/elecciones-generales-del-29-n-en-directo-ultima-hora-de-las-listas-electorales-sanchez-y-feijoo.html"
-    },
-    {
       "id": "upn-20261017-1",
       "party": "upn",
       "date": "2026-10-17",
@@ -111,26 +71,6 @@
       "summary": "En el acto de Bilbao, Aitor Esteban dijo que el PNV es el único partido que con sus votos ha impedido que gobierne Vox. El 75 % es un cálculo del propio partido. Senado: Uribe-Etxebarria, Ahedo y Zarate.",
       "source": "Moncloa.com",
       "url": "https://www.moncloa.com/2026/10/18/pnv-vox-esteban-dique-29n-3450554/"
-    },
-    {
-      "id": "all-20261019-1",
-      "party": "all",
-      "date": "2026-10-19",
-      "topic": "Ley de nietos",
-      "title": "163.020 nacionalizados siguen sin voto cautelar; el Supremo recibe alegaciones hasta el jueves 22",
-      "summary": "Según el directo de Infobae, los afectados deben personarse con abogado y procurador ante el Supremo, lo que no garantiza que puedan votar el 29 de noviembre.",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/espana/2026/10/19/elecciones-generales-29-n-en-directo-ultima-hora-de-los-sondeos-la-ley-de-nietos-o-los-anuncios-sobre-pensiones/"
-    },
-    {
-      "id": "all-20261019-2",
-      "party": "all",
-      "date": "2026-10-19",
-      "topic": "Senado",
-      "title": "Un análisis de El Español estima los escenarios de mayoría de tres quintos de PP y Vox en el Senado",
-      "summary": "Con la encuesta SocioMétrica del 11 de octubre, estima 162 de 267 escaños en dos escenarios. Son proyecciones; PP y Vox no han cerrado ningún acuerdo y Vox decidía el lunes si negociar.",
-      "source": "El Español",
-      "url": "https://www.elespanol.com/espana/politica/20261019/derecha-conservaria-quintos-senado-vox-no-presenta-provincias-va-listas-pp/1003744425410_0.html"
     },
     {
       "id": "bildu-20261019-1",
@@ -231,16 +171,6 @@
       "summary": "Anunció en X «Ha llegado el momento». Según EFE, el lunes el juez Llarena confirmó el levantamiento de las órdenes de detención contra Puig, Puigdemont y Comín, aunque todavía no se les aplica la amnistía.",
       "source": "Infobae (EFE)",
       "url": "https://www.infobae.com/espana/agencias/2026/10/21/lluis-puig-ya-esta-en-cataluna-y-se-incorporara-el-jueves-como-diputado-en-el-parlament/"
-    },
-    {
-      "id": "junts-20261021-2",
-      "party": "junts",
-      "date": "2026-10-21",
-      "topic": "Campaña",
-      "title": "Junts se presenta como «único partido catalán» al 29N en el Parlament; el PSC replica",
-      "summary": "Salvador Vergés dijo «Vayan fiándose de Rufián. Así les irá». El conseller Albert Dalmau (PSC) criticó que Junts votara con PP y Vox iniciativas como la revalorización de pensiones; Vergés citó siete diputados y cuatro senadores de Junts.",
-      "source": "ElNacional.cat",
-      "url": "https://www.elnacional.cat/es/politica/junts-sentencia-es-unico-partido-va-29n-como-catalan-vayan-fiandose-rufian-ira_1713091_102.html"
     },
     {
       "id": "pnv-20261021-1",
@@ -623,26 +553,6 @@
       "url": "https://www.eldiariodemadrid.es/articulo/politica/irene-montero-gabriel-rufian-la-revuelta-feminismo-vivienda/20261028101527145504.html"
     },
     {
-      "id": "pp-20261027-1",
-      "party": "pp",
-      "date": "2026-10-27",
-      "topic": "Listas",
-      "title": "Fabiola García deja la Xunta para ser candidata del PP al Congreso y los gobiernos autonómicos se remodelan",
-      "summary": "Según EFE, Fabiola García deja la Consellería de Política Social de Galicia y la sustituye Ángeles Vázquez. Madrid y La Rioja también anunciaron cambios en sus gobiernos por la composición de las listas.",
-      "source": "Infobae (EFE)",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/26/hoy-sera-noticia-martes-27-de-octubre/"
-    },
-    {
-      "id": "psoe-20261027-1",
-      "party": "psoe",
-      "date": "2026-10-27",
-      "topic": "Listas",
-      "title": "Dimite el delegado del Gobierno en Madrid, Francisco Martín, tras quedar fuera de las candidaturas socialistas",
-      "summary": "Dejó el cargo el domingo 25; el PSOE de Madrid lo atribuye a una «decisión personal». El Consejo de Ministros prevé nombrar a su sustituto.",
-      "source": "Infobae (EFE)",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/26/hoy-sera-noticia-martes-27-de-octubre/"
-    },
-    {
       "id": "sumar-20261027-1",
       "party": "sumar",
       "date": "2026-10-27",
@@ -693,16 +603,6 @@
       "url": "https://www.eldiario.es/castilla-la-mancha/accidente-tren-toledo-suspendida-alta-velocidad-madrid-andalucia_133_13620647.html"
     },
     {
-      "id": "pp-20261028-1",
-      "party": "pp",
-      "date": "2026-10-28",
-      "topic": "Accidente ferroviario",
-      "title": "El PP suspende su precampaña y Feijóo pide una auditoría independiente de la red ferroviaria",
-      "summary": "Según Público, Feijóo reclamó una investigación gubernamental y otra judicial, y dijo que pedir responsabilidades políticas «no es el día». El PP no ha fijado fecha para reanudar actos.",
-      "source": "Público",
-      "url": "https://www.publico.es/politica/gobierno/accidente-trenes-toledo-sacude-paraliza-precampana-electoral.html"
-    },
-    {
       "id": "psoe-20261028-1",
       "party": "psoe",
       "date": "2026-10-28",
@@ -711,16 +611,6 @@
       "summary": "Ferraz confirmó la cancelación por el accidente de Urda. Rebeca Torró dijo que el partido suspende su agenda porque la prioridad es «atender la emergencia».",
       "source": "Infobae (EFE)",
       "url": "https://www.infobae.com/espana/agencias/2026/10/28/el-psoe-cancela-el-acto-de-precampana-que-iba-a-celebrar-este-jueves-en-vitoria-con-pedro-sanchez/"
-    },
-    {
-      "id": "psoe-20261028-2",
-      "party": "psoe",
-      "date": "2026-10-28",
-      "topic": "Accidente ferroviario",
-      "title": "Sánchez: «No es asumible sufrir estos dos accidentes» y promete actuar si hubo negligencias",
-      "summary": "Según Público, Sánchez se refirió a Adamuz y Urda, prometió investigar las causas y declaró tres días de luto oficial. El PSOE atribuye la responsabilidad a un operario de Adif, según elDiario.es.",
-      "source": "Público",
-      "url": "https://www.publico.es/politica/gobierno/accidente-trenes-toledo-sacude-paraliza-precampana-electoral.html"
     },
     {
       "id": "sumar-20261028-1",
@@ -821,16 +711,6 @@
       "summary": "Según Europa Press, el PSOE suspendió el acto de Sánchez previsto el sábado 31 de octubre en Cádiz y la agenda en A Coruña, y reanudará la precampaña más adelante. Ya había cancelado el mitin de Vitoria del 29 de octubre.",
       "source": "Infobae (Europa Press)",
       "url": "https://www.infobae.com/espana/agencias/2026/10/29/el-psoe-cancela-actos-de-precampana-de-sanchez-en-cadiz-y-a-coruna-para-respetar-el-luto-oficial/"
-    },
-    {
-      "id": "vox-20261029-1",
-      "party": "vox",
-      "date": "2026-10-29",
-      "topic": "Urda",
-      "title": "Abascal pide en Ávila la dimisión de Sánchez y Puente por el accidente de Urda",
-      "summary": "En un mitin ante unas 500 personas, Abascal pidió que el accidente «se investigue hasta el final», lo calificó de «injusto y evitable» y rechazó la tesis del «error humano». Vox no suspendió su agenda pese al luto oficial.",
-      "source": "The Objective",
-      "url": "https://theobjective.com/espana/politica/2026-10-29/abascal-pide-dimision-sanchez-puente-se-investigue-hasta-final/"
     },
     {
       "id": "bildu-20261030-1",
@@ -1073,6 +953,16 @@
       "url": "https://www.infobae.com/espana/agencias/2026/11/01/abascal-el-crecimiento-de-vox-es-lo-que-asegura-la-alternativa/"
     },
     {
+      "id": "all-20261102-3",
+      "party": "all",
+      "date": "2026-11-02",
+      "topic": "Encuestas",
+      "title": "Sigma Dos (El Mundo, 29-30 oct) estima PP 31,1%, PSOE 24,6% y Vox 19,3%",
+      "summary": "Estimación de Sigma Dos: PSOE 97-103 escaños y Vox 63-69. Son estimaciones, no resultados.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/11/02/encuestas-pp-vox-200-escanos-3460201/"
+    },
+    {
       "id": "bildu-20261102-1",
       "party": "bildu",
       "date": "2026-11-02",
@@ -1243,6 +1133,16 @@
       "url": "https://www.vozpopuli.com/espana/oscar-puente-comparece-en-la-diputacion-permanente-en-directo-explicaciones-sobre-el-accidente-de-tren-en-toledo-posible-dimision-y-ultima-hora-hora-desde-el-congreso-hoy.html"
     },
     {
+      "id": "podemos-20261103-2",
+      "party": "podemos",
+      "date": "2026-11-03",
+      "topic": "Ferrocarril",
+      "title": "Montero pide aplicar el artículo 128 de la Constitución para renacionalizar el ferrocarril",
+      "summary": "En A Coruña, la cabeza de lista de Podemos dijo que la liberalización es «el principal error humano» y que cualquier anuncio de Puente sería «un parche».",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/03/montero-ve-consenso-social-para-la-dimision-de-puente-y-pide-renacionalizar-el-tren/"
+    },
+    {
       "id": "pp-20261103-2",
       "party": "pp",
       "date": "2026-11-03",
@@ -1251,6 +1151,16 @@
       "summary": "El PP solicita que todos los partidos reciban la misma información que Correos facilita al Ministerio del Interior sobre solicitudes y envíos de voto por correo. No consta respuesta de Correos ni del Gobierno en la fuente.",
       "source": "Infobae (EFE)",
       "url": "https://infobae.com/espana/agencias/2026/11/03/el-pp-pide-a-la-junta-electoral-acceder-a-la-informacion-de-correos-del-voto-por-correo"
+    },
+    {
+      "id": "pp-20261103-3",
+      "party": "pp",
+      "date": "2026-11-03",
+      "topic": "Cataluña",
+      "title": "El PP presenta en Sabadell la candidatura de Albiol por Barcelona",
+      "summary": "Albiol dijo que busca que el PP sea segunda fuerza en Cataluña. Alejandro Fernández dijo que las necesidades de Cataluña no se renegociarán con «fugados, golpistas o residentes en Waterloo».",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/11/04/pp-tandem-sanchez-colau-confluentes-sumar-3461364/"
     },
     {
       "id": "psoe-20261103-1",
@@ -1313,6 +1223,16 @@
       "url": "https://elnacional.cat/es/politica/junts-tilda-rufian-estafa-catalanes-despues-decir-puente-ha-sido-gran-ministro_1720530_102.html"
     },
     {
+      "id": "junts-20261104-2",
+      "party": "junts",
+      "date": "2026-11-04",
+      "topic": "Ferrocarril",
+      "title": "Nogueras pide el traspaso integral de vías, trenes y recursos ferroviarios a Cataluña",
+      "summary": "En Telecinco, dijo que la dimisión de Puente era «lo que tenía que pasar». Las cifras de puntualidad que citó sobre Renfe y la Generalitat son afirmaciones suyas, no verificadas por el medio.",
+      "source": "The Objective",
+      "url": "https://theobjective.com/espana/politica/2026-11-04/junts-dimision-puente-traspaso-trenes-cataluna/"
+    },
+    {
       "id": "pp-20261104-1",
       "party": "pp",
       "date": "2026-11-04",
@@ -1363,6 +1283,36 @@
       "url": "https://www.eldebate.com/espana/20261104/vox-exige-jec-acceso-completo-cuestionarios-metadatos-macroencuesta-electoral-planea-cis_477397.html"
     },
     {
+      "id": "all-20261105-1",
+      "party": "all",
+      "date": "2026-11-05",
+      "topic": "Caso Koldo",
+      "title": "La UCO detiene a seis personas y registra la casa de Ábalos en una nueva pieza del caso Koldo",
+      "summary": "Según EFE, la operación, ordenada por el juez Ismael Moreno de la Audiencia Nacional, incluyó registros en Valencia y Córdoba y un requerimiento de información en la sede de Adif. Adif dijo que colaboró totalmente.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/05/seis-detenidos-registros-y-documentacion-pedida-a-adif-en-la-nueva-pieza-del-caso-koldo/"
+    },
+    {
+      "id": "bildu-20261105-1",
+      "party": "bildu",
+      "date": "2026-11-05",
+      "topic": "Acto Bilbao",
+      "title": "EH Bildu celebra un coloquio con Otegi y David Fernández en el Euskalduna",
+      "summary": "El acto, moderado por Mertxe Aizpurua, tuvo lugar el 5 de noviembre a las 19:00 dentro de la precampaña. El partido advierte del «avance del bloque reaccionario».",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/11/02/otegi-david-fernandez-coloquio-bilbao-3460015"
+    },
+    {
+      "id": "cc-20261105-1",
+      "party": "cc",
+      "date": "2026-11-05",
+      "topic": "Sector primario",
+      "title": "CC–Primero Canarias propone que el Estado aporte el 100% de su parte del POSEI",
+      "summary": "Cristina Valido y Alfonso Cabello presentaron en El Sauzal (Tenerife) medidas para agricultura y pesca: compensación de sobrecostes, controles de plagas y salvaguardas comerciales.",
+      "source": "Atlántico Hoy",
+      "url": "https://www.atlanticohoy.com/politica/coalicion-canaria-reclama-mas-ayudas-campo-reducir-dependencia-exterior-islas_1569565_102.html"
+    },
+    {
       "id": "pp-20261105-1",
       "party": "pp",
       "date": "2026-11-05",
@@ -1371,6 +1321,56 @@
       "summary": "El medio, que dice haber obtenido el programa, informa de que incluiría revisar ayudas, contratos y subvenciones, y auditar el gasto estatal, incluidas empresas como Adif. No se ha contrastado con el texto oficial.",
       "source": "OKDIARIO",
       "url": "https://okdiario.com/espana/feijoo-promete-eliminar-o-corregir-subvenciones-contratos-publicos-que-no-cumplan-fin-20700868"
+    },
+    {
+      "id": "pp-20261105-2",
+      "party": "pp",
+      "date": "2026-11-05",
+      "topic": "Mítines",
+      "title": "El PP prevé un mitin de Feijóo en Valladolid el 7 de noviembre y otro en Valencia el 21",
+      "summary": "Según Moncloa.com, el acto central en la Plaza de Toros de Valencia (aforo de 12.000) será el 21 de noviembre. Génova atribuye intención política a la fecha del acto socialista en Valencia; Ferraz dice que ya estaba previsto.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/11/05/mitin-feijoo-valencia-pp-plaza-toros-3461981"
+    },
+    {
+      "id": "psoe-20261105-1",
+      "party": "psoe",
+      "date": "2026-11-05",
+      "topic": "Caso Koldo",
+      "title": "Sánchez dice que los detenidos por la UCO «no tienen nada que ver» con él",
+      "summary": "En rueda de prensa en Madrid tras la Cumbre Iberoamericana, dijo que el Gobierno colabora con la Justicia y pidió a Feijóo explicaciones sobre una supuesta oferta del abogado del PP a Koldo García.",
+      "source": "El Ideal Gallego (EFE)",
+      "url": "https://www.elidealgallego.com/actualidad/espana/2026-11-05/sanchez-dice-que-los-detenidos-por-la-uco-en-el-caso-koldo-no-tienen-nada-que-ver-con-el-889290.html"
+    },
+    {
+      "id": "vox-20261105-1",
+      "party": "vox",
+      "date": "2026-11-05",
+      "topic": "Mitin Teruel",
+      "title": "Abascal, en Teruel: Sánchez «debería estar en el banquillo en vez de en un proceso electoral»",
+      "summary": "En un mitin, Abascal dijo que Sánchez «merece una investigación criminal» y que su entorno está «pringado hasta el chófer». Sobre Puente dijo «no todos somos iguales».",
+      "source": "Telemadrid",
+      "url": "https://www.telemadrid.es/noticias/nacional/abascal-dice-sanchez-deberia-banquillo_1_2797265.html"
+    },
+    {
+      "id": "bng-20261106-1",
+      "party": "bng",
+      "date": "2026-11-06",
+      "topic": "Mitin Mondariz",
+      "title": "Pontón pide concentrar el voto gallego en el BNG en un acto en Mondariz Balneario",
+      "summary": "Ana Pontón dijo que el gasto militar del Estado en 2026 es de 35.419 millones frente a 2.235 millones en vivienda. Néstor Rego pidió a votantes decepcionados que no se queden en casa.",
+      "source": "ValmiñorTV",
+      "url": "https://valminortv.com/2026/11/06/ponton-apela-en-mondariz-balneario-a-concentrar-en-el-bng-el-voto-gallego-el-29n-para-darle-mas-fuerza-a-galicia"
+    },
+    {
+      "id": "psoe-20261106-1",
+      "party": "psoe",
+      "date": "2026-11-06",
+      "topic": "Agenda",
+      "title": "Sánchez retoma la precampaña con actos en Valencia, Tarragona y Bilbao",
+      "summary": "Según Moncloa.com, el PSOE prevé un mitin el viernes 6 en Valencia, el sábado 7 en Tarragona y el domingo 8 en Bilbao. Ferraz dijo que el acto de Valencia estaba previsto antes de la dimisión de Puente.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/11/05/precampana-29-n-psoe-valencia-valladolid-3462437"
     }
   ],
   "positions": {},
