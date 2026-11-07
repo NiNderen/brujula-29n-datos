@@ -1,17 +1,7 @@
 {
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
   "news": [
-    {
-      "id": "bildu-20261016-1",
-      "party": "bildu",
-      "date": "2026-10-16",
-      "topic": "Candidaturas",
-      "title": "EH Bildu propone a Oskar Matute en Bizkaia y a Oihana Etxebarrieta en Gipuzkoa para el Congreso",
-      "summary": "Según Moncloa.com, la propuesta incluye a Mikel Otero (Álava) y Eneka Maiz (Navarra) y no repiten Jon Iñarritu, Mertxe Aizpurua ni Bel Pozueta. Las bases deben ratificarla por votación telemática ese fin de semana.",
-      "source": "Moncloa.com",
-      "url": "https://moncloa.com/2026/10/16/eh-bildu-candidatos-generales-29n-3449751"
-    },
     {
       "id": "pnv-20261017-1",
       "party": "pnv",
@@ -83,26 +73,6 @@
       "url": "https://moncloa.com/2026/10/19/eh-bildu-elecciones-generales-29n-2-3451602"
     },
     {
-      "id": "all-20261020-1",
-      "party": "all",
-      "date": "2026-10-20",
-      "topic": "Huelga general",
-      "title": "CCOO, UGT y el Sindicat de Llogateres registran el preaviso de huelga general del 11N en Cataluña",
-      "summary": "Reclaman una subida salarial del 7 % y medidas sobre el precio de la vivienda. Foment del Treball calificó el 7 % de «ocurrencia», según UGT. El artículo no recoge posiciones de partidos.",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/10/20/huelga-general-11n-cataluna-preaviso-3452132/"
-    },
-    {
-      "id": "all-20261020-2",
-      "party": "all",
-      "date": "2026-10-20",
-      "topic": "Encuestas",
-      "title": "Sondeos del 29N: la mayoría de institutos privados sitúa al PP primero; el CIS, al PSOE",
-      "summary": "Infobae recoge a Sigma Dos (trabajo de campo 1-14 oct): PP 31,5 %, PSOE 25,3 %, Vox 19,5 %. El CIS de octubre estima PSOE 34 %, PP 22,2 %, Vox 17,1 %. Son estimaciones, no resultados.",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/espana/2026/10/20/asi-estan-los-sondeos-de-las-elecciones-generales-de-espana-2026/"
-    },
-    {
       "id": "all-20261021-1",
       "party": "all",
       "date": "2026-10-21",
@@ -153,26 +123,6 @@
       "url": "https://www.infobae.com/espana/agencias/2026/10/21/junqueras-dice-que-no-temio-que-rufian-dejara-erc-dice-muchas-cosas-pero-estaba-seguro/"
     },
     {
-      "id": "erc-20261021-2",
-      "party": "erc",
-      "date": "2026-10-21",
-      "topic": "Candidaturas",
-      "title": "ERC da puestos simbólicos a Junqueras (31 por Barcelona) y Romeva (primer suplente)",
-      "summary": "Según El Debate, las listas se aprobaron en un Consejo Nacional extraordinario. Ambos, amnistiados por el Supremo, harán campaña para apoyar a Rufián, cabeza de lista por Barcelona.",
-      "source": "El Debate",
-      "url": "https://www.eldebate.com/espana/cataluna/20261021/junqueras-romeva-figuraran-simbolicamente-listas-erc-29n_471999.html"
-    },
-    {
-      "id": "junts-20261021-1",
-      "party": "junts",
-      "date": "2026-10-21",
-      "topic": "Lluís Puig",
-      "title": "Lluís Puig regresa a Cataluña y se incorporará como diputado de Junts en el Parlament",
-      "summary": "Anunció en X «Ha llegado el momento». Según EFE, el lunes el juez Llarena confirmó el levantamiento de las órdenes de detención contra Puig, Puigdemont y Comín, aunque todavía no se les aplica la amnistía.",
-      "source": "Infobae (EFE)",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/21/lluis-puig-ya-esta-en-cataluna-y-se-incorporara-el-jueves-como-diputado-en-el-parlament/"
-    },
-    {
       "id": "pnv-20261021-1",
       "party": "pnv",
       "date": "2026-10-21",
@@ -201,16 +151,6 @@
       "summary": "Según Europa Press, en La Sexta afirmó que el PSOE solo hace políticas valientes en vivienda si una izquierda fuerte le presiona. Criticó a PP y Vox por tumbar en el Congreso decretos de vivienda con medidas antidesahucios.",
       "source": "Infobae (Europa Press)",
       "url": "https://www.infobae.com/espana/agencias/2026/10/21/colau-recrimina-a-sanchez-llegar-tarde-al-caso-de-maricarmen-y-dice-que-el-psoe-carece-de-valentia-en-vivienda/"
-    },
-    {
-      "id": "sumar-20261021-2",
-      "party": "sumar",
-      "date": "2026-10-21",
-      "topic": "Campaña",
-      "title": "Colau acusa a PP y Vox de «esconder sus propuestas» con la visita de Milei",
-      "summary": "Según EFE, dijo en La Sexta que ocultan «el recorte de pensiones». También relató que EE. UU. le denegó el ESTA y el visado para viajar a Puerto Rico tras una entrevista en la embajada sobre su activismo propalestino.",
-      "source": "Infobae (EFE)",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/21/colau-acusa-a-pp-y-vox-de-intentar-esconder-a-referentes-de-ambos-partidos-como-milei/"
     },
     {
       "id": "all-20261022-1",
@@ -603,16 +543,6 @@
       "url": "https://www.eldiario.es/castilla-la-mancha/accidente-tren-toledo-suspendida-alta-velocidad-madrid-andalucia_133_13620647.html"
     },
     {
-      "id": "psoe-20261028-1",
-      "party": "psoe",
-      "date": "2026-10-28",
-      "topic": "Accidente ferroviario",
-      "title": "El PSOE cancela el mitin de Sánchez en Vitoria previsto para el 29 de octubre",
-      "summary": "Ferraz confirmó la cancelación por el accidente de Urda. Rebeca Torró dijo que el partido suspende su agenda porque la prioridad es «atender la emergencia».",
-      "source": "Infobae (EFE)",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/28/el-psoe-cancela-el-acto-de-precampana-que-iba-a-celebrar-este-jueves-en-vitoria-con-pedro-sanchez/"
-    },
-    {
       "id": "sumar-20261028-1",
       "party": "sumar",
       "date": "2026-10-28",
@@ -693,16 +623,6 @@
       "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13623441.html"
     },
     {
-      "id": "pp-20261029-1",
-      "party": "pp",
-      "date": "2026-10-29",
-      "topic": "Urda",
-      "title": "Feijóo exige desde Urda responsabilidades políticas sin esperar a la investigación",
-      "summary": "Feijóo dijo que no son «opcionables» y criticó que Sánchez mantenga a Puente, al que acusó de «echar la culpa a un operador de Atocha», algo que calificó de «frivolidad». También pidió «cabeza fría» y «respeto».",
-      "source": "Press Digital (Agencias)",
-      "url": "https://www.pressdigital.es/articulo/politica/2026-10-29/6071035-feijoo-cree-responsabilidades-politicas-no-pueden-esperar-critica-sanchez-mantenga-puente"
-    },
-    {
       "id": "psoe-20261029-1",
       "party": "psoe",
       "date": "2026-10-29",
@@ -763,16 +683,6 @@
       "url": "https://www.democrata.es/politica/pp-exige-dimision-oscar-puente-accidente-tren-urda/"
     },
     {
-      "id": "pp-20261030-2",
-      "party": "pp",
-      "date": "2026-10-30",
-      "topic": "Urda",
-      "title": "Feijóo: «Si no dimiten ellos, les dimitiremos en las urnas»",
-      "summary": "Desde la sede del PP, tras reunirse con expertos ferroviarios, acusó al Gobierno de haber «abandonado la cultura de la seguridad» y propuso un plan de emergencia, una revisión completa de vías y un presupuesto de conservación.",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/10/30/feijoo-urnas-29n-siniestro-urda-puente-3458623/"
-    },
-    {
       "id": "psoe-20261030-1",
       "party": "psoe",
       "date": "2026-10-30",
@@ -801,16 +711,6 @@
       "summary": "Según el directo de The Objective, la candidata del Frente Amplio reclamó el cese del ministro de Transportes tras el accidente de Urda, que según el Centro Integrado de Datos dejó 69 fallecidos.",
       "source": "The Objective",
       "url": "https://theobjective.com/economia/transporte/2026-10-30/ultima-hora-accidente-urda-toledo/directo/"
-    },
-    {
-      "id": "vox-20261030-1",
-      "party": "vox",
-      "date": "2026-10-30",
-      "topic": "Urda",
-      "title": "Figaredo culpa al Gobierno del accidente de Urda y llama «criminal» a Puente",
-      "summary": "Según Infobae/Europa Press, el portavoz de Vox dijo en Barcelona que pedir la dimisión de Puente es correcto pero «accidental», y consideró insuficiente su comparecencia del martes.",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/30/figaredo-vox-culpa-al-gobierno-y-cree-que-una-dimision-de-puente-es-lo-de-menos/"
     },
     {
       "id": "all-20261031-1",
@@ -1213,6 +1113,16 @@
       "url": "https://www.moncloa.com/2026/11/03/abascal-ugt-ccoo-huelga-11n-3461034/"
     },
     {
+      "id": "all-20261104-1",
+      "party": "all",
+      "date": "2026-11-04",
+      "topic": "Encuestas",
+      "title": "More in Common estima PP 28,3 %, PSOE 27,6 % y Vox 20,8 %, con campo anterior al accidente de Urda",
+      "summary": "Según Colmena de Datos, el trabajo de campo de esta estimación terminó el 25 de octubre. Los escaños estimados son 117 (PP), 112 (PSOE) y 75 (Vox). Son estimaciones, no resultados.",
+      "source": "Colmena de Datos",
+      "url": "https://colmenadedatos.com/encuesta-more-in-common-empate-entre-pp-y-psoe-3-nov-2026/"
+    },
+    {
       "id": "junts-20261104-1",
       "party": "junts",
       "date": "2026-11-04",
@@ -1251,6 +1161,16 @@
       "summary": "En Espejo Público (Antena 3), Feijóo dijo que presentaría Presupuestos en primavera de 2027 y los de 2028 antes del 30 de septiembre, y que priorizaría el mantenimiento ferroviario y de autovías. No dio cifras.",
       "source": "ALERTA El Diario de Cantabria",
       "url": "https://www.eldiarioalerta.com/articulo/politica/feijoo-promete-dos-presupuestos-primer-ano-gobierno-prioriza-mantenimiento-ferroviario-dimision-puente/20261104200135585834.html"
+    },
+    {
+      "id": "pp-20261104-3",
+      "party": "pp",
+      "date": "2026-11-04",
+      "topic": "Vivienda",
+      "title": "El PP detalla su plan de vivienda: «Hucha Hogar Joven», IVA del 4 % y un millón de viviendas",
+      "summary": "Según Demócrata, propone para menores de 40 años ahorro deducible de hasta 2.000 € al año con aval público, bajar el IVA de vivienda nueva del 10 % al 4 % y derogar la Ley de Vivienda de 2023. Son propuestas, con detalles aún sin concretar.",
+      "source": "Demócrata",
+      "url": "https://www.democrata.es/actualidad/hucha-joven-feijoo-plan-vivienda-pp-elecciones-29n-bancos/"
     },
     {
       "id": "psoe-20261104-1",
@@ -1333,6 +1253,16 @@
       "url": "https://www.moncloa.com/2026/11/05/mitin-feijoo-valencia-pp-plaza-toros-3461981"
     },
     {
+      "id": "pp-20261105-3",
+      "party": "pp",
+      "date": "2026-11-05",
+      "topic": "Caso Koldo",
+      "title": "Génova rechaza la acusación de Koldo García de que el PP le ofreció un millón de euros",
+      "summary": "Según la Cadena SER, citada por El Debate, Koldo García afirma haber pactado con el abogado del PP Alberto Durán un millón y el pago de su defensa. Fuentes de Génova lo negaron ante EFE; el hecho no está confirmado.",
+      "source": "El Debate",
+      "url": "https://www.eldebate.com/espana/20261105/pp-niega-supuesta-oferta-abogado-koldo-garcia-psoe-exige-explicaciones_477626.html"
+    },
+    {
       "id": "psoe-20261105-1",
       "party": "psoe",
       "date": "2026-11-05",
@@ -1341,6 +1271,16 @@
       "summary": "En rueda de prensa en Madrid tras la Cumbre Iberoamericana, dijo que el Gobierno colabora con la Justicia y pidió a Feijóo explicaciones sobre una supuesta oferta del abogado del PP a Koldo García.",
       "source": "El Ideal Gallego (EFE)",
       "url": "https://www.elidealgallego.com/actualidad/espana/2026-11-05/sanchez-dice-que-los-detenidos-por-la-uco-en-el-caso-koldo-no-tienen-nada-que-ver-con-el-889290.html"
+    },
+    {
+      "id": "psoe-20261105-2",
+      "party": "psoe",
+      "date": "2026-11-05",
+      "topic": "Caso Koldo",
+      "title": "El PSOE pide a Feijóo explicaciones sobre la supuesta oferta a Koldo García",
+      "summary": "Según El Debate, el PSOE preguntó si Feijóo conocía el supuesto acuerdo y de dónde salieron los 242.000 € que OKDiario pagó por la defensa de Koldo García. El PP niega la oferta.",
+      "source": "El Debate",
+      "url": "https://www.eldebate.com/espana/20261105/pp-niega-supuesta-oferta-abogado-koldo-garcia-psoe-exige-explicaciones_477626.html"
     },
     {
       "id": "vox-20261105-1",
@@ -1363,6 +1303,36 @@
       "url": "https://valminortv.com/2026/11/06/ponton-apela-en-mondariz-balneario-a-concentrar-en-el-bng-el-voto-gallego-el-29n-para-darle-mas-fuerza-a-galicia"
     },
     {
+      "id": "erc-20261106-1",
+      "party": "erc",
+      "date": "2026-11-06",
+      "topic": "Vivienda",
+      "title": "Rufián responde a Nogueras que Junts votó «8 veces con PP y Vox contra el derecho a la vivienda»",
+      "summary": "Según CatalunyaPress y Europa Press, el candidato de ERC respondió en X pidiendo a la de Junts que «vuelva a la cordura» y defendió que aprobar leyes es difícil por los votos de Junts en la legislatura.",
+      "source": "CatalunyaPress",
+      "url": "https://www.catalunyapress.es/articulo/politica-catalunya/2026-11-06/6082074-choque-entre-junts-erc-sube-tono-nogueras-acusa-rufian-responde"
+    },
+    {
+      "id": "junts-20261106-1",
+      "party": "junts",
+      "date": "2026-11-06",
+      "topic": "Legislatura",
+      "title": "Nogueras afirma que Rufián «no ha aprobado ni una sola ley»",
+      "summary": "Según CatalunyaPress, la candidata de Junts retó al de ERC a citar leyes que haya sacado adelante en el Congreso y recordó que el PP ganó en 2023 pero no pudo gobernar por los votos de Junts.",
+      "source": "CatalunyaPress",
+      "url": "https://www.catalunyapress.es/articulo/politica-catalunya/2026-11-06/6082074-choque-entre-junts-erc-sube-tono-nogueras-acusa-rufian-responde"
+    },
+    {
+      "id": "pnv-20261106-1",
+      "party": "pnv",
+      "date": "2026-11-06",
+      "topic": "Pactos",
+      "title": "Esteban: el PNV no dará apoyo a una mayoría en la que sea necesario Vox",
+      "summary": "En una entrevista en laSexta recogida por Europa Press, Aitor Esteban dijo que el PNV aspira a tener grupo propio en el Congreso y citó encuestas según las cuales el 43 % de los vascos no ha decidido su voto.",
+      "source": "Pressdigital (Europa Press)",
+      "url": "https://www.pressdigital.es/articulo/politica/2026-11-06/6081946-esteban-insiste-mayoria-sea-necesario-vox-no-contar-ayuda-ni-apoyo-pnv"
+    },
+    {
       "id": "psoe-20261106-1",
       "party": "psoe",
       "date": "2026-11-06",
@@ -1371,6 +1341,36 @@
       "summary": "Según Moncloa.com, el PSOE prevé un mitin el viernes 6 en Valencia, el sábado 7 en Tarragona y el domingo 8 en Bilbao. Ferraz dijo que el acto de Valencia estaba previsto antes de la dimisión de Puente.",
       "source": "Moncloa.com",
       "url": "https://www.moncloa.com/2026/11/05/precampana-29-n-psoe-valencia-valladolid-3462437"
+    },
+    {
+      "id": "vox-20261106-1",
+      "party": "vox",
+      "date": "2026-11-06",
+      "topic": "Precampaña",
+      "title": "Abascal pide «mantenerse alerta» y desconfiar de las encuestas en un acto en Granada",
+      "summary": "Según Telemadrid, ante unas 2.000 personas en el Palacio de Congresos acusó al Gobierno de querer «hacer trampa» con el voto por correo y responsabilizó al Ejecutivo de los accidentes de Urda y Adamuz. Fuera protestaron unas 300 personas.",
+      "source": "Telemadrid",
+      "url": "https://www.telemadrid.es/noticias/nacional/abascal-pide-mantenerse-alerta-29n_1_2799661.html"
+    },
+    {
+      "id": "all-20261107-1",
+      "party": "all",
+      "date": "2026-11-07",
+      "topic": "Justicia",
+      "title": "Pedraz cita el 24 de noviembre como testigo a Cintia Rocho en el caso Leire",
+      "summary": "Según El Español, el magistrado de la Audiencia Nacional la interrogará cinco días antes del 29-N. Rocho afirma haber recibido una oferta del exjuez Sáenz de Tejada, algo aún por esclarecer.",
+      "source": "El Español",
+      "url": "https://www.elespanol.com/espana/20261107/elecciones-generales-directo-ultima-hora-adelanto-electoral-pedro-sanchez-sondeos-encuestas-voto-correo-espana-2026-partidos/1003744449830_10.html"
+    },
+    {
+      "id": "sumar-20261107-1",
+      "party": "sumar",
+      "date": "2026-11-07",
+      "topic": "Campaña",
+      "title": "Colau participa el domingo 8 en un mitin de Ara Més–Front Ampli en Palma",
+      "summary": "Según Última Hora, el acto es a las 12:00 en la plaza de Sant Jeroni, con Carme Gomila (candidata por Baleares), Toni Valero y Verónica Martínez (Madrid).",
+      "source": "Última Hora",
+      "url": "https://www.ultimahora.es/noticias/elecciones-29n/2026/11/07/2744327/mitin-ada-colau-por-elecciones-generales-del-29n-mallorca-fecha-hora-lugar.html"
     }
   ],
   "positions": {},
