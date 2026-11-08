@@ -1,47 +1,7 @@
 {
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
   "news": [
-    {
-      "id": "pnv-20261017-1",
-      "party": "pnv",
-      "date": "2026-10-17",
-      "topic": "Listas",
-      "title": "El PNV ratifica a Vaquero, Sagastizabal y Urtaran como cabezas de lista al Congreso",
-      "summary": "La asamblea nacional del partido, reunida en Bilbao el 17 de octubre, aprobó por unanimidad las listas; al Senado encabezan Nerea Ahedo (Bizkaia), Luke Uribe-Etxebarria (Gipuzkoa) y Saray Zarate (Álava).",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/10/17/listas-pnv-congreso-29n-3450355"
-    },
-    {
-      "id": "pnv-20261017-2",
-      "party": "pnv",
-      "date": "2026-10-17",
-      "topic": "Pacto con el PSOE",
-      "title": "Aitor Esteban cifra en «más de un 75 %» el cumplimiento del pacto de 2023 con el PSOE",
-      "summary": "Esteban dijo el 17 de octubre que el PNV fue «el único partido» que evitó que Vox gobernara. Son valoraciones del propio dirigente.",
-      "source": "Vozpópuli",
-      "url": "https://www.vozpopuli.com/espana/politica/elecciones-generales-del-29-n-en-directo-ultima-hora-de-las-listas-electorales-sanchez-y-feijoo.html"
-    },
-    {
-      "id": "podemos-20261017-1",
-      "party": "podemos",
-      "date": "2026-10-17",
-      "topic": "Candidatura",
-      "title": "Montero presenta su candidatura y acusa al Frente Amplio de preferir pactar con el PSOE en el Senado",
-      "summary": "En el Consejo Ciudadano Estatal del 17 de octubre, Montero anunció el lema «Paz, casa, trabajo»; dijo que la candidatura se eligió en primarias con más de 25.000 participantes.",
-      "source": "Libertad Digital",
-      "url": "https://www.libertaddigital.com/espana/politica/2026-10-17/irene-montero-presenta-su-candidatura-al-29n-cargando-contra-el-frente-amplio-por-su-cercania-al-psoe-7477673/"
-    },
-    {
-      "id": "upn-20261017-1",
-      "party": "upn",
-      "date": "2026-10-17",
-      "topic": "Candidatura Navarra",
-      "title": "Sergio Sayas será el número 2 de la candidatura conjunta PP-UPN por Navarra",
-      "summary": "Vozpópuli recogió el 17 de octubre que Sayas irá de número 2 en la lista conjunta, cuyo cabeza de lista es Feijóo según el pacto ya anunciado.",
-      "source": "Vozpópuli",
-      "url": "https://www.vozpopuli.com/espana/politica/elecciones-generales-del-29-n-en-directo-ultima-hora-de-las-listas-electorales-sanchez-y-feijoo.html"
-    },
     {
       "id": "bng-20261018-1",
       "party": "bng",
@@ -73,26 +33,6 @@
       "url": "https://moncloa.com/2026/10/19/eh-bildu-elecciones-generales-29n-2-3451602"
     },
     {
-      "id": "all-20261021-1",
-      "party": "all",
-      "date": "2026-10-21",
-      "topic": "Calendario",
-      "title": "Abre el plazo para presentar candidaturas ante las juntas electorales provinciales; cierra el 26 de octubre",
-      "summary": "Según El Español, desde el 21 de octubre los partidos pueden registrar sus listas del 29N en las Juntas Electorales Provinciales. El plazo termina el 26 de octubre.",
-      "source": "El Español",
-      "url": "https://elespanol.com/espana/20261020/elecciones-generales-ultima-hora-directo-consejo-ministros-pedro-sanchez-actos-listas-pp-psoe-vox-pactos-electorales-voto-correo/1003744426993_10.html"
-    },
-    {
-      "id": "all-20261021-2",
-      "party": "all",
-      "date": "2026-10-21",
-      "topic": "Voto nacionalizados",
-      "title": "El Constitucional inadmite por 10 votos a 2 el amparo del Defensor del Pueblo sobre la «ley de nietos»",
-      "summary": "Según Euronews, el pleno considera que el recurso llega «demasiado pronto» porque el procedimiento del Supremo sigue abierto. Los 163.020 afectados pueden pedir al Supremo que rectifique la medida.",
-      "source": "Euronews",
-      "url": "https://es.euronews.com/2026/10/21/el-tribunal-constitucional-rechaza-por-10-votos-a-2-el-recurso-sobre-la-ley-de-nietos"
-    },
-    {
       "id": "bng-20261021-1",
       "party": "bng",
       "date": "2026-10-21",
@@ -113,16 +53,6 @@
       "url": "https://adiantegalicia.es/costa-artabra/2026/10/21/o-bng-aplaude-a-protesta-contra-vox-e-a-cig-pide-o-cese-do-delegado-do-goberno.html"
     },
     {
-      "id": "erc-20261021-1",
-      "party": "erc",
-      "date": "2026-10-21",
-      "topic": "Pacto con Podemos",
-      "title": "Junqueras dice que nunca temió que Rufián dejara ERC y detalla el acuerdo con Podemos",
-      "summary": "En Catalunya Ràdio dijo: «Dice muchas cosas, pero yo estaba seguro de que no lo dejaría». Según EFE, Podemos no se presenta en Cataluña y cuatro de sus miembros irán en listas de ERC, uno en sexta posición por Barcelona.",
-      "source": "Infobae (EFE)",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/21/junqueras-dice-que-no-temio-que-rufian-dejara-erc-dice-muchas-cosas-pero-estaba-seguro/"
-    },
-    {
       "id": "pnv-20261021-1",
       "party": "pnv",
       "date": "2026-10-21",
@@ -141,16 +71,6 @@
       "summary": "Según Junqueras, recogido por EFE, el acuerdo establece que Podemos no concurre en Cataluña. Montero es la candidata de Podemos a la presidencia.",
       "source": "Infobae (EFE)",
       "url": "https://www.infobae.com/espana/agencias/2026/10/21/junqueras-dice-que-no-temio-que-rufian-dejara-erc-dice-muchas-cosas-pero-estaba-seguro/"
-    },
-    {
-      "id": "sumar-20261021-1",
-      "party": "sumar",
-      "date": "2026-10-21",
-      "topic": "Vivienda",
-      "title": "Colau dice que el PSOE «siempre llega tarde» en vivienda y que Sánchez llegó tarde al caso de Maricarmen",
-      "summary": "Según Europa Press, en La Sexta afirmó que el PSOE solo hace políticas valientes en vivienda si una izquierda fuerte le presiona. Criticó a PP y Vox por tumbar en el Congreso decretos de vivienda con medidas antidesahucios.",
-      "source": "Infobae (Europa Press)",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/21/colau-recrimina-a-sanchez-llegar-tarde-al-caso-de-maricarmen-y-dice-que-el-psoe-carece-de-valentia-en-vivienda/"
     },
     {
       "id": "all-20261022-1",
@@ -181,16 +101,6 @@
       "summary": "Según Moncloa.com, el promedio estima 133 escaños para el PP (32,1 %) y 65 para Vox (18,6 %). Es una estimación estadística con simulaciones, no un resultado; el medio no detalla institutos ni fechas de campo.",
       "source": "Moncloa.com",
       "url": "https://www.moncloa.com/2026/10/22/encuestas-pp-vox-198-escanos-29n-3453350/"
-    },
-    {
-      "id": "junts-20261024-1",
-      "party": "junts",
-      "date": "2026-10-22",
-      "topic": "Comín",
-      "title": "Comín volvió a España el 22 de octubre y prevé regresar a Cataluña a pie el domingo 25",
-      "summary": "Acudió a la JEC en Madrid para acatar la Constitución tras retirar Llarena la orden de detención. Puigdemont, sin orden de arresto, no prevé volver hasta después del 29N, según eldiario.es.",
-      "source": "eldiario.es",
-      "url": "https://www.eldiario.es/catalunya/toni-comin-junts-vuelve-espana-nueve-anos-belgica-recoger-acta-eurodiputado_1_13603245.html"
     },
     {
       "id": "pnv-20261022-1",
@@ -673,16 +583,6 @@
       "url": "https://cronicavasca.elespanol.com/politica/20261030/esteban-empresarios-pnv-madrid-mantener-concierto-industria/1003742807837_0.html"
     },
     {
-      "id": "pp-20261030-1",
-      "party": "pp",
-      "date": "2026-10-30",
-      "topic": "Urda",
-      "title": "Ester Muñoz pide el cese o la dimisión de Puente antes de su comparecencia",
-      "summary": "En RNE, la portavoz del PP en el Congreso dijo que «Puente no debería llegar al martes». Según Demócrata, el PP registró además una petición para que Sánchez comparezca ante la Diputación Permanente.",
-      "source": "Demócrata",
-      "url": "https://www.democrata.es/politica/pp-exige-dimision-oscar-puente-accidente-tren-urda/"
-    },
-    {
       "id": "psoe-20261030-1",
       "party": "psoe",
       "date": "2026-10-30",
@@ -741,16 +641,6 @@
       "summary": "Emilio Delgado dijo que después debe abrirse un debate sobre el sistema ferroviario y atribuyó los problemas a recortes del PP y a una liberalización mal ejecutada. Ada Colau había pedido lo mismo el día 30.",
       "source": "El Debate",
       "url": "https://www.eldebate.com/espana/20261031/frente-amplio-exige-dimision-puente-primer-paso-imprescindible_475959.html"
-    },
-    {
-      "id": "vox-20261031-1",
-      "party": "vox",
-      "date": "2026-10-31",
-      "topic": "Trenes",
-      "title": "Abascal llama «organización criminal» al Gobierno; Puente niega haber hablado de «error humano»",
-      "summary": "Abascal lo escribió en X tras las declaraciones de Puente sobre un posible cierre temporal de la línea Madrid-Barcelona. Puente dijo que ese cierre se estudia para acelerar obras y que no usó la expresión «error humano».",
-      "source": "El Constitucional",
-      "url": "https://www.elconstitucional.es/en/national/abascal-uses-the-toledo-tragedy-as-an-electoral-weapon-for-29n-and-calls-the-government-criminal-organization_9664_102.html"
     },
     {
       "id": "vox-20261031-2",
@@ -1293,6 +1183,16 @@
       "url": "https://www.telemadrid.es/noticias/nacional/abascal-dice-sanchez-deberia-banquillo_1_2797265.html"
     },
     {
+      "id": "all-20261106-1",
+      "party": "all",
+      "date": "2026-11-06",
+      "topic": "Encuestas",
+      "title": "Celeste-Tel estima PP 136, PSOE 101 y Vox 66 escaños en un sondeo para Onda Cero",
+      "summary": "Estimación publicada el 6 de noviembre: PP 31,4 % del voto, PSOE 25,7 %, Vox 19,2 %, Frente Amplio 6,2 %. Según la fuente, no constan las fechas de trabajo de campo. Son estimaciones, no resultados.",
+      "source": "Demócrata",
+      "url": "https://www.democrata.es/encuestas/elecciones-generales/encuesta-elecciones-generales-celeste-tel-pp-vox-psoe-urda/"
+    },
+    {
       "id": "bng-20261106-1",
       "party": "bng",
       "date": "2026-11-06",
@@ -1321,6 +1221,16 @@
       "summary": "Según CatalunyaPress, la candidata de Junts retó al de ERC a citar leyes que haya sacado adelante en el Congreso y recordó que el PP ganó en 2023 pero no pudo gobernar por los votos de Junts.",
       "source": "CatalunyaPress",
       "url": "https://www.catalunyapress.es/articulo/politica-catalunya/2026-11-06/6082074-choque-entre-junts-erc-sube-tono-nogueras-acusa-rufian-responde"
+    },
+    {
+      "id": "junts-20261106-2",
+      "party": "junts",
+      "date": "2026-11-06",
+      "topic": "Condiciones",
+      "title": "Nogueras fija condiciones para dialogar con el PSOE y descarta facilitar un Gobierno de PP y Vox",
+      "summary": "En SER Catalunya, la candidata de Junts pidió recaudación íntegra de impuestos, competencias en inmigración y oficialidad del catalán en la UE. Criticó a los sindicatos convocantes de la huelga del 11N por su cercanía al Gobierno.",
+      "source": "Catalunya Press",
+      "url": "https://catalunyapress.es/articulo/politica/2026-11-06/6081571-junts-situa-lineas-rojas-29n-dialogo-condicionado-psoe-portazo-definitivo-pp-vox"
     },
     {
       "id": "pnv-20261106-1",
@@ -1363,6 +1273,46 @@
       "url": "https://www.elespanol.com/espana/20261107/elecciones-generales-directo-ultima-hora-adelanto-electoral-pedro-sanchez-sondeos-encuestas-voto-correo-espana-2026-partidos/1003744449830_10.html"
     },
     {
+      "id": "all-20261107-2",
+      "party": "all",
+      "date": "2026-11-07",
+      "topic": "Voto por correo",
+      "title": "El voto por correo: la documentación se envía por certificado a partir del 9 de noviembre",
+      "summary": "Según Que.es, la Oficina del Censo Electoral envía la documentación por correo certificado desde el 9 de noviembre, con dos intentos de entrega. La solicitud está abierta desde el 6 de octubre.",
+      "source": "Que.es",
+      "url": "https://www.que.es/2026/11/07/voto-correo-29n-fechas-tramites/"
+    },
+    {
+      "id": "bng-20261107-1",
+      "party": "bng",
+      "date": "2026-11-07",
+      "topic": "Compromisos 29N",
+      "title": "El BNG presenta en Santiago sus compromisos para el 29N: alquileres topados y jornada de 35 horas",
+      "summary": "Pontón presentó el documento: tope legal a los alquileres, 3 % del presupuesto público para vivienda de alquiler público, AP-9 sin peajes, jornada de 35 horas y jubilación ordinaria a los 65 años.",
+      "source": "Diario en Positivo (Europa Press)",
+      "url": "https://www.diarioenpositivo.com/espana/29n-bng-reclama-decalogo-compromisos-mas-autogobierno-fiscalidad-mas-justa-vida-digna/20261107152520097009.html"
+    },
+    {
+      "id": "erc-20261107-1",
+      "party": "erc",
+      "date": "2026-11-07",
+      "topic": "Mitin en Madrid",
+      "title": "Rufián, en Madrid: defiende «una familia, un hogar» y más impuestos a grandes patrimonios y beneficios",
+      "summary": "En el acto con Irene Montero, el cabeza de lista de ERC por Barcelona pidió una revisión del sistema ferroviario y más inversión en mantenimiento, y criticó el uso de subcontratas por parte de Adif.",
+      "source": "El Constitucional",
+      "url": "https://www.elconstitucional.es/en/national/politics/irene-montero-and-gabriel-rufian-overflow-their-rally-in-madrid-with-housing-and-the-11n-strike-as-their-banner-we-have-to-paralyze-the-country_9929_102.html"
+    },
+    {
+      "id": "podemos-20261107-1",
+      "party": "podemos",
+      "date": "2026-11-07",
+      "topic": "Mitin en Madrid",
+      "title": "Montero propone un SMI de 1.800 euros y apoya la huelga general del 11N en un acto en Madrid",
+      "summary": "En Espacio Delicias, junto a Rufián, Montero planteó reducir la jornada, crear una empresa pública de alimentación y recuperar el control público de sectores estratégicos. Dijo que el PSOE busca «devorar a su izquierda».",
+      "source": "El Constitucional",
+      "url": "https://www.elconstitucional.es/en/national/politics/irene-montero-and-gabriel-rufian-overflow-their-rally-in-madrid-with-housing-and-the-11n-strike-as-their-banner-we-have-to-paralyze-the-country_9929_102.html"
+    },
+    {
       "id": "sumar-20261107-1",
       "party": "sumar",
       "date": "2026-11-07",
@@ -1371,6 +1321,36 @@
       "summary": "Según Última Hora, el acto es a las 12:00 en la plaza de Sant Jeroni, con Carme Gomila (candidata por Baleares), Toni Valero y Verónica Martínez (Madrid).",
       "source": "Última Hora",
       "url": "https://www.ultimahora.es/noticias/elecciones-29n/2026/11/07/2744327/mitin-ada-colau-por-elecciones-generales-del-29n-mallorca-fecha-hora-lugar.html"
+    },
+    {
+      "id": "sumar-20261107-2",
+      "party": "sumar",
+      "date": "2026-11-07",
+      "topic": "Gobierno",
+      "title": "Emilio Delgado (Frente Amplio): entrar en el Gobierno o apoyarlo desde fuera dependerá del resultado",
+      "summary": "En una entrevista, el cabeza de lista por Madrid fijó el objetivo de superar el 10 %, dijo que empujarán al PSOE en vivienda, empleo y ferrocarril y pidió una auditoría ferroviaria.",
+      "source": "Diario en Positivo",
+      "url": "https://diarioenpositivo.com/espana/29n-emilio-delgado-fundamental-es-estar-dentro-fuera-gobierno-es-que-materialicen-politicas/20261107132222096969.html"
+    },
+    {
+      "id": "vox-20261107-1",
+      "party": "vox",
+      "date": "2026-11-07",
+      "topic": "Acto en Guadalajara",
+      "title": "Abascal pide una «movilización gigantesca» el 29N y no fiarse de las encuestas en Guadalajara",
+      "summary": "En un acto en el Auditorio Pedro Díaz, con unas 2.500 personas según la Policía Local, Abascal ofreció «un cambio profundo» pero «tranquilo» y calificó de «mafia criminal» al Gobierno de Sánchez.",
+      "source": "Infobae (agencias)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/07/abascal-apela-a-la-movilizacion-masiva-ofrece-un-cambio-profundo-y-tranquilo-y-pide-a-los-suyos-no-confiarse/"
+    },
+    {
+      "id": "pp-20261108-1",
+      "party": "pp",
+      "date": "2026-11-08",
+      "topic": "Presupuesto UE",
+      "title": "El programa del PP promete no cerrar el presupuesto de la UE 2028-2034 sin proteger la PAC",
+      "summary": "Según El Español, el programa rechaza unificar PAC y cohesión en un plan nacional único y los quiere «sin recortes para España». No concreta cifras. Se presenta el martes en Madrid.",
+      "source": "El Español",
+      "url": "https://www.elespanol.com/espana/politica/20261108/feijoo-promete-agricultores-ganaderos-no-sufriran-recortes-proximo-presupuesto-ue-pese-fin-nextgen/1003744449647_0.html"
     }
   ],
   "positions": {},
