@@ -1,27 +1,7 @@
 {
-  "updated": "2026-11-08",
+  "updated": "2026-11-09",
   "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
   "news": [
-    {
-      "id": "bng-20261018-1",
-      "party": "bng",
-      "date": "2026-10-18",
-      "topic": "Campaña en Galicia",
-      "title": "Pontón dice que solo el BNG puede ganar «capacidad de negociación» en Madrid",
-      "summary": "En la Cadena SER, Pontón descartó integrarse en plataformas estatales, defendió a Néstor Rego y Carme da Silva y dijo que las candidaturas se decidirán el día 24. Pidió a Rueda adelantar las autonómicas.",
-      "source": "Infobae (Europa Press)",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/18/ponton-bng-confia-en-ganar-capacidad-de-negociacion-en-madrid-y-llama-a-rueda-a-convocar-autonomicas/"
-    },
-    {
-      "id": "pnv-20261018-2",
-      "party": "pnv",
-      "date": "2026-10-18",
-      "topic": "Campaña",
-      "title": "Esteban presenta al PNV como freno a Vox y sitúa en el 75 % el cumplimiento del pacto de 2023",
-      "summary": "En el acto de Bilbao, Aitor Esteban dijo que el PNV es el único partido que con sus votos ha impedido que gobierne Vox. El 75 % es un cálculo del propio partido. Senado: Uribe-Etxebarria, Ahedo y Zarate.",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/10/18/pnv-vox-esteban-dique-29n-3450554/"
-    },
     {
       "id": "bildu-20261019-1",
       "party": "bildu",
@@ -63,46 +43,6 @@
       "url": "https://www.pressdigital.es/articulo/politica/2026-10-21/6059956-esteban-pnv-cree-gobierno-sanchez-esta-haciendo-campana-desde-consejo-ministros"
     },
     {
-      "id": "podemos-20261021-1",
-      "party": "podemos",
-      "date": "2026-10-21",
-      "topic": "Pacto con ERC",
-      "title": "Rufián e Irene Montero harán dos actos conjuntos en Cataluña; el primero, el sábado en Nou Barris",
-      "summary": "Según Junqueras, recogido por EFE, el acuerdo establece que Podemos no concurre en Cataluña. Montero es la candidata de Podemos a la presidencia.",
-      "source": "Infobae (EFE)",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/21/junqueras-dice-que-no-temio-que-rufian-dejara-erc-dice-muchas-cosas-pero-estaba-seguro/"
-    },
-    {
-      "id": "all-20261022-1",
-      "party": "all",
-      "date": "2026-10-22",
-      "topic": "Debates",
-      "title": "Choque entre PSOE y PP por los debates: cara a cara el 16-N y propuesta de debate a cuatro el 26-N",
-      "summary": "Según elDiario.es, ambos aceptan el cara a cara del 16 de noviembre en Mediaset. Discrepan sobre el debate a cuatro del 26: el PSOE acepta la invitación de RTVE y el PP prefiere Atresmedia.",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/sanchez-acepta-cara-cara-electoral-feijoo-16-noviembre_1_13607508.html"
-    },
-    {
-      "id": "all-20261022-2",
-      "party": "all",
-      "date": "2026-10-22",
-      "topic": "Junta Electoral",
-      "title": "La JEC declara que el CIS incumplió el plazo de información al PP, pero no abre expediente a Tezanos",
-      "summary": "Según Europa Press (Infobae), estimó parcialmente la denuncia del PP sobre el barómetro de octubre, alegó «escasa entidad» de la infracción y pidió a Tezanos abstenerse de actuaciones contrarias a la ley electoral.",
-      "source": "Infobae (Europa Press)",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/22/la-jec-rechaza-la-pretension-del-pp-de-expedientar-a-tezanos-por-no-informar-en-plazo-del-ultimo-barometro-del-cis/"
-    },
-    {
-      "id": "all-20261022-3",
-      "party": "all",
-      "date": "2026-10-22",
-      "topic": "Encuestas",
-      "title": "Un promedio de sondeos sitúa a PP y Vox en 198 escaños; el PSOE, en torno a 105",
-      "summary": "Según Moncloa.com, el promedio estima 133 escaños para el PP (32,1 %) y 65 para Vox (18,6 %). Es una estimación estadística con simulaciones, no un resultado; el medio no detalla institutos ni fechas de campo.",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/10/22/encuestas-pp-vox-198-escanos-29n-3453350/"
-    },
-    {
       "id": "pnv-20261022-1",
       "party": "pnv",
       "date": "2026-10-22",
@@ -121,16 +61,6 @@
       "summary": "Según EFE (Infobae), Mitjana y Pilar Gimeno dejan sus cargos; él cita desacuerdos con las direcciones provincial y estatal. El artículo no recoge respuesta de la dirección de Podemos.",
       "source": "Infobae (EFE)",
       "url": "https://www.infobae.com/espana/agencias/2026/10/22/dimite-el-coordinador-de-podemos-aragon-por-discrepancias-con-la-direccion-estatal/"
-    },
-    {
-      "id": "sumar-20261022-1",
-      "party": "sumar",
-      "date": "2026-10-22",
-      "topic": "Candidaturas",
-      "title": "IU designa a Juan Ponte cabeza de lista del Frente Amplio por Asturias",
-      "summary": "Según Infobae, Antona Luengo irá en la candidatura conjunta con el PSOE al Senado. En Teruel, IU insiste en presentarse pese al rechazo de CHA, que defiende evitar la dispersión del voto progresista.",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/espana/2026/10/22/elecciones-generales-29-n-en-directo-ultima-hora-de-los-sondeos-propuestas-de-los-partidos-y-actos-de-los-candidatos/"
     },
     {
       "id": "all-20261023-1",
@@ -161,16 +91,6 @@
       "summary": "Néstor Rego calificó de «injustificable» la actuación policial contra jóvenes que protestaban durante un acto de Vox el miércoles y reclamó «responsabilidades políticas»; el BNG pide comparecencias en la Diputación Permanente.",
       "source": "Press Digital",
       "url": "https://www.pressdigital.es/articulo/politica/2026-10-23/6064071-bng-tambien-exige-sanchez-explique-congreso-cargas-policiales-contra-manifestantes-coruna"
-    },
-    {
-      "id": "erc-20261023-1",
-      "party": "erc",
-      "date": "2026-10-23",
-      "topic": "Cargas policiales",
-      "title": "ERC firma con Podemos la petición de comparecencia por las cargas policiales",
-      "summary": "La petición, registrada por Podemos con la firma de ERC, pide que Sánchez, Marlaska y Robles expliquen ante la Diputación Permanente si las actuaciones respondieron a órdenes políticas o a decisiones de los mandos.",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/10/23/comparecencia-sanchez-congreso-podemos-erc-3454072"
     },
     {
       "id": "podemos-20261023-1",
@@ -533,16 +453,6 @@
       "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13623441.html"
     },
     {
-      "id": "psoe-20261029-1",
-      "party": "psoe",
-      "date": "2026-10-29",
-      "topic": "Campaña",
-      "title": "El PSOE cancela los actos de Sánchez en Cádiz y A Coruña por el luto oficial",
-      "summary": "Según Europa Press, el PSOE suspendió el acto de Sánchez previsto el sábado 31 de octubre en Cádiz y la agenda en A Coruña, y reanudará la precampaña más adelante. Ya había cancelado el mitin de Vitoria del 29 de octubre.",
-      "source": "Infobae (Europa Press)",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/29/el-psoe-cancela-actos-de-precampana-de-sanchez-en-cadiz-y-a-coruna-para-respetar-el-luto-oficial/"
-    },
-    {
       "id": "bildu-20261030-1",
       "party": "bildu",
       "date": "2026-10-30",
@@ -583,16 +493,6 @@
       "url": "https://cronicavasca.elespanol.com/politica/20261030/esteban-empresarios-pnv-madrid-mantener-concierto-industria/1003742807837_0.html"
     },
     {
-      "id": "psoe-20261030-1",
-      "party": "psoe",
-      "date": "2026-10-30",
-      "topic": "Urda",
-      "title": "Moncloa mantiene a Puente; el ministro comparecerá el 3 de noviembre",
-      "summary": "Según El Español, Puente descarta dimitir y Moncloa dice que Sánchez lo respalda; dará una rueda de prensa el 30 de octubre y comparecerá el 3 de noviembre ante la Diputación Permanente. El Gobierno atribuye el accidente a un fallo humano.",
-      "source": "El Español",
-      "url": "https://www.elespanol.com/espana/politica/20261030/sanchez-decidido-llegar-elecciones-puente-ministro-pese-tragedia-urda-criticas-socios/1003744439442_0.html"
-    },
-    {
       "id": "psoe-20261030-2",
       "party": "psoe",
       "date": "2026-10-30",
@@ -623,16 +523,6 @@
       "url": "https://elconstitucional.es/es/nacional/supremo-admite-69-personas-tres-asociaciones-como-afectados-por-recursos-vox-iustitia-europa-contra-voto-nacionalizados-por-ley-nietos_9661_102.html"
     },
     {
-      "id": "pp-20261031-1",
-      "party": "pp",
-      "date": "2026-10-31",
-      "topic": "Campaña y trenes",
-      "title": "Feijóo reorienta la campaña hacia la gestión y convoca el Comité Ejecutivo del PP el 2 de noviembre",
-      "summary": "Propone una revisión técnica independiente de la red ferroviaria, una auditoría del gasto y un plan de emergencia de seguridad y mantenimiento. Dijo: «Si no dimiten ellos, les dimitiremos en las urnas».",
-      "source": "Mundiario",
-      "url": "https://www.mundiario.com/politica/feijoo-cambia-guion-campana-urda-pone-guardia-pp-gestion-gestion-gestion/20261031111659450113.html"
-    },
-    {
       "id": "sumar-20261031-1",
       "party": "sumar",
       "date": "2026-10-31",
@@ -641,16 +531,6 @@
       "summary": "Emilio Delgado dijo que después debe abrirse un debate sobre el sistema ferroviario y atribuyó los problemas a recortes del PP y a una liberalización mal ejecutada. Ada Colau había pedido lo mismo el día 30.",
       "source": "El Debate",
       "url": "https://www.eldebate.com/espana/20261031/frente-amplio-exige-dimision-puente-primer-paso-imprescindible_475959.html"
-    },
-    {
-      "id": "vox-20261031-2",
-      "party": "vox",
-      "date": "2026-10-31",
-      "topic": "Actos de campaña",
-      "title": "Centenares de jóvenes protestan en A Coruña contra una visita de Buxadé, sin incidentes",
-      "summary": "La protesta, convocada por la Coordinadora da Mocidade Socialista, Erguer y el Sindicato de Inquilinas, terminó hacia las 19:00 con un amplio cordón de la Policía Nacional.",
-      "source": "Infobae (Europa Press)",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/31/centenares-de-jovenes-participan-en-una-nueva-protesta-contra-un-acto-de-vox-en-a-coruna-que-finaliza-sin-incidentes/"
     },
     {
       "id": "all-20261101-1",
@@ -711,16 +591,6 @@
       "summary": "Según El Español, el partido canceló un mitin en Vitoria, aplazó la grabación de un programa de Salvados y reorienta la campaña hacia la gestión. La Cumbre se celebra el 4 y 5 de noviembre.",
       "source": "El Español",
       "url": "https://www.elespanol.com/espana/politica/20261101/tragedia-cambia-campana-sanchez-busca-zafarse-ave-feijoo-adopta-tono-presidencial-abascal-radicaliza-discurso/1003744442048_0.html"
-    },
-    {
-      "id": "vox-20261101-1",
-      "party": "vox",
-      "date": "2026-11-01",
-      "topic": "Urda",
-      "title": "Abascal anuncia que Vox se personará como acusación popular en la causa de Urda",
-      "summary": "En una entrevista en El Mundo recogida por Europa Press, dijo que el objetivo es que se «conozca toda la verdad». El accidente suma 69 fallecidos, según el medio.",
-      "source": "Infobae (Europa Press)",
-      "url": "https://www.infobae.com/america/agencias/2026/11/01/abascal-anuncia-que-vox-se-personara-como-acusacion-popular-en-el-accidente-de-urda/"
     },
     {
       "id": "vox-20261101-2",
@@ -1343,6 +1213,36 @@
       "url": "https://www.infobae.com/espana/agencias/2026/11/07/abascal-apela-a-la-movilizacion-masiva-ofrece-un-cambio-profundo-y-tranquilo-y-pide-a-los-suyos-no-confiarse/"
     },
     {
+      "id": "erc-20261108-1",
+      "party": "erc",
+      "date": "2026-11-08",
+      "topic": "Candidatura",
+      "title": "Junqueras defiende la candidatura de ERC como coalición con la ciudadanía y se distancia de otras fuerzas de izquierdas",
+      "summary": "Según Nueva Tribuna, lo dijo durante la jornada del 8 de noviembre.",
+      "source": "Nueva Tribuna",
+      "url": "https://www.nuevatribuna.es/actualidad/diez-pildoras-dia-campana-electoral/20261108212734256177.html"
+    },
+    {
+      "id": "pnv-20261108-1",
+      "party": "pnv",
+      "date": "2026-11-08",
+      "topic": "Pactos",
+      "title": "Esteban: el PNV no facilitará un Gobierno del PP con Vox ni dará un cheque en blanco a otros",
+      "summary": "Declaración del presidente del PNV recogida por Nueva Tribuna en su resumen de la jornada del 8 de noviembre.",
+      "source": "Nueva Tribuna",
+      "url": "https://www.nuevatribuna.es/actualidad/diez-pildoras-dia-campana-electoral/20261108212734256177.html"
+    },
+    {
+      "id": "podemos-20261108-1",
+      "party": "podemos",
+      "date": "2026-11-08",
+      "topic": "Huelga general",
+      "title": "Irene Montero pide convertir la huelga general del 11 de noviembre en una gran movilización",
+      "summary": "Según Nueva Tribuna, la convocatoria se dirige contra las políticas del Gobierno y la violencia policial, en palabras de Montero.",
+      "source": "Nueva Tribuna",
+      "url": "https://www.nuevatribuna.es/actualidad/diez-pildoras-dia-campana-electoral/20261108212734256177.html"
+    },
+    {
       "id": "pp-20261108-1",
       "party": "pp",
       "date": "2026-11-08",
@@ -1351,6 +1251,96 @@
       "summary": "Según El Español, el programa rechaza unificar PAC y cohesión en un plan nacional único y los quiere «sin recortes para España». No concreta cifras. Se presenta el martes en Madrid.",
       "source": "El Español",
       "url": "https://www.elespanol.com/espana/politica/20261108/feijoo-promete-agricultores-ganaderos-no-sufriran-recortes-proximo-presupuesto-ue-pese-fin-nextgen/1003744449647_0.html"
+    },
+    {
+      "id": "pp-20261108-2",
+      "party": "pp",
+      "date": "2026-11-08",
+      "topic": "Campaña",
+      "title": "Tellado: las elecciones tratan de que «España le gane a Sánchez»",
+      "summary": "El secretario general del PP dijo, según Nueva Tribuna, que no se trata de que el PP gane al PSOE.",
+      "source": "Nueva Tribuna",
+      "url": "https://www.nuevatribuna.es/actualidad/diez-pildoras-dia-campana-electoral/20261108212734256177.html"
+    },
+    {
+      "id": "psoe-20261108-1",
+      "party": "psoe",
+      "date": "2026-11-08",
+      "topic": "SMI y pensiones",
+      "title": "Sánchez se compromete a subir el SMI cada año y a incluir en la Constitución la revalorización de las pensiones",
+      "summary": "Según el resumen de campaña de Nueva Tribuna, el candidato del PSOE pidió además votar «en masa» el 29 de noviembre.",
+      "source": "Nueva Tribuna",
+      "url": "https://www.nuevatribuna.es/actualidad/diez-pildoras-dia-campana-electoral/20261108212734256177.html"
+    },
+    {
+      "id": "psoe-20261108-2",
+      "party": "psoe",
+      "date": "2026-11-08",
+      "topic": "Voto útil",
+      "title": "Bolaños pide concentrar en el PSOE el voto moderado y progresista para evitar un Gobierno de PP y Vox",
+      "summary": "Declaración recogida por Nueva Tribuna en su resumen de la jornada del 8 de noviembre.",
+      "source": "Nueva Tribuna",
+      "url": "https://www.nuevatribuna.es/actualidad/diez-pildoras-dia-campana-electoral/20261108212734256177.html"
+    },
+    {
+      "id": "sumar-20261108-1",
+      "party": "sumar",
+      "date": "2026-11-08",
+      "topic": "Campaña",
+      "title": "Colau presenta el Frente Amplio en Palma como voto útil de los trabajadores y fija el 10 % como objetivo",
+      "summary": "Según Nueva Tribuna, Emilio Delgado pidió en Madrid una «motosierra para los de arriba» y no contra los sectores más vulnerables.",
+      "source": "Nueva Tribuna",
+      "url": "https://www.nuevatribuna.es/actualidad/diez-pildoras-dia-campana-electoral/20261108212734256177.html"
+    },
+    {
+      "id": "vox-20261108-1",
+      "party": "vox",
+      "date": "2026-11-08",
+      "topic": "Lema de campaña",
+      "title": "Vox presenta su lema para el 29-N: «Es sentido común»",
+      "summary": "Dato recogido por Nueva Tribuna en su resumen de la jornada del 8 de noviembre.",
+      "source": "Nueva Tribuna",
+      "url": "https://www.nuevatribuna.es/actualidad/diez-pildoras-dia-campana-electoral/20261108212734256177.html"
+    },
+    {
+      "id": "all-20261109-1",
+      "party": "all",
+      "date": "2026-11-09",
+      "topic": "Encuestas",
+      "title": "Sociométrica estima 108 escaños para el PSOE tras la dimisión de Puente (avance del 8-N)",
+      "summary": "Según un avance de Sociométrica para El Español, el PSOE tendría 108 escaños (+2 respecto al 1-N) y PP, Vox y UPN-PP sumarían 202 (-1). Es una estimación; el artículo señala que no permite aislar el efecto de la dimisión.",
+      "source": "Demócrata",
+      "url": "https://www.democrata.es/encuestas/elecciones-generales/sociometrica-8-noviembre-2026-psoe-recupera-pp-vox-mayoria/"
+    },
+    {
+      "id": "all-20261109-2",
+      "party": "all",
+      "date": "2026-11-09",
+      "topic": "Entrevistas TV",
+      "title": "Sánchez, Feijóo y Abascal tienen entrevistas televisivas este lunes 9 de noviembre",
+      "summary": "Según la agenda de Europa Press publicada por Infobae, Sánchez estará en La Séptima, Feijóo en Cuatro y 101TV Andalucía y Abascal en La Revuelta de TVE.",
+      "source": "Infobae (agencias)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/08/hoy-sera-noticia-lunes-9-de-noviembre/"
+    },
+    {
+      "id": "all-20261109-3",
+      "party": "all",
+      "date": "2026-11-09",
+      "topic": "Voto por correo",
+      "title": "La Oficina del Censo Electoral empieza el 9-N a enviar la documentación del voto por correo",
+      "summary": "Según Que.es, el envío se hace por correo certificado desde el 9 de noviembre; quien lo solicita ya no puede votar en persona el 29-N y debe identificarse en Correos al depositar el voto.",
+      "source": "Que.es",
+      "url": "https://www.que.es/2026/11/07/voto-correo-29n-fechas-tramites/"
+    },
+    {
+      "id": "vox-20261109-1",
+      "party": "vox",
+      "date": "2026-11-09",
+      "topic": "Entrevista",
+      "title": "Buxadé: Vox recortará subvenciones a partidos, sindicatos, patronales y ONG, no las pensiones",
+      "summary": "En una entrevista en El Debate, el eurodiputado dijo que el objetivo es «el sorpasso a todos» y que Vox pidió a la JEC publicar el voto por correo en tiempo real.",
+      "source": "El Debate",
+      "url": "https://www.eldebate.com/espana/20261109/jorge-buxade-ante-29n-delincuente-unico-corre-peligro-vox_477864.html"
     }
   ],
   "positions": {},
