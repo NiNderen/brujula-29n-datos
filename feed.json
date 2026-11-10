@@ -1,17 +1,7 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
   "news": [
-    {
-      "id": "bildu-20261019-1",
-      "party": "bildu",
-      "date": "2026-10-19",
-      "topic": "Candidatura",
-      "title": "EH Bildu presenta su candidatura al 29N con Matute al Congreso e Idurre Bideguren al Senado",
-      "summary": "Según Moncloa.com, las bases ratificaron las listas con un respaldo medio del 97 %. Otegi dijo que EH Bildu es la izquierda a la izquierda del PSOE en Euskal Herria y que sus escaños podrían frenar a un gobierno autoritario.",
-      "source": "Moncloa.com",
-      "url": "https://moncloa.com/2026/10/19/eh-bildu-elecciones-generales-29n-2-3451602"
-    },
     {
       "id": "bng-20261021-1",
       "party": "bng",
@@ -63,26 +53,6 @@
       "url": "https://www.infobae.com/espana/agencias/2026/10/22/dimite-el-coordinador-de-podemos-aragon-por-discrepancias-con-la-direccion-estatal/"
     },
     {
-      "id": "all-20261023-1",
-      "party": "all",
-      "date": "2026-10-23",
-      "topic": "Voto exterior",
-      "title": "El Supremo da cinco días para entregar la lista de 163.020 nacionalizados sin voto cautelar",
-      "summary": "Según El Español, el tribunal requiere la lista a Exteriores, Presidencia/Justicia, la JEC y la Oficina del Censo Electoral; Exteriores ordenó a los consulados trabajar el fin de semana.",
-      "source": "El Español",
-      "url": "https://www.elespanol.com/espana/20261023/elecciones-generales-directo-ultima-hora-adelanto-electoral-espana-pedro-sanchez-actos-psoe-pp-vox-encuestas-voto-correo-sondeos-2026-partidos-por/1003744431749_10.html"
-    },
-    {
-      "id": "all-20261024-1",
-      "party": "all",
-      "date": "2026-10-23",
-      "topic": "Encuesta IMOP",
-      "title": "IMOP para El Confidencial estima 123 escaños para el PP, 113 para el PSOE y 72 para Vox",
-      "summary": "Estimación publicada el 23 de octubre: PP 28,5 %, PSOE 27,1 %, Vox 20 %, Frente Amplio 8,9 % (14 escaños) y Podemos 1,9 % (1). Son estimaciones; la fuente no indica fechas de campo.",
-      "source": "Electomanía",
-      "url": "https://electomania.es/encuesta-imop-23-oct-psoe-y-fa-recortan-12-escanos-a-pp-y-vox/"
-    },
-    {
       "id": "bng-20261023-1",
       "party": "bng",
       "date": "2026-10-23",
@@ -123,16 +93,6 @@
       "url": "https://www.naiz.eus/en/info/noticia/20261023/upn-elige-a-leticia-san-martin-y-javier-esparza-como-cabezas-de-lista-al-congreso-y-al-senado"
     },
     {
-      "id": "all-20261024-2",
-      "party": "all",
-      "date": "2026-10-24",
-      "topic": "Debates",
-      "title": "Abascal, Feijóo, Colau y Sánchez grabarán entrevistas en el pódcast The Wild Project, que se publicarán el 13 de noviembre",
-      "summary": "El cara a cara Sánchez-Feijóo está fijado para el 16 de noviembre, probablemente en Mediaset; el debate a cuatro sigue sin sede.",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/espana/2026/10/24/elecciones-generales-en-espana-29-n-en-directo-ultima-hora-de-las-candidaturas-los-sondeos-y-actos-de-sanchez-y-feijoo/"
-    },
-    {
       "id": "bng-20261024-1",
       "party": "bng",
       "date": "2026-10-24",
@@ -141,16 +101,6 @@
       "summary": "Ana Pontón anunció tras el Consello Nacional las cabezas por A Coruña (Ismael Rego), Pontevedra (Carme da Silva), Lugo (Olalla Rodil) y Ourense (Noa Presas).",
       "source": "Infobae (Europa Press)",
       "url": "https://www.infobae.com/espana/agencias/2026/10/24/ismael-rego-da-silva-rodil-y-presas-cabezas-de-lista-del-bng-en-las-elecciones-del-29n/"
-    },
-    {
-      "id": "erc-20261024-1",
-      "party": "erc",
-      "date": "2026-10-24",
-      "topic": "Mitin con Podemos",
-      "title": "Rufián y Montero hacen su primer acto conjunto en Barcelona ante unas 2.000 personas",
-      "summary": "Rufián afirmó que «estas elecciones van de ERC o PSC» y criticó a Junts por votar contra los decretos de vivienda. Junts replicó que es el «único partido de obediencia catalana».",
-      "source": "Infobae (EFE)",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/24/rufian-afea-a-junts-llamarles-vendidos-y-avisa-estas-elecciones-van-de-erc-o-psc/"
     },
     {
       "id": "podemos-20261024-1",
@@ -171,26 +121,6 @@
       "summary": "En una manifestación por las pensiones en Madrid, Colau afirmó que el voto ronda el 9 % y rechazó la propuesta de Feijóo de suprimir el Ministerio de Igualdad. Evitó criticar a Podemos y ERC.",
       "source": "Infobae (EFE)",
       "url": "https://www.infobae.com/espana/agencias/2026/10/24/frente-amplio-afirma-que-su-unico-rival-es-la-extrema-derecha-bajo-las-siglas-pp-y-vox/"
-    },
-    {
-      "id": "erc-20261025-1",
-      "party": "erc",
-      "date": "2026-10-25",
-      "topic": "Rufián y la Generalitat",
-      "title": "Rufián dice que le gustaría presidir la Generalitat después de Junqueras",
-      "summary": "Según Infobae, Rufián, cabeza de lista de ERC al Congreso, lo manifestó el 25 de octubre en plena campaña del 29N.",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/espana/2026/10/25/elecciones-generales-29-n-en-directo-feijoo-reune-a-sus-cabezas-de-lista-en-salamanca-y-ada-colau-interviene-en-mostoles/"
-    },
-    {
-      "id": "junts-20261025-1",
-      "party": "junts",
-      "date": "2026-10-25",
-      "topic": "Regreso de Comín",
-      "title": "Toni Comín cruza a pie la frontera en Cerbère y regresa a Cataluña tras nueve años en Bélgica",
-      "summary": "Comín dijo: «Esta batalla la hemos ganado». Lo acompañaron su hija y un centenar de personas; según elDiario.es, el Supremo levantó las órdenes de detención en aplicación de la amnistía y el regreso de Puigdemont se perfila para después del 29N.",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/toni-comin-exconseller-junts-cruza-frontera-pie-regreso-bruselas_1_13613715.amp.html"
     },
     {
       "id": "podemos-20261025-1",
@@ -493,16 +423,6 @@
       "url": "https://cronicavasca.elespanol.com/politica/20261030/esteban-empresarios-pnv-madrid-mantener-concierto-industria/1003742807837_0.html"
     },
     {
-      "id": "psoe-20261030-2",
-      "party": "psoe",
-      "date": "2026-10-30",
-      "topic": "Urda",
-      "title": "Puente dice que «lo fácil es salir» y que Sánchez le pidió no dimitir",
-      "summary": "Según elDiario.es, en rueda de prensa dijo que su deber es explicar lo ocurrido; Sánchez habló de «confianza quebrada» en la alta velocidad. Moncloa, según el medio, ve que dimitir a un mes del 29N reforzaría la tesis de responsabilidad directa del Gobierno.",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/puente-puso-cargo-disposicion-presidente-accidente-urda-sanchez-le-pidio-no-dimitiera_1_13627494.html"
-    },
-    {
       "id": "sumar-20261030-1",
       "party": "sumar",
       "date": "2026-10-30",
@@ -573,16 +493,6 @@
       "url": "https://www.moncloa.com/2026/11/01/nogueras-dimision-puente-urda-3459643"
     },
     {
-      "id": "pp-20261101-2",
-      "party": "pp",
-      "date": "2026-11-01",
-      "topic": "Campaña",
-      "title": "Feijóo convoca al Comité Ejecutivo del PP para explicar el giro de la campaña",
-      "summary": "Según fuentes del PP citadas por The Objective, la reunión del lunes 2 de noviembre sigue a tres días de luto por Urda y centrará el mensaje en la gestión y la seguridad ferroviaria.",
-      "source": "The Objective",
-      "url": "https://theobjective.com/espana/politica/2026-11-01/feijoo-pp-campana/"
-    },
-    {
       "id": "psoe-20261101-1",
       "party": "psoe",
       "date": "2026-11-01",
@@ -591,16 +501,6 @@
       "summary": "Según El Español, el partido canceló un mitin en Vitoria, aplazó la grabación de un programa de Salvados y reorienta la campaña hacia la gestión. La Cumbre se celebra el 4 y 5 de noviembre.",
       "source": "El Español",
       "url": "https://www.elespanol.com/espana/politica/20261101/tragedia-cambia-campana-sanchez-busca-zafarse-ave-feijoo-adopta-tono-presidencial-abascal-radicaliza-discurso/1003744442048_0.html"
-    },
-    {
-      "id": "vox-20261101-2",
-      "party": "vox",
-      "date": "2026-11-01",
-      "topic": "Sondeo interno",
-      "title": "Un sondeo interno de Vox le da 67-71 escaños, según The Objective",
-      "summary": "El documento, de 1.500 entrevistas telefónicas hecho antes de Urda, estima PSOE 117-121 y PP 114-118. Es un sondeo del partido, no un estudio público.",
-      "source": "The Objective",
-      "url": "https://theobjective.com/espana/2026-11-01/sondeo-vox-71-escanos"
     },
     {
       "id": "vox-20261101-3",
@@ -651,16 +551,6 @@
       "summary": "El portavoz del PNV dijo en Telecinco que el sistema de transporte «ha quedado en entredicho» y que llevará la petición a la Diputación Permanente del 3 de noviembre. Reiteró que rechaza un pacto con Vox.",
       "source": "Moncloa.com",
       "url": "https://www.moncloa.com/2026/11/02/aitor-esteban-pnv-presion-sanchez-puente-3460350"
-    },
-    {
-      "id": "pp-20261102-1",
-      "party": "pp",
-      "date": "2026-11-02",
-      "topic": "Campaña",
-      "title": "Feijóo presenta en el Comité Ejecutivo el lema «Una España que funcione»",
-      "summary": "En la reunión del 2 de noviembre defendió su experiencia de 13 años al frente de la Xunta y ofreció «gestión, rigor y experiencia». Acusó al Gobierno de actitud «infame, cruel y ruin» ante el accidente de Urda.",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/11/02/feijoo-modelo-xunta-urda-sanchez-3460327"
     },
     {
       "id": "psoe-20261102-1",
@@ -1233,6 +1123,16 @@
       "url": "https://www.nuevatribuna.es/actualidad/diez-pildoras-dia-campana-electoral/20261108212734256177.html"
     },
     {
+      "id": "pnv-20261110-1",
+      "party": "pnv",
+      "date": "2026-11-08",
+      "topic": "Campaña",
+      "title": "Esteban rechaza que el 29N sea elegir «entre Sánchez y Feijóo» y critica a EH Bildu",
+      "summary": "El 8 de noviembre dijo que el PNV es el único partido que defiende los intereses vascos en Madrid y acusó a EH Bildu de pedirle «todo» al PNV y perdonárselo «todo» al PSOE. El artículo no recoge respuesta de Bildu.",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/euskadi/esteban-rechaza-29n-elegir-sanchez-feijoo-carga-eh-bildu-perdonar-psoe_1_13648095.html"
+    },
+    {
       "id": "podemos-20261108-1",
       "party": "podemos",
       "date": "2026-11-08",
@@ -1333,6 +1233,76 @@
       "url": "https://www.que.es/2026/11/07/voto-correo-29n-fechas-tramites/"
     },
     {
+      "id": "all-20261110-1",
+      "party": "all",
+      "date": "2026-11-09",
+      "topic": "Encuestas",
+      "title": "40dB, GAD3 y NC Report, tras Urda: PP primero y PP+Vox por encima de 176 escaños",
+      "summary": "Estimaciones con campo del 2 al 5 de noviembre: PP 129-138 escaños, PSOE 99-119 y Vox 61-69. 40dB (El País/SER): PP 31,9 %, PSOE 29,9 %; GAD3 (ABC): PP 136, PSOE 103; NC Report (La Razón): PP 136-138, PSOE 99-101.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/2026/11/09/el-psoe-se-quedaria-cerca-de-ganar-las-elecciones-al-recortarle-2-puntos-la-ventaja-al-pp-segun-las-encuestas-posteriores-al-accidente-ferroviario-de-urda/"
+    },
+    {
+      "id": "all-20261110-2",
+      "party": "all",
+      "date": "2026-11-09",
+      "topic": "Huelga general",
+      "title": "40dB: 46,3 % apoya la huelga del 11-N y 48,8 % la rechaza",
+      "summary": "Encuesta de El País y SER recogida por Moncloa.com: el 53 % rechaza las acampadas vinculadas a la protesta y casi un tercio duda de que las elecciones del 29N sean limpias.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/11/09/huelga-general-vivienda-40db-3464564"
+    },
+    {
+      "id": "all-20261110-3",
+      "party": "all",
+      "date": "2026-11-09",
+      "topic": "Calendario",
+      "title": "La campaña oficial arranca a las 00:00 del 13 de noviembre",
+      "summary": "Según EFE, el PSOE abre el jueves 12 en Sevilla y Junts el mismo día en Barcelona; el voto es el 29 de noviembre.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/09/pedro-sanchez-abre-campana-de-las-elecciones-generales-del-29n-este-jueves-en-sevilla/"
+    },
+    {
+      "id": "erc-20261110-1",
+      "party": "erc",
+      "date": "2026-11-09",
+      "topic": "Campaña",
+      "title": "Junqueras sitúa el 29N como inicio de su carrera hacia la presidencia de la Generalitat",
+      "summary": "El 9 de noviembre pidió confiar en Rufián como «la única defensa realmente efectiva del país», calificó de «fracaso» al Govern de Illa y acusó a Junts de «falta de responsabilidad».",
+      "source": "El Debate",
+      "url": "https://www.eldebate.com/espana/cataluna/20261109/junqueras-apunta-29n-como-inicio-carrera-hacia-presidencia-generalitat_478918.html"
+    },
+    {
+      "id": "erc-20261110-2",
+      "party": "erc",
+      "date": "2026-11-09",
+      "topic": "Debates",
+      "title": "Rufián no acude al debate de PIMEC; la organización cita «cansancio» y él alega agenda",
+      "summary": "Según PIMEC, Rufián dijo estar «exhausto»; él lo niega y dice que ofreció a otro candidato de la lista. Asistieron PP, Junts, PSC, Front Ampli y Vox.",
+      "source": "El Nacional",
+      "url": "https://elnacional.cat/es/politica/rufian-se-ausenta-segundo-debate-electoral-por-estar-exhausto_1722800_102.html"
+    },
+    {
+      "id": "junts-20261110-1",
+      "party": "junts",
+      "date": "2026-11-09",
+      "topic": "Campaña",
+      "title": "Junts presenta el lema «Cataluña en el centro»; Puigdemont intervendrá por videoconferencia",
+      "summary": "Según EFE, Nogueras abrirá la campaña el 12 de noviembre en Barcelona y celebrará el mitin central el 22 en Castelldefels. Puigdemont descarta volver a Cataluña durante la campaña.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/09/puigdemont-intervendra-telematicamente-en-una-campana-de-junts-con-cataluna-en-el-centro/"
+    },
+    {
+      "id": "psoe-20261110-1",
+      "party": "psoe",
+      "date": "2026-11-09",
+      "topic": "Campaña",
+      "title": "Sánchez abrirá la campaña el jueves 12 a las 19:00 en Fibes (Sevilla)",
+      "summary": "Según EFE, con Montero y los candidatos de las ocho provincias andaluzas; el PSOE-A calcula entre 3.300 y 3.500 asistentes. La campaña empieza oficialmente a las 00:00 del 13 de noviembre.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/09/pedro-sanchez-abre-campana-de-las-elecciones-generales-del-29n-este-jueves-en-sevilla/"
+    },
+    {
       "id": "vox-20261109-1",
       "party": "vox",
       "date": "2026-11-09",
@@ -1341,6 +1311,36 @@
       "summary": "En una entrevista en El Debate, el eurodiputado dijo que el objetivo es «el sorpasso a todos» y que Vox pidió a la JEC publicar el voto por correo en tiempo real.",
       "source": "El Debate",
       "url": "https://www.eldebate.com/espana/20261109/jorge-buxade-ante-29n-delincuente-unico-corre-peligro-vox_477864.html"
+    },
+    {
+      "id": "vox-20261110-1",
+      "party": "vox",
+      "date": "2026-11-09",
+      "topic": "Entrevista y propuestas",
+      "title": "Abascal, en La Revuelta: eliminar IVA, ITP y AJD en la primera vivienda y priorizar la repatriación",
+      "summary": "En la entrevista del 9 de noviembre dijo que quitar esos impuestos abarataría la compra «al menos un 30 %» (estimación suya), que la ley de violencia de género «tiene que ser revisada» y que expulsaría a extranjeros que cometan delitos.",
+      "source": "El Constitucional",
+      "url": "https://www.elconstitucional.es/es/nacional/ultra-abascal-expone-su-agenda-29-n-broncano-revisar-ley-violencia-genero-culpar-inmigracion-crisis-vivienda_9949_102.html"
+    },
+    {
+      "id": "pp-20261110-1",
+      "party": "pp",
+      "date": "2026-11-10",
+      "topic": "Programa electoral",
+      "title": "El PP presenta este martes su programa de 249 medidas con Feijóo y Alma Ezcurra",
+      "summary": "Según El Español, incluye duplicar el mínimo personal del IRPF, un millón de viviendas en la legislatura, Presupuestos de 2027 en el primer trimestre y 650 millones para Ceuta y Melilla. La presentación era a las 12:00 en Madrid.",
+      "source": "El Español",
+      "url": "https://www.elespanol.com/espana/politica/20261109/programa-reconstruccion-pp-medidas-devolver-confianza-poder-adquisitivo-espana/1003744451589_0.html"
+    },
+    {
+      "id": "pp-20261110-2",
+      "party": "pp",
+      "date": "2026-11-10",
+      "topic": "Seguridad y menores",
+      "title": "El programa del PP prevé más internamiento para menores en delitos graves y castigar su captación",
+      "summary": "Según El Español, reformaría la Ley del Menor para delitos con violencia, armas o bandas, tipificaría como delito captar menores para delinquir y ayudaría a los ayuntamientos con videovigilancia.",
+      "source": "El Español",
+      "url": "https://www.elespanol.com/espana/politica/20261110/programa-pp-endurece-internamiento-menores-delitos-graves-violencia-armas-cometidos-bandas/1003744449640_0.html"
     }
   ],
   "positions": {},
