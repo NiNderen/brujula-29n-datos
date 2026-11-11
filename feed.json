@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
   "news": [
     {
@@ -73,16 +73,6 @@
       "url": "https://www.moncloa.com/2026/10/23/comparecencia-sanchez-congreso-podemos-erc-3454072"
     },
     {
-      "id": "sumar-20261023-1",
-      "party": "sumar",
-      "date": "2026-10-23",
-      "topic": "Unidad de la izquierda",
-      "title": "Colau pide a Montero que elija entre «Juego de tronos» o «Friends»",
-      "summary": "En una entrevista, la candidata del Frente Amplio dijo que su espacio «no ha fallado» en la búsqueda de unidad y que «algunos han querido ir solos». Tras no cerrarse el acuerdo con Podemos, el Frente Amplio concurre con otras 15 formaciones.",
-      "source": "Público",
-      "url": "https://www.publico.es/politica/partidos/colau-pide-montero-elija-dos-formas-entender-poder-juego-tronos-friends.html"
-    },
-    {
       "id": "upn-20261023-1",
       "party": "upn",
       "date": "2026-10-23",
@@ -113,16 +103,6 @@
       "url": "https://www.infobae.com/espana/agencias/2026/10/24/rufian-afea-a-junts-llamarles-vendidos-y-avisa-estas-elecciones-van-de-erc-o-psc/"
     },
     {
-      "id": "sumar-20261024-1",
-      "party": "sumar",
-      "date": "2026-10-24",
-      "topic": "Campaña",
-      "title": "Colau dice que el Frente Amplio aspira a superar el 10 % y señala a PP y Vox como rivales",
-      "summary": "En una manifestación por las pensiones en Madrid, Colau afirmó que el voto ronda el 9 % y rechazó la propuesta de Feijóo de suprimir el Ministerio de Igualdad. Evitó criticar a Podemos y ERC.",
-      "source": "Infobae (EFE)",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/24/frente-amplio-afirma-que-su-unico-rival-es-la-extrema-derecha-bajo-las-siglas-pp-y-vox/"
-    },
-    {
       "id": "podemos-20261025-1",
       "party": "podemos",
       "date": "2026-10-25",
@@ -151,26 +131,6 @@
       "summary": "Según Infobae, se conocerán esta semana los pactos para el Senado entre PSOE y Frente Amplio y entre PP y Vox; la proclamación definitiva es el 28 de octubre, según elDiario.es.",
       "source": "Infobae",
       "url": "https://www.infobae.com/espana/agencias/2026/10/25/hoy-sera-noticia-lunes-26-de-octubre"
-    },
-    {
-      "id": "erc-20261026-1",
-      "party": "erc",
-      "date": "2026-10-26",
-      "topic": "Alianza con Podemos",
-      "title": "ERC califica de «éxito rotundo» el acto de Rufián y Montero y dice que no afecta a su proyecto independentista",
-      "summary": "El portavoz Isaac Albert afirmó que el acto mostró que «el muro de contención» frente a la derecha extrema es ERC. Aseguró que el acuerdo con Podemos no desdibuja la independencia del proyecto del partido.",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/26/erc-ve-un-exito-rotundo-el-acto-de-rufian-y-montero-somos-el-muro-contra-la-derecha/"
-    },
-    {
-      "id": "junts-20261026-1",
-      "party": "junts",
-      "date": "2026-10-26",
-      "topic": "Disturbios Barcelona",
-      "title": "Nogueras da 48 horas al Govern para explicar qué sabía de los disturbios y pide ceses si no actuó",
-      "summary": "Míriam Nogueras dijo que exigirá responsabilidades si se demuestra que el Govern tenía información y no actuó. Según el artículo, hubo 128 detenidos, 72 de ellos menores, y 23 comercios dañados.",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/26/junts-pedira-ceses-al-govern-si-se-muestra-incapaz-de-evitar-los-disturbios-callejeros/"
     },
     {
       "id": "podemos-20261026-1",
@@ -493,26 +453,6 @@
       "url": "https://www.moncloa.com/2026/11/01/nogueras-dimision-puente-urda-3459643"
     },
     {
-      "id": "psoe-20261101-1",
-      "party": "psoe",
-      "date": "2026-11-01",
-      "topic": "Campaña",
-      "title": "El PSOE no tiene actos de Sánchez previstos la próxima semana por la Cumbre Iberoamericana",
-      "summary": "Según El Español, el partido canceló un mitin en Vitoria, aplazó la grabación de un programa de Salvados y reorienta la campaña hacia la gestión. La Cumbre se celebra el 4 y 5 de noviembre.",
-      "source": "El Español",
-      "url": "https://www.elespanol.com/espana/politica/20261101/tragedia-cambia-campana-sanchez-busca-zafarse-ave-feijoo-adopta-tono-presidencial-abascal-radicaliza-discurso/1003744442048_0.html"
-    },
-    {
-      "id": "vox-20261101-3",
-      "party": "vox",
-      "date": "2026-11-01",
-      "topic": "Entrevista",
-      "title": "Abascal rechaza hablar de reparto de ministerios antes de las urnas",
-      "summary": "En El Mundo (vía EFE) dijo que «el crecimiento de Vox es lo que asegura la alternativa» y negó que las pensiones dejen de pagarse si llega Vox.",
-      "source": "Infobae (EFE)",
-      "url": "https://www.infobae.com/espana/agencias/2026/11/01/abascal-el-crecimiento-de-vox-es-lo-que-asegura-la-alternativa/"
-    },
-    {
       "id": "all-20261102-3",
       "party": "all",
       "date": "2026-11-02",
@@ -553,16 +493,6 @@
       "url": "https://www.moncloa.com/2026/11/02/aitor-esteban-pnv-presion-sanchez-puente-3460350"
     },
     {
-      "id": "psoe-20261102-1",
-      "party": "psoe",
-      "date": "2026-11-02",
-      "topic": "Campaña",
-      "title": "Vozpópuli: Sánchez mantiene a Puente pero lo aparta de los actos de campaña",
-      "summary": "Según el medio, que no identifica sus fuentes, Puente seguirá como cabeza de lista por Valladolid y comparece el 3 de noviembre en la Diputación Permanente.",
-      "source": "Vozpópuli",
-      "url": "https://www.vozpopuli.com/espana/politica/sanchez-prescinde-de-puente-en-campana-y-lo-relega-a-un-papel-secundario-como-asesor-electoral.html"
-    },
-    {
       "id": "psoe-20261102-2",
       "party": "psoe",
       "date": "2026-11-02",
@@ -571,16 +501,6 @@
       "summary": "Según el relato recogido por Clarín, respondió sin nombrarlo a Milei y habló de una «internacional ultraderechista» financiada por dirigentes extranjeros. Milei llega a Madrid el 3 de noviembre para la Cumbre Iberoamericana.",
       "source": "Moncloa.com",
       "url": "https://www.moncloa.com/2026/11/02/cumbre-iberoamericana-milei-sanchez-3460319/"
-    },
-    {
-      "id": "vox-20261102-1",
-      "party": "vox",
-      "date": "2026-11-02",
-      "topic": "Agenda",
-      "title": "Abascal recibe en Madrid al presidente de Chile, José Antonio Kast",
-      "summary": "Es su primer encuentro desde que Kast gobierna. Abascal escribió en X que son «amigos y aliados desde hace años». El artículo no recoge reacciones del Gobierno ni del PP.",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/11/02/abascal-kast-presidente-chile-3460396"
     },
     {
       "id": "all-20261103-1",
@@ -691,26 +611,6 @@
       "summary": "En A Coruña, la cabeza de lista de Podemos dijo que la liberalización es «el principal error humano» y que cualquier anuncio de Puente sería «un parche».",
       "source": "Infobae (EFE)",
       "url": "https://www.infobae.com/espana/agencias/2026/11/03/montero-ve-consenso-social-para-la-dimision-de-puente-y-pide-renacionalizar-el-tren/"
-    },
-    {
-      "id": "pp-20261103-2",
-      "party": "pp",
-      "date": "2026-11-03",
-      "topic": "Voto por correo",
-      "title": "El PP pide a la JEC acceso a los datos diarios de Correos sobre voto por correo",
-      "summary": "El PP solicita que todos los partidos reciban la misma información que Correos facilita al Ministerio del Interior sobre solicitudes y envíos de voto por correo. No consta respuesta de Correos ni del Gobierno en la fuente.",
-      "source": "Infobae (EFE)",
-      "url": "https://infobae.com/espana/agencias/2026/11/03/el-pp-pide-a-la-junta-electoral-acceder-a-la-informacion-de-correos-del-voto-por-correo"
-    },
-    {
-      "id": "pp-20261103-3",
-      "party": "pp",
-      "date": "2026-11-03",
-      "topic": "Cataluña",
-      "title": "El PP presenta en Sabadell la candidatura de Albiol por Barcelona",
-      "summary": "Albiol dijo que busca que el PP sea segunda fuerza en Cataluña. Alejandro Fernández dijo que las necesidades de Cataluña no se renegociarán con «fugados, golpistas o residentes en Waterloo».",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/11/04/pp-tandem-sanchez-colau-confluentes-sumar-3461364/"
     },
     {
       "id": "psoe-20261103-1",
@@ -1113,6 +1013,16 @@
       "url": "https://www.nuevatribuna.es/actualidad/diez-pildoras-dia-campana-electoral/20261108212734256177.html"
     },
     {
+      "id": "erc-20261108-2",
+      "party": "erc",
+      "date": "2026-11-08",
+      "topic": "Acto de precampaña",
+      "title": "Rufián y Junqueras comparten escenario en Badalona en el primer acto de precampaña de ERC",
+      "summary": "Según Ara, asistieron unas 2.000 personas según el partido. Junqueras dijo que «no se puede confiar en la gente de Junts» y Rufián que «el PSC no se merece vuestro voto». Albert pidió secundar la huelga del 11-N.",
+      "source": "Ara",
+      "url": "https://es.ara.cat/politica/elecciones-generales/rufian-junqueras-suben-escenario-arrancar-carrera-29-n_1_5904105.html"
+    },
+    {
       "id": "pnv-20261108-1",
       "party": "pnv",
       "date": "2026-11-08",
@@ -1193,6 +1103,16 @@
       "url": "https://www.nuevatribuna.es/actualidad/diez-pildoras-dia-campana-electoral/20261108212734256177.html"
     },
     {
+      "id": "sumar-20261108-2",
+      "party": "sumar",
+      "date": "2026-11-08",
+      "topic": "Fiscalidad",
+      "title": "Colau propone subir los impuestos al 1 % más rico; Delgado cifra la recaudación en 11.000 millones",
+      "summary": "Según Moncloa.com, en La Sagrera (Barcelona) Delgado propuso gravar la cuarta vivienda en adelante y Colau expropiar a los fondos buitre. Las cifras de milmillonarios y viviendas son de la propia candidatura.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/11/08/colau-frente-amplio-cataluna-fiscal-3463941/"
+    },
+    {
       "id": "vox-20261108-1",
       "party": "vox",
       "date": "2026-11-08",
@@ -1263,6 +1183,26 @@
       "url": "https://www.infobae.com/espana/agencias/2026/11/09/pedro-sanchez-abre-campana-de-las-elecciones-generales-del-29n-este-jueves-en-sevilla/"
     },
     {
+      "id": "bildu-20261109-1",
+      "party": "bildu",
+      "date": "2026-11-09",
+      "topic": "Vivienda",
+      "title": "Matute promete trabajar para restaurar la prórroga automática de alquileres y vetar compras especulativas",
+      "summary": "Según Europa Press, lo dijo en Bilbao con Otegi. Propone prohibir la compra de edificios enteros salvo para alquiler regulado y calificó la huelga del 11N de «hito histórico». Dijo que bloquear a la extrema derecha lo hacen «gratis et amore».",
+      "source": "Europa Press (Última Hora)",
+      "url": "https://www.ultimahora.es/noticias/comunidades/2026/11/09/2746167/bildu-trabajara-por-prorroga-alquileres-derechas-tumbaran-advierte-respuesta-rotunda-11n.html"
+    },
+    {
+      "id": "cc-20261109-1",
+      "party": "cc",
+      "date": "2026-11-09",
+      "topic": "Programa",
+      "title": "CC y Primero Canarias presentan «Defiende Canarias»: diez causas y cien medidas",
+      "summary": "Según Digital Faro, incluye mantener el 75 % de descuento de residente, un fondo plurianual de ocho años para vivienda pública y que el Estado cubra el 100 % del coste del transporte de mercancías. Valido dijo que su «única obediencia» será Canarias.",
+      "source": "Digital Faro Canarias",
+      "url": "https://www.digitalfarocanarias.com/index.php/2026/11/09/cc-y-primero-canarias-presentan-diez-grandes-causas-y-cien-medidas-para-defender-canarias-en-madrid/"
+    },
+    {
       "id": "erc-20261110-1",
       "party": "erc",
       "date": "2026-11-09",
@@ -1283,6 +1223,16 @@
       "url": "https://elnacional.cat/es/politica/rufian-se-ausenta-segundo-debate-electoral-por-estar-exhausto_1722800_102.html"
     },
     {
+      "id": "junts-20261109-2",
+      "party": "junts",
+      "date": "2026-11-09",
+      "topic": "Investidura",
+      "title": "Nogueras descarta investir a Feijóo y cita el traspaso de Rodalies como «innegociable»",
+      "summary": "Según EFE, dijo que Feijóo «ha elegido» a Vox, se abre a un candidato del PSOE distinto de Sánchez y pide concierto económico y uso del catalán en el Congreso. Puigdemont no volverá a Cataluña en campaña.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/09/puigdemont-intervendra-telematicamente-en-una-campana-de-junts-con-cataluna-en-el-centro/"
+    },
+    {
       "id": "junts-20261110-1",
       "party": "junts",
       "date": "2026-11-09",
@@ -1291,6 +1241,26 @@
       "summary": "Según EFE, Nogueras abrirá la campaña el 12 de noviembre en Barcelona y celebrará el mitin central el 22 en Castelldefels. Puigdemont descarta volver a Cataluña durante la campaña.",
       "source": "Infobae (EFE)",
       "url": "https://www.infobae.com/espana/agencias/2026/11/09/puigdemont-intervendra-telematicamente-en-una-campana-de-junts-con-cataluna-en-el-centro/"
+    },
+    {
+      "id": "psoe-20261109-1",
+      "party": "psoe",
+      "date": "2026-11-09",
+      "topic": "Participación",
+      "title": "Sánchez prevé una participación que «de lejos va a superar el 70 %» el 29N",
+      "summary": "En La Séptima dijo que ganarán las fuerzas progresistas y que lo prioritario es «frenar la involución». Añadió que los debates, que organizaría la Academia de Televisión, aún no tienen fecha y que habrá Consejos de Ministros extraordinarios antes del 29N.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/09/sanchez-preve-una-movilizacion-historica-que-superara-el-70-de-participacion-de-2023/"
+    },
+    {
+      "id": "psoe-20261109-2",
+      "party": "psoe",
+      "date": "2026-11-09",
+      "topic": "Huelga general",
+      "title": "Sánchez difunde un vídeo sobre la huelga general de 1988 en apoyo a la del 11-N",
+      "summary": "Según El Español, el vídeo de X cita la jornada de 40 horas, la Ley General de Sanidad y la Ley de Dependencia y critica «tijeras y motosierras» de PP y Vox. La huelga fue convocada por CCOO, UGT y otros sindicatos por la vivienda y los salarios.",
+      "source": "El Español",
+      "url": "https://www.elespanol.com/espana/politica/20261109/sanchez-apoya-huelga-general-sin-mencionarla-derechos-libertades-pueden-perder-instante/1003744450962_0.html"
     },
     {
       "id": "psoe-20261110-1",
@@ -1323,6 +1293,16 @@
       "url": "https://www.elconstitucional.es/es/nacional/ultra-abascal-expone-su-agenda-29-n-broncano-revisar-ley-violencia-genero-culpar-inmigracion-crisis-vivienda_9949_102.html"
     },
     {
+      "id": "bng-20261110-1",
+      "party": "bng",
+      "date": "2026-11-10",
+      "topic": "Vivienda",
+      "title": "Pontón pide una movilización «masiva» el 11N y que las 3.000 viviendas de la Sareb se pongan a disposición",
+      "summary": "Según Europa Press, Pontón y Rego visitaron el Agra do Orzán (A Coruña). El BNG propone limitar alquileres, crear un parque público y destinar viviendas vacías a alquiler social; Pontón dijo que el problema no se resuelve «con decretos de última hora».",
+      "source": "Europa Press (GC Diario)",
+      "url": "https://gcdiario.com/politica/614836-11n-el-bng-llama-a-una-movilizacion-masiva-para-que-la-vivienda-vuelva-a-ser-un-derecho/"
+    },
+    {
       "id": "pp-20261110-1",
       "party": "pp",
       "date": "2026-11-10",
@@ -1341,6 +1321,66 @@
       "summary": "Según El Español, reformaría la Ley del Menor para delitos con violencia, armas o bandas, tipificaría como delito captar menores para delinquir y ayudaría a los ayuntamientos con videovigilancia.",
       "source": "El Español",
       "url": "https://www.elespanol.com/espana/politica/20261110/programa-pp-endurece-internamiento-menores-delitos-graves-violencia-armas-cometidos-bandas/1003744449640_0.html"
+    },
+    {
+      "id": "pp-20261110-3",
+      "party": "pp",
+      "date": "2026-11-10",
+      "topic": "Infraestructuras",
+      "title": "El programa del PP prevé una auditoría del gasto en 100 días y más de 300.000 millones en infraestructuras",
+      "summary": "Según Infobae, la inversión sería a 15 años en autovías, alta velocidad, Cercanías y obras hidráulicas y energéticas. Alma Ezcurra dijo que «el programa no tiene unicornios» y Feijóo que Sánchez «no aparece en todo el programa».",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/2026/11/10/el-pp-presenta-su-programa-electoral-para-concurrir-al-29-n-el-proyecto-no-tiene-unicornios-dice-la-verdad/"
+    },
+    {
+      "id": "pp-20261110-4",
+      "party": "pp",
+      "date": "2026-11-10",
+      "topic": "Programa",
+      "title": "Público detalla medidas del programa del PP: derogar amnistía, memoria democrática y ley de vivienda",
+      "summary": "Según Público, incluye derogar esas tres leyes, eliminar la autodeterminación registral del sexo, retornos en siete días y cupos de inmigración laboral. Señala que el texto no menciona el aborto y que ocho medidas aparecen ocultas.",
+      "source": "Público",
+      "url": "https://www.publico.es/politica/pp-escora-programa-aun-derecha-prioridad-nacional-retroceso-derechos-sociales.html"
+    },
+    {
+      "id": "sumar-20261110-1",
+      "party": "sumar",
+      "date": "2026-11-10",
+      "topic": "Huelga general",
+      "title": "El Frente Amplio no hará actos de precampaña el 11N y participará en piquetes y manifestaciones",
+      "summary": "Según Press Digital, Colau atenderá a medios y acudirá a una manifestación; Bergerot encabezará la representación de Más Madrid en Atocha. Podemos (Montero y Belarra) también irá a la manifestación de Madrid.",
+      "source": "Press Digital",
+      "url": "https://www.pressdigital.es/articulo/politica/2026-11-10/6086662-partidos-izquierda-volcaran-huelga-general-apoyo-manifestaciones-presencia-piquetes"
+    },
+    {
+      "id": "upn-20261110-1",
+      "party": "upn",
+      "date": "2026-11-10",
+      "topic": "Campaña",
+      "title": "UPN y PP presentan en Pamplona el lema «Por España, por Navarra, por fin»",
+      "summary": "Según Navarra.com, San Martín dijo que PSOE e izquierda hacen «la campaña del temor»; Esparza defendió eliminar la Disposición Transitoria Cuarta de la Constitución. Sayas calificó la huelga del 11N de «performance».",
+      "source": "Navarra.com (OKDIARIO)",
+      "url": "https://navarra.okdiario.com/articulo/politica/upn-pp-desvelan-lema-pedir-cambio-elecciones-29-n-navarra-espana-navarra-fin/20261110135626667178.html"
+    },
+    {
+      "id": "vox-20261110-2",
+      "party": "vox",
+      "date": "2026-11-10",
+      "topic": "Huelga general",
+      "title": "Abascal dice que la huelga del 11-N «no debería ser legal» y espera «muy poco respaldo»",
+      "summary": "En COPE el 10 de noviembre dijo que es «una huelga política», que el derecho a secundarla existe, rechazó los piquetes y afirmó que los sindicatos «actúan como los enemigos del pueblo». El artículo no recoge reacción de CCOO ni UGT.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/11/10/abascal-huelga-general-11n-3465118/"
+    },
+    {
+      "id": "vox-20261110-3",
+      "party": "vox",
+      "date": "2026-11-10",
+      "topic": "Audiencia televisiva",
+      "title": "La entrevista de Abascal en «La Revuelta» marca el récord del programa con 4,8 millones de espectadores",
+      "summary": "Según EFE, la media fue de 4.815.000 espectadores (33,6 %). Vox dijo que se suprimieron 40 minutos; Sánchez, Urtasun y Montero criticaron la entrevista y Ayuso opinó que buscaba dividir a PP y Vox.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/10/vox-celebra-como-un-triunfo-estrategico-la-entrevista-de-abascal-en-la-revuelta/"
     }
   ],
   "positions": {},
