@@ -1,37 +1,7 @@
 {
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
   "news": [
-    {
-      "id": "bng-20261021-1",
-      "party": "bng",
-      "date": "2026-10-21",
-      "topic": "Candidaturas",
-      "title": "Fernández Lores da por hecho que Rego y Da Silva volverán a encabezar las listas del BNG",
-      "summary": "El alcalde de Pontevedra lo dijo el 21 de octubre, antes de la presentación oficial: Néstor Rego por A Coruña y Carme da Silva por Pontevedra. Rego pidió «más fuerza» del BNG para que se cumplan los acuerdos con el Gobierno.",
-      "source": "Galicia Press / GC Diario",
-      "url": "https://gcdiario.com/politica/610053-29n-fernandez-lores-da-por-hecho-que-rego-y-da-silva-volveran-a-ser-cabezas-de-lista-del-bng/"
-    },
-    {
-      "id": "bng-20261021-2",
-      "party": "bng",
-      "date": "2026-10-21",
-      "topic": "Vox en Galicia",
-      "title": "El BNG respalda una protesta contra Vox en A Coruña; Rego pide explicaciones por la carga policial",
-      "summary": "Según Adiante Galicia, Galiza Nova convocó la protesta; la CIG denunció cargas con gas y detenciones y pidió el cese del delegado del Gobierno. Rego calificó las cargas de «inxustificables» y pidió explicaciones al Ejecutivo.",
-      "source": "Adiante Galicia",
-      "url": "https://adiantegalicia.es/costa-artabra/2026/10/21/o-bng-aplaude-a-protesta-contra-vox-e-a-cig-pide-o-cese-do-delegado-do-goberno.html"
-    },
-    {
-      "id": "pnv-20261021-1",
-      "party": "pnv",
-      "date": "2026-10-21",
-      "topic": "Entrevista RNE",
-      "title": "Esteban dice que Vox será «línea roja» y que el Gobierno «hace campaña» desde el Consejo de Ministros",
-      "summary": "Según Europa Press, el presidente del PNV dijo que apoyará el decreto de vivienda que protege a pequeños propietarios e inquilinos, pero rechazará la prórroga indefinida de alquileres. Defendió la sostenibilidad de las pensiones.",
-      "source": "Press Digital (Europa Press)",
-      "url": "https://www.pressdigital.es/articulo/politica/2026-10-21/6059956-esteban-pnv-cree-gobierno-sanchez-esta-haciendo-campana-desde-consejo-ministros"
-    },
     {
       "id": "pnv-20261022-1",
       "party": "pnv",
@@ -41,16 +11,6 @@
       "summary": "En RNE, el presidente del PNV dijo que «hay algunas rayas que no se traspasan» y acusó a Vox de no creer en el sistema democrático. Dijo que el PNV votará en contra del decreto de prórroga de alquileres.",
       "source": "Moncloa.com",
       "url": "https://www.moncloa.com/2026/10/22/pnv-investidura-pp-vox-29n-3453092/"
-    },
-    {
-      "id": "podemos-20261022-1",
-      "party": "podemos",
-      "date": "2026-10-22",
-      "topic": "Organización",
-      "title": "Dimite el coordinador de Podemos Aragón, Ricard Mitjana, por discrepancias con la dirección",
-      "summary": "Según EFE (Infobae), Mitjana y Pilar Gimeno dejan sus cargos; él cita desacuerdos con las direcciones provincial y estatal. El artículo no recoge respuesta de la dirección de Podemos.",
-      "source": "Infobae (EFE)",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/22/dimite-el-coordinador-de-podemos-aragon-por-discrepancias-con-la-direccion-estatal/"
     },
     {
       "id": "bng-20261023-1",
@@ -113,26 +73,6 @@
       "url": "https://www.infobae.com/espana/2026/10/25/elecciones-generales-29-n-en-directo-feijoo-reune-a-sus-cabezas-de-lista-en-salamanca-y-ada-colau-interviene-en-mostoles/"
     },
     {
-      "id": "sumar-20261025-1",
-      "party": "sumar",
-      "date": "2026-10-25",
-      "topic": "Acto en Móstoles",
-      "title": "Colau pide «llenar las calles» en un acto del Frente Amplio en Móstoles",
-      "summary": "Colau dijo que la derecha usará la «violencia» y la «inseguridad» para dividir a la clase trabajadora y acusó al PSOE de «gestionar la desigualdad». Emilio Delgado, cabeza de lista por Madrid, citó una subida del 17 % en intención de voto del Frente Amplio.",
-      "source": "elDiario.es (Europa Press)",
-      "url": "https://www.eldiario.es/politica/frene-amplio-carga-politicos-izquierda-piquito-oro-no-ponen-cuerpo-defender-derechos_1_13613685.html"
-    },
-    {
-      "id": "all-20261026-1",
-      "party": "all",
-      "date": "2026-10-26",
-      "topic": "Plazo de candidaturas",
-      "title": "Vence a medianoche el plazo para registrar candidaturas al 29N y pactos del Senado",
-      "summary": "Según Infobae, se conocerán esta semana los pactos para el Senado entre PSOE y Frente Amplio y entre PP y Vox; la proclamación definitiva es el 28 de octubre, según elDiario.es.",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/25/hoy-sera-noticia-lunes-26-de-octubre"
-    },
-    {
       "id": "podemos-20261026-1",
       "party": "podemos",
       "date": "2026-10-26",
@@ -143,26 +83,6 @@
       "url": "https://www.madridactual.es/nacional/politica-nacional/29n-partidos-coaliciones-apuran-plazo-registrar-candidaturas-20261026-8125470.html"
     },
     {
-      "id": "all-20261027-1",
-      "party": "all",
-      "date": "2026-10-27",
-      "topic": "Calendario electoral",
-      "title": "Tras cerrar el registro, las listas se publican en el BOE el 28 de octubre y se proclaman hasta el 2 de noviembre",
-      "summary": "Se registraron nueve coaliciones, tres menos que en 2023. Por primera vez en unas generales las listas al Congreso deben alternar mujeres y hombres. Los partidos sin representación previa necesitan avales del 0,1 % del censo.",
-      "source": "El Plural",
-      "url": "https://www.elplural.com/politica/espana/29n-cierra-listas-gran-incognita-negociacion-entre-pp-vox-senado_802352102"
-    },
-    {
-      "id": "all-20261027-2",
-      "party": "all",
-      "date": "2026-10-27",
-      "topic": "Encuestas",
-      "title": "NC Report, SocioMétrica y Sigma Dos: PP primero y PP+Vox por encima de 176 escaños (estimaciones)",
-      "summary": "Según Infobae: NC Report (La Razón, campo 22-24 oct) estima PP 141-143, PSOE 100-102, Vox 64-66; SocioMétrica (El Español) PP 135, PSOE 108, Vox 63; Sigma Dos (El Mundo) PP 125-131, PSOE 103-109. Son estimaciones.",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/espana/2026/10/27/asi-estan-las-encuestas-para-el-29-de-noviembre-pp-y-vox-mantienen-la-mayoria-absoluta-el-psoe-gana-terreno-y-la-izquierda-fragmentada-no-logra-remontar/"
-    },
-    {
       "id": "bildu-20261027-1",
       "party": "bildu",
       "date": "2026-10-27",
@@ -171,16 +91,6 @@
       "summary": "Según El Español, EH Bildu atribuyó los hechos a actuaciones violentas que favorecen al «bloque reaccionario». El Gobierno vasco habló de 19 detenidos, según el mismo medio.",
       "source": "El Español",
       "url": "https://elespanol.com/espana/20261027/elecciones-generales-directo-ultima-hora-pedro-sanchez-sondeos-voto-correo-actos-precampana-pp-psoe-vox-encuestas-partidos-espana-2026-pactos-listas/1003744435718_10.html"
-    },
-    {
-      "id": "erc-20261027-1",
-      "party": "erc",
-      "date": "2026-10-27",
-      "topic": "Vivienda",
-      "title": "Rufián propone más presión fiscal a quien acumule viviendas o especule",
-      "summary": "Lo dijo en La Revuelta junto a Irene Montero. Pidió que ERC, Podemos y el Frente Amplio obtengan buenos resultados para condicionar a un Gobierno del PSOE, según El Diario de Madrid.",
-      "source": "El Diario de Madrid",
-      "url": "https://www.eldiariodemadrid.es/articulo/politica/irene-montero-gabriel-rufian-la-revuelta-feminismo-vivienda/20261028101527145504.html"
     },
     {
       "id": "junts-20261027-1",
@@ -211,16 +121,6 @@
       "summary": "Lo dijo en La Revuelta junto a Rufián (ERC). Montero también defendió nacionalizar compañías energéticas, según El Diario de Madrid.",
       "source": "El Diario de Madrid",
       "url": "https://www.eldiariodemadrid.es/articulo/politica/irene-montero-gabriel-rufian-la-revuelta-feminismo-vivienda/20261028101527145504.html"
-    },
-    {
-      "id": "sumar-20261027-1",
-      "party": "sumar",
-      "date": "2026-10-27",
-      "topic": "Listas al Congreso",
-      "title": "El Frente Amplio renuncia a Lleida, Girona y Tarragona tras un acuerdo con el PSC",
-      "summary": "Según Infobae, los Comuns retiran candidatos en todas las circunscripciones salvo Barcelona, donde Colau encabeza la lista y Urtasun es el número 2.",
-      "source": "Infobae",
-      "url": "https://infobae.com/espana/2026/10/27/elecciones-generales-espana-29-n-en-directo-ultima-hora-de-las-listas-al-congreso-y-al-senado-los-sondeos-y-los-candidatos"
     },
     {
       "id": "all-20261028-1",
@@ -493,16 +393,6 @@
       "url": "https://www.moncloa.com/2026/11/02/aitor-esteban-pnv-presion-sanchez-puente-3460350"
     },
     {
-      "id": "psoe-20261102-2",
-      "party": "psoe",
-      "date": "2026-11-02",
-      "topic": "Ultraderecha",
-      "title": "Sánchez: «España se gobierna desde España» en un acto de Prisa en Barcelona",
-      "summary": "Según el relato recogido por Clarín, respondió sin nombrarlo a Milei y habló de una «internacional ultraderechista» financiada por dirigentes extranjeros. Milei llega a Madrid el 3 de noviembre para la Cumbre Iberoamericana.",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/11/02/cumbre-iberoamericana-milei-sanchez-3460319/"
-    },
-    {
       "id": "all-20261103-1",
       "party": "all",
       "date": "2026-11-03",
@@ -613,16 +503,6 @@
       "url": "https://www.infobae.com/espana/agencias/2026/11/03/montero-ve-consenso-social-para-la-dimision-de-puente-y-pide-renacionalizar-el-tren/"
     },
     {
-      "id": "psoe-20261103-1",
-      "party": "psoe",
-      "date": "2026-11-03",
-      "topic": "Dimisión de Puente",
-      "title": "Óscar Puente dimite como ministro de Transportes y renuncia a encabezar la lista por Valladolid",
-      "summary": "Lo anunció al cierre de su comparecencia en la Diputación Permanente por el accidente de Urda y alegó «dignidad política» y «empatía con las víctimas». Según El Independiente, informó a Sánchez minutos antes. Los medios consultados no indican quién le sustituye.",
-      "source": "El Independiente",
-      "url": "https://www.elindependiente.com/espana/2026/11/03/oscar-puente-comparecencia-diputacion-permanente-congreso-accidente-urda/"
-    },
-    {
       "id": "psoe-20261103-2",
       "party": "psoe",
       "date": "2026-11-03",
@@ -641,26 +521,6 @@
       "summary": "Según elDiario.es, la líder del Frente Amplio calificó la decisión de gesto difícil. Verónica Martínez Barbero había pedido su dimisión como «último servicio» en el debate de la Diputación Permanente.",
       "source": "elDiario.es",
       "url": "https://eldiario.es/politica/pp-carga-puente-dimision-frente-amplio-le-agradece-dignidad_1_13635770.html"
-    },
-    {
-      "id": "vox-20261103-1",
-      "party": "vox",
-      "date": "2026-11-03",
-      "topic": "Medios",
-      "title": "Abascal iría a «La revuelta» el 9 de noviembre, según The Objective",
-      "summary": "El medio cita fuentes propias y señala el lunes 9 como fecha probable. RTVE no lo ha anunciado oficialmente y Vox no ha comentado. Sánchez estuvo en el programa el 22 de octubre.",
-      "source": "The Objective",
-      "url": "https://theobjective.com/espana/politica/2026-11-03/santiago-abascal-revuelta-broncano-campana-electoral"
-    },
-    {
-      "id": "vox-20261103-2",
-      "party": "vox",
-      "date": "2026-11-03",
-      "topic": "Huelga general",
-      "title": "Abascal pide a UGT y CCOO desconvocar la huelga del 11-N y dice que Vox «tomará nota»",
-      "summary": "En Telecinco dijo que la huelga «no tiene ningún sentido» y que, si hay cambio de ciclo tras el 29N, Vox tomará nota. Pidió suprimir sus subvenciones. Los sindicatos no habían respondido y la huelga seguía convocada.",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/11/03/abascal-ugt-ccoo-huelga-11n-3461034/"
     },
     {
       "id": "all-20261104-1",
@@ -691,36 +551,6 @@
       "summary": "En Telecinco, dijo que la dimisión de Puente era «lo que tenía que pasar». Las cifras de puntualidad que citó sobre Renfe y la Generalitat son afirmaciones suyas, no verificadas por el medio.",
       "source": "The Objective",
       "url": "https://theobjective.com/espana/politica/2026-11-04/junts-dimision-puente-traspaso-trenes-cataluna/"
-    },
-    {
-      "id": "pp-20261104-1",
-      "party": "pp",
-      "date": "2026-11-04",
-      "topic": "Dimisión de Puente",
-      "title": "Feijóo responde a la dimisión de Puente en X con «Aplícatelo» dirigido a Sánchez",
-      "summary": "Según Libertad Digital, Feijóo pidió a Sánchez que también dimita. Tellado la calificó de «imprescindible, pero no suficiente» y Ester Muñoz dijo que llegó tarde, según elDiario.es.",
-      "source": "Libertad Digital",
-      "url": "https://www.libertaddigital.com/espana/politica/2026-11-04/feijoo-pide-a-sanchez-seguir-el-camino-de-puente-y-dimitir-7486264/"
-    },
-    {
-      "id": "pp-20261104-2",
-      "party": "pp",
-      "date": "2026-11-04",
-      "topic": "Presupuestos",
-      "title": "Feijóo promete presentar dos Presupuestos en su primer año si gobierna",
-      "summary": "En Espejo Público (Antena 3), Feijóo dijo que presentaría Presupuestos en primavera de 2027 y los de 2028 antes del 30 de septiembre, y que priorizaría el mantenimiento ferroviario y de autovías. No dio cifras.",
-      "source": "ALERTA El Diario de Cantabria",
-      "url": "https://www.eldiarioalerta.com/articulo/politica/feijoo-promete-dos-presupuestos-primer-ano-gobierno-prioriza-mantenimiento-ferroviario-dimision-puente/20261104200135585834.html"
-    },
-    {
-      "id": "pp-20261104-3",
-      "party": "pp",
-      "date": "2026-11-04",
-      "topic": "Vivienda",
-      "title": "El PP detalla su plan de vivienda: «Hucha Hogar Joven», IVA del 4 % y un millón de viviendas",
-      "summary": "Según Demócrata, propone para menores de 40 años ahorro deducible de hasta 2.000 € al año con aval público, bajar el IVA de vivienda nueva del 10 % al 4 % y derogar la Ley de Vivienda de 2023. Son propuestas, con detalles aún sin concretar.",
-      "source": "Demócrata",
-      "url": "https://www.democrata.es/actualidad/hucha-joven-feijoo-plan-vivienda-pp-elecciones-29n-bancos/"
     },
     {
       "id": "psoe-20261104-1",
@@ -1293,6 +1123,16 @@
       "url": "https://www.elconstitucional.es/es/nacional/ultra-abascal-expone-su-agenda-29-n-broncano-revisar-ley-violencia-genero-culpar-inmigracion-crisis-vivienda_9949_102.html"
     },
     {
+      "id": "all-20261110-4",
+      "party": "all",
+      "date": "2026-11-10",
+      "topic": "Debates",
+      "title": "laSexta emite el 13 de noviembre a las 21:30 un debate económico con Cuerpo, Bravo, Figaredo y Bustinduy",
+      "summary": "Según Demócrata, lo modera Ana Pastor. El cara a cara Sánchez-Feijóo y el debate a cuatro de la Academia de Televisión siguen sin fecha; Atresmedia propone el 23 de noviembre y Sánchez no lo ha confirmado.",
+      "source": "Demócrata",
+      "url": "https://www.democrata.es/elecciones-generales-espana/calendario-debates-electorales-29n-fechas-candidatos-horarios-donde-verlos/"
+    },
+    {
       "id": "bng-20261110-1",
       "party": "bng",
       "date": "2026-11-10",
@@ -1381,6 +1221,166 @@
       "summary": "Según EFE, la media fue de 4.815.000 espectadores (33,6 %). Vox dijo que se suprimieron 40 minutos; Sánchez, Urtasun y Montero criticaron la entrevista y Ayuso opinó que buscaba dividir a PP y Vox.",
       "source": "Infobae (EFE)",
       "url": "https://www.infobae.com/espana/agencias/2026/11/10/vox-celebra-como-un-triunfo-estrategico-la-entrevista-de-abascal-en-la-revuelta/"
+    },
+    {
+      "id": "all-20261111-1",
+      "party": "all",
+      "date": "2026-11-11",
+      "topic": "Huelga general",
+      "title": "La huelga general del 11N por la vivienda termina con más de 50 detenciones, según El Español",
+      "summary": "Según el medio, la convocaron la Confederación de Sindicatos de Inquilinas, CCOO, UGT, CGT y CNT. Sánchez vació su agenda, aunque fuentes del Gobierno dijeron que trabajó desde el despacho.",
+      "source": "El Español (directo)",
+      "url": "https://www.elespanol.com/espana/20261111/elecciones-generales-directo-ultima-hora-pedro-sanchez-encuestas-actos-precampana-pp-psoe-vox-espana-2026-partidos-voto-por-correo/1003744453331_10.html"
+    },
+    {
+      "id": "cc-20261111-1",
+      "party": "cc",
+      "date": "2026-11-11",
+      "topic": "Canarias",
+      "title": "Clavijo dice que Interior ve necesario desplegar Frontex en Senegal y Gambia",
+      "summary": "Según El Español, también destacó 15,8 millones comprometidos para Canarias y un millón para El Hierro.",
+      "source": "El Español (directo)",
+      "url": "https://www.elespanol.com/espana/20261111/elecciones-generales-directo-ultima-hora-pedro-sanchez-encuestas-actos-precampana-pp-psoe-vox-espana-2026-partidos-voto-por-correo/1003744453331_10.html"
+    },
+    {
+      "id": "erc-20261111-1",
+      "party": "erc",
+      "date": "2026-11-11",
+      "topic": "Huelga",
+      "title": "Junqueras ve «imprescindible» la huelga del 11N y defiende usar la fiscalidad contra el uso turístico",
+      "summary": "Según EFE (Infobae), habló en Barcelona y citó IBI, IVA, ITP e IRPF para estimular el uso residencial de la vivienda.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/11/junqueras-ve-imprescindible-esta-huelga-y-defiende-una-fiscalidad-a-favor-de-la-vivienda/"
+    },
+    {
+      "id": "pp-20261111-1",
+      "party": "pp",
+      "date": "2026-11-11",
+      "topic": "Vivienda y pensiones",
+      "title": "Feijóo promete en El Hormiguero derogar los decretos de vivienda y un millón de viviendas",
+      "summary": "Según Agencias (Diario de Pontevedra), dijo que las pensiones se actualizarán con el IPC, propuso desalojar okupas en 48 horas y calificó de «fracaso» la huelga del 11N.",
+      "source": "Diario de Pontevedra (Agencias)",
+      "url": "https://www.diariodepontevedra.es/articulo/elecciones-generales-29n/paso-feijoo-hormiguero-fracaso-huelga-medidas-vivienda-pensiones/202611120011321476671.html"
+    },
+    {
+      "id": "pp-20261111-2",
+      "party": "pp",
+      "date": "2026-11-11",
+      "topic": "Vox",
+      "title": "Feijóo dice que no ha hablado de cargos con Abascal y que su objetivo es gobernar en solitario",
+      "summary": "Según Demócrata, en El Hormiguero justificó el acuerdo con Vox para el Senado y dijo que, si no logra los apoyos necesarios, tendría que completar su mayoría. Mantendría el derecho al aborto sin enmiendas a la ley vigente.",
+      "source": "Demócrata",
+      "url": "https://www.democrata.es/elecciones-generales-espana/feijoo-el-hormiguero-huelga-vivienda-pensiones-vox/"
+    },
+    {
+      "id": "pp-20261111-3",
+      "party": "pp",
+      "date": "2026-11-11",
+      "topic": "Querella",
+      "title": "El PP presenta actos de conciliación previos a una querella contra Koldo García y Leire Díez",
+      "summary": "Según El Español, el PP lo hace por afirmar que el partido ofreció dinero para obtener declaraciones contra Sánchez. El PP lo niega. Además, la Junta Electoral de Zona de Valencia abrió expediente a la alcaldesa Catalá por un vídeo.",
+      "source": "El Español (directo)",
+      "url": "https://www.elespanol.com/espana/20261111/elecciones-generales-directo-ultima-hora-pedro-sanchez-encuestas-actos-precampana-pp-psoe-vox-espana-2026-partidos-voto-por-correo/1003744453331_10.html"
+    },
+    {
+      "id": "psoe-20261111-1",
+      "party": "psoe",
+      "date": "2026-11-11",
+      "topic": "Gobierno en campaña",
+      "title": "Sánchez celebrará cuatro Consejos de Ministros durante la campaña, dos por semana",
+      "summary": "Según El Español, es una práctica poco habitual. El medio recuerda que hubo 28 decretos-ley en el mismo periodo previo en democracia. Tellado acusó al Gobierno de estar «desesperado».",
+      "source": "El Español (directo)",
+      "url": "https://www.elespanol.com/espana/20261111/elecciones-generales-directo-ultima-hora-pedro-sanchez-encuestas-actos-precampana-pp-psoe-vox-espana-2026-partidos-voto-por-correo/1003744453331_10.html"
+    },
+    {
+      "id": "sumar-20261111-1",
+      "party": "sumar",
+      "date": "2026-11-11",
+      "topic": "Huelga",
+      "title": "Delgado (Frente Amplio) pide el cese de Marlaska por las cargas contra piquetes",
+      "summary": "Según El Español, el cabeza de lista por Madrid calificó la huelga de «éxito absoluto» y criticó a Isabel Díaz Ayuso.",
+      "source": "El Español (directo)",
+      "url": "https://www.elespanol.com/espana/20261111/elecciones-generales-directo-ultima-hora-pedro-sanchez-encuestas-actos-precampana-pp-psoe-vox-espana-2026-partidos-voto-por-correo/1003744453331_10.html"
+    },
+    {
+      "id": "vox-20261111-1",
+      "party": "vox",
+      "date": "2026-11-11",
+      "topic": "Medios",
+      "title": "Vox suspende la entrevista de Abascal con Jordi Wild por los 40 minutos no emitidos de La Revuelta",
+      "summary": "Según un comunicado de Vox recogido por Infobae, acusa a RTVE y a El Terrat de incumplir lo acordado. El artículo no recoge la versión de RTVE.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/2026/11/11/vox-suspende-la-entrevista-de-santiago-abascal-con-jordi-wild-tras-la-negativa-de-rtve-a-publicar-los-40-minutos-no-emitidos-de-la-revuelta/"
+    },
+    {
+      "id": "vox-20261111-2",
+      "party": "vox",
+      "date": "2026-11-11",
+      "topic": "Huelga",
+      "title": "Abascal acusa a «sindicatos mafiosos» de usar piquetes durante la huelga del 11N",
+      "summary": "Según El Español, lo dijo en la jornada de huelga general. El mismo medio informa de que el 11N hubo más de 50 detenciones.",
+      "source": "El Español (directo)",
+      "url": "https://www.elespanol.com/espana/20261111/elecciones-generales-directo-ultima-hora-pedro-sanchez-encuestas-actos-precampana-pp-psoe-vox-espana-2026-partidos-voto-por-correo/1003744453331_10.html"
+    },
+    {
+      "id": "all-20261112-1",
+      "party": "all",
+      "date": "2026-11-12",
+      "topic": "Vivienda",
+      "title": "La Diputación Permanente vota los decretos de vivienda; el primero contaría con 35 votos frente a 34",
+      "summary": "Según elDiario.es, el Real Decreto-ley 29/2026 incluye prórroga de alquileres, veto a fondos en compras bajo el 70 % del valor y un IVA del 10 % a pisos turísticos. Orain.eus indica que el segundo decreto no tendría mayoría.",
+      "source": "elDiario.es / Orain.eus",
+      "url": "https://www.eldiario.es/politica/diputacion-permanente-pone-colofon-huelga-aprobacion-decreto-ley-vivienda_1_13655575.html"
+    },
+    {
+      "id": "bng-20261112-1",
+      "party": "bng",
+      "date": "2026-11-12",
+      "topic": "Campaña",
+      "title": "El BNG inicia la campaña en Vigo con Pontón y Carme da Silva a las 20:00",
+      "summary": "Según Metropolitano, el acto es en el Auditorio Mar de Vigo. En la última legislatura el BNG tuvo un diputado, Néstor Rego.",
+      "source": "Metropolitano",
+      "url": "https://metropolitano.gal/enfoque/el-bng-elige-vigo-para-iniciar-su-campana-electoral-con-un-mitin-con-ponton-y-carme-da-silva/"
+    },
+    {
+      "id": "pnv-20261112-1",
+      "party": "pnv",
+      "date": "2026-11-12",
+      "topic": "Vivienda",
+      "title": "El PNV apoyará el decreto de vivienda más amplio y votará en contra del de indemnizaciones",
+      "summary": "Según Orain.eus, el voto del PNV en la Diputación Permanente sería clave: el primer decreto sumaría 35 votos frente a 34 de PP, Vox y Junts.",
+      "source": "Orain.eus",
+      "url": "https://orain.eus/es/politica/2026/11/12/los-decretos-vivienda-afrontan-hoy-su-examen-definitivo-en-la-diputacion-permanente-del-congreso/"
+    },
+    {
+      "id": "podemos-20261112-1",
+      "party": "podemos",
+      "date": "2026-11-12",
+      "topic": "Campaña",
+      "title": "Montero abre campaña en Madrid con Belarra; el viernes irá a Alcalá de Henares y Palma con Rufián",
+      "summary": "Según Europa Press (Infobae), Podemos arranca la campaña en Madrid. En Palma coincidirá con Gabriel Rufián (ERC).",
+      "source": "Infobae (Europa Press)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/12/sanchez-abre-campana-hoy-en-sevilla-feijoo-lo-hara-en-badalona-mientras-que-abascal-y-colau-eligen-madrid/"
+    },
+    {
+      "id": "psoe-20261112-1",
+      "party": "psoe",
+      "date": "2026-11-12",
+      "topic": "Campaña",
+      "title": "Sánchez, Feijóo, Abascal, Colau y Montero abren la campaña en Sevilla, Badalona y Madrid",
+      "summary": "Según Europa Press (Infobae), Sánchez abre en el Auditorio Fibes de Sevilla; Feijóo en Badalona con Albiol, con Aznar y Rajoy en campaña; Abascal en la Plaza de Colón, y Colau y Montero en Madrid.",
+      "source": "Infobae (Europa Press)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/12/sanchez-abre-campana-hoy-en-sevilla-feijoo-lo-hara-en-badalona-mientras-que-abascal-y-colau-eligen-madrid/"
+    },
+    {
+      "id": "sumar-20261112-1",
+      "party": "sumar",
+      "date": "2026-11-12",
+      "topic": "Campaña",
+      "title": "Colau abre la campaña del Frente Amplio en Madrid con Delgado, Valero y Martínez",
+      "summary": "Según Europa Press (Infobae), la pegada de carteles es en Puente de Vallecas. El viernes tiene entrevistas y su primer acto será en Sevilla.",
+      "source": "Infobae (Europa Press)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/12/sanchez-abre-campana-hoy-en-sevilla-feijoo-lo-hara-en-badalona-mientras-que-abascal-y-colau-eligen-madrid/"
     }
   ],
   "positions": {},
