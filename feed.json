@@ -1,17 +1,7 @@
 {
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
   "news": [
-    {
-      "id": "pnv-20261022-1",
-      "party": "pnv",
-      "date": "2026-10-22",
-      "topic": "Investidura",
-      "title": "Esteban descarta apoyar la investidura de un Gobierno del PP con Vox",
-      "summary": "En RNE, el presidente del PNV dijo que «hay algunas rayas que no se traspasan» y acusó a Vox de no creer en el sistema democrático. Dijo que el PNV votará en contra del decreto de prórroga de alquileres.",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/10/22/pnv-investidura-pp-vox-29n-3453092/"
-    },
     {
       "id": "bng-20261023-1",
       "party": "bng",
@@ -21,16 +11,6 @@
       "summary": "Néstor Rego calificó de «injustificable» la actuación policial contra jóvenes que protestaban durante un acto de Vox el miércoles y reclamó «responsabilidades políticas»; el BNG pide comparecencias en la Diputación Permanente.",
       "source": "Press Digital",
       "url": "https://www.pressdigital.es/articulo/politica/2026-10-23/6064071-bng-tambien-exige-sanchez-explique-congreso-cargas-policiales-contra-manifestantes-coruna"
-    },
-    {
-      "id": "podemos-20261023-1",
-      "party": "podemos",
-      "date": "2026-10-23",
-      "topic": "Cargas policiales",
-      "title": "Podemos, con la firma de ERC, pide la comparecencia de Sánchez, Marlaska y Robles",
-      "summary": "Piden ante la Diputación Permanente explicaciones por cargas policiales contra jóvenes en A Coruña, Avilés, Zaragoza y Ceuta. Belarra habló de una «emergencia de violencia policial sin precedentes».",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/10/23/comparecencia-sanchez-congreso-podemos-erc-3454072"
     },
     {
       "id": "upn-20261023-1",
@@ -103,16 +83,6 @@
       "url": "https://cronicaglobal.elespanol.com/politica/20261027/junts-reivindica-concierto-economico-condicion-apoyar-investidura/1003742806616_0.html"
     },
     {
-      "id": "junts-20261027-2",
-      "party": "junts",
-      "date": "2026-10-27",
-      "topic": "Investidura",
-      "title": "Nogueras se abre a investir un Gobierno del PSOE no encabezado por Sánchez",
-      "summary": "Dijo en rueda de prensa que Junts lo valoraría si el PSOE presenta propuestas que beneficien a Cataluña, entre ellas el concierto económico. El artículo no recoge respuesta del PSOE.",
-      "source": "Onda Vasca",
-      "url": "https://www.ondavasca.com/junts-se-abre-a-investir-un-gobierno-del-psoe-sin-pedro-sanchez/"
-    },
-    {
       "id": "podemos-20261027-1",
       "party": "podemos",
       "date": "2026-10-27",
@@ -121,26 +91,6 @@
       "summary": "Lo dijo en La Revuelta junto a Rufián (ERC). Montero también defendió nacionalizar compañías energéticas, según El Diario de Madrid.",
       "source": "El Diario de Madrid",
       "url": "https://www.eldiariodemadrid.es/articulo/politica/irene-montero-gabriel-rufian-la-revuelta-feminismo-vivienda/20261028101527145504.html"
-    },
-    {
-      "id": "all-20261028-1",
-      "party": "all",
-      "date": "2026-10-28",
-      "topic": "Accidente ferroviario",
-      "title": "Accidente de trenes en Urda (Toledo): PSOE, PP, Frente Amplio y Podemos suspenden actos; Vox mantiene los suyos",
-      "summary": "Un AVE de Renfe chocó con un Iryo detenido en Urda hacia las 8:48 del 28 de octubre. elDiario.es cifra al menos 68 muertos y más de 100 heridos; otras fuentes citaron antes cifras menores y las cifras pueden cambiar.",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-la-mancha/accidente-tren-toledo-suspendida-alta-velocidad-madrid-andalucia_133_13620647.html"
-    },
-    {
-      "id": "all-20261028-2",
-      "party": "all",
-      "date": "2026-10-28",
-      "topic": "Calendario electoral",
-      "title": "El BOE publica las listas presentadas al Congreso y al Senado; las definitivas saldrán el 3 de noviembre",
-      "summary": "Según EFE, la Junta revisará los requisitos y los partidos tendrán 48 horas para subsanar defectos. La publicación de candidaturas definitivas está prevista para el 3 de noviembre.",
-      "source": "Infobae (EFE)",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/28/el-boe-publica-las-listas-presentadas-al-congreso-y-senado-para-las-elecciones-del-29n/"
     },
     {
       "id": "junts-20261028-1",
@@ -173,36 +123,6 @@
       "url": "https://www.publico.es/politica/gobierno/accidente-trenes-toledo-sacude-paraliza-precampana-electoral.html"
     },
     {
-      "id": "sumar-20261028-2",
-      "party": "sumar",
-      "date": "2026-10-28",
-      "topic": "Izquierda",
-      "title": "Colau dice que Rufián «ha decepcionado a mucha gente» que quería la unidad",
-      "summary": "En la Cadena SER, la candidata del Frente Amplio afirmó que son «el Frente Amplio, no el PSOE» y que en vivienda defienden medidas más ambiciosas. Urtasun dijo que Rufián quiere ser socio del futuro Gobierno.",
-      "source": "Infobae (Europa Press)",
-      "url": "https://www.infobae.com/espana/agencias/2026/10/28/colau-opina-que-rufian-ha-decepcionado-a-mucha-gente-que-queria-la-unidad-de-la-izquierda/"
-    },
-    {
-      "id": "all-20261029-1",
-      "party": "all",
-      "date": "2026-10-29",
-      "topic": "Huelga general",
-      "title": "La huelga general del 11 de noviembre sigue convocada tras el accidente de Urda",
-      "summary": "Según Demócrata, CCOO y UGT no han anunciado cambios en la convocatoria, registrada el 19 de octubre, mientras otros colectivos han suspendido movilizaciones.",
-      "source": "Demócrata",
-      "url": "https://www.democrata.es/en/current-events/urda-spain-suspends-protests-and-keeps-the-11n-strike-pending/"
-    },
-    {
-      "id": "all-20261029-2",
-      "party": "all",
-      "date": "2026-10-29",
-      "topic": "Urda",
-      "title": "Puente comparecerá el 3 de noviembre a las 17:00 ante la Diputación Permanente",
-      "summary": "Según Moncloa.com, lo pidió él mismo; Vox le preguntará por el sistema LZB. Sumar, ERC y Podemos también reclamaron su presencia. Feijóo no pidió expresamente su dimisión, según el medio.",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/10/29/puente-diputacion-permanente-vox-lzb-3458001/"
-    },
-    {
       "id": "bng-20261029-1",
       "party": "bng",
       "date": "2026-10-29",
@@ -211,16 +131,6 @@
       "summary": "La portavoz del BNG dijo que el asunto «no va de un ministro ni de un gobierno» y recordó el accidente de Angrois de 2013, cuando Feijóo presidía la Xunta.",
       "source": "elDiario.es",
       "url": "https://www.eldiario.es/galicia/bng-pide-depurar-responsabilidades-accidente-urda-caiga-caiga_1_13624541.html"
-    },
-    {
-      "id": "erc-20261029-1",
-      "party": "erc",
-      "date": "2026-10-29",
-      "topic": "Urda",
-      "title": "Rufián atribuye el accidente de Urda a recortes del PP y a la liberalización del PSOE",
-      "summary": "Según la cronología de elDiario.es, el cabeza de lista de ERC pidió asumir responsabilidades. ERC, Frente Amplio y Podemos pidieron la comparecencia de Puente.",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13623441.html"
     },
     {
       "id": "pnv-20261029-1",
@@ -503,16 +413,6 @@
       "url": "https://www.infobae.com/espana/agencias/2026/11/03/montero-ve-consenso-social-para-la-dimision-de-puente-y-pide-renacionalizar-el-tren/"
     },
     {
-      "id": "psoe-20261103-2",
-      "party": "psoe",
-      "date": "2026-11-03",
-      "topic": "Dimisión de Puente",
-      "title": "Sánchez agradece en X a Puente que «haya dado un paso al lado»",
-      "summary": "Escribió: «Óscar Puente ha dado la cara, ha dado soluciones y, después, ha dado un paso al lado». Según Diario de Valladolid, fuentes del Ejecutivo dicen que se enteró minutos antes del anuncio.",
-      "source": "Diario de Valladolid",
-      "url": "https://www.diariodevalladolid.es/valladolid/261103/287832/sanchez-dimision-puente-politicos-puente-dignifican-pais-demuestran-todos-iguales.html"
-    },
-    {
       "id": "sumar-20261103-1",
       "party": "sumar",
       "date": "2026-11-03",
@@ -553,16 +453,6 @@
       "url": "https://theobjective.com/espana/politica/2026-11-04/junts-dimision-puente-traspaso-trenes-cataluna/"
     },
     {
-      "id": "psoe-20261104-1",
-      "party": "psoe",
-      "date": "2026-11-04",
-      "topic": "Adif",
-      "title": "Dimite el presidente de Adif, Luis Pedro Marco de la Peña, un día después de Puente",
-      "summary": "Carlos Cuerpo, que asume Transportes, dijo en TVE que no fue un cese y que dimitió por «motivos similares» a los de Puente. Citó una subida de inversión de Adif de hasta el 50 % en cinco años.",
-      "source": "The Objective",
-      "url": "https://theobjective.com/espana/politica/2026-11-04/cuerpo-presidente-adif-dimision-puente/"
-    },
-    {
       "id": "vox-20261104-1",
       "party": "vox",
       "date": "2026-11-04",
@@ -571,16 +461,6 @@
       "summary": "Según elDiario.es, tras la salida de Puente dijo que la responsabilidad es de Sánchez, al que llamó «capo» de una organización criminal. Pepa Millán recordó «dos siniestros mortales y 116 vidas después».",
       "source": "elDiario.es",
       "url": "https://eldiario.es/politica/pp-carga-puente-dimision-frente-amplio-le-agradece-dignidad_1_13635770.html"
-    },
-    {
-      "id": "vox-20261104-2",
-      "party": "vox",
-      "date": "2026-11-04",
-      "topic": "Encuestas CIS",
-      "title": "Vox pide a la JEC que el CIS entregue cuestionarios y metadatos de su macroencuesta",
-      "summary": "Jorge Buxadé anunció la petición y reclama que microdatos y resultados estén a disposición de todos los partidos. El CIS comunicó a la JEC que no prevé publicar avances durante el trabajo de campo.",
-      "source": "El Debate",
-      "url": "https://www.eldebate.com/espana/20261104/vox-exige-jec-acceso-completo-cuestionarios-metadatos-macroencuesta-electoral-planea-cis_477397.html"
     },
     {
       "id": "all-20261105-1",
@@ -631,16 +511,6 @@
       "summary": "Según Moncloa.com, el acto central en la Plaza de Toros de Valencia (aforo de 12.000) será el 21 de noviembre. Génova atribuye intención política a la fecha del acto socialista en Valencia; Ferraz dice que ya estaba previsto.",
       "source": "Moncloa.com",
       "url": "https://www.moncloa.com/2026/11/05/mitin-feijoo-valencia-pp-plaza-toros-3461981"
-    },
-    {
-      "id": "pp-20261105-3",
-      "party": "pp",
-      "date": "2026-11-05",
-      "topic": "Caso Koldo",
-      "title": "Génova rechaza la acusación de Koldo García de que el PP le ofreció un millón de euros",
-      "summary": "Según la Cadena SER, citada por El Debate, Koldo García afirma haber pactado con el abogado del PP Alberto Durán un millón y el pago de su defensa. Fuentes de Génova lo negaron ante EFE; el hecho no está confirmado.",
-      "source": "El Debate",
-      "url": "https://www.eldebate.com/espana/20261105/pp-niega-supuesta-oferta-abogado-koldo-garcia-psoe-exige-explicaciones_477626.html"
     },
     {
       "id": "psoe-20261105-1",
@@ -1381,6 +1251,166 @@
       "summary": "Según Europa Press (Infobae), la pegada de carteles es en Puente de Vallecas. El viernes tiene entrevistas y su primer acto será en Sevilla.",
       "source": "Infobae (Europa Press)",
       "url": "https://www.infobae.com/espana/agencias/2026/11/12/sanchez-abre-campana-hoy-en-sevilla-feijoo-lo-hara-en-badalona-mientras-que-abascal-y-colau-eligen-madrid/"
+    },
+    {
+      "id": "all-20261112-h4",
+      "party": "all",
+      "date": "2026-11-12",
+      "topic": "Vivienda",
+      "title": "La Diputación Permanente convalida el decreto de vivienda por 35 votos a 34 y deroga el de prórroga de alquileres",
+      "summary": "Según Alcalá Hoy, votaron a favor PSOE, Sumar, ERC, EH Bildu, PNV y Podemos, y en contra PP, Vox y Junts. El de prórroga automática de alquileres cayó con el voto contrario de PP, Vox, Junts y PNV.",
+      "source": "Alcalá Hoy",
+      "url": "https://www.alcalahoy.es/2026/11/12/la-diputacion-permanente-salva-el-decreto-de-vivienda-por-un-voto-y-tumba-la-prorroga-automatica-de-alquileres/"
+    },
+    {
+      "id": "pp-20261112-h1",
+      "party": "pp",
+      "date": "2026-11-12",
+      "topic": "Acto de campaña",
+      "title": "Feijóo abre campaña en Badalona y promete una auditoría de las cuentas públicas",
+      "summary": "Según Estrella Digital, ante unas 3.500 personas según la organización, prometió «una auditoría del saqueo y de la decadencia». Sobre la huelga dijo: «El 29-N los españoles no harán huelga, irán a votar».",
+      "source": "Estrella Digital",
+      "url": "https://www.estrelladigital.es/espana/cuaderno-campana-29n-arranque/20261113073000453273.html"
+    },
+    {
+      "id": "psoe-20261112-h1",
+      "party": "psoe",
+      "date": "2026-11-12",
+      "topic": "Acto de campaña",
+      "title": "Sánchez abre campaña en Sevilla y habla de «remontada épica»",
+      "summary": "Según EFE recogida por Estrella Digital, habló ante unas 4.000 personas. Dijo que PP y Vox representan «la involución como Trump, Bolsonaro o Milei».",
+      "source": "Estrella Digital (EFE)",
+      "url": "https://www.estrelladigital.es/espana/cuaderno-campana-29n-arranque/20261113073000453273.html"
+    },
+    {
+      "id": "psoe-20261112-h2",
+      "party": "psoe",
+      "date": "2026-11-12",
+      "topic": "Vivienda",
+      "title": "Sánchez defiende los decretos de vivienda tras su votación en la Diputación Permanente",
+      "summary": "Según Infobae, dijo que buscan «unir» a pequeños propietarios e inquilinos para «luchar contra los de arriba». Se convalidó un decreto y se derogó el de prórroga de alquileres.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/2026/11/12/la-diputacion-permanente-del-congreso-aprueba-el-decreto-maricarmen-pero-tumba-el-de-alquileres-indefinidos/"
+    },
+    {
+      "id": "vox-20261112-h1",
+      "party": "vox",
+      "date": "2026-11-12",
+      "topic": "Acto de campaña",
+      "title": "Abascal defiende en Huesca la «prioridad nacional» y suprimir el Ministerio de Igualdad",
+      "summary": "Según Estrella Digital, el acto reunió a unas 1.000 personas dentro y 300 fuera, según Aragón Digital. Vox convocó su primer gran acto de campaña para el 13 en la plaza de Colón.",
+      "source": "Estrella Digital",
+      "url": "https://www.estrelladigital.es/espana/cuaderno-campana-29n-arranque/20261113073000453273.html"
+    },
+    {
+      "id": "sumar-20261112-h1",
+      "party": "sumar",
+      "date": "2026-11-12",
+      "topic": "Acto de campaña",
+      "title": "Colau abre campaña del Frente Amplio en Vallecas con el objetivo del 10 %",
+      "summary": "Según EFE recogida por Estrella Digital, calcula que superar el 10 % de los votos les llevaría de 8 a 22 escaños. Dijo que «resistir» no basta y que hay que «cambiar las reglas de juego».",
+      "source": "Estrella Digital (EFE)",
+      "url": "https://www.estrelladigital.es/espana/cuaderno-campana-29n-arranque/20261113073000453273.html"
+    },
+    {
+      "id": "podemos-20261112-h1",
+      "party": "podemos",
+      "date": "2026-11-12",
+      "topic": "Acto de campaña",
+      "title": "Montero y Belarra abren campaña en Madrid y critican la actuación policial en la huelga",
+      "summary": "Según Estrella Digital, Irene Montero dijo que «la brutalidad policial fue insoportable para una democracia». El 13 compartiría mitin en Palma con Gabriel Rufián (ERC).",
+      "source": "Estrella Digital",
+      "url": "https://www.estrelladigital.es/espana/cuaderno-campana-29n-arranque/20261113073000453273.html"
+    },
+    {
+      "id": "all-20261113-h1",
+      "party": "all",
+      "date": "2026-11-13",
+      "topic": "Arranque de campaña",
+      "title": "Arranca la campaña del 29N: censo de 38.728.356 electores",
+      "summary": "Según Estrella Digital, el censo incluye 2.769.645 electores en el extranjero y 1.615.127 votarán por primera vez en unas generales. El voto por correo puede pedirse hasta el 19 y entregarse hasta el 25; la campaña termina a las 24:00 del 27.",
+      "source": "Estrella Digital",
+      "url": "https://www.estrelladigital.es/espana/cuaderno-campana-29n-arranque/20261113073000453273.html"
+    },
+    {
+      "id": "all-20261113-h2",
+      "party": "all",
+      "date": "2026-11-13",
+      "topic": "Encuesta",
+      "title": "Tracking 40dB (11-12 nov): PP 126 escaños, PSOE 118, Vox 64",
+      "summary": "Estimación de 40dB para El País y la Cadena SER con trabajo de campo el 11 y 12 de noviembre: PP 31,5 %, PSOE 29,4 %, Vox 18,8 %, Frente Amplio 3,5 %. El medio recuerda que son estimaciones, no resultados.",
+      "source": "Demócrata (40dB)",
+      "url": "https://www.democrata.es/encuestas/elecciones-generales/tracking-hoy-40db-elecciones-generales-29n/"
+    },
+    {
+      "id": "all-20261113-h3",
+      "party": "all",
+      "date": "2026-11-13",
+      "topic": "Debate",
+      "title": "laSexta celebra el debate económico con Cuerpo, Bravo, Figaredo y Bustinduy",
+      "summary": "Según Demócrata, el debate se emite el 13 de noviembre a las 21:30, moderado por Ana Pastor. El debate a cuatro de Atresmedia del 23 de noviembre estaba pendiente de que Sánchez confirmase su asistencia.",
+      "source": "Demócrata",
+      "url": "https://www.democrata.es/elecciones-generales-espana/calendario-debates-electorales-29n-fechas-candidatos-horarios-donde-verlos/"
+    },
+    {
+      "id": "erc-20261113-h1",
+      "party": "erc",
+      "date": "2026-11-13",
+      "topic": "Acto de campaña",
+      "title": "Rufián y Montero comparten mitin en Palma de Mallorca",
+      "summary": "Según EFE recogida por Infobae, el acto está previsto el 13 de noviembre por la tarde. Rufián pidió el 9 de noviembre un Gobierno del PSOE «sometido» a los partidos soberanistas, según Diari de Tarragona.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/13/comienza-la-campana-de-pamplona-a-madrid-pasando-por-youtube/"
+    },
+    {
+      "id": "junts-20261113-h1",
+      "party": "junts",
+      "date": "2026-11-13",
+      "topic": "Acto de campaña",
+      "title": "Nogueras inicia la campaña de Junts en Barcelona y sigue en Reus",
+      "summary": "Según EFE recogida por Infobae, Miriam Nogueras está el 13 en Barcelona por la mañana y en Reus por la tarde. Puigdemont participará por videoconferencia, según Demócrata.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/13/comienza-la-campana-de-pamplona-a-madrid-pasando-por-youtube/"
+    },
+    {
+      "id": "bildu-20261113-h1",
+      "party": "bildu",
+      "date": "2026-11-13",
+      "topic": "Acto de campaña",
+      "title": "Oskar Matute interviene en Eibar en el primer día de campaña de EH Bildu",
+      "summary": "Según EFE recogida por Infobae, el acto es el 13 de noviembre junto a otros candidatos de la coalición en Gipuzkoa.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/13/comienza-la-campana-de-pamplona-a-madrid-pasando-por-youtube/"
+    },
+    {
+      "id": "pnv-20261113-h1",
+      "party": "pnv",
+      "date": "2026-11-13",
+      "topic": "Acto de campaña",
+      "title": "Maribel Vaquero participa en un acto del PNV en Bilbao",
+      "summary": "Según EFE recogida por Infobae, es el primer día oficial de campaña. El PNV votó el 12 de noviembre contra el decreto de prórroga automática de alquileres y a favor del decreto principal de vivienda.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/13/comienza-la-campana-de-pamplona-a-madrid-pasando-por-youtube/"
+    },
+    {
+      "id": "bng-20261113-h1",
+      "party": "bng",
+      "date": "2026-11-13",
+      "topic": "Acto de campaña",
+      "title": "Pontón acompaña a candidatos del BNG en Lugo, Monforte y Pontevedra",
+      "summary": "Según EFE recogida por Infobae, son tres actos el 13 de noviembre. El 8 de noviembre pidió en Santiago «apoyo masivo», el fin del peaje de la AP-9 y un tren de cercanías, según Demócrata.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/13/comienza-la-campana-de-pamplona-a-madrid-pasando-por-youtube/"
+    },
+    {
+      "id": "cc-20261113-h1",
+      "party": "cc",
+      "date": "2026-11-13",
+      "topic": "Acto de campaña",
+      "title": "Cristina Valido recorre Santa Cruz de Tenerife en el arranque de campaña de CC",
+      "summary": "Según EFE recogida por Infobae, la candidata de Coalición Canaria-Primero Canarias visita la zona comercial de la capital tinerfeña el 13 de noviembre.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/13/comienza-la-campana-de-pamplona-a-madrid-pasando-por-youtube/"
     }
   ],
   "positions": {},
