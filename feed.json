@@ -1,27 +1,7 @@
 {
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
   "news": [
-    {
-      "id": "bildu-20261027-1",
-      "party": "bildu",
-      "date": "2026-10-27",
-      "topic": "Disturbios Bilbao",
-      "title": "EH Bildu rechaza «de forma absoluta» los incidentes de Bilbao",
-      "summary": "Según El Español, EH Bildu atribuyó los hechos a actuaciones violentas que favorecen al «bloque reaccionario». El Gobierno vasco habló de 19 detenidos, según el mismo medio.",
-      "source": "El Español",
-      "url": "https://elespanol.com/espana/20261027/elecciones-generales-directo-ultima-hora-pedro-sanchez-sondeos-voto-correo-actos-precampana-pp-psoe-vox-encuestas-partidos-espana-2026-pactos-listas/1003744435718_10.html"
-    },
-    {
-      "id": "podemos-20261027-1",
-      "party": "podemos",
-      "date": "2026-10-27",
-      "topic": "Vivienda",
-      "title": "Montero propone bajar los alquileres un 40 % por ley y prohibir comprar inmuebles para negocio",
-      "summary": "Lo dijo en La Revuelta junto a Rufián (ERC). Montero también defendió nacionalizar compañías energéticas, según El Diario de Madrid.",
-      "source": "El Diario de Madrid",
-      "url": "https://www.eldiariodemadrid.es/articulo/politica/irene-montero-gabriel-rufian-la-revuelta-feminismo-vivienda/20261028101527145504.html"
-    },
     {
       "id": "podemos-20261028-1",
       "party": "podemos",
@@ -63,32 +43,12 @@
       "url": "https://theobjective.com/economia/transporte/2026-10-30/ultima-hora-accidente-urda-toledo/directo/"
     },
     {
-      "id": "junts-20261101-1",
-      "party": "junts",
-      "date": "2026-11-01",
-      "topic": "Urda",
-      "title": "Nogueras exige en Vilafranca la dimisión de Puente por el accidente de Urda",
-      "summary": "En un acto de campaña dijo que su salida «ya está decidida y es inaplazable» y planteó el 29N como decisión sobre si Cataluña «está o no está» en Madrid.",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/11/01/nogueras-dimision-puente-urda-3459643"
-    },
-    {
       "id": "bildu-20261102-1",
       "party": "bildu",
       "date": "2026-11-02",
       "topic": "Sondeo vasco",
       "title": "Ortiz de Guinea ve «crecimiento estructural» de EH Bildu tras el Sociómetro",
       "summary": "Dijo que la prioridad es derrotar en las urnas al «bloque reaccionario». El Sociómetro le atribuye 7 escaños, dos más que en 2023.",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/11/02/pnv-eh-bildu-29n-elecciones-vascas-3460017"
-    },
-    {
-      "id": "pnv-20261102-1",
-      "party": "pnv",
-      "date": "2026-11-02",
-      "topic": "Sondeo vasco",
-      "title": "Sociómetro vasco: EH Bildu 7 escaños y PNV 4 en las generales",
-      "summary": "La estimación del Gobierno Vasco da a Bildu 29,1 % y PNV 21,9 %. Zelaia (PNV) la llamó «suelo muy sólido»; el medio recuerda que el sociómetro falló con el PSE en 2023.",
       "source": "Moncloa.com",
       "url": "https://www.moncloa.com/2026/11/02/pnv-eh-bildu-29n-elecciones-vascas-3460017"
     },
@@ -119,16 +79,6 @@
       "topic": "Accidente de Urda",
       "title": "El BNG se suma a las peticiones de dimisión de Puente en la Diputación Permanente",
       "summary": "Según Infobae, el BNG pidió expresamente su salida. Ana Pontón había reclamado una investigación independiente y una auditoría de seguridad de la red.",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/espana/2026/11/04/el-adios-de-oscar-puente-el-ministro-de-transportes-se-aparta-para-evitar-que-sanchez-caiga-con-el-en-las-elecciones-generales-del-29-n/"
-    },
-    {
-      "id": "erc-20261103-1",
-      "party": "erc",
-      "date": "2026-11-03",
-      "topic": "Accidente de Urda",
-      "title": "ERC dice que «alguien se tiene que hacer cargo»; Rufián prioriza revisar el modelo ferroviario",
-      "summary": "Según Infobae, Rufián consideró la continuidad de Puente secundaria frente a la revisión del modelo ferroviario durante el debate en la Diputación Permanente.",
       "source": "Infobae",
       "url": "https://www.infobae.com/espana/2026/11/04/el-adios-de-oscar-puente-el-ministro-de-transportes-se-aparta-para-evitar-que-sanchez-caiga-con-el-en-las-elecciones-generales-del-29-n/"
     },
@@ -273,16 +223,6 @@
       "url": "https://www.pressdigital.es/articulo/politica/2026-11-06/6081946-esteban-insiste-mayoria-sea-necesario-vox-no-contar-ayuda-ni-apoyo-pnv"
     },
     {
-      "id": "all-20261107-1",
-      "party": "all",
-      "date": "2026-11-07",
-      "topic": "Justicia",
-      "title": "Pedraz cita el 24 de noviembre como testigo a Cintia Rocho en el caso Leire",
-      "summary": "Según El Español, el magistrado de la Audiencia Nacional la interrogará cinco días antes del 29-N. Rocho afirma haber recibido una oferta del exjuez Sáenz de Tejada, algo aún por esclarecer.",
-      "source": "El Español",
-      "url": "https://www.elespanol.com/espana/20261107/elecciones-generales-directo-ultima-hora-adelanto-electoral-pedro-sanchez-sondeos-encuestas-voto-correo-espana-2026-partidos/1003744449830_10.html"
-    },
-    {
       "id": "bng-20261107-1",
       "party": "bng",
       "date": "2026-11-07",
@@ -311,16 +251,6 @@
       "summary": "En Espacio Delicias, junto a Rufián, Montero planteó reducir la jornada, crear una empresa pública de alimentación y recuperar el control público de sectores estratégicos. Dijo que el PSOE busca «devorar a su izquierda».",
       "source": "El Constitucional",
       "url": "https://www.elconstitucional.es/en/national/politics/irene-montero-and-gabriel-rufian-overflow-their-rally-in-madrid-with-housing-and-the-11n-strike-as-their-banner-we-have-to-paralyze-the-country_9929_102.html"
-    },
-    {
-      "id": "sumar-20261107-1",
-      "party": "sumar",
-      "date": "2026-11-07",
-      "topic": "Campaña",
-      "title": "Colau participa el domingo 8 en un mitin de Ara Més–Front Ampli en Palma",
-      "summary": "Según Última Hora, el acto es a las 12:00 en la plaza de Sant Jeroni, con Carme Gomila (candidata por Baleares), Toni Valero y Verónica Martínez (Madrid).",
-      "source": "Última Hora",
-      "url": "https://www.ultimahora.es/noticias/elecciones-29n/2026/11/07/2744327/mitin-ada-colau-por-elecciones-generales-del-29n-mallorca-fecha-hora-lugar.html"
     },
     {
       "id": "erc-20261108-1",
@@ -373,16 +303,6 @@
       "url": "https://www.nuevatribuna.es/actualidad/diez-pildoras-dia-campana-electoral/20261108212734256177.html"
     },
     {
-      "id": "sumar-20261108-1",
-      "party": "sumar",
-      "date": "2026-11-08",
-      "topic": "Campaña",
-      "title": "Colau presenta el Frente Amplio en Palma como voto útil de los trabajadores y fija el 10 % como objetivo",
-      "summary": "Según Nueva Tribuna, Emilio Delgado pidió en Madrid una «motosierra para los de arriba» y no contra los sectores más vulnerables.",
-      "source": "Nueva Tribuna",
-      "url": "https://www.nuevatribuna.es/actualidad/diez-pildoras-dia-campana-electoral/20261108212734256177.html"
-    },
-    {
       "id": "sumar-20261108-2",
       "party": "sumar",
       "date": "2026-11-08",
@@ -391,16 +311,6 @@
       "summary": "Según Moncloa.com, en La Sagrera (Barcelona) Delgado propuso gravar la cuarta vivienda en adelante y Colau expropiar a los fondos buitre. Las cifras de milmillonarios y viviendas son de la propia candidatura.",
       "source": "Moncloa.com",
       "url": "https://www.moncloa.com/2026/11/08/colau-frente-amplio-cataluna-fiscal-3463941/"
-    },
-    {
-      "id": "all-20261109-1",
-      "party": "all",
-      "date": "2026-11-09",
-      "topic": "Encuestas",
-      "title": "Sociométrica estima 108 escaños para el PSOE tras la dimisión de Puente (avance del 8-N)",
-      "summary": "Según un avance de Sociométrica para El Español, el PSOE tendría 108 escaños (+2 respecto al 1-N) y PP, Vox y UPN-PP sumarían 202 (-1). Es una estimación; el artículo señala que no permite aislar el efecto de la dimisión.",
-      "source": "Demócrata",
-      "url": "https://www.democrata.es/encuestas/elecciones-generales/sociometrica-8-noviembre-2026-psoe-recupera-pp-vox-mayoria/"
     },
     {
       "id": "all-20261109-2",
@@ -513,26 +423,6 @@
       "url": "https://www.infobae.com/espana/agencias/2026/11/09/puigdemont-intervendra-telematicamente-en-una-campana-de-junts-con-cataluna-en-el-centro/"
     },
     {
-      "id": "psoe-20261109-1",
-      "party": "psoe",
-      "date": "2026-11-09",
-      "topic": "Participación",
-      "title": "Sánchez prevé una participación que «de lejos va a superar el 70 %» el 29N",
-      "summary": "En La Séptima dijo que ganarán las fuerzas progresistas y que lo prioritario es «frenar la involución». Añadió que los debates, que organizaría la Academia de Televisión, aún no tienen fecha y que habrá Consejos de Ministros extraordinarios antes del 29N.",
-      "source": "Infobae (EFE)",
-      "url": "https://www.infobae.com/espana/agencias/2026/11/09/sanchez-preve-una-movilizacion-historica-que-superara-el-70-de-participacion-de-2023/"
-    },
-    {
-      "id": "psoe-20261109-2",
-      "party": "psoe",
-      "date": "2026-11-09",
-      "topic": "Huelga general",
-      "title": "Sánchez difunde un vídeo sobre la huelga general de 1988 en apoyo a la del 11-N",
-      "summary": "Según El Español, el vídeo de X cita la jornada de 40 horas, la Ley General de Sanidad y la Ley de Dependencia y critica «tijeras y motosierras» de PP y Vox. La huelga fue convocada por CCOO, UGT y otros sindicatos por la vivienda y los salarios.",
-      "source": "El Español",
-      "url": "https://www.elespanol.com/espana/politica/20261109/sanchez-apoya-huelga-general-sin-mencionarla-derechos-libertades-pueden-perder-instante/1003744450962_0.html"
-    },
-    {
       "id": "sumar-20261109-1",
       "party": "sumar",
       "date": "2026-11-09",
@@ -541,16 +431,6 @@
       "summary": "Propone expropiar viviendas a grandes fondos y tres nuevos gravámenes que, según sus cálculos, recaudarían unos 10.000 millones al año. Una media de 21 encuestas de Altnalysis le da en torno al 6,7 %.",
       "source": "El Constitucional",
       "url": "https://www.elconstitucional.es/es/nacional/politica/frente-amplio-pone-vivienda-en-centro-29n-con-lema-voto-como-casa-prepara-su-batalla-contra-ultraderecha-vox-por-ultimo-escano_9945_102.html"
-    },
-    {
-      "id": "vox-20261109-1",
-      "party": "vox",
-      "date": "2026-11-09",
-      "topic": "Entrevista",
-      "title": "Buxadé: Vox recortará subvenciones a partidos, sindicatos, patronales y ONG, no las pensiones",
-      "summary": "En una entrevista en El Debate, el eurodiputado dijo que el objetivo es «el sorpasso a todos» y que Vox pidió a la JEC publicar el voto por correo en tiempo real.",
-      "source": "El Debate",
-      "url": "https://www.eldebate.com/espana/20261109/jorge-buxade-ante-29n-delincuente-unico-corre-peligro-vox_477864.html"
     },
     {
       "id": "vox-20261110-1",
@@ -581,16 +461,6 @@
       "summary": "Según Europa Press, Pontón y Rego visitaron el Agra do Orzán (A Coruña). El BNG propone limitar alquileres, crear un parque público y destinar viviendas vacías a alquiler social; Pontón dijo que el problema no se resuelve «con decretos de última hora».",
       "source": "Europa Press (GC Diario)",
       "url": "https://gcdiario.com/politica/614836-11n-el-bng-llama-a-una-movilizacion-masiva-para-que-la-vivienda-vuelva-a-ser-un-derecho/"
-    },
-    {
-      "id": "pp-20261110-2",
-      "party": "pp",
-      "date": "2026-11-10",
-      "topic": "Seguridad y menores",
-      "title": "El programa del PP prevé más internamiento para menores en delitos graves y castigar su captación",
-      "summary": "Según El Español, reformaría la Ley del Menor para delitos con violencia, armas o bandas, tipificaría como delito captar menores para delinquir y ayudaría a los ayuntamientos con videovigilancia.",
-      "source": "El Español",
-      "url": "https://www.elespanol.com/espana/politica/20261110/programa-pp-endurece-internamiento-menores-delitos-graves-violencia-armas-cometidos-bandas/1003744449640_0.html"
     },
     {
       "id": "sumar-20261110-1",
@@ -661,16 +531,6 @@
       "summary": "Según EFE (Infobae), habló en Barcelona y citó IBI, IVA, ITP e IRPF para estimular el uso residencial de la vivienda.",
       "source": "Infobae (EFE)",
       "url": "https://www.infobae.com/espana/agencias/2026/11/11/junqueras-ve-imprescindible-esta-huelga-y-defiende-una-fiscalidad-a-favor-de-la-vivienda/"
-    },
-    {
-      "id": "pp-20261111-1",
-      "party": "pp",
-      "date": "2026-11-11",
-      "topic": "Vivienda y pensiones",
-      "title": "Feijóo promete en El Hormiguero derogar los decretos de vivienda y un millón de viviendas",
-      "summary": "Según Agencias (Diario de Pontevedra), dijo que las pensiones se actualizarán con el IPC, propuso desalojar okupas en 48 horas y calificó de «fracaso» la huelga del 11N.",
-      "source": "Diario de Pontevedra (Agencias)",
-      "url": "https://www.diariodepontevedra.es/articulo/elecciones-generales-29n/paso-feijoo-hormiguero-fracaso-huelga-medidas-vivienda-pensiones/202611120011321476671.html"
     },
     {
       "id": "pp-20261111-2",
@@ -1423,6 +1283,16 @@
       "url": "https://www.infobae.com/espana/agencias/2026/11/16/cuarto-dia-de-campana-sanchez-con-lula-feijoo-en-lleida-y-navarra-y-abascal-en-tenerife/"
     },
     {
+      "id": "upn-20261116-2",
+      "party": "upn",
+      "date": "2026-11-16",
+      "topic": "Coalición con el PP",
+      "title": "Ibarrola dice que el voto útil en Navarra es UPN-PP y que serán «exigentes» con Feijóo",
+      "summary": "Citó entre sus prioridades el TAV, una autovía a Madrid y la segunda fase del Canal de Navarra. Criticó los pactos del Gobierno de Chivite con EH Bildu.",
+      "source": "Córdoba BN",
+      "url": "https://www.cordobabn.com/nacional/29n-ibarrola-dice-que-voto-util-es-coalicion-upn-pp-que-foralistas-seran-exigentes-feijoo/20261116204017274576.html"
+    },
+    {
       "id": "vox-20261116-1",
       "party": "vox",
       "date": "2026-11-16",
@@ -1463,6 +1333,16 @@
       "url": "https://democrata.es/encuestas/elecciones-generales/elecciones-generales-tracking-encuesta-29n-hoy-40db-17-noviembre-2026"
     },
     {
+      "id": "all-20261117-2",
+      "party": "all",
+      "date": "2026-11-17",
+      "topic": "Voto \"ley de nietos\"",
+      "title": "La Abogacía del Estado eleva al Supremo un informe del INE: 113.326 afectados por la suspensión de voto",
+      "summary": "Según El Progreso, la cifra baja de 163.355 a 113.326 personas. El Tribunal Supremo aún no ha resuelto sobre los 189.678 menores.",
+      "source": "El Progreso",
+      "url": "https://www.elprogreso.es/elecciones-generales-29n/campana-29n-directo/202611171027052014680.html"
+    },
+    {
       "id": "bildu-20261117-1",
       "party": "bildu",
       "date": "2026-11-17",
@@ -1471,6 +1351,156 @@
       "summary": "Según Dotb.eus, el acto es el martes 17 a las 19:00 en el pórtico de Andra Mari; la coalición dice que busca situar en el centro del debate la memoria histórica y los derechos.",
       "source": "Dotb.eus",
       "url": "https://dotb.eus/arnaldo-otegi-encabeza-esta-tarde-un-acto-de-eh-bildu-en-durango/"
+    },
+    {
+      "id": "bildu-20261117-2",
+      "party": "bildu",
+      "date": "2026-11-17",
+      "topic": "Respuesta a Feijóo",
+      "title": "Otegi pregunta a Feijóo qué principios democráticos aprendió de Fraga",
+      "summary": "En Durango, tras la visita de Feijóo a Éibar, bromeó con el «parador nacional» prometido: «te vamos a parar democráticamente el día 29».",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/17/otegi-pregunta-a-nunez-feijoo-que-principios-democraticos-aprendio-de-manuel-fraga/"
+    },
+    {
+      "id": "bng-20261117-1",
+      "party": "bng",
+      "date": "2026-11-17",
+      "topic": "Vivienda",
+      "title": "Pontón acusa a la Sareb de actuar «como un fondo buitre» y reclama topar alquileres",
+      "summary": "En Vigo dijo que el Gobierno destina 35.000 millones a política militar frente a 890 millones anuales a vivienda. El BNG pide al menos el 3 % del presupuesto estatal para vivienda.",
+      "source": "El Progreso",
+      "url": "https://www.elprogreso.es/elecciones-generales-29n/campana-29n-directo/202611171027052014680.html"
+    },
+    {
+      "id": "erc-20261117-1",
+      "party": "erc",
+      "date": "2026-11-17",
+      "topic": "Cataluña",
+      "title": "Rufián propone un «gobierno de concentración» en Cataluña si hay un gobierno PP-Vox",
+      "summary": "En un desayuno de Barcelona Tribuna dijo que no sería una alternancia normal y que podría suponer «regresar a escenarios del 2017».",
+      "source": "El Progreso",
+      "url": "https://www.elprogreso.es/elecciones-generales-29n/campana-29n-directo/202611171027052014680.html"
+    },
+    {
+      "id": "junts-20261117-1",
+      "party": "junts",
+      "date": "2026-11-17",
+      "topic": "Pactos y Puigdemont",
+      "title": "Nogueras: «A PP y Vox, ni agua»; Junts hablaría con el PSOE si pone Cataluña en el centro",
+      "summary": "En una rueda de prensa de EFE en Barcelona reafirmó a Puigdemont como candidato a la Generalitat y pidió a Sánchez que se aparte.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/17/nogueras-cree-que-puigdemont-es-el-mejor-candidato-de-junts-para-la-generalitat/"
+    },
+    {
+      "id": "podemos-20261117-1",
+      "party": "podemos",
+      "date": "2026-11-17",
+      "topic": "Programa electoral",
+      "title": "Montero presenta el programa de Podemos: jubilación a los 63 y cupo laboral para personas trans",
+      "summary": "Incluye prohibir las horas extra no compensadas con descanso. Montero se distanció del Frente Amplio y del PSOE, según El Progreso.",
+      "source": "El Progreso",
+      "url": "https://www.elprogreso.es/elecciones-generales-29n/campana-29n-directo/202611171027052014680.html"
+    },
+    {
+      "id": "pp-20261117-1",
+      "party": "pp",
+      "date": "2026-11-17",
+      "topic": "Campaña País Vasco",
+      "title": "Feijóo, increpado en Éibar en un mitin de apoyo al candidato Jon Echeverría",
+      "summary": "Según El Progreso, el acto en Éibar (Gipuzkoa) terminó sin incidentes graves con protección de la Ertzaintza. Echeverría fue agredido el sábado en Hernani.",
+      "source": "El Progreso",
+      "url": "https://www.elprogreso.es/elecciones-generales-29n/campana-29n-directo/202611171027052014680.html"
+    },
+    {
+      "id": "pp-20261117-2",
+      "party": "pp",
+      "date": "2026-11-17",
+      "topic": "Relación con Vox y Bildu",
+      "title": "Feijóo dice sentirse «más cerca de Abascal que de Otegi» y descarta gobernar con Bildu",
+      "summary": "En Éibar dijo: «Les llamaré violentos a los violentos y no gobernaré nunca con ellos ni con sus padres políticos». Evitó «elegir entre bombas y piedras».",
+      "source": "Estrella Digital",
+      "url": "https://www.estrelladigital.es/espana/cuaderno-campana-29n-abascal-medias-feijoo-eibar-otegi-sanchez-albacete/20261118073000453524.html"
+    },
+    {
+      "id": "psoe-20261117-1",
+      "party": "psoe",
+      "date": "2026-11-17",
+      "topic": "Campaña",
+      "title": "Sánchez, en Albacete: pide una mayoría mayor y rechaza el 5 % del PIB en defensa",
+      "summary": "Dijo que sus rivales «se presentan como el cambio, pero el cambio es la involución». Trasladó su mitin de Santiago del 18 al viernes 20 de noviembre.",
+      "source": "Estrella Digital",
+      "url": "https://www.estrelladigital.es/espana/cuaderno-campana-29n-abascal-medias-feijoo-eibar-otegi-sanchez-albacete/20261118073000453524.html"
+    },
+    {
+      "id": "psoe-20261117-2",
+      "party": "psoe",
+      "date": "2026-11-17",
+      "topic": "Salario mínimo",
+      "title": "El Consejo de Ministros fija el SMI de 2027 en 1.286 euros brutos en 14 pagas",
+      "summary": "Supone una subida del 5,3 %. Aprobó también un aumento del 4,5 % para empleados públicos. Yolanda Díaz lo calificó de «política ordinaria».",
+      "source": "El Progreso",
+      "url": "https://www.elprogreso.es/elecciones-generales-29n/campana-29n-directo/202611171027052014680.html"
+    },
+    {
+      "id": "sumar-20261117-1",
+      "party": "sumar",
+      "date": "2026-11-17",
+      "topic": "IVA y energía",
+      "title": "Colau propone un IVA progresivo en luz, agua y gas: del 0 % al 21 %",
+      "summary": "En un desayuno informativo planteó también ligar los salarios al IPC mediante reforma del Estatuto de los Trabajadores. Dijo que el 60 % de los trabajadores queda fuera de convenio.",
+      "source": "El Progreso",
+      "url": "https://www.elprogreso.es/elecciones-generales-29n/campana-29n-directo/202611171027052014680.html"
+    },
+    {
+      "id": "sumar-20261117-2",
+      "party": "sumar",
+      "date": "2026-11-17",
+      "topic": "Programa electoral",
+      "title": "El programa del Frente Amplio incluye jornada de 32 horas y jubilación a los 65",
+      "summary": "Según Moncloa.com, plantea expropiar viviendas a grandes propietarios corporativos por fases, un límite de 10 millones por heredero y comedor escolar gratuito universal.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/11/17/frente-amplio-programa-electoral-sumar-3469562"
+    },
+    {
+      "id": "vox-20261117-1",
+      "party": "vox",
+      "date": "2026-11-17",
+      "topic": "Inmigración",
+      "title": "Abascal cierra su gira canaria y defiende expulsar a quien entró de forma irregular",
+      "summary": "En Lanzarote rechazó trasladar a esas personas a otras regiones. En Las Palmas pidió: «No nos votéis a medias», según Estrella Digital.",
+      "source": "Estrella Digital",
+      "url": "https://www.estrelladigital.es/espana/cuaderno-campana-29n-abascal-medias-feijoo-eibar-otegi-sanchez-albacete/20261118073000453524.html"
+    },
+    {
+      "id": "all-20261118-1",
+      "party": "all",
+      "date": "2026-11-18",
+      "topic": "Debate",
+      "title": "Sánchez y Feijóo, sin mítines el 18 para preparar el cara a cara del jueves",
+      "summary": "Según EFE, el debate es el 19 de noviembre a las 22:00, moderado por María Casado. Sánchez da entrevista en Antena 3 y Feijóo en un pódcast.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/18/sexto-dia-de-campana-sanchez-y-feijoo-sin-mitines-se-centran-en-preparar-el-cara-a-cara/"
+    },
+    {
+      "id": "cc-20261118-1",
+      "party": "cc",
+      "date": "2026-11-18",
+      "topic": "Agenda",
+      "title": "Valido se reúne con colectivos sociales y sindicatos en Tenerife",
+      "summary": "Según EFE, la candidata de CC al Congreso por Santa Cruz de Tenerife mantiene varios encuentros durante la jornada.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/18/sexto-dia-de-campana-sanchez-y-feijoo-sin-mitines-se-centran-en-preparar-el-cara-a-cara/"
+    },
+    {
+      "id": "pnv-20261118-1",
+      "party": "pnv",
+      "date": "2026-11-18",
+      "topic": "Agenda",
+      "title": "Urtaran y Vaquero intervienen en un mitin del PNV en Llodio",
+      "summary": "Según EFE, Gorka Urtaran (Álava) y Maribel Vaquero (Gipuzkoa) participan en el acto el sexto día de campaña.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/18/sexto-dia-de-campana-sanchez-y-feijoo-sin-mitines-se-centran-en-preparar-el-cara-a-cara/"
     }
   ],
   "positions": {},
