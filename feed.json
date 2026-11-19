@@ -1,17 +1,7 @@
 {
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
   "news": [
-    {
-      "id": "podemos-20261028-1",
-      "party": "podemos",
-      "date": "2026-10-28",
-      "topic": "Accidente ferroviario",
-      "title": "Podemos suspende sus actos de campaña por el accidente de Urda",
-      "summary": "Según elDiario.es, Podemos paralizó sus actos tras el choque de trenes del 28 de octubre.",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-la-mancha/accidente-tren-toledo-suspendida-alta-velocidad-madrid-andalucia_133_13620647.html"
-    },
     {
       "id": "bng-20261029-1",
       "party": "bng",
@@ -53,16 +43,6 @@
       "url": "https://www.moncloa.com/2026/11/02/pnv-eh-bildu-29n-elecciones-vascas-3460017"
     },
     {
-      "id": "pnv-20261102-2",
-      "party": "pnv",
-      "date": "2026-11-02",
-      "topic": "Urda y Puente",
-      "title": "Esteban pide a Sánchez asumir responsabilidad política y el cese de Puente",
-      "summary": "El portavoz del PNV dijo en Telecinco que el sistema de transporte «ha quedado en entredicho» y que llevará la petición a la Diputación Permanente del 3 de noviembre. Reiteró que rechaza un pacto con Vox.",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/11/02/aitor-esteban-pnv-presion-sanchez-puente-3460350"
-    },
-    {
       "id": "bildu-20261103-1",
       "party": "bildu",
       "date": "2026-11-03",
@@ -81,16 +61,6 @@
       "summary": "Según Infobae, el BNG pidió expresamente su salida. Ana Pontón había reclamado una investigación independiente y una auditoría de seguridad de la red.",
       "source": "Infobae",
       "url": "https://www.infobae.com/espana/2026/11/04/el-adios-de-oscar-puente-el-ministro-de-transportes-se-aparta-para-evitar-que-sanchez-caiga-con-el-en-las-elecciones-generales-del-29-n/"
-    },
-    {
-      "id": "junts-20261103-1",
-      "party": "junts",
-      "date": "2026-11-03",
-      "topic": "Accidente de Urda",
-      "title": "Nogueras reclama la dimisión de Puente en la Diputación Permanente",
-      "summary": "Según Voz Pópuli, la portavoz de Junts pidió su salida durante la comparecencia. Antes, había pedido que Sánchez asumiera la «responsabilidad política de su Gobierno».",
-      "source": "Voz Pópuli",
-      "url": "https://www.vozpopuli.com/espana/oscar-puente-comparece-en-la-diputacion-permanente-en-directo-explicaciones-sobre-el-accidente-de-tren-en-toledo-posible-dimision-y-ultima-hora-hora-desde-el-congreso-hoy.html"
     },
     {
       "id": "pnv-20261103-1",
@@ -181,16 +151,6 @@
       "summary": "Ana Pontón dijo que el gasto militar del Estado en 2026 es de 35.419 millones frente a 2.235 millones en vivienda. Néstor Rego pidió a votantes decepcionados que no se queden en casa.",
       "source": "ValmiñorTV",
       "url": "https://valminortv.com/2026/11/06/ponton-apela-en-mondariz-balneario-a-concentrar-en-el-bng-el-voto-gallego-el-29n-para-darle-mas-fuerza-a-galicia"
-    },
-    {
-      "id": "erc-20261106-1",
-      "party": "erc",
-      "date": "2026-11-06",
-      "topic": "Vivienda",
-      "title": "Rufián responde a Nogueras que Junts votó «8 veces con PP y Vox contra el derecho a la vivienda»",
-      "summary": "Según CatalunyaPress y Europa Press, el candidato de ERC respondió en X pidiendo a la de Junts que «vuelva a la cordura» y defendió que aprobar leyes es difícil por los votos de Junts en la legislatura.",
-      "source": "CatalunyaPress",
-      "url": "https://www.catalunyapress.es/articulo/politica-catalunya/2026-11-06/6082074-choque-entre-junts-erc-sube-tono-nogueras-acusa-rufian-responde"
     },
     {
       "id": "junts-20261106-1",
@@ -303,46 +263,6 @@
       "url": "https://www.nuevatribuna.es/actualidad/diez-pildoras-dia-campana-electoral/20261108212734256177.html"
     },
     {
-      "id": "sumar-20261108-2",
-      "party": "sumar",
-      "date": "2026-11-08",
-      "topic": "Fiscalidad",
-      "title": "Colau propone subir los impuestos al 1 % más rico; Delgado cifra la recaudación en 11.000 millones",
-      "summary": "Según Moncloa.com, en La Sagrera (Barcelona) Delgado propuso gravar la cuarta vivienda en adelante y Colau expropiar a los fondos buitre. Las cifras de milmillonarios y viviendas son de la propia candidatura.",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/11/08/colau-frente-amplio-cataluna-fiscal-3463941/"
-    },
-    {
-      "id": "all-20261109-2",
-      "party": "all",
-      "date": "2026-11-09",
-      "topic": "Entrevistas TV",
-      "title": "Sánchez, Feijóo y Abascal tienen entrevistas televisivas este lunes 9 de noviembre",
-      "summary": "Según la agenda de Europa Press publicada por Infobae, Sánchez estará en La Séptima, Feijóo en Cuatro y 101TV Andalucía y Abascal en La Revuelta de TVE.",
-      "source": "Infobae (agencias)",
-      "url": "https://www.infobae.com/espana/agencias/2026/11/08/hoy-sera-noticia-lunes-9-de-noviembre/"
-    },
-    {
-      "id": "all-20261109-3",
-      "party": "all",
-      "date": "2026-11-09",
-      "topic": "Voto por correo",
-      "title": "La Oficina del Censo Electoral empieza el 9-N a enviar la documentación del voto por correo",
-      "summary": "Según Que.es, el envío se hace por correo certificado desde el 9 de noviembre; quien lo solicita ya no puede votar en persona el 29-N y debe identificarse en Correos al depositar el voto.",
-      "source": "Que.es",
-      "url": "https://www.que.es/2026/11/07/voto-correo-29n-fechas-tramites/"
-    },
-    {
-      "id": "all-20261110-1",
-      "party": "all",
-      "date": "2026-11-09",
-      "topic": "Encuestas",
-      "title": "40dB, GAD3 y NC Report, tras Urda: PP primero y PP+Vox por encima de 176 escaños",
-      "summary": "Estimaciones con campo del 2 al 5 de noviembre: PP 129-138 escaños, PSOE 99-119 y Vox 61-69. 40dB (El País/SER): PP 31,9 %, PSOE 29,9 %; GAD3 (ABC): PP 136, PSOE 103; NC Report (La Razón): PP 136-138, PSOE 99-101.",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/espana/2026/11/09/el-psoe-se-quedaria-cerca-de-ganar-las-elecciones-al-recortarle-2-puntos-la-ventaja-al-pp-segun-las-encuestas-posteriores-al-accidente-ferroviario-de-urda/"
-    },
-    {
       "id": "all-20261110-2",
       "party": "all",
       "date": "2026-11-09",
@@ -433,16 +353,6 @@
       "url": "https://www.elconstitucional.es/es/nacional/politica/frente-amplio-pone-vivienda-en-centro-29n-con-lema-voto-como-casa-prepara-su-batalla-contra-ultraderecha-vox-por-ultimo-escano_9945_102.html"
     },
     {
-      "id": "vox-20261110-1",
-      "party": "vox",
-      "date": "2026-11-09",
-      "topic": "Entrevista y propuestas",
-      "title": "Abascal, en La Revuelta: eliminar IVA, ITP y AJD en la primera vivienda y priorizar la repatriación",
-      "summary": "En la entrevista del 9 de noviembre dijo que quitar esos impuestos abarataría la compra «al menos un 30 %» (estimación suya), que la ley de violencia de género «tiene que ser revisada» y que expulsaría a extranjeros que cometan delitos.",
-      "source": "El Constitucional",
-      "url": "https://www.elconstitucional.es/es/nacional/ultra-abascal-expone-su-agenda-29-n-broncano-revisar-ley-violencia-genero-culpar-inmigracion-crisis-vivienda_9949_102.html"
-    },
-    {
       "id": "all-20261110-4",
       "party": "all",
       "date": "2026-11-10",
@@ -531,36 +441,6 @@
       "summary": "Según EFE (Infobae), habló en Barcelona y citó IBI, IVA, ITP e IRPF para estimular el uso residencial de la vivienda.",
       "source": "Infobae (EFE)",
       "url": "https://www.infobae.com/espana/agencias/2026/11/11/junqueras-ve-imprescindible-esta-huelga-y-defiende-una-fiscalidad-a-favor-de-la-vivienda/"
-    },
-    {
-      "id": "pp-20261111-2",
-      "party": "pp",
-      "date": "2026-11-11",
-      "topic": "Vox",
-      "title": "Feijóo dice que no ha hablado de cargos con Abascal y que su objetivo es gobernar en solitario",
-      "summary": "Según Demócrata, en El Hormiguero justificó el acuerdo con Vox para el Senado y dijo que, si no logra los apoyos necesarios, tendría que completar su mayoría. Mantendría el derecho al aborto sin enmiendas a la ley vigente.",
-      "source": "Demócrata",
-      "url": "https://www.democrata.es/elecciones-generales-espana/feijoo-el-hormiguero-huelga-vivienda-pensiones-vox/"
-    },
-    {
-      "id": "pp-20261111-3",
-      "party": "pp",
-      "date": "2026-11-11",
-      "topic": "Querella",
-      "title": "El PP presenta actos de conciliación previos a una querella contra Koldo García y Leire Díez",
-      "summary": "Según El Español, el PP lo hace por afirmar que el partido ofreció dinero para obtener declaraciones contra Sánchez. El PP lo niega. Además, la Junta Electoral de Zona de Valencia abrió expediente a la alcaldesa Catalá por un vídeo.",
-      "source": "El Español (directo)",
-      "url": "https://www.elespanol.com/espana/20261111/elecciones-generales-directo-ultima-hora-pedro-sanchez-encuestas-actos-precampana-pp-psoe-vox-espana-2026-partidos-voto-por-correo/1003744453331_10.html"
-    },
-    {
-      "id": "psoe-20261111-1",
-      "party": "psoe",
-      "date": "2026-11-11",
-      "topic": "Gobierno en campaña",
-      "title": "Sánchez celebrará cuatro Consejos de Ministros durante la campaña, dos por semana",
-      "summary": "Según El Español, es una práctica poco habitual. El medio recuerda que hubo 28 decretos-ley en el mismo periodo previo en democracia. Tellado acusó al Gobierno de estar «desesperado».",
-      "source": "El Español (directo)",
-      "url": "https://www.elespanol.com/espana/20261111/elecciones-generales-directo-ultima-hora-pedro-sanchez-encuestas-actos-precampana-pp-psoe-vox-espana-2026-partidos-voto-por-correo/1003744453331_10.html"
     },
     {
       "id": "sumar-20261111-1",
@@ -1501,6 +1381,146 @@
       "summary": "Según EFE, Gorka Urtaran (Álava) y Maribel Vaquero (Gipuzkoa) participan en el acto el sexto día de campaña.",
       "source": "Infobae (EFE)",
       "url": "https://www.infobae.com/espana/agencias/2026/11/18/sexto-dia-de-campana-sanchez-y-feijoo-sin-mitines-se-centran-en-preparar-el-cara-a-cara/"
+    },
+    {
+      "id": "all-20261118-2",
+      "party": "all",
+      "date": "2026-11-18",
+      "topic": "Congreso",
+      "title": "La Diputación Permanente convalida siete decretos ley aprobados en precampaña",
+      "summary": "Según Infobae, PP y PNV votaron a favor de todos; Vox votó en contra de seis y a favor del de Urda. Los votos de PSOE, Sumar, ERC, Bildu y Podemos suman 34; PP y Vox, 33, y la mayoría exige 35.",
+      "source": "Infobae (agencias)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/18/la-diputacion-permanente-del-congreso-convalida-siete-decretos-ley-aprobados-en-precampana-con-apoyo-del-pp/"
+    },
+    {
+      "id": "all-20261118-3",
+      "party": "all",
+      "date": "2026-11-18",
+      "topic": "Encuestas",
+      "title": "Tracking 40dB (13-17 nov): PP 131 escaños, PSOE 122, Vox 55",
+      "summary": "Según el tracking de El País y SER (2.000 entrevistas online, error del 2,2 %), PP+Vox sumarían 186 escaños. Son estimaciones, no resultados.",
+      "source": "Demócrata (40dB)",
+      "url": "https://www.democrata.es/encuestas/elecciones-generales/elecciones-generales-tracking-encuesta-29n-hoy-40db-18-noviembre-2026/"
+    },
+    {
+      "id": "vox-20261118-1",
+      "party": "vox",
+      "date": "2026-11-18",
+      "topic": "Votaciones",
+      "title": "Vox vota en contra de seis de los siete decretos convalidados en la Diputación Permanente",
+      "summary": "Según Infobae, apoyó solo el de ayudas por el accidente de Urda. Votó en contra, entre otros, del de ayudas a Ceuta (45,3 millones), el de dependencia y el de Seguridad Social.",
+      "source": "Infobae (agencias)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/18/la-diputacion-permanente-del-congreso-convalida-siete-decretos-ley-aprobados-en-precampana-con-apoyo-del-pp/"
+    },
+    {
+      "id": "junts-20261118-1",
+      "party": "junts",
+      "date": "2026-11-18",
+      "topic": "Votaciones",
+      "title": "Junts se abstiene en los decretos de Ceuta y de familias monoparentales",
+      "summary": "Según Infobae, la abstención de Junts y el voto a favor del PNV fueron decisivos en la Diputación Permanente. El decreto de Ceuta (45,3 millones) salió con 59 votos a favor, 5 en contra y 1 abstención.",
+      "source": "Infobae (agencias)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/18/la-diputacion-permanente-convalida-los-45-millones-a-ceuta-con-apoyo-de-pp-y-vox-en-contra/"
+    },
+    {
+      "id": "erc-20261118-1",
+      "party": "erc",
+      "date": "2026-11-18",
+      "topic": "Campaña",
+      "title": "Rufián reta a Nogueras a comprometerse por escrito a no votar con PP y Vox",
+      "summary": "En Barcelona, respondió a Nogueras, que había pedido hablar siempre en catalán en el Congreso. Rufián dijo que prefiere un compromiso sobre el voto. El artículo no recoge respuesta de Junts.",
+      "source": "Infobae (agencias)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/18/rufian-reta-a-nogueras-a-comprometerse-por-escrito-a-no-votar-con-pp-y-vox-en-el-congreso/"
+    },
+    {
+      "id": "bng-20261118-1",
+      "party": "bng",
+      "date": "2026-11-18",
+      "topic": "Trabajo",
+      "title": "Pontón acusa al PP de usar Galicia como «banco de pruebas» de recortes",
+      "summary": "En Ferrol, con Néstor Rego, el BNG reclamó un SMI de 1.426 euros (el 60 % del salario medio), jornada de 35 horas y derogar la reforma laboral, según el programa del partido.",
+      "source": "Europa Press (Diario Siglo XXI)",
+      "url": "https://www.diariosigloxxi.com/texto-ep/mostrar/20261118192055/ponton-acusa-pp-utilizar-galicia-como-banco-pruebas-recortes-feijoo-quiere-poner-marcha"
+    },
+    {
+      "id": "pnv-20261118-2",
+      "party": "pnv",
+      "date": "2026-11-18",
+      "topic": "Campaña",
+      "title": "Esteban pide recuperar la «cultura del acuerdo» y dice que el PNV intentará facilitar pactos",
+      "summary": "Según Nueva Tribuna, el presidente del PNV afirmó que su partido procurará facilitar acuerdos en la próxima legislatura. El texto no aporta cifras.",
+      "source": "Nueva Tribuna",
+      "url": "https://www.nuevatribuna.es/actualidad/elecciones-29n-derecha-izquierda-diez-pildoras-dia-campana-electoral/20261118191133256531.html"
+    },
+    {
+      "id": "pp-20261118-1",
+      "party": "pp",
+      "date": "2026-11-18",
+      "topic": "Agenda",
+      "title": "Feijóo irá a El Hierro el 20, a Valencia el 21, a Murcia el 22 y a Cádiz el 23",
+      "summary": "Según Infobae, cambió el mitin previsto en Las Palmas por una visita a El Hierro por la llegada de cayucos. El domingo coincidirá en Murcia con Sánchez, en otro acto.",
+      "source": "Infobae (agencias)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/18/feijoo-hara-campana-el-domingo-en-murcia-y-el-lunes-se-desplazara-a-cadiz/"
+    },
+    {
+      "id": "pp-20261118-2",
+      "party": "pp",
+      "date": "2026-11-18",
+      "topic": "Campaña",
+      "title": "Sémper admite que ganar «está muy complicado» y cree «muy poco» en las encuestas",
+      "summary": "Según El Español, el portavoz del PP dijo también que el Gobierno usa el Consejo de Ministros para actos electorales; Tellado llamó a Sánchez «presidente frívolo».",
+      "source": "El Español",
+      "url": "https://www.elespanol.com/espana/20261118/elecciones-generales-directo-ultima-hora-pedro-sanchez-encuestas-sondeos-actos-campana-pp-psoe-vox-2026-partidos-voto-correo-electoral/1003744462289_10.html"
+    },
+    {
+      "id": "psoe-20261118-1",
+      "party": "psoe",
+      "date": "2026-11-18",
+      "topic": "Campaña",
+      "title": "Sánchez, en Antena 3: fija 176 escaños como objetivo y dice que en Ceuta quedan menos de 5.000 migrantes",
+      "summary": "Según El Español y Nueva Tribuna, reconoció que parte del electorado puede estar decepcionada con la vivienda y defendió combinar construcción y regulación.",
+      "source": "El Español",
+      "url": "https://www.elespanol.com/espana/20261118/elecciones-generales-directo-ultima-hora-pedro-sanchez-encuestas-sondeos-actos-campana-pp-psoe-vox-2026-partidos-voto-correo-electoral/1003744462289_10.html"
+    },
+    {
+      "id": "sumar-20261118-1",
+      "party": "sumar",
+      "date": "2026-11-18",
+      "topic": "Campaña",
+      "title": "Colau, en Gijón; Bustinduy y Llorente discrepan sobre limitar herencias a 10 millones",
+      "summary": "Según El Español, Frente Amplio aspira a escaños en 17 provincias y concurre con Podemos, Compromís y NC en Comunidad Valenciana y Canarias. Colau cierra el 21 en Barcelona con Yolanda Díaz.",
+      "source": "El Español",
+      "url": "https://www.elespanol.com/espana/20261118/elecciones-generales-directo-ultima-hora-pedro-sanchez-encuestas-sondeos-actos-campana-pp-psoe-vox-2026-partidos-voto-correo-electoral/1003744462289_10.html"
+    },
+    {
+      "id": "podemos-20261118-1",
+      "party": "podemos",
+      "date": "2026-11-18",
+      "topic": "Campaña",
+      "title": "Montero se reúne con empleados públicos afectados por la temporalidad; Belarra critica al PSOE",
+      "summary": "Según Infobae y Nueva Tribuna, Montero dio entrevistas en RNE y Telecinco; Belarra acusó al PSOE de recuperar promesas sociales en campaña tras no cumplirlas en la legislatura.",
+      "source": "Infobae (agencias)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/18/sexto-dia-de-campana-sanchez-y-feijoo-sin-mitines-se-centran-en-preparar-el-cara-a-cara/"
+    },
+    {
+      "id": "bildu-20261118-1",
+      "party": "bildu",
+      "date": "2026-11-18",
+      "topic": "Campaña",
+      "title": "Matute interviene en un acto de EH Bildu en Sestao",
+      "summary": "Según Infobae, el número uno por Bizkaia participó en un acto electoral el sexto día de campaña.",
+      "source": "Infobae (agencias)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/18/sexto-dia-de-campana-sanchez-y-feijoo-sin-mitines-se-centran-en-preparar-el-cara-a-cara/"
+    },
+    {
+      "id": "all-20261119-1",
+      "party": "all",
+      "date": "2026-11-19",
+      "topic": "Debates",
+      "title": "El cara a cara Sánchez-Feijóo se celebra hoy, moderado por María Casado",
+      "summary": "Según El Español, será en el plató A de Madrid Content City (Secuoya) y sin dispositivos electrónicos. Sánchez y Feijóo no tuvieron mítines el 18 para prepararlo.",
+      "source": "El Español",
+      "url": "https://www.elespanol.com/espana/20261118/elecciones-generales-directo-ultima-hora-pedro-sanchez-encuestas-sondeos-actos-campana-pp-psoe-vox-2026-partidos-voto-correo-electoral/1003744462289_10.html"
     }
   ],
   "positions": {},
