@@ -1,17 +1,7 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-21",
  "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
  "news": [
-  {
-   "id": "bildu-20261030-1",
-   "party": "bildu",
-   "date": "2026-10-30",
-   "topic": "Urda",
-   "title": "Matute pide no «caer en la histeria» de las dimisiones y depurar responsabilidades después",
-   "summary": "Según el directo de The Objective, el cabeza de lista de EH Bildu por Bizkaia defendió esclarecer primero lo ocurrido en el accidente de Urda.",
-   "source": "The Objective",
-   "url": "https://theobjective.com/economia/transporte/2026-10-30/ultima-hora-accidente-urda-toledo/directo/"
-  },
   {
    "id": "bildu-20261102-1",
    "party": "bildu",
@@ -41,16 +31,6 @@
    "summary": "Según Infobae, el BNG pidió expresamente su salida. Ana Pontón había reclamado una investigación independiente y una auditoría de seguridad de la red.",
    "source": "Infobae",
    "url": "https://www.infobae.com/espana/2026/11/04/el-adios-de-oscar-puente-el-ministro-de-transportes-se-aparta-para-evitar-que-sanchez-caiga-con-el-en-las-elecciones-generales-del-29-n/"
-  },
-  {
-   "id": "podemos-20261103-1",
-   "party": "podemos",
-   "date": "2026-11-03",
-   "topic": "Accidente de Urda",
-   "title": "Belarra pide la dimisión de Puente durante su comparecencia sobre Urda",
-   "summary": "Según Voz Pópuli, la secretaria general de Podemos se sumó a las peticiones de dimisión del ministro antes de que este anunciara su salida.",
-   "source": "Voz Pópuli",
-   "url": "https://www.vozpopuli.com/espana/oscar-puente-comparece-en-la-diputacion-permanente-en-directo-explicaciones-sobre-el-accidente-de-tren-en-toledo-posible-dimision-y-ultima-hora-hora-desde-el-congreso-hoy.html"
   },
   {
    "id": "podemos-20261103-2",
@@ -161,16 +141,6 @@
    "summary": "En Espacio Delicias, junto a Rufián, Montero planteó reducir la jornada, crear una empresa pública de alimentación y recuperar el control público de sectores estratégicos. Dijo que el PSOE busca «devorar a su izquierda».",
    "source": "El Constitucional",
    "url": "https://www.elconstitucional.es/en/national/politics/irene-montero-and-gabriel-rufian-overflow-their-rally-in-madrid-with-housing-and-the-11n-strike-as-their-banner-we-have-to-paralyze-the-country_9929_102.html"
-  },
-  {
-   "id": "erc-20261108-1",
-   "party": "erc",
-   "date": "2026-11-08",
-   "topic": "Candidatura",
-   "title": "Junqueras defiende la candidatura de ERC como coalición con la ciudadanía y se distancia de otras fuerzas de izquierdas",
-   "summary": "Según Nueva Tribuna, lo dijo durante la jornada del 8 de noviembre.",
-   "source": "Nueva Tribuna",
-   "url": "https://www.nuevatribuna.es/actualidad/diez-pildoras-dia-campana-electoral/20261108212734256177.html"
   },
   {
    "id": "erc-20261108-2",
@@ -293,16 +263,6 @@
    "url": "https://navarra.okdiario.com/articulo/politica/upn-pp-desvelan-lema-pedir-cambio-elecciones-29-n-navarra-espana-navarra-fin/20261110135626667178.html"
   },
   {
-   "id": "vox-20261110-3",
-   "party": "vox",
-   "date": "2026-11-10",
-   "topic": "Audiencia televisiva",
-   "title": "La entrevista de Abascal en «La Revuelta» marca el récord del programa con 4,8 millones de espectadores",
-   "summary": "Según EFE, la media fue de 4.815.000 espectadores (33,6 %). Vox dijo que se suprimieron 40 minutos; Sánchez, Urtasun y Montero criticaron la entrevista y Ayuso opinó que buscaba dividir a PP y Vox.",
-   "source": "Infobae (EFE)",
-   "url": "https://www.infobae.com/espana/agencias/2026/11/10/vox-celebra-como-un-triunfo-estrategico-la-entrevista-de-abascal-en-la-revuelta/"
-  },
-  {
    "id": "cc-20261111-1",
    "party": "cc",
    "date": "2026-11-11",
@@ -323,16 +283,6 @@
    "url": "https://www.infobae.com/espana/agencias/2026/11/11/junqueras-ve-imprescindible-esta-huelga-y-defiende-una-fiscalidad-a-favor-de-la-vivienda/"
   },
   {
-   "id": "sumar-20261111-1",
-   "party": "sumar",
-   "date": "2026-11-11",
-   "topic": "Huelga",
-   "title": "Delgado (Frente Amplio) pide el cese de Marlaska por las cargas contra piquetes",
-   "summary": "Según El Español, el cabeza de lista por Madrid calificó la huelga de «éxito absoluto» y criticó a Isabel Díaz Ayuso.",
-   "source": "El Español (directo)",
-   "url": "https://www.elespanol.com/espana/20261111/elecciones-generales-directo-ultima-hora-pedro-sanchez-encuestas-actos-precampana-pp-psoe-vox-espana-2026-partidos-voto-por-correo/1003744453331_10.html"
-  },
-  {
    "id": "vox-20261111-1",
    "party": "vox",
    "date": "2026-11-11",
@@ -351,26 +301,6 @@
    "summary": "Según El Español, lo dijo en la jornada de huelga general. El mismo medio informa de que el 11N hubo más de 50 detenciones.",
    "source": "El Español (directo)",
    "url": "https://www.elespanol.com/espana/20261111/elecciones-generales-directo-ultima-hora-pedro-sanchez-encuestas-actos-precampana-pp-psoe-vox-espana-2026-partidos-voto-por-correo/1003744453331_10.html"
-  },
-  {
-   "id": "all-20261112-2",
-   "party": "all",
-   "date": "2026-11-12",
-   "topic": "Huelga 11N",
-   "title": "Sindicatos y patronal dan cifras opuestas de seguimiento de la huelga general del 11N",
-   "summary": "CCOO y UGT hablaron de entre el 41 % y el 75 % por comunidades; CEOE y Cepyme, de menos del 5 % de media. Interior citó más de 50 detenidos y 40.000 manifestantes en Barcelona, según la Guardia Urbana.",
-   "source": "Moncloa.com",
-   "url": "https://www.moncloa.com/2026/11/12/huelga-general-11n-2-3466117/"
-  },
-  {
-   "id": "all-20261112-h4",
-   "party": "all",
-   "date": "2026-11-12",
-   "topic": "Vivienda",
-   "title": "La Diputación Permanente convalida el decreto de vivienda por 35 votos a 34 y deroga el de prórroga de alquileres",
-   "summary": "Según Alcalá Hoy, votaron a favor PSOE, Sumar, ERC, EH Bildu, PNV y Podemos, y en contra PP, Vox y Junts. El de prórroga automática de alquileres cayó con el voto contrario de PP, Vox, Junts y PNV.",
-   "source": "Alcalá Hoy",
-   "url": "https://www.alcalahoy.es/2026/11/12/la-diputacion-permanente-salva-el-decreto-de-vivienda-por-un-voto-y-tumba-la-prorroga-automatica-de-alquileres/"
   },
   {
    "id": "bng-20261112-1",
@@ -413,16 +343,6 @@
    "url": "https://www.estrelladigital.es/espana/cuaderno-campana-29n-arranque/20261113073000453273.html"
   },
   {
-   "id": "psoe-20261112-h1",
-   "party": "psoe",
-   "date": "2026-11-12",
-   "topic": "Acto de campaña",
-   "title": "Sánchez abre campaña en Sevilla y habla de «remontada épica»",
-   "summary": "Según EFE recogida por Estrella Digital, habló ante unas 4.000 personas. Dijo que PP y Vox representan «la involución como Trump, Bolsonaro o Milei».",
-   "source": "Estrella Digital (EFE)",
-   "url": "https://www.estrelladigital.es/espana/cuaderno-campana-29n-arranque/20261113073000453273.html"
-  },
-  {
    "id": "psoe-20261112-h2",
    "party": "psoe",
    "date": "2026-11-12",
@@ -459,16 +379,6 @@
    "topic": "Acto de campaña",
    "title": "Abascal defiende en Huesca la «prioridad nacional» y suprimir el Ministerio de Igualdad",
    "summary": "Según Estrella Digital, el acto reunió a unas 1.000 personas dentro y 300 fuera, según Aragón Digital. Vox convocó su primer gran acto de campaña para el 13 en la plaza de Colón.",
-   "source": "Estrella Digital",
-   "url": "https://www.estrelladigital.es/espana/cuaderno-campana-29n-arranque/20261113073000453273.html"
-  },
-  {
-   "id": "all-20261113-h1",
-   "party": "all",
-   "date": "2026-11-13",
-   "topic": "Arranque de campaña",
-   "title": "Arranca la campaña del 29N: censo de 38.728.356 electores",
-   "summary": "Según Estrella Digital, el censo incluye 2.769.645 electores en el extranjero y 1.615.127 votarán por primera vez en unas generales. El voto por correo puede pedirse hasta el 19 y entregarse hasta el 25; la campaña termina a las 24:00 del 27.",
    "source": "Estrella Digital",
    "url": "https://www.estrelladigital.es/espana/cuaderno-campana-29n-arranque/20261113073000453273.html"
   },
@@ -731,26 +641,6 @@
    "summary": "Según Sevilla Actualidad, el mitin en el Parque de los Perdigones defendió más intervención pública en vivienda, medidas contra el coste de la vida y el rechazo a los conflictos bélicos.",
    "source": "Sevilla Actualidad",
    "url": "https://www.sevillaactualidad.com/sevilla/601242-irene-montero-reivindica-en-sevilla-la-paz-casa-y-trabajo-y-pide-el-voto-para-podemos/"
-  },
-  {
-   "id": "pp-20261115-1",
-   "party": "pp",
-   "date": "2026-11-15",
-   "topic": "Campaña",
-   "title": "Feijóo, en Santander ante unas 4.000 personas, anuncia campaña en Gipuzkoa con Echevarría",
-   "summary": "Según la nota del PP, condenó la agresión de Hernani, dijo que el PSE «se ha callado» y que Bildu «está encantado», y pidió a Sánchez que diga a sus socios que no «violenten» la campaña.",
-   "source": "PP (pp.es)",
-   "url": "https://www.pp.es/actualidad/articulos/feijoo-abre-las-puertas-del-pp-a-todos-como-la-casa-comun-del-cambio-y-reclama-a-sanchez-que-diga-a-sus-socios-que-no-violenten-la-campana/"
-  },
-  {
-   "id": "pp-20261115-2",
-   "party": "pp",
-   "date": "2026-11-15",
-   "topic": "Infraestructuras",
-   "title": "Feijóo promete «garantizar la llegada del AVE a Reinosa» y financiación autonómica «justa»",
-   "summary": "Según Estrella Digital, también prometió apoyo a los ganaderos y mantener al lobo fuera del listado de especies protegidas.",
-   "source": "Estrella Digital",
-   "url": "https://www.estrelladigital.es/espana/feijoo-ave-reinosa-abascal-voto-socialista-sanchez-reforma-constitucion/20261116073000453409.html"
   },
   {
    "id": "psoe-20261115-1",
@@ -1531,6 +1421,106 @@
    "summary": "Según Vozpópuli, Abascal tuvo medios en Zamora y mitin vespertino en Gijón.",
    "source": "Vozpópuli",
    "url": "https://www.vozpopuli.com/espana/politica/elecciones-del-29-n-en-directo-cara-a-cara-entre-sanchez-y-feijoo-ultimo-dia-para-pedir-el-voto-por-correo-y-actos-de-campana.html"
+  },
+  {
+   "id": "all-20261120-1",
+   "party": "all",
+   "date": "2026-11-20",
+   "topic": "Debate",
+   "title": "Los partidos valoran el cara a cara; el debate a cuatro será el jueves 26",
+   "summary": "Según EFE, el PP dio un «cinco a cero» a Feijóo en los cinco bloques; Moncloa sostuvo que Sánchez buscó el voto indeciso. Sánchez y Feijóo coincidirán el domingo en Murcia, en mítines separados.",
+   "source": "Infobae (EFE)",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/20/la-resaca-del-cara-a-cara-sanchez-feijoo-cierra-la-primera-semana-de-campana-29n/"
+  },
+  {
+   "id": "all-20261120-2",
+   "party": "all",
+   "date": "2026-11-20",
+   "topic": "Encuestas",
+   "title": "Tracking 40dB (16-20 nov): PP 31,9 %, PSOE 31,2 %, Vox 17,1 % de voto",
+   "summary": "Estimación de 40dB para El País y SER, con trabajo de campo del 16 al 20 de noviembre, 2.000 entrevistas online y error de ±2,2 %. Son estimaciones, no resultados.",
+   "source": "Electogrāfica",
+   "url": "https://www.electografica.com/2026/11/encuesta-40db-261120.html"
+  },
+  {
+   "id": "all-20261120-3",
+   "party": "all",
+   "date": "2026-11-20",
+   "topic": "Encuestas",
+   "title": "Data10 para OKDIARIO (19-20 nov): PP 137 escaños, PSOE 106, Vox 62",
+   "summary": "Estimación con 750 entrevistas telefónicas y online, error de ±3,6 %. Atribuye 12 escaños a Frente Amplio con Compromís-FV y UPC. Es una estimación, no un resultado.",
+   "source": "Electogrāfica",
+   "url": "https://www.electografica.com/2026/11/encuesta-data10-261120.html"
+  },
+  {
+   "id": "erc-20261120-1",
+   "party": "erc",
+   "date": "2026-11-20",
+   "topic": "Debate",
+   "title": "Rufián sobre el debate: «Si Feijóo te come así es que no te lo has preparado o estás mal asesorado»",
+   "summary": "Según EFE, el portavoz de ERC lo escribió en X tras el cara a cara entre Sánchez y Feijóo.",
+   "source": "Infobae (EFE)",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/20/la-resaca-del-cara-a-cara-sanchez-feijoo-cierra-la-primera-semana-de-campana-29n/"
+  },
+  {
+   "id": "podemos-20261120-1",
+   "party": "podemos",
+   "date": "2026-11-20",
+   "topic": "Campaña",
+   "title": "Montero pide sacudirse «el chantaje del voto útil»",
+   "summary": "Según Moncloa.com, la candidata de Podemos, Irene Montero, rechazó el llamamiento al voto útil. Podemos no participa en el debate a cuatro, según la JEC.",
+   "source": "Moncloa.com",
+   "url": "https://www.moncloa.com/2026/11/20/colau-debate-sanchez-abstracto-sumar-3471566/"
+  },
+  {
+   "id": "pp-20261120-1",
+   "party": "pp",
+   "date": "2026-11-20",
+   "topic": "Inmigración",
+   "title": "Feijóo propone en El Hierro un «mando único» de inmigración",
+   "summary": "Desde La Restinga, Feijóo dijo que «hay siete ministros con competencias en materia de inmigración y habrá un mando único». Citó datos de Interior: 11.037 llegadas irregulares a Canarias en la primera quincena de noviembre.",
+   "source": "Infobae",
+   "url": "https://www.infobae.com/espana/2026/11/20/feijoo-propone-en-el-hierro-un-mando-unico-para-coordinar-la-respuesta-a-la-inmigracion-si-gana-las-elecciones-del-29-n/"
+  },
+  {
+   "id": "pp-20261120-2",
+   "party": "pp",
+   "date": "2026-11-20",
+   "topic": "Campaña",
+   "title": "Feijóo, en Tenerife: «Hemos ganado un debate, pero aún no hemos ganado las elecciones»",
+   "summary": "En un mitin en Santa Cruz de Tenerife ante unas 1.500 personas, pidió al PP «darlo todo» hasta el 29 de noviembre. Prometió identificar a quien llega en un máximo de siete días y fijar su edad en 72 horas.",
+   "source": "Infobae (Europa Press)",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/20/feijoo-pide-al-pp-darlo-todo-en-la-recta-final-hemos-ganado-un-debate-pero-no-hemos-ganado-las-elecciones/"
+  },
+  {
+   "id": "psoe-20261120-1",
+   "party": "psoe",
+   "date": "2026-11-20",
+   "topic": "Campaña",
+   "title": "Sánchez, en Santiago de Compostela ante 10.000 personas, dice que Feijóo «quedó retratado»",
+   "summary": "Según el directo de Público, Sánchez afirmó que Feijóo solo ofreció «insultos y bulos» en el debate.",
+   "source": "Público",
+   "url": "https://www.publico.es/politica/ultima-hora-campana-electoral-29n-directo-4.amp.html"
+  },
+  {
+   "id": "sumar-20261120-1",
+   "party": "sumar",
+   "date": "2026-11-20",
+   "topic": "Debate",
+   "title": "Colau califica de «abstracto» el debate de Sánchez; Urtasun y Bustinduy opinan",
+   "summary": "Según Moncloa.com, Colau dijo que a Sánchez le faltó «contundencia». Urtasun afirmó que «el PSOE no llega solo» frente a la derecha y Bustinduy dijo que Sánchez tiene un problema para explicar su política de vivienda.",
+   "source": "Moncloa.com",
+   "url": "https://www.moncloa.com/2026/11/20/colau-debate-sanchez-abstracto-sumar-3471566/"
+  },
+  {
+   "id": "vox-20261120-1",
+   "party": "vox",
+   "date": "2026-11-20",
+   "topic": "Campaña",
+   "title": "Abascal en Salamanca: una concentración de unas 200 personas protesta por su acto",
+   "summary": "Ocho colectivos convocaron la protesta en la plaza de los Bandos. Un hombre con una bandera con la Cruz de Borgoña se enfrentó a manifestantes e intervino la Policía Nacional. Anunciaron otra manifestación el 22 de noviembre.",
+   "source": "Salamanca RTV al Día",
+   "url": "https://salamancartvaldia.es/noticia/2026-11-20-video-y-fotos-incidente-violento-en-la-concentracion-contra-santiago-abascal-en-salamanca-401184"
   }
  ],
  "positions": {},
