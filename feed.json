@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
   "news": [
     {
@@ -71,16 +71,6 @@
       "summary": "Ana Pontón dijo que el gasto militar del Estado en 2026 es de 35.419 millones frente a 2.235 millones en vivienda. Néstor Rego pidió a votantes decepcionados que no se queden en casa.",
       "source": "ValmiñorTV",
       "url": "https://valminortv.com/2026/11/06/ponton-apela-en-mondariz-balneario-a-concentrar-en-el-bng-el-voto-gallego-el-29n-para-darle-mas-fuerza-a-galicia"
-    },
-    {
-      "id": "junts-20261106-1",
-      "party": "junts",
-      "date": "2026-11-06",
-      "topic": "Legislatura",
-      "title": "Nogueras afirma que Rufián «no ha aprobado ni una sola ley»",
-      "summary": "Según CatalunyaPress, la candidata de Junts retó al de ERC a citar leyes que haya sacado adelante en el Congreso y recordó que el PP ganó en 2023 pero no pudo gobernar por los votos de Junts.",
-      "source": "CatalunyaPress",
-      "url": "https://www.catalunyapress.es/articulo/politica-catalunya/2026-11-06/6082074-choque-entre-junts-erc-sube-tono-nogueras-acusa-rufian-responde"
     },
     {
       "id": "junts-20261106-2",
@@ -163,16 +153,6 @@
       "url": "https://www.digitalfarocanarias.com/index.php/2026/11/09/cc-y-primero-canarias-presentan-diez-grandes-causas-y-cien-medidas-para-defender-canarias-en-madrid/"
     },
     {
-      "id": "erc-20261110-1",
-      "party": "erc",
-      "date": "2026-11-09",
-      "topic": "Campaña",
-      "title": "Junqueras sitúa el 29N como inicio de su carrera hacia la presidencia de la Generalitat",
-      "summary": "El 9 de noviembre pidió confiar en Rufián como «la única defensa realmente efectiva del país», calificó de «fracaso» al Govern de Illa y acusó a Junts de «falta de responsabilidad».",
-      "source": "El Debate",
-      "url": "https://www.eldebate.com/espana/cataluna/20261109/junqueras-apunta-29n-como-inicio-carrera-hacia-presidencia-generalitat_478918.html"
-    },
-    {
       "id": "erc-20261110-2",
       "party": "erc",
       "date": "2026-11-09",
@@ -243,16 +223,6 @@
       "url": "https://www.infobae.com/espana/agencias/2026/11/11/junqueras-ve-imprescindible-esta-huelga-y-defiende-una-fiscalidad-a-favor-de-la-vivienda/"
     },
     {
-      "id": "vox-20261111-1",
-      "party": "vox",
-      "date": "2026-11-11",
-      "topic": "Medios",
-      "title": "Vox suspende la entrevista de Abascal con Jordi Wild por los 40 minutos no emitidos de La Revuelta",
-      "summary": "Según un comunicado de Vox recogido por Infobae, acusa a RTVE y a El Terrat de incumplir lo acordado. El artículo no recoge la versión de RTVE.",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/espana/2026/11/11/vox-suspende-la-entrevista-de-santiago-abascal-con-jordi-wild-tras-la-negativa-de-rtve-a-publicar-los-40-minutos-no-emitidos-de-la-revuelta/"
-    },
-    {
       "id": "bng-20261112-1",
       "party": "bng",
       "date": "2026-11-12",
@@ -289,26 +259,6 @@
       "topic": "Acto de campaña",
       "title": "Montero y Belarra abren campaña en Madrid y critican la actuación policial en la huelga",
       "summary": "Según Estrella Digital, Irene Montero dijo que «la brutalidad policial fue insoportable para una democracia». El 13 compartiría mitin en Palma con Gabriel Rufián (ERC).",
-      "source": "Estrella Digital",
-      "url": "https://www.estrelladigital.es/espana/cuaderno-campana-29n-arranque/20261113073000453273.html"
-    },
-    {
-      "id": "sumar-20261112-1",
-      "party": "sumar",
-      "date": "2026-11-12",
-      "topic": "Campaña",
-      "title": "Colau abre la campaña del Frente Amplio en Madrid con Delgado, Valero y Martínez",
-      "summary": "Según Europa Press (Infobae), la pegada de carteles es en Puente de Vallecas. El viernes tiene entrevistas y su primer acto será en Sevilla.",
-      "source": "Infobae (Europa Press)",
-      "url": "https://www.infobae.com/espana/agencias/2026/11/12/sanchez-abre-campana-hoy-en-sevilla-feijoo-lo-hara-en-badalona-mientras-que-abascal-y-colau-eligen-madrid/"
-    },
-    {
-      "id": "vox-20261112-h1",
-      "party": "vox",
-      "date": "2026-11-12",
-      "topic": "Acto de campaña",
-      "title": "Abascal defiende en Huesca la «prioridad nacional» y suprimir el Ministerio de Igualdad",
-      "summary": "Según Estrella Digital, el acto reunió a unas 1.000 personas dentro y 300 fuera, según Aragón Digital. Vox convocó su primer gran acto de campaña para el 13 en la plaza de Colón.",
       "source": "Estrella Digital",
       "url": "https://www.estrelladigital.es/espana/cuaderno-campana-29n-arranque/20261113073000453273.html"
     },
@@ -371,36 +321,6 @@
       "summary": "Según EFE recogida por Infobae, es el primer día oficial de campaña. El PNV votó el 12 de noviembre contra el decreto de prórroga automática de alquileres y a favor del decreto principal de vivienda.",
       "source": "Infobae (EFE)",
       "url": "https://www.infobae.com/espana/agencias/2026/11/13/comienza-la-campana-de-pamplona-a-madrid-pasando-por-youtube/"
-    },
-    {
-      "id": "all-20261114-1",
-      "party": "all",
-      "date": "2026-11-14",
-      "topic": "Encuestas",
-      "title": "CIS, Sigma Dos y 40dB divergen: PSOE 134-143, PP 124-137 o PP 126-132 escaños",
-      "summary": "Estimaciones recogidas por Telemadrid el 13-N: el CIS da PP+Vox máx. 171; Sigma Dos (El Mundo) 189-202; 40dB (El País) en torno a 190. No indica fechas de campo.",
-      "source": "Telemadrid",
-      "url": "https://telemadrid.es/elecciones/generales/2026/encuestas-electorales-ofrecen-resultados-dispares_1_2812187.html"
-    },
-    {
-      "id": "all-20261114-2",
-      "party": "all",
-      "date": "2026-11-14",
-      "topic": "Agenda",
-      "title": "Segundo día de campaña: Sánchez en Palma, Feijóo en Santiago y Abascal en Almería y Murcia",
-      "summary": "Según EFE, Sánchez acude con Armengol a Palma; Feijóo, con Rueda y Tellado a Santiago; Abascal, a Almería por la mañana y Murcia por la tarde.",
-      "source": "Infobae (EFE)",
-      "url": "https://www.infobae.com/espana/agencias/2026/11/14/segundo-dia-de-campana-sanchez-en-mallorca-feijoo-en-a-coruna-y-abascal-duplica-actos/"
-    },
-    {
-      "id": "all-20261114-3",
-      "party": "all",
-      "date": "2026-11-14",
-      "topic": "Debates",
-      "title": "RTVE fija el cara a cara Sánchez-Feijóo el 19 de noviembre y un debate a ocho el 23",
-      "summary": "El cara a cara será el jueves 19 a las 22:00, moderado por María Casado; el debate de portavoces, el lunes 23 a las 22:00, con Xabier Fortes y ocho grupos con representación en el Congreso. Un debate a cuatro sigue sin fecha.",
-      "source": "Última Hora (RTVE)",
-      "url": "https://www.ultimahora.es/noticias/elecciones-29n/2026/11/14/2749825/rtve-emitira-cara-cara-entre-sanchez-feijoo-noviembre-debate-ocho-formaciones-dia-23.html"
     },
     {
       "id": "bildu-20261114-1",
@@ -471,16 +391,6 @@
       "summary": "Según EFE, el viernes inició su campaña en Palma junto a Gabriel Rufián (ERC).",
       "source": "Infobae (EFE)",
       "url": "https://www.infobae.com/espana/agencias/2026/11/14/segundo-dia-de-campana-sanchez-en-mallorca-feijoo-en-a-coruna-y-abascal-duplica-actos/"
-    },
-    {
-      "id": "psoe-20261114-1",
-      "party": "psoe",
-      "date": "2026-11-14",
-      "topic": "Participación",
-      "title": "Sánchez pide en Pamplona «75 y 176»: participación del 75 % y 176 diputados",
-      "summary": "Según El Español, Sánchez fijó el 75 % de participación como objetivo; fuentes del PSOE esperan «ligeramente por encima del 70 %». SocioMétrica estima un 72 %.",
-      "source": "El Español",
-      "url": "https://www.elespanol.com/espana/politica/20261114/sanchez-fija-participacion-poder-seguir-moncloa-puntos-preve-hoy-propio-psoe/1003744458200_0.html"
     },
     {
       "id": "psoe-20261114-2",
@@ -681,26 +591,6 @@
       "summary": "Según Vozpópuli, la candidata de Podemos lo dijo tras los accidentes de Adamuz y Urda y propuso la medida para bajar la cesta de la compra.",
       "source": "Vozpópuli",
       "url": "https://www.vozpopuli.com/espana/politica/elecciones-generales-del-29-n-en-directo-sanchez-con-lula-feijoo-en-lleida-abascal-en-tenerife-y-colau-en-madrid.html"
-    },
-    {
-      "id": "pp-20261116-1",
-      "party": "pp",
-      "date": "2026-11-16",
-      "topic": "Agenda",
-      "title": "Feijóo visita Lleida y hace mitin conjunto con UPN en Pamplona",
-      "summary": "Según la agencia, el lunes 16 visita una explotación agraria en Lleida y por la tarde comparte acto con la presidenta de UPN, Cristina Ibarrola.",
-      "source": "Infobae (agencia)",
-      "url": "https://www.infobae.com/espana/agencias/2026/11/16/cuarto-dia-de-campana-sanchez-con-lula-feijoo-en-lleida-y-navarra-y-abascal-en-tenerife/"
-    },
-    {
-      "id": "pp-20261116-2",
-      "party": "pp",
-      "date": "2026-11-16",
-      "topic": "Euskadi",
-      "title": "Feijóo anuncia en Pamplona una «ley de nietos vasca»; su programa tiene 249 propuestas",
-      "summary": "Según Público, el anuncio se hizo en el acto con UPN. Según Vozpópuli, la ley facilitaría el voto a personas expulsadas del País Vasco por ETA.",
-      "source": "Público",
-      "url": "https://www.publico.es/politica/ultima-hora-campana-electoral-29n-directo.html"
     },
     {
       "id": "psoe-20261116-1",
@@ -1531,6 +1421,136 @@
       "summary": "Según Estrella Digital, Sánchez tiene acto a las 11:30 y Feijóo a las 12:00 en la plaza del Cardenal Belluga. Sánchez será esa noche invitado de «Salvados» en laSexta; Abascal tiene mitin en Zaragoza a las 13:00.",
       "source": "Estrella Digital",
       "url": "https://www.estrelladigital.es/espana/cuaderno-campana-29n-abascal-querellas-consulados-voto-correo-cae-58/20261122073000453703.html"
+    },
+    {
+      "id": "psoe-20261122-1",
+      "party": "psoe",
+      "date": "2026-11-22",
+      "topic": "Mitin",
+      "title": "Sánchez, en Murcia, pide una mayoría progresista de 176 escaños",
+      "summary": "Según teleSUR, el acto reunió a unas 10.000 personas en el Pabellón Príncipe de Asturias. Sánchez dijo que aspira a 176 escaños progresistas entre Congreso y Senado y auguró una participación del 75 %.",
+      "source": "teleSUR",
+      "url": "https://www.telesurtv.net/sanchez-llama-votar-contra-derecha-espana/"
+    },
+    {
+      "id": "pp-20261122-1",
+      "party": "pp",
+      "date": "2026-11-22",
+      "topic": "Mitin",
+      "title": "Feijóo, en Murcia: «No quiero una España de bofetadas ni un país agresivo»",
+      "summary": "Según Lanza Digital, el mitin se celebró en la plaza del Cardenal Belluga con más de 7.000 asistentes según los organizadores. Feijóo dijo que no nombraría a amigos en el Gobierno sino a especialistas.",
+      "source": "Lanza Digital",
+      "url": "https://www.lanzadigital.com/nacional/feijoo-pide-votar-al-pp-por-el-cambio-no-quiero-una-espana-de-bofetadas-ni-un-pais-agresivo/"
+    },
+    {
+      "id": "pp-20261122-2",
+      "party": "pp",
+      "date": "2026-11-22",
+      "topic": "Voto útil",
+      "title": "El PP intensificará el llamamiento al «voto útil» en la última semana",
+      "summary": "Según Europa Press, fuentes del PP afirman que más de 600.000 votantes han pasado del PSOE al PP desde octubre; es una estimación del propio partido. El PP prevé un debate a cuatro el jueves 26.",
+      "source": "Infobae (Europa Press)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/22/feijoo-apelara-al-voto-util-en-la-recta-final-para-ampliar-su-mayoria-tras-el-revulsivo-del-cara-a-cara/"
+    },
+    {
+      "id": "vox-20261122-1",
+      "party": "vox",
+      "date": "2026-11-22",
+      "topic": "Voto útil",
+      "title": "Abascal, en Zaragoza, acusa al PP de «jugar sucio» con el voto útil",
+      "summary": "Según Zaragozala, unas 2.000 personas asistieron al acto en el Auditorio. Abascal pidió a Feijóo que diga con quién estaría dispuesto a gobernar.",
+      "source": "Zaragozala",
+      "url": "https://zaragozala.com/informacion/abascal-mitin-zaragoza-22-noviembre-2026/"
+    },
+    {
+      "id": "vox-20261122-2",
+      "party": "vox",
+      "date": "2026-11-22",
+      "topic": "Mitin central",
+      "title": "Vox celebra su mitin central en Sant Vicent del Raspeig (Alicante)",
+      "summary": "Según Moncloa.com, asistieron unas 4.000 personas según los organizadores. Abascal llamó «mafia» al Gobierno y dijo que las cifras macroeconómicas «son mentira» para las familias.",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/11/22/vox-mitin-alicante-sant-vicent-raspeig-3472538/"
+    },
+    {
+      "id": "erc-20261122-1",
+      "party": "erc",
+      "date": "2026-11-22",
+      "topic": "Mitin central",
+      "title": "Rufián pide un voto progresista «con memoria» en el acto central de ERC",
+      "summary": "En el campus de la UPF, dijo que los últimos días son «de PSC o Esquerra» y que quiere un Gobierno del PSOE «presionado y tutelado», según Crónica Global.",
+      "source": "Crónica Global",
+      "url": "https://cronicaglobal.elespanol.com/politica/20261122/rufian-apela-charnego-reivindicando-pujol-frente-junts/1003742814146_0.html"
+    },
+    {
+      "id": "junts-20261122-1",
+      "party": "junts",
+      "date": "2026-11-22",
+      "topic": "Mitin central",
+      "title": "Junts cierra su acto central en Castelldefels con Mas y Puigdemont por vídeo",
+      "summary": "Según Crónica Global, Jordi Pujol no asistió por indisposición y envió un vídeo; Artur Mas sí acudió. Nogueras dijo que «Catalunya no es una sucursal de Madrid».",
+      "source": "Crónica Global",
+      "url": "https://cronicaglobal.elespanol.com/politica/20261122/junts-erc-pelean-pujol/1003742814168_0.html"
+    },
+    {
+      "id": "sumar-20261122-1",
+      "party": "sumar",
+      "date": "2026-11-22",
+      "topic": "Participación",
+      "title": "Colau, en Las Palmas, pide que cada votante convenza a tres personas",
+      "summary": "Según Nuevatribuna, la candidata del Frente Amplio fijó el objetivo de superar el 10 % y dijo que Canarias debe ser modelo de solidaridad en materia migratoria.",
+      "source": "Nuevatribuna",
+      "url": "https://www.nuevatribuna.es/actualidad/elecciones-29n-derecha-izquierda-diez-pildoras-dia-campana-electoral/20261123072142256673.html"
+    },
+    {
+      "id": "bildu-20261122-1",
+      "party": "bildu",
+      "date": "2026-11-22",
+      "topic": "Mitin",
+      "title": "Otegi pide una participación masiva en Gipuzkoa para frenar a PP y Vox",
+      "summary": "Según Nuevatribuna, intervino en un acto en San Sebastián el domingo 22.",
+      "source": "Nuevatribuna",
+      "url": "https://www.nuevatribuna.es/actualidad/elecciones-29n-derecha-izquierda-diez-pildoras-dia-campana-electoral/20261123072142256673.html"
+    },
+    {
+      "id": "bng-20261122-1",
+      "party": "bng",
+      "date": "2026-11-22",
+      "topic": "Mitin",
+      "title": "Pontón, en Ferrol, pide concentrar el voto nacionalista gallego en el BNG",
+      "summary": "Según Nuevatribuna, su discurso rechazó la OTAN y el aumento del gasto militar; Néstor Rego pidió un escaño más para reducir la representación del bloque PP-Vox.",
+      "source": "Nuevatribuna",
+      "url": "https://www.nuevatribuna.es/actualidad/elecciones-29n-derecha-izquierda-diez-pildoras-dia-campana-electoral/20261123072142256673.html"
+    },
+    {
+      "id": "all-20261123-1",
+      "party": "all",
+      "date": "2026-11-23",
+      "topic": "Debate RTVE",
+      "title": "Debate de ocho partidos en RTVE este lunes a las 22:00",
+      "summary": "Según El Español, participan Ester Muñoz (PP), Patxi López (PSOE), Pepa Millán (Vox), Emilio Delgado (Frente Amplio), Rufián (ERC), Nogueras (Junts), Matute (EH Bildu) y Vaquero (PNV), moderados por Xabier Fortes.",
+      "source": "El Español",
+      "url": "https://www.elespanol.com/espana/20261123/elecciones-generales-directo-encuestas-ultima-hora-campana-electoral-pp-psoe-vox-frente-amplio/1003744468186_10.html"
+    },
+    {
+      "id": "all-20261123-2",
+      "party": "all",
+      "date": "2026-11-23",
+      "topic": "Encuestas",
+      "title": "Hoy es el último día para publicar encuestas; el veto va del 24 al 28",
+      "summary": "Según EFE, el artículo 69 de la LOREG prohíbe publicar sondeos en los cinco días previos a la votación.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/22/hoy-sera-noticia-lunes-23-de-noviembre/"
+    },
+    {
+      "id": "all-20261123-3",
+      "party": "all",
+      "date": "2026-11-23",
+      "topic": "Encuesta",
+      "title": "Sigma Dos (El Mundo, 14-20 nov): PP 31,5 %, PSOE 28 %, Vox 18,3 %",
+      "summary": "Estimación con 4.511 entrevistas y margen de error de ±2,1 %: PP 126-132 escaños, PSOE 112-118, Vox 57-62, Frente Amplio 9-12. Son estimaciones, no resultados.",
+      "source": "Qué!",
+      "url": "https://www.que.es/2026/11/23/encuesta-elecciones-generales-29n/"
     }
   ],
   "positions": {},
