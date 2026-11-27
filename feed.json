@@ -1,7 +1,167 @@
 {
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "banner": "Las noticias y las posiciones de los partidos se actualizan a diario durante la campaña.",
   "news": [
+    {
+      "id": "all-20261127-1",
+      "party": "all",
+      "date": "2026-11-27",
+      "topic": "Cierres de campaña",
+      "title": "Feijóo cierra en Sevilla, Abascal en Valencia; Sánchez y Colau eligen Madrid",
+      "summary": "Último día de campaña: Sánchez cierra en la Caja Mágica de Madrid, Feijóo en Sevilla con Juanma Moreno y Abascal en la plaza de toros de Valencia (20:00). Colau y Podemos también cierran en Madrid.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/27/cierre-de-campana-feijoo-en-sevilla-abascal-en-valencia-y-sanchez-y-colau-eligen-madrid/"
+    },
+    {
+      "id": "all-20261126-2",
+      "party": "all",
+      "date": "2026-11-26",
+      "topic": "Debate a cuatro",
+      "title": "Debate a cuatro en Tres Cantos: cinco bloques, con corrupción y migración al final",
+      "summary": "El debate, moderado por María Casado, abordó vivienda, economía, políticas sociales, corrupción y migración. Feijóo dijo a Colau «usted calladita» y después afirmó: «Si he molestado a alguien, por supuesto lo retiro».",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/ultima-hora-ultimo-debate-electoral-sanchez-feijoo-colau-abascal_6_13696999.html"
+    },
+    {
+      "id": "psoe-20261127-1",
+      "party": "psoe",
+      "date": "2026-11-27",
+      "topic": "Cierre de campaña",
+      "title": "Sánchez cierra campaña en la Caja Mágica de Madrid tras un mitin en Plasencia",
+      "summary": "Según EFE, el presidente del Gobierno hace mitin en Plasencia (Cáceres) a mediodía y cierra la campaña del PSOE a las 18:00 en la Caja Mágica de Madrid.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/27/cierre-de-campana-feijoo-en-sevilla-abascal-en-valencia-y-sanchez-y-colau-eligen-madrid/"
+    },
+    {
+      "id": "psoe-20261126-1",
+      "party": "psoe",
+      "date": "2026-11-26",
+      "topic": "Debate a cuatro",
+      "title": "Sánchez, en el debate: «hay cuatro atriles pero dos caminos muy diferentes»",
+      "summary": "En el debate a cuatro, Sánchez preguntó a Feijóo si aceptará el resultado electoral y dijo que PP y Vox «tienen los mismos amos». Feijóo le replicó con preguntas sobre la financiación de sus primarias.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/2026/11/27/el-debate-a-cuatro-fue-una-batalla-de-dos-bloques-pedro-y-ada-se-tutearon-mientras-que-feijoo-y-abascal-ni-se-interpelaron-y-prefirieron-hablar-de-corrupcion-jessica-y-mandar-callar-a-colau/"
+    },
+    {
+      "id": "pp-20261127-1",
+      "party": "pp",
+      "date": "2026-11-27",
+      "topic": "Cierre de campaña",
+      "title": "Feijóo cierra campaña en Sevilla con Juanma Moreno tras un acto en L'Hospitalet",
+      "summary": "Según EFE, el líder del PP hace un acto por la mañana en L'Hospitalet de Llobregat (Barcelona) y cierra la campaña en Sevilla, con el presidente andaluz Juanma Moreno.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/27/cierre-de-campana-feijoo-en-sevilla-abascal-en-valencia-y-sanchez-y-colau-eligen-madrid/"
+    },
+    {
+      "id": "pp-20261126-1",
+      "party": "pp",
+      "date": "2026-11-26",
+      "topic": "Debate a cuatro",
+      "title": "Feijóo propone una auditoría de las cuentas públicas en el debate a cuatro",
+      "summary": "Feijóo dijo que auditaría las cuentas públicas si llega a La Moncloa; Sánchez lo calificó de «cuento». Feijóo citó subidas del 43 % en la cesta de la compra y del 52 % en el diésel.",
+      "source": "elDiario.es / Infobae",
+      "url": "https://www.eldiario.es/politica/ultima-hora-ultimo-debate-electoral-sanchez-feijoo-colau-abascal_6_13696999.html"
+    },
+    {
+      "id": "vox-20261127-1",
+      "party": "vox",
+      "date": "2026-11-27",
+      "topic": "Cierre de campaña",
+      "title": "Abascal cierra campaña en la plaza de toros de Valencia a las 20:00",
+      "summary": "Según EFE, Abascal hace un acto a mediodía en Tarancón (Cuenca) y cierra la campaña de Vox en la plaza de toros de Valencia.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/27/cierre-de-campana-feijoo-en-sevilla-abascal-en-valencia-y-sanchez-y-colau-eligen-madrid/"
+    },
+    {
+      "id": "vox-20261126-1",
+      "party": "vox",
+      "date": "2026-11-26",
+      "topic": "Debate a cuatro",
+      "title": "Abascal, en el debate, pide prioridad nacional en ayudas y vivienda protegida",
+      "summary": "En el debate a cuatro, Abascal defendió prioridad nacional en ayudas sociales y recortar fondos públicos a ONG. Dijo que el 50 % de los inmigrantes no cotiza; elDiario.es cita a Newtral para señalar que el dato no es correcto.",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/ultima-hora-ultimo-debate-electoral-sanchez-feijoo-colau-abascal_6_13696999.html"
+    },
+    {
+      "id": "sumar-20261127-1",
+      "party": "sumar",
+      "date": "2026-11-27",
+      "topic": "Cierre de campaña",
+      "title": "Colau cierra campaña del Frente Amplio en Madrid con Díaz, Urtasun y Bustinduy",
+      "summary": "Según EFE, la acompañan Emilio Delgado, Ernest Urtasun, Toni Valero, Verónica Martínez Barbero y los ministros Yolanda Díaz, Pablo Bustinduy y Mónica García.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/27/cierre-de-campana-feijoo-en-sevilla-abascal-en-valencia-y-sanchez-y-colau-eligen-madrid/"
+    },
+    {
+      "id": "sumar-20261126-1",
+      "party": "sumar",
+      "date": "2026-11-26",
+      "topic": "Debate a cuatro",
+      "title": "Colau propone en el debate bajar los alquileres y expropiar a fondos buitre",
+      "summary": "Colau afirmó en el debate a cuatro: «Hay que bajar los alquileres y expropiar las viviendas a los fondos buitres». Abrió su intervención pidiendo condenar el último asesinato machista.",
+      "source": "Infobae",
+      "url": "https://www.infobae.com/espana/2026/11/27/el-debate-a-cuatro-fue-una-batalla-de-dos-bloques-pedro-y-ada-se-tutearon-mientras-que-feijoo-y-abascal-ni-se-interpelaron-y-prefirieron-hablar-de-corrupcion-jessica-y-mandar-callar-a-colau/"
+    },
+    {
+      "id": "podemos-20261127-1",
+      "party": "podemos",
+      "date": "2026-11-27",
+      "topic": "Cierre de campaña",
+      "title": "Montero cierra la campaña de Podemos en Madrid con Pablo Iglesias",
+      "summary": "Según EFE, Irene Montero cierra la campaña de Podemos en Madrid acompañada del exlíder del partido Pablo Iglesias.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/27/cierre-de-campana-feijoo-en-sevilla-abascal-en-valencia-y-sanchez-y-colau-eligen-madrid/"
+    },
+    {
+      "id": "junts-20261126-1",
+      "party": "junts",
+      "date": "2026-11-26",
+      "topic": "Cierre en Tarragona",
+      "title": "Nogueras: «Frenar a la extrema derecha no quiere decir abrazarse al PSOE a cambio de nada»",
+      "summary": "En el mitin de Tarragona, Nogueras dijo que las elecciones van de si Cataluña «tiene voz o queda muda». Puigdemont, por videoconferencia, pidió el voto independentista y criticó a ERC por su alianza con Podemos.",
+      "source": "Infobae (EFE)",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/26/nogueras-frenar-a-la-extrema-derecha-no-quiere-decir-abrazarse-al-psoe-a-cambio-de-nada/"
+    },
+    {
+      "id": "pnv-20261126-1",
+      "party": "pnv",
+      "date": "2026-11-26",
+      "topic": "Voto útil",
+      "title": "Esteban (PNV): el voto a la izquierda no impedirá un Gobierno PP-Vox; el PNV no pactará con Vox",
+      "summary": "Aitor Esteban dijo en Radio Nervión que el PNV no participará en una mayoría con Vox. Gorka Urtaran afirmó que el voto útil es «el partido que mejor defiende el autogobierno».",
+      "source": "Moncloa.com",
+      "url": "https://www.moncloa.com/2026/11/26/pnv-voto-util-eh-bildu-29n-3474876"
+    },
+    {
+      "id": "pnv-20261127-1",
+      "party": "pnv",
+      "date": "2026-11-27",
+      "topic": "Cierre de campaña",
+      "title": "El PNV cierra campaña en el Arenal de Bilbao a las 20:00 con Esteban y Pradales",
+      "summary": "Según Orain (EITB), intervienen Aitor Esteban, el lehendakari Imanol Pradales, Maribel Vaquero, Idoia Sagastizabal y Gorka Urtaran.",
+      "source": "Orain (EITB)",
+      "url": "https://orain.eus/es/politica/elecciones/elecciones-generales/2026/11/26/cierre-campana-en-euskadi-ciudades-elegidas-horarios-los-mitines-oradores/"
+    },
+    {
+      "id": "bildu-20261127-1",
+      "party": "bildu",
+      "date": "2026-11-27",
+      "topic": "Cierre de campaña",
+      "title": "EH Bildu cierra campaña en el Labrit de Pamplona a las 19:00 con Otegi y Matute",
+      "summary": "Según Orain, también intervienen Idurre Bideguren, Eneka Maíz y Joseba Asirón. EH Bildu presenta los comicios como un «referéndum» entre «democracia o autoritarismo».",
+      "source": "Orain (EITB)",
+      "url": "https://orain.eus/es/politica/elecciones/elecciones-generales/2026/11/26/cierre-campana-en-euskadi-ciudades-elegidas-horarios-los-mitines-oradores/"
+    },
+    {
+      "id": "bng-20261127-1",
+      "party": "bng",
+      "date": "2026-11-27",
+      "topic": "Cierre de campaña",
+      "title": "El BNG cierra campaña en el Auditorio de Galicia, en Santiago, desde las 20:00",
+      "summary": "Según Europa Press, intervienen Ana Pontón, la alcaldesa Goretti Sanmartín y los cabezas de lista Néstor Rego, Carme da Silva, Olalla Rodil y Noa Presas.",
+      "source": "GCDiario (Europa Press)",
+      "url": "https://gcdiario.com/politica/617963-29n-de-a-coruna-y-ourense-a-lugo-y-santiago-las-plazas-elegidas-por-los-partidos-para-el-broche-final-de-la-campana/"
+    },
     {
       "id": "all-20261126-1",
       "party": "all",
@@ -743,36 +903,6 @@
       "url": "https://www.moncloa.com/2026/11/20/colau-debate-sanchez-abstracto-sumar-3471566/"
     },
     {
-      "id": "psoe-20261120-1",
-      "party": "psoe",
-      "date": "2026-11-20",
-      "topic": "Campaña",
-      "title": "Sánchez, en Santiago de Compostela ante 10.000 personas, dice que Feijóo «quedó retratado»",
-      "summary": "Según el directo de Público, Sánchez afirmó que Feijóo solo ofreció «insultos y bulos» en el debate.",
-      "source": "Público",
-      "url": "https://www.publico.es/politica/ultima-hora-campana-electoral-29n-directo-4.amp.html"
-    },
-    {
-      "id": "pp-20261120-2",
-      "party": "pp",
-      "date": "2026-11-20",
-      "topic": "Campaña",
-      "title": "Feijóo, en Tenerife: «Hemos ganado un debate, pero aún no hemos ganado las elecciones»",
-      "summary": "En un mitin en Santa Cruz de Tenerife ante unas 1.500 personas, pidió al PP «darlo todo» hasta el 29 de noviembre. Prometió identificar a quien llega en un máximo de siete días y fijar su edad en 72 horas.",
-      "source": "Infobae (Europa Press)",
-      "url": "https://www.infobae.com/espana/agencias/2026/11/20/feijoo-pide-al-pp-darlo-todo-en-la-recta-final-hemos-ganado-un-debate-pero-no-hemos-ganado-las-elecciones/"
-    },
-    {
-      "id": "pp-20261120-1",
-      "party": "pp",
-      "date": "2026-11-20",
-      "topic": "Inmigración",
-      "title": "Feijóo propone en El Hierro un «mando único» de inmigración",
-      "summary": "Desde La Restinga, Feijóo dijo que «hay siete ministros con competencias en materia de inmigración y habrá un mando único». Citó datos de Interior: 11.037 llegadas irregulares a Canarias en la primera quincena de noviembre.",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/espana/2026/11/20/feijoo-propone-en-el-hierro-un-mando-unico-para-coordinar-la-respuesta-a-la-inmigracion-si-gana-las-elecciones-del-29-n/"
-    },
-    {
       "id": "podemos-20261120-1",
       "party": "podemos",
       "date": "2026-11-20",
@@ -851,16 +981,6 @@
       "summary": "Según Vozpópuli, Ada Colau (Frente Amplio) tuvo ambos encuentros el 19 de noviembre.",
       "source": "Vozpópuli",
       "url": "https://www.vozpopuli.com/espana/politica/elecciones-del-29-n-en-directo-cara-a-cara-entre-sanchez-y-feijoo-ultimo-dia-para-pedir-el-voto-por-correo-y-actos-de-campana.html"
-    },
-    {
-      "id": "psoe-20261119-1",
-      "party": "psoe",
-      "date": "2026-11-19",
-      "topic": "Debate",
-      "title": "Sánchez dice que irá al debate tranquilo y con ganas de «convencer»",
-      "summary": "Según Público, Sánchez asume que Feijóo intentará «embarrar» el debate; el PSOE asegura que no entrará «en el barro».",
-      "source": "Público",
-      "url": "https://www.publico.es/politica/ultima-hora-campana-electoral-29n-directo-3.html"
     },
     {
       "id": "podemos-20261119-1",
@@ -953,26 +1073,6 @@
       "url": "https://www.vozpopuli.com/espana/politica/elecciones-del-29-n-en-directo-cara-a-cara-entre-sanchez-y-feijoo-ultimo-dia-para-pedir-el-voto-por-correo-y-actos-de-campana.html"
     },
     {
-      "id": "all-20261119-2",
-      "party": "all",
-      "date": "2026-11-19",
-      "topic": "Debate",
-      "title": "El cara a cara Sánchez-Feijóo, a las 22:00 en Tres Cantos con cinco bloques temáticos",
-      "summary": "Lo organiza la Academia de Televisión y lo modera María Casado. Cinco bloques de 16 minutos: vivienda, economía e impuestos, políticas sociales, corrupción e inmigración y exteriores.",
-      "source": "Vozpópuli",
-      "url": "https://www.vozpopuli.com/espana/politica/elecciones-del-29-n-en-directo-cara-a-cara-entre-sanchez-y-feijoo-ultimo-dia-para-pedir-el-voto-por-correo-y-actos-de-campana.html"
-    },
-    {
-      "id": "all-20261119-1",
-      "party": "all",
-      "date": "2026-11-19",
-      "topic": "Debates",
-      "title": "El cara a cara Sánchez-Feijóo se celebra hoy, moderado por María Casado",
-      "summary": "Según El Español, será en el plató A de Madrid Content City (Secuoya) y sin dispositivos electrónicos. Sánchez y Feijóo no tuvieron mítines el 18 para prepararlo.",
-      "source": "El Español",
-      "url": "https://www.elespanol.com/espana/20261118/elecciones-generales-directo-ultima-hora-pedro-sanchez-encuestas-sondeos-actos-campana-pp-psoe-vox-2026-partidos-voto-correo-electoral/1003744462289_10.html"
-    },
-    {
       "id": "vox-20261118-1",
       "party": "vox",
       "date": "2026-11-18",
@@ -981,16 +1081,6 @@
       "summary": "Según Infobae, apoyó solo el de ayudas por el accidente de Urda. Votó en contra, entre otros, del de ayudas a Ceuta (45,3 millones), el de dependencia y el de Seguridad Social.",
       "source": "Infobae (agencias)",
       "url": "https://www.infobae.com/espana/agencias/2026/11/18/la-diputacion-permanente-del-congreso-convalida-siete-decretos-ley-aprobados-en-precampana-con-apoyo-del-pp/"
-    },
-    {
-      "id": "sumar-20261118-1",
-      "party": "sumar",
-      "date": "2026-11-18",
-      "topic": "Campaña",
-      "title": "Colau, en Gijón; Bustinduy y Llorente discrepan sobre limitar herencias a 10 millones",
-      "summary": "Según El Español, Frente Amplio aspira a escaños en 17 provincias y concurre con Podemos, Compromís y NC en Comunidad Valenciana y Canarias. Colau cierra el 21 en Barcelona con Yolanda Díaz.",
-      "source": "El Español",
-      "url": "https://www.elespanol.com/espana/20261118/elecciones-generales-directo-ultima-hora-pedro-sanchez-encuestas-sondeos-actos-campana-pp-psoe-vox-2026-partidos-voto-correo-electoral/1003744462289_10.html"
     },
     {
       "id": "podemos-20261118-1",
@@ -1083,16 +1173,6 @@
       "url": "https://www.estrelladigital.es/espana/cuaderno-campana-29n-abascal-medias-feijoo-eibar-otegi-sanchez-albacete/20261118073000453524.html"
     },
     {
-      "id": "sumar-20261117-1",
-      "party": "sumar",
-      "date": "2026-11-17",
-      "topic": "IVA y energía",
-      "title": "Colau propone un IVA progresivo en luz, agua y gas: del 0 % al 21 %",
-      "summary": "En un desayuno informativo planteó también ligar los salarios al IPC mediante reforma del Estatuto de los Trabajadores. Dijo que el 60 % de los trabajadores queda fuera de convenio.",
-      "source": "El Progreso",
-      "url": "https://www.elprogreso.es/elecciones-generales-29n/campana-29n-directo/202611171027052014680.html"
-    },
-    {
       "id": "podemos-20261117-1",
       "party": "podemos",
       "date": "2026-11-17",
@@ -1151,26 +1231,6 @@
       "summary": "Según Dotb.eus, el acto es el martes 17 a las 19:00 en el pórtico de Andra Mari; la coalición dice que busca situar en el centro del debate la memoria histórica y los derechos.",
       "source": "Dotb.eus",
       "url": "https://dotb.eus/arnaldo-otegi-encabeza-esta-tarde-un-acto-de-eh-bildu-en-durango/"
-    },
-    {
-      "id": "vox-20261116-3",
-      "party": "vox",
-      "date": "2026-11-16",
-      "topic": "Campaña",
-      "title": "Buxadé advierte en Vélez-Málaga de que el «colapso de la nación» será definitivo si gana Sánchez",
-      "summary": "Según Infobae, el eurodiputado calificó el 29N de las elecciones «más importantes» desde 1978; candidatos malagueños propusieron deportar a inmigrantes irregulares.",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/espana/2026/11/16/elecciones-generales-espana-2026-en-directo-ultima-hora-de-la-visita-de-lula-da-silva-el-futuro-de-yolanda-diaz-y-el-programa-del-frente-amplio/"
-    },
-    {
-      "id": "vox-20261116-2",
-      "party": "vox",
-      "date": "2026-11-16",
-      "topic": "Campaña",
-      "title": "Abascal niega a Sánchez el derecho a usar la bandera de España tras su mitin del domingo",
-      "summary": "Según Vozpópuli, Abascal lo dijo el lunes en Tenerife, donde tenía mitin por la tarde y seguirá el martes en Lanzarote y Gran Canaria.",
-      "source": "Vozpópuli",
-      "url": "https://www.vozpopuli.com/espana/politica/elecciones-generales-del-29-n-en-directo-sanchez-con-lula-feijoo-en-lleida-abascal-en-tenerife-y-colau-en-madrid.html"
     },
     {
       "id": "upn-20261116-2",
@@ -1373,16 +1433,6 @@
       "url": "https://www.infobae.com/espana/agencias/2026/11/13/comienza-la-campana-de-pamplona-a-madrid-pasando-por-youtube/"
     },
     {
-      "id": "junts-20261113-h1",
-      "party": "junts",
-      "date": "2026-11-13",
-      "topic": "Acto de campaña",
-      "title": "Nogueras inicia la campaña de Junts en Barcelona y sigue en Reus",
-      "summary": "Según EFE recogida por Infobae, Miriam Nogueras está el 13 en Barcelona por la mañana y en Reus por la tarde. Puigdemont participará por videoconferencia, según Demócrata.",
-      "source": "Infobae (EFE)",
-      "url": "https://www.infobae.com/espana/agencias/2026/11/13/comienza-la-campana-de-pamplona-a-madrid-pasando-por-youtube/"
-    },
-    {
       "id": "cc-20261113-h1",
       "party": "cc",
       "date": "2026-11-13",
@@ -1421,26 +1471,6 @@
       "summary": "Según Estrella Digital, Irene Montero dijo que «la brutalidad policial fue insoportable para una democracia». El 13 compartiría mitin en Palma con Gabriel Rufián (ERC).",
       "source": "Estrella Digital",
       "url": "https://www.estrelladigital.es/espana/cuaderno-campana-29n-arranque/20261113073000453273.html"
-    },
-    {
-      "id": "podemos-20261112-1",
-      "party": "podemos",
-      "date": "2026-11-12",
-      "topic": "Campaña",
-      "title": "Montero abre campaña en Madrid con Belarra; el viernes irá a Alcalá de Henares y Palma con Rufián",
-      "summary": "Según Europa Press (Infobae), Podemos arranca la campaña en Madrid. En Palma coincidirá con Gabriel Rufián (ERC).",
-      "source": "Infobae (Europa Press)",
-      "url": "https://www.infobae.com/espana/agencias/2026/11/12/sanchez-abre-campana-hoy-en-sevilla-feijoo-lo-hara-en-badalona-mientras-que-abascal-y-colau-eligen-madrid/"
-    },
-    {
-      "id": "pnv-20261112-1",
-      "party": "pnv",
-      "date": "2026-11-12",
-      "topic": "Vivienda",
-      "title": "El PNV apoyará el decreto de vivienda más amplio y votará en contra del de indemnizaciones",
-      "summary": "Según Orain.eus, el voto del PNV en la Diputación Permanente sería clave: el primer decreto sumaría 35 votos frente a 34 de PP, Vox y Junts.",
-      "source": "Orain.eus",
-      "url": "https://orain.eus/es/politica/2026/11/12/los-decretos-vivienda-afrontan-hoy-su-examen-definitivo-en-la-diputacion-permanente-del-congreso/"
     },
     {
       "id": "bng-20261112-1",
@@ -1501,56 +1531,6 @@
       "summary": "Según Europa Press, lo dijo en Bilbao con Otegi. Propone prohibir la compra de edificios enteros salvo para alquiler regulado y calificó la huelga del 11N de «hito histórico». Dijo que bloquear a la extrema derecha lo hacen «gratis et amore».",
       "source": "Europa Press (Última Hora)",
       "url": "https://www.ultimahora.es/noticias/comunidades/2026/11/09/2746167/bildu-trabajara-por-prorroga-alquileres-derechas-tumbaran-advierte-respuesta-rotunda-11n.html"
-    },
-    {
-      "id": "pnv-20261110-1",
-      "party": "pnv",
-      "date": "2026-11-08",
-      "topic": "Campaña",
-      "title": "Esteban rechaza que el 29N sea elegir «entre Sánchez y Feijóo» y critica a EH Bildu",
-      "summary": "El 8 de noviembre dijo que el PNV es el único partido que defiende los intereses vascos en Madrid y acusó a EH Bildu de pedirle «todo» al PNV y perdonárselo «todo» al PSOE. El artículo no recoge respuesta de Bildu.",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/euskadi/esteban-rechaza-29n-elegir-sanchez-feijoo-carga-eh-bildu-perdonar-psoe_1_13648095.html"
-    },
-    {
-      "id": "bng-20261107-1",
-      "party": "bng",
-      "date": "2026-11-07",
-      "topic": "Compromisos 29N",
-      "title": "El BNG presenta en Santiago sus compromisos para el 29N: alquileres topados y jornada de 35 horas",
-      "summary": "Pontón presentó el documento: tope legal a los alquileres, 3 % del presupuesto público para vivienda de alquiler público, AP-9 sin peajes, jornada de 35 horas y jubilación ordinaria a los 65 años.",
-      "source": "Diario en Positivo (Europa Press)",
-      "url": "https://www.diarioenpositivo.com/espana/29n-bng-reclama-decalogo-compromisos-mas-autogobierno-fiscalidad-mas-justa-vida-digna/20261107152520097009.html"
-    },
-    {
-      "id": "cc-20261105-2",
-      "party": "cc",
-      "date": "2026-11-05",
-      "topic": "Pactos",
-      "title": "Valido (CC): «Con Vox no podemos firmar nada», sin cerrar la puerta al PP ni al PSOE",
-      "summary": "En una entrevista actualizada el 13 de noviembre, dijo que su apoyo a una investidura dependerá de que el candidato tenga escaños y se comprometa con Canarias.",
-      "source": "Demócrata",
-      "url": "https://www.democrata.es/elecciones-generales-espana/cristina-valido-apoyo-gobierno-pp-vox-psoe/"
-    },
-    {
-      "id": "cc-20261105-1",
-      "party": "cc",
-      "date": "2026-11-05",
-      "topic": "Sector primario",
-      "title": "CC–Primero Canarias propone que el Estado aporte el 100% de su parte del POSEI",
-      "summary": "Cristina Valido y Alfonso Cabello presentaron en El Sauzal (Tenerife) medidas para agricultura y pesca: compensación de sobrecostes, controles de plagas y salvaguardas comerciales.",
-      "source": "Atlántico Hoy",
-      "url": "https://www.atlanticohoy.com/politica/coalicion-canaria-reclama-mas-ayudas-campo-reducir-dependencia-exterior-islas_1569565_102.html"
-    },
-    {
-      "id": "bildu-20261105-1",
-      "party": "bildu",
-      "date": "2026-11-05",
-      "topic": "Acto Bilbao",
-      "title": "EH Bildu celebra un coloquio con Otegi y David Fernández en el Euskalduna",
-      "summary": "El acto, moderado por Mertxe Aizpurua, tuvo lugar el 5 de noviembre a las 19:00 dentro de la precampaña. El partido advierte del «avance del bloque reaccionario».",
-      "source": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/11/02/otegi-david-fernandez-coloquio-bilbao-3460015"
     }
   ],
   "positions": {},
